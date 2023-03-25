@@ -9,9 +9,9 @@ Mais informações estão disponíveis no [calendário acadêmico de 2023](https
 
 Na [graduação](https://ufsb.edu.br/ensino/graduacao) atuo em CCs interdisciplinares pertencentes ao campo da Educação (obrigatórias para todas as Licenciaturas Interdisciplinares)  e  na [Formação Geral](https://ufsb.edu.br/cfcaf/images/Resolução_nº10.2020_Formação_Geral.pdf), mas meu foco está na [Licenciatura Interdisciplinar em Ciências da Natureza e suas tecnologias](https://ufsb.edu.br/component/content/article/1907-licenciatura-interdisciplinar-em-ciencias-da-natureza-csc) onde concentro meu carinho e carga horária.
 
-O quadro abaixo apresenta as Componentes Curriculares sob minha responsabilidade no quadrimestre atual:
+#### O quadro abaixo apresenta as Componentes Curriculares sob minha responsabilidade no quadrimestre atual:
 ---
-##### <a name="current"></a> ![UFSB](https://itxesco.github.io/icons16/ufsb-icon.jpg) Componentes Curriculares ministradas no Quadrimestre 2023.1
+#### <a name="current"></a> ![UFSB](https://itxesco.github.io/icons16/ufsb-icon.jpg) Componentes Curriculares ministradas no Quadrimestre 2023.1
 
 ---
 
