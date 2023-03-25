@@ -1,0 +1,2 @@
+A “BANCA DA CIÊNCIA" é um projeto de extensão que se fundamenta nas propostas pedagógicas críticas de Paulo Freire (1987) e George Snyders (1988) e nos pressupostos de aprendizagem de Vigotski (1991, 2001).
+Sua principal característica  está na abordagem lúdica de temas científicos em conexão com manifestações artístico-culturais e temas sociais, que se dão a partir de intervenções não-formais no ambiente da escola.
