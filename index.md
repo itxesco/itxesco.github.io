@@ -20,12 +20,12 @@ keywords: Francisco de Assis Nascimento Junior, Ensino de F√≠sica, Ensino de Ci√
 <tr>
   <td class="left">
     <a href="publpics/rqtl2_fig1.html">
-        <img src="index_pics/sentinel.png" alt="Broman et al. (2019) Fig 1c" title="Broman et al. (2019) Fig 1c"/>
+        <img src="imagens/index_pics/sentinel.png" alt="Broman et al. (2019) Fig 1c" title="Broman et al. (2019) Fig 1c"/>
     </a>
   </td>
   <td class="right">
     <a href="publpics/mppdiag_fig4.html">
-        <img src="index_pics/rpg.png" alt="Broman et
+        <img src="imagens/index_pics/rpg.png" alt="Broman et
         al. (2019) Fig 4" title="Broman et al. (2019) Fig 4"/>
     </a>
   </td>
@@ -33,12 +33,12 @@ keywords: Francisco de Assis Nascimento Junior, Ensino de F√≠sica, Ensino de Ci√
 <tr>
   <td class="left">
     <a href="publpics/samplemixups_fig7.html">
-        <img src="index_pics/mago_feynman.png" alt="Broman et al. (2015) Fig 7" title="Broman et al. (2015) Fig 7"/>
+        <img src="imagens/index_pics/mago_feynman.png" alt="Broman et al. (2015) Fig 7" title="Broman et al. (2015) Fig 7"/>
     </a>
   </td>
   <td class="right">
     <a href="publpics/mbmixups_fig3.html">
-        <img src="index_pics/ppger.png" alt="Lobo et al. (2021) Fig 3" title="Lobo et al. (2021) Fig 3"/>
+        <img src="imagens/index_pics/ppger.png" alt="Lobo et al. (2021) Fig 3" title="Lobo et al. (2021) Fig 3"/>
     </a>
   </td>
 </tr>
