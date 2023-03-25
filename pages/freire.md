@@ -15,5 +15,5 @@ description: aulas de Francisco de Assis Nascimento Junior
 [Pedagogia da Esperança](Livro - Pedagogia da Esperança - Paulo Freire.pdf)
 [Pedagogia do Oprimido](Livro - Pedagogia do Oprimido - Paulo Freire.pdf)
 [Ação Cultural para a Liberdade](Paulo Freire - Ação Cultural para a Liberdade)
-[A proposito de uma admnistração](Livro - A propósito de uma administração - Paulo Freire.pdf)
+[A propósito de uma administração](Livro - A propósito de uma administração - Paulo Freire.pdf)
 [Política e Educação](Paulo Freire - Política e Educação)

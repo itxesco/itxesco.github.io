@@ -5,17 +5,17 @@ description: planning trip to South Dakota
 ---
 
 
-## Ecohabitare
+### Ecohabitare
 
 - [Índice](biblioteca/ecohabitare/index.md)
 
 
 
-## Paulo Freire
+### Paulo Freire
 
 - [Biblioteca Freireana](pages/freire.md)
 
 
-## Sites Interessantes
+### Sites Interessantes
 
 - [Professor Henrique Fleming](http://www.hfleming.com)
