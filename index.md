@@ -8,7 +8,7 @@ keywords: Francisco de Assis Nascimento Junior, Ensino de F√≠sica, Ensino de Ci√
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href= "/itxesco_lattes.pdf">lattes</a></li>
+          <li><a href= "/arquivos/itxesco_lattes.pdf">lattes</a></li>
           <li><a href="https://sig.ufsb.edu.br/sigaa/public/docente/portal.jsf?siape=1085938">sigaa</a></li>
           <li><a href="https://www.researchgate.net/profile/Francisco-Nascimento">researchgate</a></li>
           <li><a href="https://twitter.com/itxesco">twitter</a></li>
