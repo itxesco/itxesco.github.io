@@ -13,10 +13,9 @@ description: planning trip to South Dakota
 
 ## Paulo Freire
 
-- [Spam Museum](http://www.spam.com/museum), [101 3rd Avenue NE, Austin, MN 55912](https://goo.gl/maps/k6tbdeC4gB42)
+- [Biblioteca Freireana](pages/freire.md)
 
 
 ## Sites Interessantes
 
-- [Falls Park](http://visitsiouxfalls.com/things-to-do/falls-park/),
-  [Sioux Falls, SD](https://goo.gl/maps/vW1XW2paqw52)
+- [Professor Henrique Fleming](http://www.hfleming.com)
