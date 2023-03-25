@@ -5,8 +5,8 @@ description: Francisco de Assis Nascimento Junior é Professor Adjunto no Campus
 ---
 
 <div class="span2">
-<a href="https://itxesco.github.io/pics/eu_perfil2.jpg">
-    <img src="https://itxesco.github.io/pics/eu_perfil2.jpg"
+<a href="https://itxesco.github.io/imagens/pics/eu_perfil2.jpg">
+    <img src="https://itxesco.github.io/imagens/pics/eu_perfil2.jpg"
           title="Prof. Dr. Francisco Nascimento" alt="Prof. Dr. Francisco Nascimento"/></a>
 </div>
 
