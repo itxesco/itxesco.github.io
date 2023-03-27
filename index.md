@@ -19,12 +19,12 @@ keywords: Francisco de Assis Nascimento Junior, Ensino de F√≠sica, Ensino de Ci√
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="publpics/rqtl2_fig1.html">
+    <a href="pages/x_men.html">
         <img src="imagens/index_pics/sentinel.png" alt="Broman et al. (2019) Fig 1c" title="Broman et al. (2019) Fig 1c"/>
     </a>
   </td>
   <td class="right">
-    <a href="publpics/mppdiag_fig4.html">
+    <a href="pages/d_d.html">
         <img src="imagens/index_pics/rpg.png" alt="Broman et
         al. (2019) Fig 4" title="Broman et al. (2019) Fig 4"/>
     </a>
@@ -32,12 +32,12 @@ keywords: Francisco de Assis Nascimento Junior, Ensino de F√≠sica, Ensino de Ci√
 </tr>
 <tr>
   <td class="left">
-    <a href="publpics/samplemixups_fig7.html">
+    <a href="pages/fisica_rpg.html">
         <img src="imagens/index_pics/mago_feynman.png" alt="Broman et al. (2015) Fig 7" title="Broman et al. (2015) Fig 7"/>
     </a>
   </td>
   <td class="right">
-    <a href="publpics/mbmixups_fig3.html">
+    <a href="pages/etnicoraciais.html">
         <img src="imagens/index_pics/ppger.png" alt="Lobo et al. (2021) Fig 3" title="Lobo et al. (2021) Fig 3"/>
     </a>
   </td>
