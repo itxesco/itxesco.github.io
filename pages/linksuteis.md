@@ -19,3 +19,5 @@ description: planning trip to South Dakota
 ### Sites Interessantes
 
 - [Professor Henrique Fleming](http://www.hfleming.com)
+
+- [Pergunte ao Físico (em inglês)](https://www.askthephysicist.com/)
