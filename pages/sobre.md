@@ -37,9 +37,6 @@ Também represento a UFSB na Rede Educa Nordeste.
 
 ---
 
-![correio](https://itxesco.github.io/imagens/icones/icons16/correio-icon.png) **contato**  
-
-
   | perfis acadêmicos  | redes sociais  |
   |--- |--- |
   | ![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png)[ lattes ](http://lattes.cnpq.br/1942359141745184) | ![instagram](https://itxesco.github.io/imagens/icones/icons16/instagram-icon.png)[ instagram](https://www.instagram.com/itxesco) |  
@@ -50,6 +47,8 @@ Também represento a UFSB na Rede Educa Nordeste.
   | ![orcid](https://itxesco.github.io/imagens/icones/icons16/orcid-icon.png) [orcid](https://orcid.org/0000-0003-0587-8392) | ![facebook](https://itxesco.github.io/imagens/icones/icons16/facebook-icon.png) [facebook](https://www.facebook.com/itxesco02) |  
 
 
+
+![correio](https://itxesco.github.io/imagens/icones/icons16/correio-icon.png) **contato**  
   ![UFSB](https://itxesco.github.io/imagens/icones/icons16/ufsb-icon.jpg)[ Universidade Federal do Sul da Bahia - Campus Sosígenes Costa](https://ufsb.edu.br)  
   [Instituto de Humanidades, Artes e Ciências - IHAC](https://www.ufsb.edu.br/ihac/ihac-csc)  
   A/C  Prof. Dr. Francisco Nascimento  
