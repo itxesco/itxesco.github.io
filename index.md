@@ -47,7 +47,7 @@ keywords: Francisco de Assis Nascimento Junior, Ensino de Física, Ensino de Ci�
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/pages/linksuteis.html">links úteis</a></li>
+          <li><a href="pages/linksuteis.html">links úteis</a></li>
       </ul>
   </div>
 </div>
