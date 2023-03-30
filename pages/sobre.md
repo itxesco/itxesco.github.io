@@ -10,14 +10,16 @@ description: Francisco de Assis Nascimento Junior é Professor Adjunto no Campus
           title="Prof. Dr. Francisco Nascimento" alt="Prof. Dr. Francisco Nascimento"/></a>
 </div>
 
+  Decano (2023-2026) do [Instituto de Humanidades, Artes e Ciências](https://www.ufsb.edu.br/ihac/) no Campus Sosígenes Costa (CSC) da [Universidade Federal do Sul da Bahia](https://ufsb.edu.br/) (UFSB),  onde sou Professor Adjunto e atuo  na formação inicial e continuada de professores de ciências e matemática.  
 
-homem cisgênero  
-![usp](https://itxesco.github.io/imagens/icones/icons16/male-icon.png) ele/dele  
+  homem cisgênero  
+  ![usp](https://itxesco.github.io/imagens/icones/icons16/male-icon.png) ele/dele   
+
 ---
 
 
 
- Decano (2023-2026) do [Instituto de Humanidades, Artes e Ciências](https://www.ufsb.edu.br/ihac/) no Campus Sosígenes Costa (CSC) da [Universidade Federal do Sul da Bahia](https://ufsb.edu.br/) (UFSB),  onde sou Professor Adjunto e atuo  na formação inicial e continuada de professores de ciências e matemática.  
+
 
 ---
  **Formação Acadêmica**
