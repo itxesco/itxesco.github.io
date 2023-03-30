@@ -25,10 +25,10 @@ No [PPGER da UFSB](https://ufsb.edu.br/ppger/), [Campus Sosígenes Costa](https:
 
 
 
-| ![Hq](https://itxesco.github.io/icons16/comics-icon.png)[ Histórias em Quadrinhos de Super-Heróis] | ![rpg](https://itxesco.github.io/icons16/rpg-icon.png)[ Jogos RPG e Educação]|  
+| ![Hq](https://itxesco.github.io/imagens/icones/icons16/comics-icon.png)[ Histórias em Quadrinhos de Super-Heróis] | ![rpg](https://itxesco.github.io/imagens/icones/icons16/rpg-icon.png)[ Jogos RPG e Educação]|  
 |--- |--- |
-| ![gênero](https://itxesco.github.io/icons16/gender-icon.png)[ Relações de Gênero] | ![afrofuturismo](https://itxesco.github.io/icons16/afrofuturismo-icon.png)[ Afrofuturismo] |  
-| ![étnico-raciais](https://itxesco.github.io/icons16/etnicoraciais-icon.png)[ Relações Étnico-Raciais] |  |  
+| ![gênero](https://itxesco.github.io/imagens/icones/icons16/gender-icon.png)[ Relações de Gênero] | ![afrofuturismo](https://itxesco.github.io/imagens/icones/icons16/afrofuturismo-icon.png)[ Afrofuturismo] |  
+| ![étnico-raciais](https://itxesco.github.io/imagens/icones/icons16/etnicoraciais-icon.png)[ Relações Étnico-Raciais] |  |  
 
 
 
@@ -39,10 +39,10 @@ No [PPGER da UFSB](https://ufsb.edu.br/ppger/), [Campus Sosígenes Costa](https:
 
 | **Mestrado**| **Iniciação Científica**|  
 |--- |--- |
-| [![lattes](https://itxesco.github.io/icons16/lattes-icon.png)](http://lattes.cnpq.br/8317287394228958) Sheila Katrini Ferrari Visconde | ![lattes](https://itxesco.github.io/icons16/lattes-icon.png) Vitor Correa Bomfim (2019-2020) |  
-| [![lattes](https://itxesco.github.io/icons16/lattes-icon.png)](http://lattes.cnpq.br/0265292324050570) Valtiângeli Rodrigues da Silva Moitinho | [![lattes](https://itxesco.github.io/icons16/lattes-icon.png)](http://lattes.cnpq.br/0441717524768073) Vitória Guimarães Dantas (2019-2020)|  
-| [![lattes](https://itxesco.github.io/icons16/lattes-icon.png)](http://lattes.cnpq.br/9137805008331639) Martha Matos Lucas Teixeira | [![lattes](https://itxesco.github.io/icons16/lattes-icon.png)](http://lattes.cnpq.br/5977115182619808) Carleane Nunes Borges (2020-2021) |  
-| [![lattes](https://itxesco.github.io/icons16/lattes-icon.png)](http://lattes.cnpq.br/8121344743580077) Ubiratam Gomes dos Santos Junior | ![lattes](https://itxesco.github.io/icons16/lattes-icon.png) Bruna Bonfim Caldas (2020-2021)|     
-| [![lattes](https://itxesco.github.io/icons16/lattes-icon.png)](http://lattes.cnpq.br/7545687911475904) Ericka Cristian Santana Carneiro | [![lattes](https://itxesco.github.io/icons16/lattes-icon.png)](http://lattes.cnpq.br/0686334062096737) Diego Groppo Rodriguez|  
+| [![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/8317287394228958) Sheila Katrini Ferrari Visconde | ![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png) Vitor Correa Bomfim (2019-2020) |  
+| [![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/0265292324050570) Valtiângeli Rodrigues da Silva Moitinho | [![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/0441717524768073) Vitória Guimarães Dantas (2019-2020)|  
+| [![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/9137805008331639) Martha Matos Lucas Teixeira | [![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/5977115182619808) Carleane Nunes Borges (2020-2021) |  
+| [![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/8121344743580077) Ubiratam Gomes dos Santos Junior | ![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png) Bruna Bonfim Caldas (2020-2021)|     
+| [![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/7545687911475904) Ericka Cristian Santana Carneiro | [![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/0686334062096737) Diego Groppo Rodriguez|  
 
  ---

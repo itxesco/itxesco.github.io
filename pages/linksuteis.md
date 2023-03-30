@@ -1,19 +1,19 @@
 ---
 layout: page
 title: links úteis
-description: planning trip to South Dakota
+description: links úteis para arquivos e páginas na internet
 ---
 
 
 ### Ecohabitare
 
-- [Índice](biblioteca/ecohabitare/index.md)
+- [Índice](https://itxesco.github.io/biblioteca/ecohabitare/index.md)
 
 
 
 ### Paulo Freire
 
-- [Biblioteca Freireana](pages/freire.md)
+- [Biblioteca Freireana](/freire.md)
 
 
 ### Sites Interessantes

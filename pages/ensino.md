@@ -10,7 +10,7 @@ Mais informações estão disponíveis no [calendário acadêmico de 2023](https
 Na [graduação](https://ufsb.edu.br/ensino/graduacao) leciono CCs  pertencentes ao campo da Educação (obrigatórias para todas as Licenciaturas Interdisciplinares) e na [Formação Geral](https://ufsb.edu.br/cfcaf/images/Resolução_nº10.2020_Formação_Geral.pdf), mas meu foco está nas CCs específicas de Física/Ensino de Física  e estágio supervisionado para a  [Licenciatura Interdisciplinar em Ciências da Natureza e suas tecnologias](https://ufsb.edu.br/component/content/article/1907-licenciatura-interdisciplinar-em-ciencias-da-natureza-csc) onde também integro o NDE e o Colegiado de Curso.
 
 ---
-#### <a name="current"></a> ![UFSB](https://itxesco.github.io/icons16/ufsb-icon.jpg) A tabela a seguir apresenta as Componentes Curriculares que ministro/ei durante o regime quadrimestral:
+#### <a name="current"></a> ![UFSB](https://itxesco.github.io/imagens/icones/icons16/ufsb-icon.jpg) A tabela a seguir apresenta as Componentes Curriculares que ministro/ei durante o regime quadrimestral:
 
 ---
 
@@ -28,7 +28,7 @@ Na [graduação](https://ufsb.edu.br/ensino/graduacao) leciono CCs  pertencentes
 
 ---
 
-##### <a name="shortcourses"></a> ![UFSB](https://itxesco.github.io/icons16/ufsb-icon.jpg)[ CCs que leciono no PPGER](https://ufsb.edu.br/ppger)  
+##### <a name="shortcourses"></a> ![UFSB](https://itxesco.github.io/imagens/icones/icons16/ufsb-icon.jpg)[ CCs que leciono no PPGER](https://ufsb.edu.br/ppger)  
 ---
 
  **PPGER0034** - [Educação Científica, Cultura e Sociedade: Implicações para o Ensino de Ciências e Humanidades](https://itxesco.github.io/aulas/PPGER0034/index.html)
@@ -47,7 +47,7 @@ Na [graduação](https://ufsb.edu.br/ensino/graduacao) leciono CCs  pertencentes
 
 ---
 
-##### ![UAM](https://itxesco.github.io/icons16/uam-icon.ico)[ Universidade Anhembi-Morumbi](https://portal.anhembi.br/escolas/engenharia-e-tecnologia/) (2016 - 2018)
+##### ![UAM](https://itxesco.github.io/imagens/icones/icons16/uam-icon.ico)[ Universidade Anhembi-Morumbi](https://portal.anhembi.br/escolas/engenharia-e-tecnologia/) (2016 - 2018)
 
 | Disciplinas| Disciplinas|  
 |--- |--- |  
@@ -60,7 +60,7 @@ Na [graduação](https://ufsb.edu.br/ensino/graduacao) leciono CCs  pertencentes
 
 ---  
 
-##### ![IFSP](https://itxesco.github.io/icons16/ifsp-icon.ico)[ Instituto Federal de São Paulo (IFSP)](https://spo.ifsp.edu.br) (2014 - 2016)  
+##### ![IFSP](https://itxesco.github.io/imagens/icones/icons16/ifsp-icon.ico)[ Instituto Federal de São Paulo (IFSP)](https://spo.ifsp.edu.br) (2014 - 2016)  
 
 | Disciplinas| Disciplinas|  
 |--- |--- |  
@@ -73,7 +73,7 @@ Na [graduação](https://ufsb.edu.br/ensino/graduacao) leciono CCs  pertencentes
 ---  
 
 
-##### ![FAC-FITO](https://itxesco.github.io/icons16/fac_fito-icon.ico)[ Faculdade de Ciências da FITO (FAC-FITO)](http://fito.edu.br) (2012-2014)
+##### ![FAC-FITO](https://itxesco.github.io/imagens/icones/icons16/fac_fito-icon.ico)[ Faculdade de Ciências da FITO (FAC-FITO)](http://fito.edu.br) (2012-2014)
 
 | | |  
 |--- |--- |  
