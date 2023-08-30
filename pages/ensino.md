@@ -4,13 +4,13 @@ title:
 description: aulas de Francisco de Assis Nascimento Junior
 ---
 
-A Universidade Federal do Sul da Bahia adotou o regime quadrimestral [multiciclos](https://ufsb.edu.br/ensino/graduacao) desde seu início, mas passará para o sistema semestral a partir de janeiro de 2024. O quadrimestre letivo 2023.1 se encerra em maio e o próximo, referente a 2023.2, iniciará em 29/05/2023.
+A Universidade Federal do Sul da Bahia adotou o regime quadrimestral [multiciclos](https://ufsb.edu.br/ensino/graduacao) desde seu início, mas passará para o sistema semestral a partir de janeiro de 2024. O quadrimestre letivo 2023.2 se encerrou em agosto e o próximo, referente a 2023.3, inicia em 18/09/2023.
 Mais informações estão disponíveis no [calendário acadêmico de 2023](https://ufsb.edu.br/images/Calend%C3%A1rio_Acad%C3%AAmico/Calend%C3%A1rio_2023.pdf).
 
 Na [graduação](https://ufsb.edu.br/ensino/graduacao) leciono CCs  pertencentes ao campo da Educação (obrigatórias para todas as Licenciaturas Interdisciplinares) e na [Formação Geral](https://ufsb.edu.br/cfcaf/images/Resolução_nº10.2020_Formação_Geral.pdf), mas meu foco está nas CCs específicas de Física/Ensino de Física  e estágio supervisionado para a  [Licenciatura Interdisciplinar em Ciências da Natureza e suas tecnologias](https://ufsb.edu.br/component/content/article/1907-licenciatura-interdisciplinar-em-ciencias-da-natureza-csc) onde também integro o NDE e o Colegiado de Curso.
 
 ---
-#### <a name="current"></a> ![UFSB](https://itxesco.github.io/imagens/icones/icons16/ufsb-icon.jpg) A tabela a seguir apresenta as Componentes Curriculares que ministro/ei durante o regime quadrimestral:
+#### <a name="current"></a> ![UFSB](https://itxesco.github.io/imagens/icones/icons16/ufsb-icon.jpg)  Componentes Curriculares  ministradas durante o regime quadrimestral:
 
 ---
 
@@ -28,10 +28,10 @@ Na [graduação](https://ufsb.edu.br/ensino/graduacao) leciono CCs  pertencentes
 
 ---
 
-##### <a name="shortcourses"></a> ![UFSB](https://itxesco.github.io/imagens/icones/icons16/ufsb-icon.jpg)[ CCs que leciono no PPGER](https://ufsb.edu.br/ppger)  
+##### <a name="shortcourses"></a> ![UFSB](https://itxesco.github.io/imagens/icones/icons16/ufsb-icon.jpg)[ Componentes Curriculares  ministradas para a pós graduação (PPGER)](https://ufsb.edu.br/ppger)  
 ---
 
- **PPGER0034** - [Educação Científica, Cultura e Sociedade: Implicações para o Ensino de Ciências e Humanidades](https://itxesco.github.io/aulas/PPGER0034/index.html)
+ **PPGER0034** - [Educação Científica, Cultura e Sociedade: Implicações para o Ensino de Ciências e Humanidades](https://itxesco.github.io/pages/aulas/PPGER0034.html)
 
  **PPGER0000** - [Seminários Processuais I](https://itxesco.github.io/aulas/PPGER0000/index.html)  
  **PPGER0000** - [Seminários Processuais II](https://itxesco.github.io/aulas/PPGER0000/index.html)  
@@ -43,7 +43,7 @@ Na [graduação](https://ufsb.edu.br/ensino/graduacao) leciono CCs  pertencentes
 
 ---
 
-##### <a name="misc"></a> Disciplinas que já lecionei em outras Instituições de Ensino Superior
+##### <a name="misc"></a> Experiência didática em outras Instituições de Ensino Superior
 
 ---
 
@@ -85,7 +85,7 @@ Na [graduação](https://ufsb.edu.br/ensino/graduacao) leciono CCs  pertencentes
 
 ---
 
-##### <a name="misc"></a> Minha Experiência no Ensino Básico
+##### <a name="misc"></a>  Experiência Didática no Ensino Básico
 
 ---
 ##### Ensino Médio (2006 - 2016)
