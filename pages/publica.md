@@ -10,14 +10,23 @@ description: Prof. Dr. Francisco Nascimento artigos publicados
 
 VISCONDE, S. K. F. ; **NASCIMENTO, F.** . Tecendo pontos: a Umbanda e a importância da etnomatemática na escola. OBSERVATORIO DE LA ECONOMÍA LATINOAMERICANA, v. 21, p. 4581-4595, 2023.[![doi](https://itxesco.github.io/imagens/icones/icons16/doi-icon.png)](https://dx.doi.org/10.55905/oelv21n6-077) [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/etnomatematica_umbanda.pdf)<br/>
 
-### 2022  
+---
+
+
+#### 2022  
 
 **NASCIMENTO, Francisco.**. Uma análise das implicações das representações de gênero nas histórias em quadrinhos de super-heróis para o ensino/aprendizagem de ciências. In: Editora Científica digital. (Org.). OPEN SCIENCE RESEARCH III. 1ed.São Paulo: Editora Científica digital, 2022, v. 3, p. 2401-2411.[![doi](https://itxesco.github.io/imagens/icones/icons16/doi-icon.png)](https://dx.doi.org/10.37885/220308328) [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/implicacoes_genero_sh.pdf)<br/>
+
+---
+
 
 #### 2021  
 **NASCIMENTO, F.**. Uma Discussão sobre a Decolonialidade no Ensino de Física. In: XXIV Simpósio Nacional de Ensino de Física (SNEF), 2021, Santo André (SP). Anais do XXIV SNEF, 2021. [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/assets/anais/SNEF_2021_1.pdf)
 
 **NASCIMENTO, F.**. COLONIZAÇÃO CULTURAL E COLONIALISMO: UMA DISCUSSÃO NECESSÁRIA AO ENSINO DE FÍSICA. In: XXIV Simpósio Nacional de Ensino de Física (SNEF), 2021, Santo André (SP). Anais do XXIV SNEF, 2021. [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/assets/anais/SNEF_2021_2.pdf)
+
+---
+
 
 #### 2020  
 
@@ -26,10 +35,16 @@ VISCONDE, S. K. F. ; **NASCIMENTO, F.** . Tecendo pontos: a Umbanda e a importâ
 **NASCIMENTO, F.**. Por que acreditamos em _fake news_?. In: OLIVEIRA, A. M. et al. Paulo Freire em tempos de fake news: Edição 2020. Recife: Even3 Publicações, 2020. [![doi](https://itxesco.github.io/imagens/icones/icons16/doi-icon.png)](https://doi.org/10.29327/523688) [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/assets/articles/paulo-freire-em-tempos-de-fake-news-edicao-2020.pdf)<br/>
 
 
+---
+
+
 #### 2019
 
 **NASCIMENTO, Francisco**. Stan Lee, o Quarteto Fantástico e a evolução da divulgação científica nas histórias em quadrinhos de super-heróis: possibilidades para uma aula de ciências. Diálogo (UNILASALLE), v. 1, p. 55-65, 2019. [![doi](https://itxesco.github.io/imagens/icones/icons16/doi-icon.png)](http://dx.doi.org/10.18316/dialogo.v0i42.5872)
 [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/assets/articles/5872-19839-2-PB_1.pdf)
+
+---
+
 
 #### 2017
 
@@ -41,11 +56,17 @@ BARROS, N. R. ; **NASCIMENTO JUNIOR, F. A.** ; PIASSI, L. P. C. . O Funk e o Roc
 
 **NASCIMENTO, F**. Quarteto Fantástico: Ensino de Física e Satisfação Cultural. 1. ed. Balti: Novas Edições Acadêmicas, 2017. v. 1. 116p .
 
+---
+
+
 #### 2015
 
 **NASCIMENTO, F.**; PIASSI, L. P. C. . Role-Playing Games nas Aulas de Física. Revista de Enseñanza de la Física, v. 27, p. 675-681, 2015. [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/assets/articles/Role-Playing_Games_nas_Aulas_de_Fsica.pdf)
 
 Cardoso, G.V. ; **NASCIMENTO, F.** ; PIASSI, L. P. C. . Batman e semicondutores: uma interface cultural entre o cinema e a física. Revista de Enseñanza de la Física, v. 27, p. 365-370, 2015.  [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/assets/articles/Batman_e_semicondutores_uma_interface_cultural_entre_o_cinema_e_a_fsica.pdf)
+
+---
+
 
 #### 2014
 
