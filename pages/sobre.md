@@ -49,6 +49,8 @@ Também represento a UFSB na Rede Educa Nordeste.
   | ![orcid](https://itxesco.github.io/imagens/icones/icons16/orcid-icon.png) [orcid](https://orcid.org/0000-0003-0587-8392) |
 
 
+  ---  
+
 
 ![correio](https://itxesco.github.io/imagens/icones/icons16/correio-icon.png) **contato**  
   ![UFSB](https://itxesco.github.io/imagens/icones/icons16/ufsb-icon.jpg)[ Universidade Federal do Sul da Bahia - Campus Sosígenes Costa](https://ufsb.edu.br)  

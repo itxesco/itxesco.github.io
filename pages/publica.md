@@ -10,7 +10,7 @@ description: Prof. Dr. Francisco Nascimento artigos publicados
 
 VISCONDE, S. K. F. ; **NASCIMENTO, F.** . Tecendo pontos: a Umbanda e a importância da etnomatemática na escola. OBSERVATORIO DE LA ECONOMÍA LATINOAMERICANA, v. 21, p. 4581-4595, 2023.[![doi](https://itxesco.github.io/imagens/icones/icons16/doi-icon.png)](https://dx.doi.org/10.55905/oelv21n6-077) [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/etnomatematica_umbanda.pdf)<br/>
 
-###2022  
+### 2022  
 
 **NASCIMENTO, Francisco.**. Uma análise das implicações das representações de gênero nas histórias em quadrinhos de super-heróis para o ensino/aprendizagem de ciências. In: Editora Científica digital. (Org.). OPEN SCIENCE RESEARCH III. 1ed.São Paulo: Editora Científica digital, 2022, v. 3, p. 2401-2411.[![doi](https://itxesco.github.io/imagens/icones/icons16/doi-icon.png)](https://dx.doi.org/10.37885/220308328) [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/implicacoes_genero_sh.pdf)<br/>
 
