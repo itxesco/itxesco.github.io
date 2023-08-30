@@ -1,7 +1,7 @@
 ---
 layout: page
-title: talks
-description: Karl Broman's talks
+title: ppger0034
+description: Educação Científica, Cultura e Sociedade: Implicações para o Ensino de Ciências e Humanidades
 ---
 
 ### 2021
