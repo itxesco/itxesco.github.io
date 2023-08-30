@@ -5,7 +5,7 @@ description: Francisco de Assis Nascimento Junior,  professor Adjunto no Campus 
 keywords: Francisco de Assis Nascimento Junior, Ensino de Física, Ensino de Ciências, histórias em quadrinhos e Educação, Histórias em Quadrinhos e Ensino de Física, super-heróis, relações étnico-raciais, comunidade de aprendizagem, jogos de RPG, RPG e educação, RPG e ensino de Física, RPG e ensino de Ciências
 ---
 
-<div class="navbar">
+<!-- <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href= "/pages/publica.html">artigos</a></li>
@@ -14,7 +14,7 @@ keywords: Francisco de Assis Nascimento Junior, Ensino de Física, Ensino de Ci�
           <li><a href="https://twitter.com/itxesco">twitter</a></li>
       </ul>
   </div>
-</div>
+</div> -->
 
 <table class="wide">
 <tr>
