@@ -31,7 +31,7 @@ Na [graduação](https://ufsb.edu.br/ensino/graduacao) leciono CCs  pertencentes
 ##### <a name="shortcourses"></a> ![UFSB](https://itxesco.github.io/imagens/icones/icons16/ufsb-icon.jpg)[ Componentes Curriculares  ministradas para a pós graduação (PPGER)](https://ufsb.edu.br/ppger)  
 ---
 
- **PPGER0034** - [Educação Científica, Cultura e Sociedade: Implicações para o Ensino de Ciências e Humanidades](https://itxesco.github.io/pages/aulas/PPGER0034.html)
+ **PPGER0034** - [Educação Científica, Cultura e Sociedade: Implicações para o Ensino de Ciências e Humanidades](https://itxesco.github.io/pages/aulas/ppger0034.html)
 
  **PPGER0000** - [Seminários Processuais I](https://itxesco.github.io/aulas/PPGER0000/index.html)  
  **PPGER0000** - [Seminários Processuais II](https://itxesco.github.io/aulas/PPGER0000/index.html)  
