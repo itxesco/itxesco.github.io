@@ -39,9 +39,9 @@ No [PPGER da UFSB](https://ufsb.edu.br/ppger/), [Campus Sosígenes Costa](https:
 
 | **Concluídas**| **Em Andamento**|  
 |--- |--- |
-| [![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/8317287394228958) Sheila Katrini Ferrari Visconde | ![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png) Marideise Silva Presende |  
+| [![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/8317287394228958) Sheila Katrini Ferrari Visconde | [![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/0937458579414776) Marideise Silva Presende |  
 | [![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/0265292324050570) Valtiângeli Rodrigues da Silva Moitinho | [![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/0441717524768073) Lenilson de Oliveira Silva |  
-| [![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/9137805008331639) Martha Matos Lucas Teixeira | [![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/5977115182619808) Priscila Bono Pagliuca Rodrigues. |  
+| [![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/9137805008331639) Martha Matos Lucas Teixeira | [![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/3929221160338872) Priscila Bono Pagliuca Rodrigues. |  
 | [![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/8121344743580077) Ubiratam Gomes dos Santos Junior | ![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png) - |     
 | [![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/7545687911475904) Ericka Cristian Santana Carneiro | [![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/0686334062096737) - |  
 
