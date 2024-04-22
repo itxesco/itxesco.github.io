@@ -32,7 +32,7 @@ keywords: Francisco de Assis Nascimento Junior, Ensino de Física, Ensino de Ci�
 <tr>
   <td class="left">
     <a href="pages/ensino.html">
-        <img src="imagens/index_pics/mago_feynman.png" alt="Mago Richard Feynman desdenha de um dragão" title="Fantasia e Educação"/>
+        <img src="imagens/index_pics/aulas_.png" alt="prof Francisco em frente a uma lousa verde cheia de equações em uma aula de física" title="aulas"/>
     </a>
   </td>
   <td class="right">
