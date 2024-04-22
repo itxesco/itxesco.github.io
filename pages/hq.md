@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Histórias em Quadrinhos
+title: histórias em quadrinhos
 description: pesquisa sobre Histórias em Quadrinhos
 ---
 
@@ -82,7 +82,7 @@ O escritor Grant Morrison, entretanto, sugere em seu livro _Supergods_ que 1970 
 
 >MCLOUD, Scott. Desvendando os quadrinhos 2ª ed. 2005.  
 
->DANTON, Gian. **A divulgação científica nos quadrinhos: análise do caso Watchmen**. 1997. Tese de Doutorado. Tese de Mestrado. Curso de Pós-graduação da Universidade Metodista de São Paulo. Em http://watchmencaos.blogspot.com/2014/.	
+>DANTON, Gian. **A divulgação científica nos quadrinhos: análise do caso Watchmen**. 1997. Tese de Doutorado. Tese de Mestrado. Curso de Pós-graduação da Universidade Metodista de São Paulo. Em http://watchmencaos.blogspot.com/2014/.
 
 >DANTON, Gian. **Ciência e quadrinhos**. João Pessoa: Marca de Fantasia, 2005.
 
