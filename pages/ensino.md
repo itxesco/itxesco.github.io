@@ -4,10 +4,10 @@ title:
 description: aulas de Francisco de Assis Nascimento Junior
 ---
 
-A Universidade Federal do Sul da Bahia adotou o regime quadrimestral [multiciclos](https://ufsb.edu.br/ensino/graduacao) desde seu início, mas passará para o sistema semestral a partir de janeiro de 2024. O quadrimestre letivo 2023.2 se encerrou em agosto e o próximo, referente a 2023.3, inicia em 18/09/2023.
-Mais informações estão disponíveis no [calendário acadêmico de 2023](https://ufsb.edu.br/images/Calend%C3%A1rio_Acad%C3%AAmico/Calend%C3%A1rio_2023.pdf).
+A Universidade Federal do Sul da Bahia adotou o regime quadrimestral [multiciclos](https://ufsb.edu.br/ensino/graduacao) desde seu início, mas passou para o sistema semestral a partir de janeiro de 2024.
+O quadrimestre letivo 2023.3 foi o último da Universidade. Mais informações estão disponíveis no [calendário acadêmico de 2024](https://ufsb.edu.br/images/Calendário_Acadêmico/Calendário_2024.pdf).
 
-Na [graduação](https://ufsb.edu.br/ensino/graduacao) leciono CCs  pertencentes ao campo da Educação (obrigatórias para todas as Licenciaturas Interdisciplinares) e na [Formação Geral](https://ufsb.edu.br/cfcaf/images/Resolução_nº10.2020_Formação_Geral.pdf), mas meu foco está nas CCs específicas de Física/Ensino de Física  e estágio supervisionado para a  [Licenciatura Interdisciplinar em Ciências da Natureza e suas tecnologias](https://ufsb.edu.br/component/content/article/1907-licenciatura-interdisciplinar-em-ciencias-da-natureza-csc) onde também integro o NDE e o Colegiado de Curso.
+Na [graduação](https://ufsb.edu.br/ensino/graduacao) leciono Componentes Curriculares (CCs)  pertencentes ao chamado "Eixo da Educação" (obrigatórias para todas as Licenciaturas Interdisciplinares) e  nas CCs específicas de Física/Ensino de Física  e estágio supervisionado para a  [Licenciatura Interdisciplinar em Ciências da Natureza e suas tecnologias](https://ufsb.edu.br/component/content/article/1907-licenciatura-interdisciplinar-em-ciencias-da-natureza-csc). Também integro o NDE e o Colegiado desse Curso.
 
 ---
 #### <a name="current"></a> ![UFSB](https://itxesco.github.io/imagens/icones/icons16/ufsb-icon.jpg)  Componentes Curriculares  ministradas durante o regime quadrimestral:
