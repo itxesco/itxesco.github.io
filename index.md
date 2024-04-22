@@ -37,7 +37,7 @@ keywords: Francisco de Assis Nascimento Junior, Ensino de Física, Ensino de Ci�
   </td>
   <td class="right">
     <a href="pages/afrofuturism.html">
-        <img src="imagens/index_pics/mano.JPG" alt="Professor Francisco ao lado de mano brown e da reitora da UFSB" title="Afrofuturismo e Educação"/>
+        <img src="imagens/index_pics/mano.JPG" alt="Professor Francisco ao lado de mano brown e da reitora da UFSB" title="Extensão"/>
     </a>
   </td>
 </tr>
