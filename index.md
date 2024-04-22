@@ -19,24 +19,24 @@ keywords: Francisco de Assis Nascimento Junior, Ensino de Física, Ensino de Ci�
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="pages/x_men.html">
+    <a href="pages/hq.html">
         <img src="imagens/index_pics/sentinel.png" alt="Ataque de robô Sentinela" title="Histórias em Quadrinhos de Super-Heróis e Educação"/>
     </a>
   </td>
   <td class="right">
-    <a href="pages/d_d.html">
+    <a href="pages/pesquisa.html">
         <img src="imagens/index_pics/rpg.png" alt="Dados e miniaturas em jogo de RPG" title="Jogos de RPG e Educação"/>
     </a>
   </td>
 </tr>
 <tr>
   <td class="left">
-    <a href="pages/fisica_rpg.html">
+    <a href="pages/ensino.html">
         <img src="imagens/index_pics/mago_feynman.png" alt="Mago Richard Feynman desdenha de um dragão" title="Fantasia e Educação"/>
     </a>
   </td>
   <td class="right">
-    <a href="pages/etnicoraciais.html">
+    <a href="pages/afrofuturism.html">
         <img src="imagens/index_pics/ppger.png" alt="Mulher e Homem unidos em uma imagem" title="Afrofuturismo e Educação"/>
     </a>
   </td>
