@@ -4,9 +4,9 @@ title: sobre
 description: minha apresentação e breve biografia
 ---
 
-<div style="display: flex; align-items: flex-start;">
-  <img src="https://itxesco.github.io/imagens/perfil/perfil_2.jpg" alt="Imagem de perfil" style="width: 50%; margin-right: 20px;">
-  
+<div style="position: relative; display: inline-block; margin-top: -20px;">
+  <img src="https://itxesco.github.io/imagens/perfil/perfil_2.jpg" alt="Imagem de perfil" style="width: 50%;">
+</div>
 
 Olá, sou Francisco de Assis Nascimento Junior, Professor Adjunto no Campus Sosígenes Costa da Universidade Federal do Sul da Bahia, em Porto Seguro (BA). Meu trabalho é apaixonante: atuo na formação de professores (inicial e continuada) e pesquiso questões envolvendo o ensino e as relações étnico-raciais.
 
