@@ -5,10 +5,12 @@ description: minha apresentação e breve biografia
 ---
 
 <div style="display: flex; align-items: flex-start;">
-  <img src="https://itxesco.github.io/imagens/perfil/perfil_2.jpg" alt="Imagem de perfil" style="width: 50%; margin-right: 20px;">
-  
+  <img src="https://itxesco.github.io/imagens/perfil/perfil_2.jpg" alt="Imagem de perfil: Homem cisgênero (ele/dele)" style="width: 50%; margin-right: 20px;">
 
-Olá, sou Francisco de Assis Nascimento Junior, Professor Adjunto no Campus Sosígenes Costa da Universidade Federal do Sul da Bahia, em Porto Seguro (BA). Meu trabalho é apaixonante: atuo na formação de professores (inicial e continuada) e pesquiso questões envolvendo o ensino e as relações étnico-raciais.
+
+Olá, sou Francisco de Assis Nascimento Junior, Decano (2022-2026) do [Instituto de Humanidades, Artes e Ciências](https://www.ufsb.edu.br/ihac/) no Campus Sosígenes Costa (CSC) da [Universidade Federal do Sul da Bahia](https://ufsb.edu.br/) (UFSB), onde sou Professor Adjunto e atuo na formação inicial e continuada de professores de ciências e matemática.
+
+Meu trabalho é apaixonante: atuo na formação de professores (inicial e continuada) e pesquiso questões envolvendo o ensino e as relações étnico-raciais.
 
 Além de minhas responsabilidades acadêmicas, ocupo atualmente o Decanato (Direção) do Instituto de Humanidades, Artes e Ciências, um papel que desempenho com dedicação e comprometimento.
 
@@ -16,13 +18,8 @@ Minha jornada acadêmica inclui uma trajetória marcante na [Universidade de Sã
 
 Sou um entusiasta do diálogo entre ciência e cultura pop, especialmente as Histórias em Quadrinhos de super-heróis, filmes, séries, jogos de RPG e videogames. Meu interesse se concentra nas interseções dessas mídias com questões de gênero e raça, em seu diálogo com a educação.
 
-Para saber mais sobre meu trabalho e acompanhar minhas atividades, convido você a explorar meus perfis acadêmicos e redes sociais listados abaixo.
+Para saber mais sobre meu trabalho e acompanhar minhas atividades, convido você a explorar meus perfis acadêmicos e redes sociais listados abaixo:
 
-## Perfis acadêmicos e redes sociais
-
-Decano (2022-2026) do [Instituto de Humanidades, Artes e Ciências](https://www.ufsb.edu.br/ihac/) no Campus Sosígenes Costa (CSC) da [Universidade Federal do Sul da Bahia](https://ufsb.edu.br/) (UFSB), onde sou Professor Adjunto e atuo na formação inicial e continuada de professores de ciências e matemática.
-
-Homem cisgênero ![male icon](https://itxesco.github.io/imagens/icones/icons16/male-icon.png) ele/dele
 
 | Perfis acadêmicos                                               | Redes sociais                                                        |
 |------------------------------------------------------------------|----------------------------------------------------------------------|
