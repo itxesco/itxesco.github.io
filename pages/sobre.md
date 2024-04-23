@@ -42,4 +42,4 @@ BR
 
 ---
 
-![fone](https://itxesco.github.io/imagens/icones/icons16/phone-icon.png) (73) 3288-8400 (Secret
+![fone](https://itxesco.github.io/imagens/icones/icons16/phone-icon.png) (73) 3288-8400 (Secretaria Executiva do IHAC - CSC)
