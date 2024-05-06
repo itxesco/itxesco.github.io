@@ -21,36 +21,15 @@ Sou um entusiasta do diálogo entre ciência e cultura pop, especialmente as His
 Para saber mais sobre meu trabalho e acompanhar minhas atividades, convido você a explorar meus perfis acadêmicos e redes sociais listados abaixo:
 
 
-<table>
-  <tr>
-    <th>Perfis acadêmicos</th>
-    <th>Redes sociais</th>
-  </tr>
-  <tr>
-    <td><a href="http://lattes.cnpq.br/1942359141745184"><img src="https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png" alt="lattes"></a></td>
-    <td><a href="https://www.instagram.com/gtf.nascimento"><img src="https://itxesco.github.io/imagens/icones/icons16/instagram-icon.png" alt="instagram"></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://sig.ufsb.edu.br/sigaa/public/docente/portal.jsf?siape=1085938"><img src="https://itxesco.github.io/imagens/icones/icons16/ufsb-icon.jpg" alt="SigaA"></a></td>
-    <td><a href="https://www.goodreads.com/user/show/51497119-francisco-nascimento"><img src="https://itxesco.github.io/imagens/icones/icons16/goodreads-icon.png" alt="goodreads"></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://www.researchgate.net/profile/Francisco_Nascimento24"><img src="https://itxesco.github.io/imagens/icones/icons16/researchgate-icon.png" alt="researchgate"></a></td>
-    <td><a href="https://twitch.tv/itxesco"><img src="https://itxesco.github.io/imagens/icones/icons16/twitch-icon.png" alt="twitch"></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://ufsb.academia.edu/FranciscoNascimento"><img src="https://itxesco.github.io/imagens/icones/icons16/academia-edu-icon.png" alt="academia.edu"></a></td>
-    <td><a href="https://www.youtube.com/channel/UCqWEN6uuwiohJY8qv9e7Ddg"><img src="https://itxesco.github.io/imagens/icones/icons16/youtube-icon.png" alt="youtube"></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://scholar.google.com.br/citations?user=H8peemwAAAAJ&hl=en"><img src="https://itxesco.github.io/imagens/icones/icons16/google-scholar-icon.png" alt="google acadêmico"></a></td>
-    <td><a href="https://twitter.com/itxesco"><img src="https://itxesco.github.io/imagens/icones/icons16/twitter-icon.png" alt="twitter"></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://orcid.org/0000-0003-0587-8392"><img src="https://itxesco.github.io/imagens/icones/icons16/orcid-icon.png" alt="orcid"></a></td>
-    <td></td>
-  </tr>
-</table>
+| Perfis acadêmicos                                               | Redes sociais                                                        |
+|------------------------------------------------------------------|----------------------------------------------------------------------|
+| [![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/1942359141745184)         | [![instagram](https://itxesco.github.io/imagens/icones/icons16/instagram-icon.png)](https://www.instagram.com/gtf.nascimento) |
+| [![SigaA](https://itxesco.github.io/imagens/icones/icons16/ufsb-icon.jpg)](https://sig.ufsb.edu.br/sigaa/public/docente/portal.jsf?siape=1085938) | [![goodreads](https://itxesco.github.io/imagens/icones/icons16/goodreads-icon.png)](https://www.goodreads.com/user/show/51497119-francisco-nascimento) |
+| [![researchgate](https://itxesco.github.io/imagens/icones/icons16/researchgate-icon.png)](https://www.researchgate.net/profile/Francisco_Nascimento24) | [![twitch](https://itxesco.github.io/imagens/icones/icons16/twitch-icon.png)](https://twitch.tv/itxesco) |
+| [![academia.edu](https://itxesco.github.io/imagens/icones/icons16/academia-edu-icon.png)](https://ufsb.academia.edu/FranciscoNascimento) | [![youtube](https://itxesco.github.io/imagens/icones/icons16/youtube-icon.png)](https://www.youtube.com/channel/UCqWEN6uuwiohJY8qv9e7Ddg) |
+| [![google acadêmico](https://itxesco.github.io/imagens/icones/icons16/google-scholar-icon.png)](https://scholar.google.com.br/citations?user=H8peemwAAAAJ&hl=en) | [![twitter](https://itxesco.github.io/imagens/icones/icons16/twitter-icon.png)](https://twitter.com/itxesco) |
+| [![orcid](https://itxesco.github.io/imagens/icones/icons16/orcid-icon.png)](https://orcid.org/0000-0003-0587-8392)               |                                                                      |
+
 ---
 
 ![correio](https://itxesco.github.io/imagens/icones/icons16/correio-icon.png) **contato**  
