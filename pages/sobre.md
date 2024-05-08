@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
 <meta charset="UTF-8">
@@ -57,38 +56,36 @@
 
         <p>Para saber mais sobre meu trabalho e acompanhar minhas atividades, convido você a explorar meus perfis acadêmicos e redes sociais listados abaixo:</p>
 
-        <table>
-            <tr>
-                <th>Perfis acadêmicos</th>
-                <th>Redes sociais</th>
-            </tr>
-            <tr>
-                <td><a href="http://lattes.cnpq.br/1942359141745184"><img src="https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png" alt="lattes"></a></td>
-                <td><a href="https://www.instagram.com/gtf.nascimento"><img src="https://itxesco.github.io/imagens/icones/icons16/instagram-icon.png" alt="instagram"></a></td>
-            </tr>
-            <tr>
-                <td><a href="https://sig.ufsb.edu.br/sigaa/public/docente/portal.jsf?siape=1085938"><img src="https://itxesco.github.io/imagens/icones/icons16/ufsb-icon.jpg" alt="SigaA"></a></td>
-                <td><a href="https://www.goodreads.com/user/show/51497119-francisco-nascimento"><img src="https://itxesco.github.io/imagens/icones/icons16/goodreads-icon.png" alt="goodreads"></a></td>
-            </tr>
-            <tr>
-                <td><a href="https://www.researchgate.net/profile/Francisco_Nascimento24"><img src="https://itxesco.github.io/imagens/icones/icons16/researchgate-icon.png" alt="researchgate"></a></td>
-                <td><a href="https://twitch.tv/itxesco"><img src="https://itxesco.github.io/imagens/icones/icons16/twitch-icon.png" alt="twitch"></a></td>
-            </tr>
-            <tr>
-                <td><a href="https://ufsb.academia.edu/FranciscoNascimento"><img src="https://itxesco.github.io/imagens/icones/icons16/academia-edu-icon.png" alt="academia.edu"></a></td>
-                <td><a href="https://www.youtube.com/channel/UCqWEN6uuwiohJY8qv9e7Ddg"><img src="https://itxesco.github.io/imagens/icones/icons16/youtube-icon.png" alt="youtube"></a></td>
-            </tr>
-            <tr>
-                <td><a href="https://scholar.google.com.br/citations?user=H8peemwAAAAJ&hl=en"><img src="https://itxesco.github.io/imagens/icones/icons16/google-scholar-icon.png" alt="google acadêmico"></a></td>
-                <td><a href="https://twitter.com/itxesco"><img src="https://itxesco.github.io/imagens/icones/icons16/twitter-icon.png" alt="twitter"></a></td>
-            </tr>
-            <tr>
-                <td><a href="https://orcid.org/0000-0003-0587-8392"><img src="https://itxesco.github.io/imagens/icones/icons16/orcid-icon.png" alt="orcid"></a></td>
-                <td></td>
-            </tr>
-
-
- </table>
+  <table style="margin: 0 auto;">
+      <tr>
+          <th style="text-align: center;">Perfis acadêmicos</th>
+          <th style="text-align: center;">Redes sociais</th>
+      </tr>
+      <tr>
+          <td style="text-align: center;"><a href="http://lattes.cnpq.br/1942359141745184"><img src="https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png" alt="lattes"></a></td>
+          <td style="text-align: center;"><a href="https://www.instagram.com/gtf.nascimento"><img src="https://itxesco.github.io/imagens/icones/icons16/instagram-icon.png" alt="instagram"></a></td>
+      </tr>
+      <tr>
+          <td style="text-align: center;"><a href="https://sig.ufsb.edu.br/sigaa/public/docente/portal.jsf?siape=1085938"><img src="https://itxesco.github.io/imagens/icones/icons16/ufsb-icon.jpg" alt="SigaA"></a></td>
+          <td style="text-align: center;"><a href="https://www.goodreads.com/user/show/51497119-francisco-nascimento"><img src="https://itxesco.github.io/imagens/icones/icons16/goodreads-icon.png" alt="goodreads"></a></td>
+      </tr>
+      <tr>
+          <td style="text-align: center;"><a href="https://www.researchgate.net/profile/Francisco_Nascimento24"><img src="https://itxesco.github.io/imagens/icones/icons16/researchgate-icon.png" alt="researchgate"></a></td>
+          <td style="text-align: center;"><a href="https://twitch.tv/itxesco"><img src="https://itxesco.github.io/imagens/icones/icons16/twitch-icon.png" alt="twitch"></a></td>
+      </tr>
+      <tr>
+          <td style="text-align: center;"><a href="https://ufsb.academia.edu/FranciscoNascimento"><img src="https://itxesco.github.io/imagens/icones/icons16/academia-edu-icon.png" alt="academia.edu"></a></td>
+          <td style="text-align: center;"><a href="https://www.youtube.com/channel/UCqWEN6uuwiohJY8qv9e7Ddg"><img src="https://itxesco.github.io/imagens/icones/icons16/youtube-icon.png" alt="youtube"></a></td>
+      </tr>
+      <tr>
+          <td style="text-align: center;"><a href="https://scholar.google.com.br/citations?user=H8peemwAAAAJ&hl=en"><img src="https://itxesco.github.io/imagens/icones/icons16/google-scholar-icon.png" alt="google acadêmico"></a></td>
+          <td style="text-align: center;"><a href="https://twitter.com/itxesco"><img src="https://itxesco.github.io/imagens/icones/icons16/twitter-icon.png" alt="twitter"></a></td>
+      </tr>
+      <tr>
+          <td style="text-align: center;"><a href="https://orcid.org/0000-0003-0587-8392"><img src="https://itxesco.github.io/imagens/icones/icons16/orcid-icon.png" alt="orcid"></a></td>
+          <td style="text-align: center;"></td>
+      </tr>
+  </table>
     </div>
 </div>
 
