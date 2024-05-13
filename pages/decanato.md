@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Afrofuturismo
-description: pesquisa sobre Afrofuturismo
+title: Decanato
+description: IHAC-CSC da UFSB
 ---
 
 [![o que é afrofuturismo?][afro_revolt]][link_afro_revolt]
