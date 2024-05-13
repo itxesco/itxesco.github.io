@@ -44,7 +44,7 @@
         <img src="https://itxesco.github.io/imagens/perfil/perfil_2.jpg" alt="Imagem de perfil: Homem cisgênero (ele/dele)">
     </div>
     <div class="column">
-        <p>Olá, sou Francisco de Assis Nascimento Junior, Decano (2022-2026) do <a href="https://www.ufsb.edu.br/ihac/"> Instituto de Humanidades, Artes e Ciências</a> no Campus Sosígenes Costa (CSC) da <a href="https://ufsb.edu.br/">Universidade Federal do Sul da Bahia</a> (UFSB), onde sou Professor Adjunto e atuo na formação inicial e continuada de professores de ciências e matemática.</p>
+        <p>Olá, sou Francisco de Assis Nascimento Junior, autista nível 2 de suporte (TEA/AH/TDAH), Decano (2022-2026) do <a href="https://www.ufsb.edu.br/ihac/"> Instituto de Humanidades, Artes e Ciências</a> no Campus Sosígenes Costa (CSC) da <a href="https://ufsb.edu.br/">Universidade Federal do Sul da Bahia</a> (UFSB), onde sou Professor Adjunto e atuo na formação inicial e continuada de professores.</p>
 
         <p>Meu trabalho é apaixonante: atuo na formação de professores (inicial e continuada) e pesquiso questões envolvendo o ensino e as relações étnico-raciais.</p>
 
