@@ -142,19 +142,12 @@ O escritor Grant Morrison, entretanto, sugere em seu livro _Supergods_ que 1970 
 
 ---
 
-####Concluídas
-<p>
-![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png)(http://lattes.cnpq.br/8317287394228958) Sheila Katrini Ferrari Visconde   
-![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png)(http://lattes.cnpq.br/0265292324050570) Valtiângeli Rodrigues da Silva Moitinho  
-![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png)(http://lattes.cnpq.br/9137805008331639) Martha Matos Lucas Teixeira  
-![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png)(http://lattes.cnpq.br/8121344743580077) Ubiratam Gomes dos Santos Junior     
-![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png)(http://lattes.cnpq.br/7545687911475904) Ericka Cristian Santana Carneiro   
-![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png)(http://lattes.cnpq.br/0937458579414776) Marideise Silva Presende
-![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png)(http://lattes.cnpq.br/3523225974376488) Lenilson de Oliveira Silva
-<p>
-####Em Andamento
-[![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/3929221160338872) Priscila Bono Pagliuca Rodrigues
-![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png) Reinan Mota Costa
-![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png) Anna Carolina Souza
-![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png) Flavio Souza dos Santos
+| **Concluídas**| **Em Andamento**|  
+|--- |--- |
+| [![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/8317287394228958) Sheila Katrini Ferrari Visconde | [![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/3929221160338872) Priscila Bono Pagliuca Rodrigues |  
+| [![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/0265292324050570) Valtiângeli Rodrigues da Silva Moitinho | Reinan Mota Costa |  
+| [![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/9137805008331639) Martha Matos Lucas Teixeira | Anna Carolina Souza |  
+| [![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/8121344743580077) Ubiratam Gomes dos Santos Junior | ![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png) Flavio Souza dos Santos |     
+| [![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/7545687911475904) Ericka Cristian Santana Carneiro | [![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/0686334062096737) - |  [![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/0937458579414776) Marideise Silva Presende | ![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png) - |  [![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/3523225974376488) Lenilson de Oliveira Silva |
+
  ---
