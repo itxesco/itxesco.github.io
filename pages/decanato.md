@@ -3,33 +3,50 @@ layout: page
 title: Decanato
 description: IHAC-CSC da UFSB
 ---
+<p><strong>Tópicos de Interesse</strong></p>
+<img src="https://itxesco.github.io/imagens/icones/icons16/comics-icon.png"><section id ="top">O que faz um Decano?</section>
+<img src="https://itxesco.github.io/imagens/icones/icons16/afrofuturismo-icon.png><section id ="ihac">O IHAC-CSC</section>
+<img src="https://itxesco.github.io/imagens/icones/icons16/etnicoraciais-icon.png"><section id ="lis">As Licenciaturas Interdisciplinares</section>
+<img src="https://itxesco.github.io/imagens/icones/icons16/rpg-icon.png"><section id ="ppger">O PPGER</section>
+<img src="https://itxesco.github.io/imagens/icones/icons16/gender-icon.png"><section id ="gestao">A gestão 2022 - 2026</section>
 
-[![o que é afrofuturismo?][afro_revolt]][link_afro_revolt]
+---
 
+<a href="#top">O que faz um Decano?</a>
+<p>
+O Decano de uma faculdade, tradicionalmente, é o mais antigo dos membros da congregação de professores. Na UFSB, o titulo honorifico é unido ao cargo de direção da unidade academica, o que na prática faz com que o Diretor eleito para uma gestão de 04 anos seja chamado de "Decano" ( ou "Decana", se for uma mulher). No meu caso, ocupo a função de Decano do Instituto de Humanidades, Artes e Ciências do Campus Sosígenes Costa (IHAC-CSC) da UFSB desde outubro de 2022.
+---
 
-Em 1993 o filme [Flame Wars: The Discourse of Cyberculture](https://www.wired.com/1995/01/flame-wars/), do crítico cultural [Mark Dery](https://en.wikipedia.org/wiki/Mark_Dery), apresentou o termo **Afrofuturismo**  ao se referir a "ficção especulativa de assuntos afro-americanos, referente às preocupações afro-americanas no contexto da tecnocultura do século XX e, de um modo mais geral, à resignificação afro-americana das imagens de tecnologia e aprimorações protéticas futurísticas"[(DERY, 1994 pg. 136)](https://www.jstor.org/stable/20719430?seq=1).   
-Esta é uma definição que deve ser interpretada em duas partes, de acordo com [Lisa Yaszek](https://www.iac.gatech.edu/people/faculty/yaszek):  
+<a href="#ihac">O IHAC-CSC</a>
+<p>
+O IHAC-CSC, está situado em Porto Seguro e iniciou suas atividades em 08/09/2014. além dele, a UFSB conta com mais um IHAC em cada um de seus outros campus: o IHAC-CJA e o IHAC-CPF.
 
- - Em sua relação com a ficção científica como gênero estético, o **Afrofuturismo** não deve ser pensado como um simples gênero de ficção cientifica.
- - O **Afrofuturismo** representa um modo estético capaz de abranger diferentes artistas e seus trabalhos, em diferentes gêneros e plataformas de mídia, unidos pelo  interesse comum de projetar um _futuro negro_ à partir de experiências diaspóricas (YASZEK, 2006 [![pdf](icons16/pdf-icon.png)](https://itxesco.github.io/assets/afrofuturismo/Afrofuturism_science_fiction_and_the_his.pdf))
+Originalmente, o IHAC-CSC foi pensado para abrigar todos os cursos de 1o ciclo do regime de formação da UFSB, os Bacharelados Interdisciplinares (BIs) e  as Licenciaturas Interdisciplinares (LIs). Em 2019, com a readequação administrativa da universidade, os BIs foram transferidos para os respectivos Centros de Formação e o  IHAC-CSC passou a  atuar exclusivamente no campo da Educação com suas 05 LIs:
+Em Ciências da Natureza e suas tecnologias
+Em Ciências Humanas e Sociais e suas tecnologias
+Em Artes e suas tecnologias
+Em Matemática e Computação e suas tecnologias
 
-[![heróis da milestone][milestone]][link_sh_milestone]  
+ Além disso, com a  resolução do Conselho Nacional de Educação (CNE) estabelecendo a Base Nacional Comum para a Formação Inicial de Professores da Educação Básica e as diretrizes curriculares nacionais para os docentes, o limite mínimo e a carga-horaria básica dos cursos de Licenciatura foram alterados para 4 anos e 3200 horas, respectivamente, impactando no modelo das Licenciaturas Interdisciplinares como cursos integrantes do “primeiro ciclo”: as LIs possuem  características dos cursos de 1o e de 2 o ciclos em um só, unificado.
+ Na Pós-Graduação o IHAC-CSC conta com o Programa de Pós-graduação em Ensino e Relações Étnico-raciais (PPGER - Conceito CAPES 04) e o recém-criado Programa Lato Sensu Educação para a Equidade em Ciências e Matemática.
 
-Ytasha Womack apresenta uma outra definição para o **Afrofuturismo**  como uma "intersecção entre a imaginação, a tecnologia, o futuro e a libertação" [Womack 2013 pg. 9](https://www.chicagoreviewpress.com/afrofuturism-products-9781613747964.php). Trata-se, portanto, de "um movimento cultural transdisciplinar, baseado na incomum conexão  entre a marginalidade dos supostamente “primitivos” povos da diáspora africana e a tecnologia “moderna” e a ficção científica"(ELIA, 2014 [![pdf](icons16/pdf-icon.png)](https://itxesco.github.io/assets/afrofuturismo/The_Languages_of_Afrofuturism.pdf)).  
-Em seu artigo sobre a definição do **Afrofuturismo**, [Adriano Elia](https://host.uniroma3.it/docenti/elia/) considera suas diferentes linguagens, como a arte de [Basquiat](https://www.guiadasartes.com.br/jean-michel-basquiat/biografia), a música de [Sun Ra](http://www.sunraarkestra.com) e a literatura de [WEB Du Bois](https://en.wikipedia.org/wiki/W._E._B._Du_Bois), [Ralph Ellison](https://en.wikipedia.org/wiki/Ralph_Ellison) e [Octavia Butler](https://en.wikipedia.org/wiki/Octavia_E._Butler).   
+O IHAC-CSC conta com 36 docentes, 90% detentores do título de Doutor, responsáveis por ofertar suas 05 LIs e realizar a gestão dos cursos e da unidade. Como Unidade Acadêmica, sua missão é promover a formação interdisciplinar inicial e continuada de professoras/es nas grandes áreas de Educação (Ensino, Artes, Ciências da Natureza, Ciências Humanas e Sociais, Linguagens e Matemática e Computação) em todos os níveis, contribuir para a construção de uma educação pública de base antirracista, gratuita e de qualidade, articulando a relação universidade /redes de ensino público em prol do desenvolvimento de seu território de abrangência. Seu compromisso é prestar com excelência e primor atividades de ENSINO, PESQUISA E EXTENSÃO, buscando sempre contribuir para a melhoria contínua da educação na região conhecida como “Costa do Descobrimento” no litoral sul da Bahia.
 
-**Afrofuturismo** é um termo capaz de suscitar diferentes definições enlaçadas por um elo em comum: os temas de recuperação, libertação negra,  revisão do passado e previsões de um futuro através de uma lente cultural negra.
+Os valores do IHAC-CSC se alinham aos compromissos assumidos pela UFSB em sua Carta de Fundação: primar pela qualidade de vida e aprimoramento pessoal, técnico e profissional constante de docentes, discentes e técnicos educacionais, na busca das competências necessárias ao trabalho executado, com alinhamento da gestão acadêmica e pedagógica com a diversidade e as políticas afirmativas da universidade para a inclusão social, étnico-racial de pessoas marginalizadas, em situação de risco,  e/ou que tenham seu direito de acesso à educação cerceados pela sociedade.
+---
 
-O **Afrofuturismo** seria, então, uma forma de arte prática e metodológica, que permite à pessoa negra se ver representada em uma visão de futuro, apesar de seu passado e presente angustiantes,  apelando para a estética e ideias da ficção científica para refletir o processo de marginalização do povo Africano em diáspora, que em sua história de 500 anos de colonialismo, racismo e segregação, desenvolveu uma relação disjunctiva do conceito de "lar".
+<a href="#lis">As Licenciaturas Interdisciplinares</a>
+<p>
 
-[![o filme do Pantera Negra][blackpanther]][link_trailer_bp]
+As Licenciaturas Interdisciplinares (LI) da UFSB são cursos de graduação que formam de docentes capazes de atuar no ensino básico nas grandes áreas de conhecimento, que correspondem aos Parâmetros Curriculares Nacionais do Ensino Médio: Artes e suas tecnologias, Ciências Humanas e Sociais e suas tecnologias, Ciências da Natureza e suas tecnologias, Linguagens e suas tecnologias, Matemática e Computação e suas tecnologias. Todos são articulados por uma base comum de CCs de cunho cognitivo (a “formação geral” ou FG) e orientadas por um mesmo eixo de Componentes Curriculares obrigatórias do campo da Educação.
+Após essa fase, ao iniciar a Formação Específica, o estudante cumpre todos os CCs destinados à formação do docente do ensino básico. Esses cursos possuem uma alta taxa de empregabilidade para egressos e estão organizados na estrutura de ciclos da UFSB, de modo que o egresso de uma LI pode optar por 3 saídas:
+(i)	saída imediata para o mundo do trabalho como docente em escolas públicas ou privadas;
+(ii)	concorrer às vagas de edital interno para os cursos de 2o ciclo de formação profissional, em qualquer das modalidades previstas e permitidas;
+(iii)	seguir para os cursos de 3o ciclo da UFSB ou qualquer outra instituição de ensino superior, dando continuidade aos seus estudos em uma Pós-Graduação.
+---
 
+<a href="#ppger">O PPGER</a>
+<p>
 
-O **Afrofuturismo** reimagina o passado, vislumbrando o futuro. Se a vida realmente imitar a arte, o futuro pertencerá à Africa e a seus contadores de histórias.
-
-[blackpanther]: https://itxesco.github.io/assets/figuras/afro/blackpanther.jpg  
-[link_trailer_bp]: https://www.youtube.com/watch?v=wL4a4MafSjQ "trailer do filme Pantera Negra"  
-[milestone]: https://itxesco.github.io/assets/figuras/afro/milestone.jpg "conheça os super-heróis da milestone"  
-[link_sh_milestone]:https://www.ladonegrodaforca.com.br/os-herois-da-milestone-media/ "heróis da milestone"  
-[afro_revolt]: https://itxesco.github.io/assets/figuras/afro/afro_revolt.jpg "o que é Afrofuturismo?"
-[link_afro_revolt]:https://www.revolt.tv/2018/2/27/20824357/from-octavia-butler-to-black-panther-afrofuturism-now-then-and-tomorrow "From Octavia Butler to 'Black Panther:' Afrofuturism Now, Then and Tomorrow"  
+<a href="#gestao">A gestão 2022-2026</a>
+<p>
