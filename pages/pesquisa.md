@@ -3,15 +3,22 @@ layout: page
 title: pesquisa
 description: Prof. Dr. Francisco Nascimento - pesquisa em relações étnico-raciais e afrofuturismo ensino de ciências e educação Histórias em Quadrinhos de Super-Heróis e Impacto Cultural no Ensino de Ciências no Ensino de Física Jogos de RPG e Educação e Ensino de Ciências e Ensino de Física
 ---
+<p><strong>Tópicos de Interesse</strong></p>
 
-Meu principal interesse de pesquisa está nos reflexos do consumo de produtos midiáticos relativos a Cultura de Super-Heróis (histórias em quadrinhos, filmes, livros, animações, jogos) nas práticas de ensino/aprendizagem de Física / Ciências, e a influência de seu discurso na formação da identidade do sujeito.
+(https://itxesco.github.io/imagens/icones/icons16/comics-icon.png)[ Histórias em Quadrinhos de Super-Heróis]
+(https://itxesco.github.io/imagens/icones/icons16/rpg-icon.png)[ Jogos RPG e Educação]
+(https://itxesco.github.io/imagens/icones/icons16/gender-icon.png)[ Relações de Gênero]
+(https://itxesco.github.io/imagens/icones/icons16/afrofuturismo-icon.png)[ Afrofuturismo]
+(https://itxesco.github.io/imagens/icones/icons16/etnicoraciais-icon.png)[ Educação Antiracista]
+---
+Meu principal campo de estudo está nos reflexos do consumo de produtos midiáticos relativos a Cultura de Super-Heróis (histórias em quadrinhos, filmes, livros, animações, jogos) nas práticas de ensino/aprendizagem de Física / Ciências, e a influência de seu discurso na formação da identidade do sujeito.
 
 Do ponto de vista cultural, constitui um exemplo típico  de convergência transmídia: tem sua origem nos [Penny Dreadfuls](https://en.wikipedia.org/wiki/Penny_dreadful) Ingleses do Século XIX e surge do entrelaçamento entre as tirinhas em quadrinhos dos jornais e a [literatura Pulp](https://en.wikipedia.org/wiki/Pulp_magazine) do início do Século XX. Trata-se de  leitura para o entretenimento descompromissado,  fortemente conectada ao contexto histórico, político e econômico da sociedade de sua produção.
 No decorrer do Século XX, seus personagens e narrativas evoluíram e convergiram entre as muitas plataformas de comunicação que a tecnologia tornou disponível (rádio, o cinema, a tv e a internet). A cada nova plataforma, fortaleceu sua audiência e cativou uma outra, que passou a consumir o mesmo discurso, carregado de ideologias e valores, baseado na leitura do mundo através de sua indústria de produção.
 
 - Quais os efeitos do consumo da cultura de super-heróis na construção da identidade (racial e de gênero) de seus leitores? E qual o impacto  gerado na relação desenvolvida com a escola,  com o aprender e  fazer  Física/ Ciências?
 
-No [PPGER da UFSB](https://ufsb.edu.br/ppger/), [Campus Sosígenes Costa](https://www.facebook.com/ufsbcsc), atuo na linha I:
+No [PPGER da UFSB](https://ufsb.edu.br/ppger/) no IHAC do [Campus Sosígenes Costa](https://www.facebook.com/ufsbcsc), atuo na linha I:
 **Relações étnico-raciais, interculturalidades e processos de ensino-aprendizagem**
 
 
@@ -121,40 +128,29 @@ O escritor Grant Morrison, entretanto, sugere em seu livro _Supergods_ que 1970 
 
 ---
 
-**Outros Tópicos de Interesse na Educação em Física / Ciências**
 
-
-
-
-
-
-
-![Hq](https://itxesco.github.io/imagens/icones/icons16/comics-icon.png)[ Histórias em Quadrinhos de Super-Heróis]
-<p> ![rpg](https://itxesco.github.io/imagens/icones/icons16/rpg-icon.png)[ Jogos RPG e Educação]
-<p> ![gênero](https://itxesco.github.io/imagens/icones/icons16/gender-icon.png)[ Relações de Gênero]
-<p> ![afrofuturismo](https://itxesco.github.io/imagens/icones/icons16/afrofuturismo-icon.png)[ Afrofuturismo]
-<p> ![étnico-raciais](https://itxesco.github.io/imagens/icones/icons16/etnicoraciais-icon.png)[ Relações Étnico-Raciais]  
 
 
 
 ---
-#### [Orientações de Mestrado](https://itxesco.github.io/pages/alunos.html)
+<p><strong>Orientações de Mestrado</strong></p>
 
 ---
 
-####Concluídas
+<p><strong>Concluídas</strong></p>
 <p>
-![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png)(http://lattes.cnpq.br/8317287394228958) Sheila Katrini Ferrari Visconde   
-![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png)(http://lattes.cnpq.br/0265292324050570) Valtiângeli Rodrigues da Silva Moitinho  
-![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png)(http://lattes.cnpq.br/9137805008331639) Martha Matos Lucas Teixeira  
-![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png)(http://lattes.cnpq.br/8121344743580077) Ubiratam Gomes dos Santos Junior     
-![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png)(http://lattes.cnpq.br/7545687911475904) Ericka Cristian Santana Carneiro   
-![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png)(http://lattes.cnpq.br/0937458579414776) Marideise Silva Presende
-![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png)(http://lattes.cnpq.br/3523225974376488) Lenilson de Oliveira Silva
+<a href="http://lattes.cnpq.br/8317287394228958"><img src="https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png" alt="lattes da Sheila"></a> Sheila Katrini Ferrari Visconde   
+<a href="http://lattes.cnpq.br/0265292324050570"><img src="https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png" alt="lattes da Valtiangeli"></a>Valtiângeli Rodrigues da Silva Moitinho  
+<a href="http://lattes.cnpq.br/9137805008331639"><img src="https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png" alt="lattes da Martha"></a> Martha Matos Lucas Teixeira  
+<a href="http://lattes.cnpq.br/8121344743580077"><img src="https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png" alt="lattes do Ubiratam"></a> Ubiratam Gomes dos Santos Junior     
+<a href="http://lattes.cnpq.br/7545687911475904"><img src="https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png" alt="lattes da Ericka"></a> Ericka Cristian Santana Carneiro   
+<a href="http://lattes.cnpq.br/0937458579414776"><img src="https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png" alt="lattes da Marideise"></a> Marideise Silva Presende
+<a href="http://lattes.cnpq.br/3523225974376488"><img src="https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png" alt="lattes do Lenilson"></a> Lenilson de Oliveira Silva
+
 <p>
-####Em Andamento
-[![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/3929221160338872) Priscila Bono Pagliuca Rodrigues
-![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png) Reinan Mota Costa
-![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png) Anna Carolina Souza
-![lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png) Flavio Souza dos Santos
+<p><strong>Em Andamento</strong></p>
+<a href="http://lattes.cnpq.br/3929221160338872"><img src="https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png" alt="lattes da Priscila"></a> Priscila Bono Pagliuca Rodrigues
+<a href="http://lattes.cnpq.br/"><img src="https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png" alt="lattes de Reinan"></a> Reinan Mota Costa
+<a href="http://lattes.cnpq.br/"><img src="https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png" alt="lattes de Anna Carolina"></a> Anna Carolina Souza
+<a href="http://lattes.cnpq.br/"><img src="https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png" alt="lattes de Anna Carolina"></a> Flavio Souza dos Santos
  ---
