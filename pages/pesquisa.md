@@ -4,16 +4,15 @@ title: pesquisa
 description: Prof. Dr. Francisco Nascimento - pesquisa em relações étnico-raciais e afrofuturismo ensino de ciências e educação Histórias em Quadrinhos de Super-Heróis e Impacto Cultural no Ensino de Ciências no Ensino de Física Jogos de RPG e Educação e Ensino de Ciências e Ensino de Física
 ---
 <p><strong>Tópicos de Interesse</strong></p>
-(https://itxesco.github.io/imagens/icones/icons16/comics-icon.png)<section id ="top">Histórias em Quadrinhos</section>
-(https://itxesco.github.io/imagens/icones/icons16/afrofuturismo-icon.png)<section id ="afrofuturismo">Afrofuturismo</section>
-(https://itxesco.github.io/imagens/icones/icons16/etnicoraciais-icon.png)<section id ="antiracista">Educação Antiracista</section>
-(https://itxesco.github.io/imagens/icones/icons16/rpg-icon.png)<section id ="jogos">Jogos RPG e Educação</section>
+<img src="https://itxesco.github.io/imagens/icones/icons16/comics-icon.png"><section id ="top">Histórias em Quadrinhos</section>
+<img src="https://itxesco.github.io/imagens/icones/icons16/afrofuturismo-icon.png><section id ="afrofuturismo">Afrofuturismo</section>
+<img src="https://itxesco.github.io/imagens/icones/icons16/etnicoraciais-icon.png"><section id ="antiracista">Educação Antiracista</section>
+<img src="https://itxesco.github.io/imagens/icones/icons16/rpg-icon.png"><section id ="jogos">Jogos RPG e Educação</section>
+<img src="https://itxesco.github.io/imagens/icones/icons16/gender-icon.png"><section id ="genero">Relações de Gênero na Educação</section>
 <section id ="orientador">Orientações de Mestrado</section>
 
 
 
-(https://itxesco.github.io/imagens/icones/icons16/gender-icon.png)[ Relações de Gênero]
-[ Afrofuturismo]
 
 ---
 
