@@ -19,12 +19,12 @@ keywords: Francisco de Assis Nascimento Junior, Ensino de Física, Ensino de Ci�
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="pages/hq.html">
+    <a href="pages/pesquisa.html">
         <img src="imagens/index_pics/sentinel.png" alt="Ataque de robô Sentinela" title="Histórias em Quadrinhos de Super-Heróis e Educação"/>
     </a>
   </td>
   <td class="right">
-    <a href="pages/pesquisa.html">
+    <a href="pages/extensao.html">
         <img src="imagens/index_pics/rpg.png" alt="Dados e miniaturas em jogo de RPG" title="Jogos de RPG e Educação"/>
     </a>
   </td>
@@ -36,8 +36,8 @@ keywords: Francisco de Assis Nascimento Junior, Ensino de Física, Ensino de Ci�
     </a>
   </td>
   <td class="right">
-    <a href="pages/afrofuturism.html">
-        <img src="imagens/index_pics/mano.JPG" alt="Professor Francisco ao lado de mano brown e da reitora da UFSB" title="Extensão"/>
+    <a href="pages/decanato.html">
+        <img src="imagens/index_pics/mano.JPG" alt="Professor Francisco ao lado de mano brown e da reitora da UFSB" title="Decanato"/>
     </a>
   </td>
 </tr>
