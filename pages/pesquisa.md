@@ -178,18 +178,19 @@ O **Afrofuturismo** reimagina o passado, vislumbrando o futuro. Se a vida realme
 
 <p><strong>Concluídas</strong></p>
 <p>
-<a href="http://lattes.cnpq.br/8317287394228958"><img src="https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png" alt="lattes da Sheila"></a> Sheila Katrini Ferrari Visconde   
-<a href="http://lattes.cnpq.br/0265292324050570"><img src="https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png" alt="lattes da Valtiangeli"></a>Valtiângeli Rodrigues da Silva Moitinho  
-<a href="http://lattes.cnpq.br/9137805008331639"><img src="https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png" alt="lattes da Martha"></a> Martha Matos Lucas Teixeira  
-<a href="http://lattes.cnpq.br/8121344743580077"><img src="https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png" alt="lattes do Ubiratam"></a> Ubiratam Gomes dos Santos Junior     
-<a href="http://lattes.cnpq.br/7545687911475904"><img src="https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png" alt="lattes da Ericka"></a> Ericka Cristian Santana Carneiro   
-<a href="http://lattes.cnpq.br/0937458579414776"><img src="https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png" alt="lattes da Marideise"></a> Marideise Silva Presende
-<a href="http://lattes.cnpq.br/3523225974376488"><img src="https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png" alt="lattes do Lenilson"></a> Lenilson de Oliveira Silva
+<a href="http://lattes.cnpq.br/8317287394228958"><img src="https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png" alt="lattes da Sheila"></a> Sheila Katrini Ferrari Visconde <br>  
+<a href="http://lattes.cnpq.br/0265292324050570"><img src="https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png" alt="lattes da Valtiangeli"></a>Valtiângeli Rodrigues da Silva Moitinho  <br>
+<a href="http://lattes.cnpq.br/9137805008331639"><img src="https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png" alt="lattes da Martha"></a> Martha Matos Lucas Teixeira <br>
+<a href="http://lattes.cnpq.br/8121344743580077"><img src="https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png" alt="lattes do Ubiratam"></a> Ubiratam Gomes dos Santos Junior <br>    
+<a href="http://lattes.cnpq.br/7545687911475904"><img src="https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png" alt="lattes da Ericka"></a> Ericka Cristian Santana Carneiro   <br>
+<a href="http://lattes.cnpq.br/0937458579414776"><img src="https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png" alt="lattes da Marideise"></a> Marideise Silva Presende <br>
+<a href="http://lattes.cnpq.br/3523225974376488"><img src="https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png" alt="lattes do Lenilson"></a> Lenilson de Oliveira Silva <br>
 
 <p>
 <p><strong>Em Andamento</strong></p>
-<a href="http://lattes.cnpq.br/3929221160338872"><img src="https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png" alt="lattes da Priscila"></a> Priscila Bono Pagliuca Rodrigues
-<a href="http://lattes.cnpq.br/"><img src="https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png" alt="lattes de Reinan"></a> Reinan Mota Costa
-<a href="http://lattes.cnpq.br/"><img src="https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png" alt="lattes de Anna Carolina"></a> Anna Carolina Souza
-<a href="http://lattes.cnpq.br/"><img src="https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png" alt="lattes de Anna Carolina"></a> Flavio Souza dos Santos
+<p>
+<a href="http://lattes.cnpq.br/3929221160338872"><img src="https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png" alt="lattes da Priscila"></a> Priscila Bono Pagliuca Rodrigues <br>
+<a href="http://lattes.cnpq.br/"><img src="https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png" alt="lattes de Reinan"></a> Reinan Mota Costa <br>
+<a href="http://lattes.cnpq.br/"><img src="https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png" alt="lattes de Anna Carolina"></a> Anna Carolina Souza <br>
+<a href="http://lattes.cnpq.br/"><img src="https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png" alt="lattes de Anna Carolina"></a> Flavio Souza dos Santos <br>
  ---
