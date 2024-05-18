@@ -3,13 +3,53 @@ layout: page
 title: pesquisa
 description: Prof. Dr. Francisco Nascimento - pesquisa em relações étnico-raciais e afrofuturismo ensino de ciências e educação Histórias em Quadrinhos de Super-Heróis e Impacto Cultural no Ensino de Ciências no Ensino de Física Jogos de RPG e Educação e Ensino de Ciências e Ensino de Física
 ---
-<p><strong>Tópicos de Interesse</strong></p>
-<img src="https://itxesco.github.io/imagens/icones/icons16/comics-icon.png"><section id ="top">Histórias em Quadrinhos</section>
-<img src="https://itxesco.github.io/imagens/icones/icons16/afrofuturismo-icon.png><section id ="afrofuturismo">Afrofuturismo</section>
-<img src="https://itxesco.github.io/imagens/icones/icons16/etnicoraciais-icon.png"><section id ="antiracista">Educação Antiracista</section>
-<img src="https://itxesco.github.io/imagens/icones/icons16/rpg-icon.png"><section id ="jogos">Jogos RPG e Educação</section>
-<img src="https://itxesco.github.io/imagens/icones/icons16/gender-icon.png"><section id ="genero">Relações de Gênero na Educação</section>
-<section id ="orientador">Orientações de Mestrado</section>
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu de Navegação</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .menu {
+            background-color: #333;
+            overflow: hidden;
+        }
+        .menu a {
+            float: left;
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+        .menu a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+        .content {
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="menu">
+    <a href="#hq">Histórias em Quadrinhos</a>
+    <a href="#afrofuturismo">Afrofuturismo</a>
+    <a href="#antiracista">Educação Antiracista</a>
+    <a href="#jogos">Jogos de RPG e Educação</a>
+    <a href="#orientador"> Orientações de Mestrado</a>
+</div>
+
+
+
+</body>
+</html>
+
+
 
 
 
@@ -19,17 +59,20 @@ description: Prof. Dr. Francisco Nascimento - pesquisa em relações étnico-rac
 <p>
 Meu principal campo de estudo está nos reflexos do consumo de produtos midiáticos relativos a Cultura de Super-Heróis (histórias em quadrinhos, filmes, livros, animações, jogos) nas práticas de ensino/aprendizagem de Física / Ciências, e a influência de seu discurso na formação da identidade do sujeito.
 
-Do ponto de vista cultural, constitui um exemplo típico  de convergência transmídia: tem sua origem nos [Penny Dreadfuls](https://en.wikipedia.org/wiki/Penny_dreadful) Ingleses do Século XIX e surge do entrelaçamento entre as tirinhas em quadrinhos dos jornais e a [literatura Pulp](https://en.wikipedia.org/wiki/Pulp_magazine) do início do Século XX. Trata-se de  leitura para o entretenimento descompromissado,  fortemente conectada ao contexto histórico, político e econômico da sociedade de sua produção.
+Do ponto de vista cultural, constitui um exemplo típico  de convergência transmídia: tem sua origem nos <a href="https://en.wikipedia.org/wiki/Penny_dreadful">Penny Dreadfuls</a> Ingleses do Século XIX e surge do entrelaçamento entre as tirinhas em quadrinhos dos jornais e a <a href="https://en.wikipedia.org/wiki/Pulp_magazine">literatura Pulp </a> do início do Século XX. Trata-se de  leitura para o entretenimento descompromissado,  fortemente conectada ao contexto histórico, político e econômico da sociedade de sua produção.
 No decorrer do Século XX, seus personagens e narrativas evoluíram e convergiram entre as muitas plataformas de comunicação que a tecnologia tornou disponível (rádio, o cinema, a tv e a internet). A cada nova plataforma, fortaleceu sua audiência e cativou uma outra, que passou a consumir o mesmo discurso, carregado de ideologias e valores, baseado na leitura do mundo através de sua indústria de produção.
 
 - Quais os efeitos do consumo da cultura de super-heróis na construção da identidade (racial e de gênero) de seus leitores? E qual o impacto  gerado na relação desenvolvida com a escola,  com o aprender e  fazer  Física/ Ciências?
 
-No [PPGER da UFSB](https://ufsb.edu.br/ppger/) no IHAC do [Campus Sosígenes Costa](https://www.facebook.com/ufsbcsc), atuo na linha I:
+No <a href="https://ufsb.edu.br/ppger/">PPGER</a> do <a href="https://ufsb.edu.br/ihac-csc">IHAC-CSC </a> da UFSB, atuo na linha I:
 **Relações étnico-raciais, interculturalidades e processos de ensino-aprendizagem**
 
-
+<p>
 ---
-<a href="#top">Sobre Histórias em Quadrinhos</a>
+<div class="content">
+    <h2 id="hq">Histórias em Quadrinhos</h2>
+  </div>
+  <p>
 <p>
 O interesse pela base de pesquisa vem de um laço muito pessoal: me alfabetizei aos 5 anos de idade, com uma revista de historias em quadrinhos do Homem-Aranha publicado pela antiga editora EBAL, na sala da casa de meus avós.
 E nunca mais parei de ler.
@@ -38,11 +81,12 @@ As Histórias em Quadrinhos apresentam um retrato do mundo e da sociedade em que
 
 Trata-se de uma forma de contar histórias a partir de uma ideia simples: posicionar uma imagem ao lado da outra, ilustrando a passagem do tempo.
 
- ![Quadrinhos][calvin_1]
+ <img src="https://itxesco.github.io/assets/figuras/hq/calvin.jpg">
 
+<p>
 ####A lenda do menino amarelo  
 
-[![o_menino_amarelo][yellow]][link_trailer_bp]  
+<img src="https://itxesco.github.io/assets/figuras/hq/yellow_kid.jpg">  
 
 
 Em 17 de fevereiro de 1895, o jornal “New York World”  publicou aquela que é considerada por muitos pesquisadores como a primeira tirinha em quadrinhos, de autoria de Richard F. Outcault, _The Cirucus Down Hogan’s Alley_. Não havia ainda os balões de fala ou pensamento, mas a tirinha contava com um protagonista, _the yellow kid_  ou "o menino amarelo", que vestia uma camisola onde sua "fala" aparecia escrita.
@@ -59,16 +103,19 @@ Por outro lado, essa disputa pela _primeira história em quadrinhos_ deve levar 
 
 Além disso, temos a questão dos vitrais que contam a via-sacra nas igrejas católicas, uma forma de arte sequencial sem balões ou texto narrativo  
 
-![Quadrinhos?][via_sacra]  
+<img src=" https://itxesco.github.io/assets/figuras/hq/vitrais.jpg
+">  
 
 A tapeçaria Baieux (c. 1070-1080), com seus 70 metros de comprimento e 50 cm de altura, é um dos maiores documentos imagéticos da Idade Média. Trata-se de um bordado em linho feito para comemorar a vitória e a conquista normanda da Inglaterra em 1066, com cenas repletas de realismo, proporcionando uma excelente noção não só de como se fazia a guerra no século XI, mas também sobre qual o tipo de vida dos nobres e guerreiros, suas roupas e armas, sua comida e castelos, por exemplo. Não se trata de uma narrativa gráfica, como uma História em Quadrinhos?
 
-[![tapeçaria_baieux][baieux]][link_trailer_bp]
+<img src="https://itxesco.github.io/assets/figuras/hq/tapecaria.jpg
+">
 
 
 Podemos regredir no tempo à vontade: dos vasos gregos às pinturas egípcias, até alcançarmos a pré-história, encontraremos exemplos de uso do desenho como forma de contar histórias.
 
-[![pintura_rupestre][rupestre]][link_sh_milestone]
+<img src="https://itxesco.github.io/assets/figuras/hq/caverna.jpg   
+">
 
 Não faz muito sentido, portanto, discutir a origem das Histórias em Quadrinhos em estudos que analisam sua influência como mídia de comunicação em massa. Aqui, o _boom_ industrial dos anos 1830 na Inglaterra e as mudanças sociais que levaram ao aumento da literacia de uma classe operária, que passa a ter disponibilidade financeira para entretenimento, juntamente com as melhoria das técnicas de impressão com a prensa móvel, deram origem ao _Penny Dreadful_ (ou _penny horrible, penny awful , penny number_, e _penny blood_).   
 Trata-se de um tipo de revista de ficção que se tornou bastante popular na Grã-Bretanha do século XIX, uma opção acessível às novelas seriadas como as de Charles Dickens, que custavam cerca de 1 _shilling_ cada. Eram impressos em papel de polpa de madeira com  histórias seriadas de ficção sensacionalista e horror, eram dirigidas ao público masculino da classe trabalhadora. Entre 1830 e 1850 existiram mais de 100 editoras de _pennies_
@@ -116,61 +163,55 @@ O escritor Grant Morrison, entretanto, sugere em seu livro _Supergods_ que 1970 
 >DANTON, Gian. **Ciência e quadrinhos**. João Pessoa: Marca de Fantasia, 2005.
 
 
-
-
-[calvin_1]: https://itxesco.github.io/assets/figuras/hq/calvin.jpg
-
-[link_trailer_bp]: https://www.youtube.com/watch?v=wL4a4MafSjQ "trailer do filme Pantera Negra"
-
-[rupestre]: https://itxesco.github.io/assets/figuras/hq/caverna.jpg "conheça os super-heróis da milestone"  
-
-[via_sacra]: https://itxesco.github.io/assets/figuras/hq/vitrais.jpg "conheça os super-heróis da milestone"    
-
-[link_sh_milestone]:https://www.ladonegrodaforca.com.br/os-herois-da-milestone-media/ "heróis da milestone"  
-
-[yellow]: https://itxesco.github.io/assets/figuras/hq/yellow_kid.jpg
-
-[link_afro_revolt]:https://www.revolt.tv/2018/2/27/20824357/from-octavia-butler-to-black-panther-afrofuturism-now-then-and-tomorrow "From Octavia Butler to 'Black Panther:' Afrofuturism Now, Then and Tomorrow"  
-
-[baieux]: https://itxesco.github.io/assets/figuras/hq/tapecaria.jpg "o que é Afrofuturismo?"
-
 ---
-
-
-<a href="#afrofuturismo">Afrofuturismo</a>
 <p>
+<div class="content">
+    <h2 id="afrofuturismo">Afrofuturismo</h2>
+    </div>
 ---
-
-[![o que é afrofuturismo?][afro_revolt]][link_afro_revolt]
+<p>
+<img src="https://itxesco.github.io/assets/figuras/afro/afro_revolt.jpg">
 
 <p>
-Em 1993 o filme [Flame Wars: The Discourse of Cyberculture](https://www.wired.com/1995/01/flame-wars/), do crítico cultural [Mark Dery](https://en.wikipedia.org/wiki/Mark_Dery), apresentou o termo **Afrofuturismo**  ao se referir a "ficção especulativa de assuntos afro-americanos, referente às preocupações afro-americanas no contexto da tecnocultura do século XX e, de um modo mais geral, à resignificação afro-americana das imagens de tecnologia e aprimorações protéticas futurísticas"[(DERY, 1994 pg. 136)](https://www.jstor.org/stable/20719430?seq=1).   
-Esta é uma definição que deve ser interpretada em duas partes, de acordo com [Lisa Yaszek](https://www.iac.gatech.edu/people/faculty/yaszek):  
+Em 1993 o filme <a href="(https://www.wired.com/1995/01/flame-wars/">Flame Wars: The Discourse of Cyberculture</a>, do crítico cultural <a href="https://en.wikipedia.org/wiki/Mark_Dery">Mark Dery</a>, apresentou o termo **Afrofuturismo**  ao se referir a "ficção especulativa de assuntos afro-americanos, referente às preocupações afro-americanas no contexto da tecnocultura do século XX e, de um modo mais geral, à resignificação afro-americana das imagens de tecnologia e aprimorações protéticas futurísticas" <a href="https://www.jstor.org/stable/20719430?seq=1">(DERY, 1994 pg. 136)</a>.   
+Esta é uma definição que deve ser interpretada em duas partes, de acordo com <a href="https://www.iac.gatech.edu/people/faculty/yaszek">Lisa Yaszek</a>:  
 
  - Em sua relação com a ficção científica como gênero estético, o **Afrofuturismo** não deve ser pensado como um simples gênero de ficção cientifica.
  - O **Afrofuturismo** representa um modo estético capaz de abranger diferentes artistas e seus trabalhos, em diferentes gêneros e plataformas de mídia, unidos pelo  interesse comum de projetar um _futuro negro_ à partir de experiências diaspóricas (YASZEK, 2006 [![pdf](icons16/pdf-icon.png)](https://itxesco.github.io/assets/afrofuturismo/Afrofuturism_science_fiction_and_the_his.pdf))
 
-[![heróis da milestone][milestone]][link_sh_milestone]  
+<img src="https://itxesco.github.io/assets/figuras/afro/milestone.jpg">
 
 Ytasha Womack apresenta uma outra definição para o **Afrofuturismo**  como uma "intersecção entre a imaginação, a tecnologia, o futuro e a libertação" [Womack 2013 pg. 9](https://www.chicagoreviewpress.com/afrofuturism-products-9781613747964.php). Trata-se, portanto, de "um movimento cultural transdisciplinar, baseado na incomum conexão  entre a marginalidade dos supostamente “primitivos” povos da diáspora africana e a tecnologia “moderna” e a ficção científica"(ELIA, 2014 [![pdf](icons16/pdf-icon.png)](https://itxesco.github.io/assets/afrofuturismo/The_Languages_of_Afrofuturism.pdf)).  
+
 Em seu artigo sobre a definição do **Afrofuturismo**, [Adriano Elia](https://host.uniroma3.it/docenti/elia/) considera suas diferentes linguagens, como a arte de [Basquiat](https://www.guiadasartes.com.br/jean-michel-basquiat/biografia), a música de [Sun Ra](http://www.sunraarkestra.com) e a literatura de [WEB Du Bois](https://en.wikipedia.org/wiki/W._E._B._Du_Bois), [Ralph Ellison](https://en.wikipedia.org/wiki/Ralph_Ellison) e [Octavia Butler](https://en.wikipedia.org/wiki/Octavia_E._Butler).   
 
 **Afrofuturismo** é um termo capaz de suscitar diferentes definições enlaçadas por um elo em comum: os temas de recuperação, libertação negra,  revisão do passado e previsões de um futuro através de uma lente cultural negra.
 
 O **Afrofuturismo** seria, então, uma forma de arte prática e metodológica, que permite à pessoa negra se ver representada em uma visão de futuro, apesar de seu passado e presente angustiantes,  apelando para a estética e ideias da ficção científica para refletir o processo de marginalização do povo Africano em diáspora, que em sua história de 500 anos de colonialismo, racismo e segregação, desenvolveu uma relação disjunctiva do conceito de "lar".
 
-[![o filme do Pantera Negra][blackpanther]][link_trailer_bp]
-
+<img src="https://itxesco.github.io/assets/figuras/afro/blackpanther.jpg">
 
 O **Afrofuturismo** reimagina o passado, vislumbrando o futuro. Se a vida realmente imitar a arte, o futuro pertencerá à Africa e a seus contadores de histórias.
 
-[blackpanther]: https://itxesco.github.io/assets/figuras/afro/blackpanther.jpg  
-[link_trailer_bp]: https://www.youtube.com/watch?v=wL4a4MafSjQ "trailer do filme Pantera Negra"  
-[milestone]: https://itxesco.github.io/assets/figuras/afro/milestone.jpg "conheça os super-heróis da milestone"  
-[link_sh_milestone]:https://www.ladonegrodaforca.com.br/os-herois-da-milestone-media/ "heróis da milestone"  
-[afro_revolt]: https://itxesco.github.io/assets/figuras/afro/afro_revolt.jpg "o que é Afrofuturismo?"
-[link_afro_revolt]:https://www.revolt.tv/2018/2/27/20824357/from-octavia-butler-to-black-panther-afrofuturism-now-then-and-tomorrow "From Octavia Butler to 'Black Panther:' Afrofuturism Now, Then and Tomorrow"  
 
+<p>
+---
+
+    <div class="content">
+    <h2 id="antiracista">Educação Antiracista</h2>
+</div>
+<p>
+---
+
+    <div class="content">
+    <h2 id="antiracista">Educação Antiracista</h2>
+</div>
+<p>
+
+<div class="content">
+    <h2 id="jogos">Jogos e Educação</h2>
+</div>
+<p>
 ---
 <a href="#orientador">Orientações de Mestrado</a>
 
@@ -194,3 +235,11 @@ O **Afrofuturismo** reimagina o passado, vislumbrando o futuro. Se a vida realme
 <a href="http://lattes.cnpq.br/"><img src="https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png" alt="lattes de Anna Carolina"></a> Anna Carolina Souza <br>
 <a href="http://lattes.cnpq.br/"><img src="https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png" alt="lattes de Anna Carolina"></a> Flavio Souza dos Santos <br>
  ---
+
+ <p>
+
+ [link_afro_revolt]:https://www.revolt.tv/2018/2/27/20824357/from-octavia-butler-to-black-panther-afrofuturism-now-then-and-tomorrow "From Octavia Butler to 'Black Panther:' Afrofuturism Now, Then and Tomorrow"
+
+ [link_trailer_bp]: https://www.youtube.com/watch?v=wL4a4MafSjQ "trailer do filme Pantera Negra"
+
+ [link_sh_milestone]:https://www.ladonegrodaforca.com.br/os-herois-da-milestone-media/ "heróis da milestone"  
