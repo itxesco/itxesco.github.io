@@ -3,7 +3,6 @@ layout: page
 title: extensão universitária
 description: Projetos de extensão Universitária - Prof. Dr. Francisco Nascimento
 ---
-<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -46,6 +45,8 @@ description: Projetos de extensão Universitária - Prof. Dr. Francisco Nascimen
     <a href="#escola">Escolas no Campus</a>
 </div>
 
+<p>
+<p>
 
 ---
 
@@ -105,5 +106,3 @@ Dado o cenário da pandemia COVID-19, em 2020 o Encontro com Educadores foi real
 Sua principal característica está na abordagem lúdica de temas científicos em conexão com manifestações artístico-culturais e temas sociais, que se dão a partir de intervenções não-formais no ambiente da escola. Hoje, a Banca está presente também na Universidade Federal de São Paulo (Unifesp), em Guarulhos e Diadema, e no Instituto Federal de São Paulo (IFSP) em Boituva, Na Universidade Federal de Pernambuco (Caruaru), na Universidade de Brasília, na Universidade Federal do Pampa e no Campus Sosígenes Costa da Universidade Federal do Sul da Bahia.
 
 ---
-</body>
-</html>
