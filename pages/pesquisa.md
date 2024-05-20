@@ -62,7 +62,7 @@ Buscando respostas para essas perguntas, no <a href="https://ufsb.edu.br/ppger/"
 <p>
 ---
 <div class="content">
-    <h2 id="hq">Histórias em Quadrinhos</h2>
+    <h3 id="hq">Por que investigar as Histórias em Quadrinhos?</h3>
   </div>
   <p>
 <p>
@@ -76,12 +76,14 @@ Trata-se de uma forma de contar histórias a partir de uma ideia simples: posici
  <img src="https://itxesco.github.io/assets/figuras/hq/calvin.jpg">
 
 <p>
-<title>A lenda do menino amarelo </title>
-
-<img src="https://itxesco.github.io/assets/figuras/hq/yellow_kid.jpg">  
+<h3>A lenda do menino amarelo </h3>
+<p>
 
 
 Em 17 de fevereiro de 1895, o jornal “New York World”  publicou aquela que é considerada por muitos pesquisadores como a primeira tirinha em quadrinhos, de autoria de Richard F. Outcault, <i>The Cirucus Down Hogan’s Alley</i>. Não havia ainda os balões de fala ou pensamento, mas a tirinha contava com um protagonista, <i>the yellow kid</i>  ou "o menino amarelo", que vestia uma camisola onde sua "fala" aparecia escrita.
+<p>
+<img src="https://itxesco.github.io/assets/figuras/hq/yellow_kid.jpg">  
+<p>
 
 Entretanto, em 30 de janeiro de 1869 nas páginas do jornal “Vida Fluminense”, o italiano radicado no Brasil, Ângelo Agostini, publicou sua tira  intitulada “As aventuras de Nhô Quim, ou impressões de uma viagem à corte".
 
@@ -158,7 +160,7 @@ DANTON, Gian. <strong>Ciência e quadrinhos</strong>. João Pessoa: Marca de Fan
 ---
 <p>
 <div class="content">
-    <h2 id="afrofuturismo">Afrofuturismo</h2>
+    <h3 id="afrofuturismo">Afrofuturismo</h3>
     </div>
 ---
 <p>
@@ -191,30 +193,22 @@ O <strong>Afrofuturismo</strong> reimagina o passado, vislumbrando o futuro. Se 
 ---
 
     <div class="content">
-    <h2 id="antiracista">Educação Antiracista</h2>
+    <h3 id="antiracista">Educação Antiracista</h3>
 </div>
 <p>
 ---
 
 <div class="content">
-    <h2 id="jogos">Jogos e Educação</h2>
+    <h3 id="jogos">Jogos e Educação</h3>
 </div>
 <p>
 ---
-<a href="#orientador">Orientações de Mestrado</a>
+<div class="content">
+    <h3 id="orientador">Orientações de Mestrado</h3>
+</div>
+<p>
 
 ---
-
-<p><strong>Concluídas</strong></p>
-<p>
-<a href="http://lattes.cnpq.br/8317287394228958"><img src="https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png" alt="lattes da Sheila"></a> Sheila Katrini Ferrari Visconde <br>  
-<a href="http://lattes.cnpq.br/0265292324050570"><img src="https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png" alt="lattes da Valtiangeli"></a>Valtiângeli Rodrigues da Silva Moitinho  <br>
-<a href="http://lattes.cnpq.br/9137805008331639"><img src="https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png" alt="lattes da Martha"></a> Martha Matos Lucas Teixeira <br>
-<a href="http://lattes.cnpq.br/8121344743580077"><img src="https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png" alt="lattes do Ubiratam"></a> Ubiratam Gomes dos Santos Junior <br>    
-<a href="http://lattes.cnpq.br/7545687911475904"><img src="https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png" alt="lattes da Ericka"></a> Ericka Cristian Santana Carneiro   <br>
-<a href="http://lattes.cnpq.br/0937458579414776"><img src="https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png" alt="lattes da Marideise"></a> Marideise Silva Presende <br>
-<a href="http://lattes.cnpq.br/3523225974376488"><img src="https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png" alt="lattes do Lenilson"></a> Lenilson de Oliveira Silva <br>
-
 <p>
 <p><strong>Em Andamento</strong></p>
 <p>
@@ -225,3 +219,13 @@ O <strong>Afrofuturismo</strong> reimagina o passado, vislumbrando o futuro. Se 
  ---
 
  <p>
+
+<p><strong>Concluídas</strong></p>
+<p>
+<a href="http://lattes.cnpq.br/8317287394228958"><img src="https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png" alt="lattes da Sheila"></a> Sheila Katrini Ferrari Visconde <br>  
+<a href="http://lattes.cnpq.br/0265292324050570"><img src="https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png" alt="lattes da Valtiangeli"></a>Valtiângeli Rodrigues da Silva Moitinho  <br>
+<a href="http://lattes.cnpq.br/9137805008331639"><img src="https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png" alt="lattes da Martha"></a> Martha Matos Lucas Teixeira <br>
+<a href="http://lattes.cnpq.br/8121344743580077"><img src="https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png" alt="lattes do Ubiratam"></a> Ubiratam Gomes dos Santos Junior <br>    
+<a href="http://lattes.cnpq.br/7545687911475904"><img src="https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png" alt="lattes da Ericka"></a> Ericka Cristian Santana Carneiro   <br>
+<a href="http://lattes.cnpq.br/0937458579414776"><img src="https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png" alt="lattes da Marideise"></a> Marideise Silva Presende <br>
+<a href="http://lattes.cnpq.br/3523225974376488"><img src="https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png" alt="lattes do Lenilson"></a> Lenilson de Oliveira Silva <br>
