@@ -6,7 +6,7 @@ description: Prof. Dr. Francisco Nascimento - pesquisa em relações étnico-rac
 
 O autismo, ou Transtorno do Espectro do Autismo (TEA), é uma condição neurológica e de desenvolvimento que afeta a forma como uma pessoa percebe e socializa com os outros, resultando em dificuldades na comunicação e na interação social. O espectro do autismo inclui uma ampla gama de características e sintomas, que variam significativamente de pessoa para pessoa.
 
-<img src="https://itxesco.github.io/assets/figuras/autismo/espectro_eletromagnetico.png">
+<img src="https://itxesco.github.io/assets/figuras/autismo/espectro_eletromagnetico.png"alt="espectro da radiação eletromagnetica" title="Você compreende a existência e a estrutura do espectro eletromagnético. Sabe que ele é real e que a cor azul é diferente da amarela e que ambas diferem de um Raio-X: por que exigir que as pessoas autistas sejam iguais ou somente existam em concordancia com um estereotipo?">
 
 ### Características do Autismo em Adultos
 
