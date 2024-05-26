@@ -17,7 +17,7 @@
       <tr>
           <td class="left">
               <a href="pages/pesquisa_edu.html">
-                  <img src="imagens/index_pics/educacao_atirracista.jpg" alt="lousa escolar verde com a escrita Educação Antiracista em giz amarelo" title="Educação Antiracista"/>
+                  <img src="imagens/index_pics/educa_anti.jpg" alt="lousa escolar verde com a escrita Educação Antiracista em giz amarelo" title="Educação Antiracista"/>
               </a>
           </td>
           <td class="right">
