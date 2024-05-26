@@ -4,11 +4,15 @@ title: TEA em Adultos
 description: Prof. Dr. Francisco Nascimento - pesquisa em relações étnico-raciais e afrofuturismo ensino de ciências e educação Histórias em Quadrinhos de Super-Heróis e Impacto Cultural no Ensino de Ciências no Ensino de Física Jogos de RPG e Educação e Ensino de Ciências e Ensino de Física
 ---
 
-O autismo, ou Transtorno do Espectro do Autismo (TEA), é uma condição neurológica e de desenvolvimento que afeta a forma como uma pessoa percebe e socializa com os outros, resultando em dificuldades na comunicação e na interação social. O espectro do autismo inclui uma ampla gama de características e sintomas, que variam significativamente de pessoa para pessoa.
+O autismo, ou Transtorno do Espectro do Autismo (TEA), é uma condição neurológica e de desenvolvimento que afeta a forma como uma pessoa percebe e socializa com os outros, resultando em dificuldades na comunicação e na interação social. O TEA inclui uma ampla gama de características e sintomas, que variam significativamente de pessoa para pessoa. Para entender melhor, veja a imagem abaixo:
+<p>
+<img src="https://itxesco.github.io/assets/figuras/autismo/espectro_eletromagnetico.png"alt="espectro da radiação eletromagnetica">
+<p>
+A imagem apresenta a estrutura do espectro eletromagnético, separando as ondas por comprimento(m) e frequência (Hz). Olhando para ele, é fácil perceber que as cores que nossos olhos enxergam constituem uma pequena parte do todo (400nm a 750nm). Você não pode enxergar os Raios-X ou as microondas do forno na sua cozinha, mas sabe que eles são reais, assim como sabe que a cor azul é diferente da cor amarela.
+Você pode não conhecer o espectro eletromagnético em detalhes, mas aceita sua existência com naturalidade. Use essa analogia com o TEA e  não  exija que as pessoas autistas sejam iguais entre si, que tenhamos os mesmos comportamentos ou somente possamos existir em concordância com um estereotipo?
+Como disse, as ondas eletromagnéticas possuem características em comum, assim como nós. Mas cada onda é única e nós também somos.
 
-<img src="https://itxesco.github.io/assets/figuras/autismo/espectro_eletromagnetico.png"alt="espectro da radiação eletromagnetica" title="Você compreende a existência e a estrutura do espectro eletromagnético. Sabe que ele é real e que a cor azul é diferente da amarela e que ambas diferem de um Raio-X: por que exigir que as pessoas autistas sejam iguais ou somente existam em concordancia com um estereotipo?">
-
-### Características do Autismo em Adultos
+### Algumas Características  Adultos no TEA partilham:
 
 1. **Interação Social**:
    - Dificuldade em compreender e usar a linguagem corporal, expressões faciais e gestos.
@@ -32,7 +36,10 @@ O autismo, ou Transtorno do Espectro do Autismo (TEA), é uma condição neurol�
 
 ### Diagnóstico Tardio
 
-Muitas pessoas com autismo não são diagnosticadas até a idade adulta, especialmente aquelas com sintomas menos evidentes. O diagnóstico pode ser realizado por um profissional de saúde mental especializado em TEA, através de uma avaliação que inclui entrevistas, questionários e observações comportamentais.
+Muitas pessoas no TEA não foram diagnosticadas até a idade adulta, especialmente aquelas com sintomas menos evidentes. O motivo não é dificil de entender, basta procurar por um cardiologista em uma cidade pequena do interior para perceber que o acesso ao atendimento médico especializado é difícil nos dias de hoje. Agora, pense em como era há 20 anos atrás, ou 30, ou 40. Além disso é preciso lembrar que a propria ciência não é estática, está sempre em desenvolvimento e que aquilo que se sabia sobre o autismo em 1980 é muito diferente do que conhecemos em 2024.  
+O diagnóstico deve ser iniciado por um profissional de saúde mental especializado em TEA, como o neuropsicólogo, através de uma avaliação que inclui entrevistas, questionários e observações comportamentais. Depois, é necessário que um psiquiatra realize os demais exames investigativos até que se obtenha um laudo final.
+O importante é lembrar que o adulto não "vira autista", ele sempre foi. A pessoa nasce autista, cresce e envelhece autista.
+Não é uma doença, portanto, não tem cura, mas há tratamentos que facilitam a vida.
 
 ### A Vida no TEA
 
@@ -45,7 +52,7 @@ Muitas pessoas com autismo não são diagnosticadas até a idade adulta, especia
    - O apoio e a compreensão de amigos e familiares são cruciais.
 
 3. **Autonomia**:
-   - O nível de independência varia. Alguns adultos com autismo vivem de forma completamente independente, enquanto outros podem precisar de apoio para atividades diárias.
+   - O nível de independência varia. Alguns adultos vivem de forma completamente independente, enquanto outros podem precisar de apoio para atividades diárias.
 
 4. **Saúde Mental**:
    - É comum que adultos com autismo também enfrentem desafios como ansiedade, depressão e outras condições de saúde mental. Terapia e suporte adequado podem ser benéficos.
@@ -58,7 +65,8 @@ Muitas pessoas com autismo não são diagnosticadas até a idade adulta, especia
 - **Grupos de Apoio**: Conexão com outros adultos autistas para compartilhar experiências e estratégias.
 
 Com o suporte adequado e um ambiente compreensivo, adultos com autismo podem levar uma vida plena e satisfatória, aproveitando suas habilidades e interesses únicos.
-
+<p>
+<img src="https://itxesco.github.io/imagens/index_pics/tea_adulto.jpg"alt="uso do girassol como símbolo do autismo">
 
 ### Razões para usar o Girassol como símbolo
 
@@ -75,8 +83,11 @@ Embora não seja tradicionalmente associado ao autismo, o Girassol vem sendo ado
    - O girassol ajuda a promover um ambiente mais inclusivo e compreensivo, facilitando a identificação de pessoas que podem precisar de apoio adicional devido a condições não imediatamente visíveis.
 
 ### Por que não usar o Quebra-Cabeça?
+<p>
+<img src="https://itxesco.github.io/imagens/textos/quebra.jpg"alt="quebra-cabeças antes usado como símbolo do autismo">
 
-Existem algumas razões pelas quais eu tenho reservas em relação ao uso do quebra-cabeça como símbolo do autismo, que vejo serem compartilhadas por grande parte da comunidade autista na atualidade:
+<p>
+Existem algumas razões pelas quais tenho reservas em relação ao uso do quebra-cabeça como símbolo do autismo, que vejo serem compartilhadas por grande parte da comunidade autista na atualidade:
 
 1. **Controvérsia sobre a Origem**: o símbolo do quebra-cabeça foi criado sem o envolvimento significativo da comunidade autista e pode não refletir completamente as perspectivas e experiências das pessoas no espectro.
 
@@ -84,9 +95,9 @@ Existem algumas razões pelas quais eu tenho reservas em relação ao uso do que
 
 3. **Estigma e Conotações Negativas**: O uso do quebra-cabeça pode reforçar estigmas negativos associados ao TEA, sugerindo que nós somos pessoas "quebradas" ou que precisamos ser "consertadas".
 
-4. **Falta de Autenticidade**: Para muitas pessoas autistas, o quebra-cabeça pode não ressoar com suas próprias experiências ou identidades. É o meu caso. Eu prefiro utilizar um símbolo que foi desenvolvido pela comunidade autista e que reflita mais de perto suas experiências e perspectivas.
+4. **Falta de Autenticidade**: Para muitas pessoas autistas, o quebra-cabeça não ressoa com suas próprias experiências ou identidades, como no meu caso. Eu prefiro utilizar um símbolo que foi desenvolvido pela comunidade autista, que reflita mais de perto nossas experiências e perspectivas.
 
-5. **Suposições sobre Acessibilidade**: O quebra-cabeça pode ser difícil para pessoas com deficiência visual entenderem, pois depende de cores e padrões visuais. Isso pode excluir ou alienar pessoas com diferentes capacidades sensoriais. É como quando a pessoa quer utilizar linguagem inclusiva e usa o @ ou o x para desgenerificar uma palavra e ao inves de digitar a palavra "outros" usa "outr@s" ou "outrxs", por exemplo. São palavras que não existem e que impossibilitam a leitura do texto por pessoas com deficiência visual que utilizem softwares específicos, assim, em sua tentativa de utilizar uma "linguagem inclusiva" pratica a exclusão. Esse problema deixa de existir se a pessoa utilizar o Sistema Delu com a grafia "outres".
+5. **Suposições sobre Acessibilidade**: O quebra-cabeça pode ser difícil para pessoas com deficiência visual entenderem, pois depende de cores e padrões visuais. Isso pode vir a excluir ou alienar pessoas com diferentes capacidades sensoriais. Explico: tome como exemplo uma pessoa que quer utilizar a linguagem inclusiva em um texto que será publicado na internet e usa o @ ou o x para desgenerificar uma palavra. Assim, ao invés de digitar a palavra "outros", a pessoa usa grafias como "outr@s" ou "outrxs", palavras que não existem e que impossibilitam a leitura do texto por pessoas com deficiência visual (que navegam online usando softwares específicos de leitura). Ou seja: na tentativa de utilizar uma "linguagem inclusiva", a pessoa acabou por praticar uma exclusão. O problema  em questão deixaria de existir se a pessoa utilizasse o Sistema Delu e a grafia "outres".
 
-Essas são algumas das razões pelas quais algumas pessoas são contra o uso do quebra-cabeça como símbolo do autismo. No entanto, é importante reconhecer que as opiniões podem variar amplamente dentro da comunidade autista, e muitas pessoas ainda valorizam o quebra-cabeça como um símbolo de conscientização e apoio.
-O importante é ouvir as vozes da comunidade autista e respeitar suas perspectivas e preferências, mas particularmente eu prefiro utilizar o Girassol, pelos motivos acima expostos.
+Essas são algumas das razões pelas quais sou contra o uso do quebra-cabeça como símbolo do autismo. No entanto, é preciso lembrar que as opiniões podem variar amplamente dentro da comunidade autista, e muitas pessoas ainda valorizam o quebra-cabeça como um símbolo de conscientização e apoio.
+O importante é ouvir as vozes da comunidade autista e respeitar suas perspectivas e preferências, mas eu particularmente prefiro usar o Girassol, pelos motivos acima expostos.
