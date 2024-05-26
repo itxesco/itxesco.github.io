@@ -58,3 +58,35 @@ Muitas pessoas com autismo não são diagnosticadas até a idade adulta, especia
 - **Grupos de Apoio**: Conexão com outros adultos autistas para compartilhar experiências e estratégias.
 
 Com o suporte adequado e um ambiente compreensivo, adultos com autismo podem levar uma vida plena e satisfatória, aproveitando suas habilidades e interesses únicos.
+
+
+### Razões para o Uso do Girassol como símbolo
+
+Embora não seja tradicionalmente associado ao autismo, o Girassol vem sendo adotado como símbolo de uma série de condições invisíveis, incluindo TEA. Ele foi criado para ajudar pessoas com deficiências ocultas a sinalizar que podem precisar de ajuda, compreensão ou tempo extra em ambientes públicos e entre os motivos para adotá-lo, cito:
+
+
+1. **Visibilidade**:
+   - O girassol é uma flor brilhante e fácil de reconhecer, o que ajuda a aumentar a visibilidade das condições ocultas e a conscientização pública sobre essas condições.
+
+2. **Sinal de Necessidade de Assistência**:
+   - Usar o símbolo do girassol (em forma de crachá, cordão ou pulseira) permite que as pessoas indiquem discretamente que podem precisar de ajuda ou compreensão adicional, sem a necessidade de explicar detalhadamente sua condição a cada interação.
+
+3. **Inclusão e Compreensão**:
+   - O girassol ajuda a promover um ambiente mais inclusivo e compreensivo, facilitando a identificação de pessoas que podem precisar de apoio adicional devido a condições não imediatamente visíveis.
+
+### Por que não usar o Quebra-Cabeça?
+
+Existem algumas razões pelas quais eu tenho reservas em relação ao uso do quebra-cabeça como símbolo do autismo, que vejo serem compartilhadas por grande parte da comunidade autista na atualidade:
+
+1. **Controvérsia sobre a Origem**: o símbolo do quebra-cabeça foi criado sem o envolvimento significativo da comunidade autista e pode não refletir completamente as perspectivas e experiências das pessoas no espectro.
+
+2. **Simplificação Excessiva**: O quebra-cabeça me parece simplificar demais a complexidade do autismo, sugerindo que o autismo é apenas um enigma a ser resolvido, em vez de reconhecer a diversidade e a individualidade das pessoas no espectro.
+
+3. **Estigma e Conotações Negativas**: O uso do quebra-cabeça pode reforçar estigmas negativos associados ao TEA, sugerindo que nós somos pessoas "quebradas" ou que precisamos ser "consertadas".
+
+4. **Falta de Autenticidade**: Para muitas pessoas autistas, o quebra-cabeça pode não ressoar com suas próprias experiências ou identidades. É o meu caso. Eu prefiro utilizar um símbolo que foi desenvolvido pela comunidade autista e que reflita mais de perto suas experiências e perspectivas.
+
+5. **Suposições sobre Acessibilidade**: O quebra-cabeça pode ser difícil para pessoas com deficiência visual entenderem, pois depende de cores e padrões visuais. Isso pode excluir ou alienar pessoas com diferentes capacidades sensoriais. É como quando a pessoa quer utilizar linguagem inclusiva e usa o @ ou o x para desgenerificar uma palavra e ao inves de digitar a palavra "outros" usa "outr@s" ou "outrxs", por exemplo. São palavras que não existem e que impossibilitam a leitura do texto por pessoas com deficiência visual que utilizem softwares específicos, assim, em sua tentativa de utilizar uma "linguagem inclusiva" pratica a exclusão. Esse problema deixa de existir se a pessoa utilizar o Sistema Delu com a grafia "outres".
+
+Essas são algumas das razões pelas quais algumas pessoas são contra o uso do quebra-cabeça como símbolo do autismo. No entanto, é importante reconhecer que as opiniões podem variar amplamente dentro da comunidade autista, e muitas pessoas ainda valorizam o quebra-cabeça como um símbolo de conscientização e apoio.
+O importante é ouvir as vozes da comunidade autista e respeitar suas perspectivas e preferências, mas particularmente eu prefiro utilizar o Girassol, pelos motivos acima expostos.
