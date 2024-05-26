@@ -43,21 +43,33 @@
                 </a>
             </td>
             <td class="right">
-               <a href="pages/extensao.html">
-                   <img src="imagens/index_pics/rpg.png" alt="Dados e miniaturas em jogo de RPG" title="Jogos de RPG e Educação"/>
-               </a>
-           </td>
-           <td class="right">
-               <a href="pages/extensao.html">
-                   <img src="imagens/index_pics/rpg.png" alt="Dados e miniaturas em jogo de RPG" title="Jogos de RPG e Educação"/>
-               </a>
-           </td>
-            <td class="right">
                 <a href="pages/decanato.html">
                     <img src="imagens/index_pics/mano.JPG" alt="Professor Francisco ao lado de mano brown e da reitora da UFSB" title="Decanato"/>
                 </a>
             </td>
         </tr>
+        <td class="left">
+            <a href="pages/pesquisa.html">
+                <img src="imagens/index_pics/sentinel.png" alt="Ataque de robô Sentinela" title="Histórias em Quadrinhos de Super-Heróis e Educação"/>
+            </a>
+        </td>
+        <td class="right">
+            <a href="pages/extensao.html">
+                <img src="imagens/index_pics/rpg.png" alt="Dados e miniaturas em jogo de RPG" title="Jogos de RPG e Educação"/>
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td class="left">
+            <a href="pages/ensino.html">
+                <img src="imagens/index_pics/aulas_.png" alt="prof Francisco em frente a uma lousa verde cheia de equações em uma aula de física" title="aulas"/>
+            </a>
+        </td>
+        <td class="right">
+            <a href="pages/decanato.html">
+                <img src="imagens/index_pics/mano.JPG" alt="Professor Francisco ao lado de mano brown e da reitora da UFSB" title="Decanato"/>
+            </a>
+        </td>
     </table>
 
     <!-- Additional Navbar -->
