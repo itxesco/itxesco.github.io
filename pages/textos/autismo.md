@@ -30,11 +30,11 @@ O autismo, ou Transtorno do Espectro do Autismo (TEA), é uma condição neurol�
    - Hipersensibilidade ou hipossensibilidade a estímulos sensoriais como luz, som, textura, cheiro e sabor.
    - Comportamentos de autoconforto para lidar com sobrecargas sensoriais.
 
-### Diagnóstico de Autismo em Adultos
+### Diagnóstico Tardio
 
 Muitas pessoas com autismo não são diagnosticadas até a idade adulta, especialmente aquelas com sintomas menos evidentes. O diagnóstico pode ser realizado por um profissional de saúde mental especializado em TEA, através de uma avaliação que inclui entrevistas, questionários e observações comportamentais.
 
-### Vida com Autismo em Adultos
+### A Vida no TEA
 
 1. **Trabalho e Educação**:
    - Alguns adultos com autismo podem ter dificuldades em ambientes de trabalho e educacionais devido a problemas de comunicação e interação social.
@@ -60,7 +60,7 @@ Muitas pessoas com autismo não são diagnosticadas até a idade adulta, especia
 Com o suporte adequado e um ambiente compreensivo, adultos com autismo podem levar uma vida plena e satisfatória, aproveitando suas habilidades e interesses únicos.
 
 
-### Razões para o Uso do Girassol como símbolo
+### Razões para usar o Girassol como símbolo
 
 Embora não seja tradicionalmente associado ao autismo, o Girassol vem sendo adotado como símbolo de uma série de condições invisíveis, incluindo TEA. Ele foi criado para ajudar pessoas com deficiências ocultas a sinalizar que podem precisar de ajuda, compreensão ou tempo extra em ambientes públicos e entre os motivos para adotá-lo, cito:
 
