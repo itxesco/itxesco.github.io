@@ -10,17 +10,7 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <!-- Navbar -->
-    <div class="navbar">
-        <div class="navbar-inner">
-            <ul class="nav">
-                <li><a href="/pages/publica.html">artigos</a></li>
-                <li><a href="https://sig.ufsb.edu.br/sigaa/public/docente/portal.jsf?siape=1085938">sigaa</a></li>
-                <li><a href="https://www.researchgate.net/profile/Francisco-Nascimento">researchgate</a></li>
-                <li><a href="pages/linksuteis.html">links</a></li>
-            </ul>
-        </div>
-    </div>
+  
 
     <!-- Main Content -->
 
