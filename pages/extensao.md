@@ -34,75 +34,36 @@ description: Projetos de extensão Universitária - Prof. Dr. Francisco Nascimen
     </style>
 </head>
 <body>
-
-<div class="menu">
-    <a href="#projetos">Projetos que coordeno</a>
-    <a href="#oca">A Oca da Ciência na Escola</a>
-    <a href="#sarau">O Sarau Odara</a>    
-    <a href="#pint">O Pint of Science</a>
-    <a href="#encontro">O ENCONTRO COM EDUCADORES</a>
-    <a href="#banca">A Banca da Ciência</a>
-    <a href="#escola">Escolas no Campus</a>
+<div class="navbar">
+  <div class="navbar-inner">
+      <ul class="nav">
+          <li><a href= "/pages/extensao_oca.html">Oca da Ciência na Escola</a></li>
+          <li><a href= "/pages/extensao_sarau.html">Sarau Odara</a></li>
+          <li><a href= "/pages/extensao_pint.html">Pint of Science</a></li>
+            <li><a href= "/pages/extensao_esc_campus.html">Escolas no Campus</a></li>
+            <li><a href= "/pages/extensao_banca.html">Banca da Ciência</a></li>
+            <li><a href= "/pages/extensao_encontro.html">Encontro com Educadores</a></li>
+      </ul>
+  </div>
 </div>
-
 <p>
 <p>
 
----
+A extensão universitária é uma das três funções essenciais das universidades, ao lado do ensino e da pesquisa. Ela se refere a atividades que promovem a interação entre a universidade e a sociedade, proporcionando benefícios mútuos. A extensão universitária busca aplicar o conhecimento acadêmico em práticas que possam contribuir para o desenvolvimento social, cultural, econômico e tecnológico da comunidade externa à universidade.
 
+As atividades de extensão universitária podem incluir:
 
-<div class="content">
-    <h3 id="oca">A Oca da Ciência na Escola</h3>
-  </div>
+1. **Projetos Comunitários**: Programas que visam resolver problemas sociais locais, como ações de saúde pública, educação, assistência social, entre outros.
+2. **Cursos e Oficinas**: Cursos de curta duração, oficinas, palestras e seminários abertos ao público sobre diversos temas.
+3. **Consultoria e Assessoria**: Serviços prestados por professores e estudantes para empresas, organizações não governamentais e órgãos públicos.
+4. **Eventos Culturais**: Exposições, mostras de arte, apresentações teatrais e musicais, entre outros eventos culturais que envolvem a comunidade.
+5. **Iniciativas de Empreendedorismo e Inovação**: Programas que incentivam o empreendedorismo e a inovação tecnológica, muitas vezes em parceria com o setor empresarial.
 
-<p>
-- A Oca da Ciência na Escola é um projeto interdisciplinar de popularização da Ciência no território de ação do Campus Sosígenes Costa, da UFSB. Financiado pelo MCTI através do programa <a href="https://www.ciencianaescola.gov.br/app/ciencianaescola/sobreoprograma"> Ciência na Escola</a>, o projeto foca  na realização de ações e experimentos em escolas distantes do centro urbano de Porto Seguro, como as localizadas nos distritos de Trancoso, Arraial d'Ajuda e nas reservas indígenas do território.  
-Com a pandemia COVID-19 muitas de suas ações foram reestruturadas para ocorrer no formato remoto, como a construção de um servidor Minecraft com a história e informações interativas sobre o Campus Sosígenes Costa da UFSB e a construção de um canal na plataforma <i>Twitch</i> para a realização de <i>lives</i> semanais com estudantes do anexo Guaxuma da escola indígena Coroa Vermelha.
- O nome do projeto vem  do termo “OCA”, que tem sua origem na família linguística tupi-guarani e se refere à típica habitação indígena brasileira,  construída em mutirão e sem divisões internas. É assim que este projeto de extensão se constrói: como uma ação coletiva disposta a explorar as relações dialógicas entre o Ensino/aprendizagem de Física, a Divulgação de Ciências e a Sociedade, mediadas por elementos da cultura de massa direcionada ao público jovem, a Cultura Pop, como as histórias em quadrinhos, filmes, séries, animações, jogos de RPG e video-games.
- O projeto também é responsável pelas exibições da iniciativa móvel <a href="https://jornal.usp.br/universidade/acoes-para-comunidade/projeto-da-usp-ensina-ciencias-com-material-de-baixo-custo/"> Banca da Ciência</a> e de atividades investigativas online desenvolvidas em espaço virtual. Como desdobramento, esta “OCA da Ciência na Escola” colabora com o processo de formação profissional continuado de educadores e contribui para consolidar a interação entre o Campus Sosígenes Costa da UFSB e o <a href="http://escolas.educacao.ba.gov.br/node/12804">Campus Integrado de Educação Básica </a> de Porto Seguro (BA), o CIEB.
- As ações foram inicialmente desenvolvidas junto ao CIEPS, se expandiram  junto a Escolas Indígenas e aguarda o fim do cenário pandêmico para se iniciar nas demais escolas públicas estaduais e municipais de Porto Seguro, não sendo descartada a possibilidade de atuação nos demais Complexos Integrados da Bahia (em caso de refinanciamento).
+A extensão universitária tem como objetivos principais:
 
+- **Disseminar o conhecimento produzido na universidade**: Tornando-o acessível e aplicável à sociedade.
+- **Promover a formação integral dos estudantes**: Complementando a formação acadêmica com experiências práticas e comunitárias.
+- **Contribuir para o desenvolvimento social**: Aplicando o conhecimento universitário para resolver problemas concretos e melhorar a qualidade de vida da comunidade.
+
+Essas atividades são importantes para estreitar os laços entre a universidade e a sociedade, garantindo que a produção acadêmica tenha um impacto direto e positivo no mundo real.
 ---  
-<div class="content">
-    <h3 id="pint">O Pint of Science</h3>
-  </div>
-
-<p>
-- O Pint of Science é o maior evento mundial de divulgação científica. Em 2020, coordenei a <a href="https://itxesco.github.io/pages/pint.html">edição local do evento em Porto Seguro (BA)</a> e em 2021 assumi a <a href="https://pintofscience.com.br/equipe/">coordenação da Regional Nordeste </a> do festival, realizado de modo remoto devido à pandemia COVID-19.
-
----  
-<div class="content">
-    <h2 id="encontro">O Encontro com Educadores</h2>
-  </div>
-
-<p>
-- O Encontro com Educadores é uma ação de formação continuada para professores da rede pública estadual de Porto Seguro (BA). Faz parte das ações executadas pela Coordenação de Práticas Pedagógicas da UFSB/CSC junto ao Complexo Integrado de Educação de Porto Seguro (CIEPS).
-
-A formação é dividida em três ciclos, cada um divido em 3 encontros. Cada ciclo se dedica a apresentar, introduzir e explorar o pensamento de um autor a partir da leitura de uma obra selecionada:
-
->Ciclo 01 - Frantz Fanon - Os condenados da Terra  
-Ciclo 02 - Paulo Freire - a pedagogia do Oprimido  
-Ciclo 03 - Georges Snyders - A Alegria na Escola
-
-Dado o cenário da pandemia COVID-19, em 2020 o Encontro com Educadores foi realizado de maneira remota, utilizando encontros síncronos entre educadores da UFSB e do CIEPS.  
-
----  
-
-<div class="content">
-    <h3 id="escola">Escolas no Campus</h3>
-  </div>
-
-<p>
-
-- Desde 2018 participo da <a href="https://www.agazetabahia.com/noticias/geral/19797/porto-seguro-jornada-pedagogica-traz-reflexao-sobre-educacao-de-qualidade-04-02-2019/">Jornada Pedagógica de Porto Seguro</a>, contribuindo na construção do planejamento didático de Ciências para o Ensino Fundamental II da rede pública municipal, em especial com as Escolas Indígenas, e com oficinas didáticas para professores de Ciências.
-
----  
-<div class="content">
-    <h3 id="banca">A Banca da Ciência</h3>
-  </div>
-
-<p>
-- A < a href="https://jornal.usp.br/universidade/acoes-para-comunidade/projeto-da-usp-ensina-ciencias-com-material-de-baixo-custo/>BANCA DA CIÊNCIA</a> é uma ação de extensão iniciada pelo grupo de pesquisa INTERFACES da EACH/USP e que se fundamenta nas propostas pedagógicas críticas de Paulo Freire (1987) e George Snyders (1988) e nos pressupostos de aprendizagem de Vigotski (1991, 2001).
-Sua principal característica está na abordagem lúdica de temas científicos em conexão com manifestações artístico-culturais e temas sociais, que se dão a partir de intervenções não-formais no ambiente da escola. Hoje, a Banca está presente também na Universidade Federal de São Paulo (Unifesp), em Guarulhos e Diadema, e no Instituto Federal de São Paulo (IFSP) em Boituva, Na Universidade Federal de Pernambuco (Caruaru), na Universidade de Brasília, na Universidade Federal do Pampa e no Campus Sosígenes Costa da Universidade Federal do Sul da Bahia.
-
----

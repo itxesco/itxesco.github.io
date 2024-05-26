@@ -35,15 +35,20 @@ description: Projetos de extensão Universitária - Prof. Dr. Francisco Nascimen
 </head>
 <body>
 
-<div class="menu">
-    <a href="#projetos">Projetos que coordeno</a>
-    <a href="#oca">A Oca da Ciência na Escola</a>
-    <a href="#sarau">O Sarau Odara</a>    
-    <a href="#pint">O Pint of Science</a>
-    <a href="#encontro">O ENCONTRO COM EDUCADORES</a>
-    <a href="#banca">A Banca da Ciência</a>
-    <a href="#escola">Escolas no Campus</a>
+<div class="navbar">
+  <div class="navbar-inner">
+      <ul class="nav">
+          <li><a href= "/pages/extensao_oca.html">Oca da Ciência na Escola</a></li>
+          <li><a href= "/pages/extensao_sarau.html">Sarau Odara</a></li>
+          <li><a href= "/pages/extensao_pint.html">Pint of Science</a></li>
+            <li><a href= "/pages/extensao_esc_campus.html">Escolas no Campus</a></li>
+            <li><a href= "/pages/extensao_banca.html">Banca da Ciência</a></li>
+            <li><a href= "/pages/extensao_encontro.html">Encontro com Educadores</a></li>
+      </ul>
+  </div>
 </div>
+<p>
+<p>
 
 <p>
 <p>
