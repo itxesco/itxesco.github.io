@@ -10,20 +10,20 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  
+
 
     <!-- Main Content -->
 
   <table class="wide">
       <tr>
           <td class="left">
-              <a href="pages/pesquisa.html">
-                  <img src="imagens/index_pics/sentinel.png" alt="Ataque de robô Sentinela" title="Histórias em Quadrinhos de Super-Heróis e Educação"/>
+              <a href="pages/pesquisa_edu.html">
+                  <img src="imagens/index_pics/educacao_atirracista.jpg" alt="lousa escolar verde com a escrita Educação Antiracista em giz amarelo" title="Educação Antiracista"/>
               </a>
           </td>
           <td class="right">
-              <a href="pages/extensao.html">
-                  <img src="imagens/index_pics/rpg.png" alt="Dados e miniaturas em jogo de RPG" title="Jogos de RPG e Educação"/>
+              <a href="pages/pesquisa_hq.html">
+                  <img src="imagens/index_pics/x_men.jpg" alt="capa da revista de histórias em quadrinhos x-men dias de um futuro esquecido" Historias em Quadrinhos de Super-Heróis e Ensino de Ciências"/>
               </a>
           </td>
           <td class="left">
@@ -39,13 +39,13 @@
               </a>
           </td>
           <td class="left">
-              <a href="pages/pesquisa.html">
-                  <img src="imagens/index_pics/sentinel.png" alt="Ataque de robô Sentinela" title="Histórias em Quadrinhos de Super-Heróis e Educação"/>
+              <a href="pages/textos/pesquisa.html">
+                  <img src="imagens/index_pics/tea_adulto.jpg" alt="laço de tecido com estampa de girassóis" title="Autismo em Adultos"/>
               </a>
           </td>
           <td class="right">
-              <a href="pages/extensao.html">
-                  <img src="imagens/index_pics/rpg.png" alt="Dados e miniaturas em jogo de RPG" title="Jogos de RPG e Educação"/>
+              <a href="pages/pesquisa_jogos.html">
+                  <img src="imagens/index_pics/tbbt_jogos.jpg" alt="cena da série The big bang theory com os personagens jogando RPG" title="Jogos de RPG e Educação"/>
               </a>
           </td>
       </tr>
