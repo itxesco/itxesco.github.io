@@ -22,7 +22,7 @@
           </td>
           <td class="right">
               <a href="pages/pesquisa_hq.html">
-                  <img src="imagens/index_pics/x_men.jpg" alt="capa da revista de histórias em quadrinhos x-men dias de um futuro esquecido" Historias em Quadrinhos de Super-Heróis e Ensino de Ciências"/>
+                  <img src="imagens/index_pics/x_men.jpg" alt="capa da revista de histórias em quadrinhos x-men dias de um futuro esquecido" title="Historias em Quadrinhos de Super-Heróis e Ensino de Ciências"/>
               </a>
           </td>
           <td class="left">
