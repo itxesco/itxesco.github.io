@@ -58,7 +58,7 @@ A cada nova plataforma, fortaleceu sua audiência e cativou uma outra, que passo
 
 - Quais os efeitos do consumo da cultura de super-heróis na construção da identidade (racial e de gênero) de seus leitores? E qual o impacto  gerado na relação desenvolvida com a escola,  com o aprender e  fazer  Física/ Ciências? <br />
 
-Buscando respostas para essas perguntas, no <a href="https://ufsb.edu.br/ppger/">PPGER</a> do <a href="https://ufsb.edu.br/ihac-csc">IHAC-CSC </a> da UFSB, atuo na linha I:
+Buscando respostas para essas perguntas, no <a href="https://ufsb.edu.br/ppger/">PPGER</a> do <a href="https://ufsb.edu.br/ihac-csc">IHAC-CSC </a> da UFSB, atuo na linha I:<br />
 <strong>Relações étnico-raciais, interculturalidades e processos de ensino-aprendizagem</strong>
 
 <p>
