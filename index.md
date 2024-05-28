@@ -13,6 +13,12 @@
 
     <!-- Main Content -->
 
+    <style>
+            .tabela-imagens img {
+                height: 300px; /* Defina a altura desejada */
+                object-fit: cover; /* Ajusta a imagem para preencher o contêiner mantendo a proporção */
+            }
+        </style>
   <table class="wide">
       <tr>
           <td class="left">
