@@ -35,12 +35,15 @@ description: Prof. Dr. Francisco Nascimento - pesquisa em relações étnico-rac
 </head>
 <body>
 
-<div class="menu">
-    <a href="#hq">Histórias em Quadrinhos</a>
-    <a href="#afrofuturismo">Afrofuturismo</a>
-    <a href="#antiracista">Educação Antiracista</a>
-    <a href="#jogos">Jogos de RPG e Educação</a>
-    <a href="#orientador"> Orientações de Mestrado</a>
+<div class="navbar">
+  <div class="navbar-inner">
+      <ul class="nav">
+          <li><a href= "/pages/pesquisa_afro.html">afrofuturismo</a></li>
+          <li><a href= "/pages/pesquisa_edu.html">educação antiracista</a></li>
+          <li><a href= "/pages/pesquisa_hq.html">historias em quadrinhos e educação</a></li>
+            <li><a href= "/pages/pesquisa_jogos.html">jogos e educação</a></li>
+      </ul>
+  </div>
 </div>
 <p>
 <p>
