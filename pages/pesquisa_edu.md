@@ -56,6 +56,7 @@ description: Prof. Dr. Francisco Nascimento - pesquisa em relações étnico-rac
 <p>
 <p style="text-align: justify;">
 ---
+<p>
 Pesquisar a educação antirracista sob uma ótica freireana consiste em buscar caminhos para sua prática no cotidiando da escola básica. Trata-se de algo crucial, pois  como Paulo Freire, é preciso que nós professores também enfatizemos a conscientização e a emancipação dos indivíduos através da educação. Freire defendia uma pedagogia que valorizasse o diálogo, o respeito mútuo e a consciência crítica, princípios essenciais para combater o racismo. <br />
 Esta abordagem propõe uma educação que não apenas reconheça as injustiças, mas também capacite as pessoas educandas a questionar e transformar a realidade opressiva.<br /> Integrar a perspectiva freireana na educação antirracista permite a construção de um ambiente educacional onde todos os alunos, independentemente de sua raça, podem desenvolver-se plenamente e contribuir para uma sociedade mais justa e equitativa.<br />
 <p>
@@ -66,5 +67,6 @@ Além disso, a integração dessas duas perspectivas pode proporcionar uma compr
 Freire, com sua crítica à educação bancária, e Snyders, com sua ênfase na alegria e na experiência positiva do aprendizado, oferecem um modelo educativo que combate o racismo não apenas no conteúdo, mas também na forma como a educação é vivenciada. Este modelo educativo holístico é essencial para construir uma sociedade onde a diversidade é celebrada e as desigualdades são ativamente combatidas.<br />
 <p>
  Essa abordagem promove uma educação que é ao mesmo tempo crítica e afirmativa, desafiando os preconceitos e promovendo a igualdade racial. Ao unir a conscientização crítica de Freire com a "alegria na escola" de Snyders, é possível criar ambientes de aprendizagem mais inclusivos, acolhedores e justos, capacitando todos os alunos a se tornarem agentes de mudança em suas comunidades.
+ <p>
  </p>
 ---

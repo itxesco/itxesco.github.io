@@ -48,11 +48,7 @@ description: Prof. Dr. Francisco Nascimento - pesquisa em relações étnico-rac
 <body>
 <p>
 <p>
-
----
-
 <p>
-
 <p>
 ---
 <div class="content">
@@ -60,6 +56,8 @@ description: Prof. Dr. Francisco Nascimento - pesquisa em relações étnico-rac
   </div>
   <p>
 <p>
+<p style="text-align: justify;">
+
 O interesse pela base de pesquisa vem de um laço muito pessoal: me alfabetizei aos 5 anos de idade, com uma revista de historias em quadrinhos do Homem-Aranha publicado pela antiga editora EBAL, na sala da casa de meus avós.
 E nunca mais parei de ler.
 
@@ -150,5 +148,6 @@ DANTON, Gian. <strong>A divulgação científica nos quadrinhos: análise do cas
 <br />
 DANTON, Gian. <strong>Ciência e quadrinhos</strong>. João Pessoa: Marca de Fantasia, 2005.
 
+</p>
 
 ---
