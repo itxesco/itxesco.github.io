@@ -48,19 +48,18 @@ description: Prof. Dr. Francisco Nascimento - pesquisa em relações étnico-rac
 <p>
 
 ---
-
+<p style="text-align: justify;">
 <p>
-Meu principal campo de estudo está nos reflexos do consumo de produtos midiáticos relativos a Cultura de Super-Heróis (histórias em quadrinhos, filmes, livros, animações, jogos) nas práticas de ensino/aprendizagem de Física / Ciências, e a influência de seu discurso na formação da identidade do sujeito.
-
-Do ponto de vista cultural, constitui um exemplo típico  de convergência transmídia: tem sua origem nos <a href="https://en.wikipedia.org/wiki/Penny_dreadful">Penny Dreadfuls</a> Ingleses do Século XIX e surge do entrelaçamento entre as tirinhas em quadrinhos dos jornais e a <a href="https://en.wikipedia.org/wiki/Pulp_magazine">literatura Pulp </a> do início do Século XX. Trata-se de  leitura para o entretenimento descompromissado,  fortemente conectada ao contexto histórico, político e econômico da sociedade de sua produção.
+Meu principal campo de estudo está nos reflexos do consumo de produtos midiáticos relativos a Cultura de Super-Heróis (histórias em quadrinhos, filmes, livros, animações, jogos) nas práticas de ensino/aprendizagem de Física / Ciências, e a influência de seu discurso na formação da identidade do sujeito.<br />
+Do ponto de vista cultural, constitui um exemplo típico  de convergência transmídia: tem sua origem nos <a href="https://en.wikipedia.org/wiki/Penny_dreadful">Penny Dreadfuls</a> Ingleses do Século XIX e surge do entrelaçamento entre as tirinhas em quadrinhos dos jornais e a <a href="https://en.wikipedia.org/wiki/Pulp_magazine">literatura Pulp </a> do início do Século XX. Trata-se de  leitura para o entretenimento descompromissado,  fortemente conectada ao contexto histórico, político e econômico da sociedade de sua produção.<br />
 No decorrer do Século XX, seus personagens e narrativas evoluíram e convergiram entre as muitas plataformas de comunicação que a tecnologia tornou disponível (rádio, o cinema, a tv e a internet). <br />
-A cada nova plataforma, fortaleceu sua audiência e cativou uma outra, que passou a consumir o mesmo discurso, carregado de ideologias e valores, baseado na leitura do mundo através de sua indústria de produção.<br />
-
+A cada nova plataforma, fortaleceu sua audiência e cativou uma outra, que passou a consumir o mesmo discurso, carregado de ideologias e valores, baseado na leitura do mundo através de sua indústria de produção. A pergunta para a qual procuro contribuir com respostas é, então:<br />
+<p>
 - Quais os efeitos do consumo da cultura de super-heróis na construção da identidade (racial e de gênero) de seus leitores? E qual o impacto  gerado na relação desenvolvida com a escola,  com o aprender e  fazer  Física/ Ciências? <br />
-
-Buscando respostas para essas perguntas, no <a href="https://ufsb.edu.br/ppger/">PPGER</a> do <a href="https://ufsb.edu.br/ihac-csc">IHAC-CSC </a> da UFSB, atuo na linha I:<br />
+<p>
+Desenvolvo meu trabalho no <a href="https://ufsb.edu.br/ppger/">PPGER</a> do <a href="https://ufsb.edu.br/ihac-csc">IHAC-CSC </a> da UFSB, atuo na linha I:<br />
 <strong>Relações étnico-raciais, interculturalidades e processos de ensino-aprendizagem</strong>
-
+</p>
 <p>
 ---
 <div class="content">
