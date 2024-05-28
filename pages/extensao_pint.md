@@ -51,7 +51,9 @@ description: Pint of Science Bahia - Pint of Science Porto Seguro 2020 coordenad
 <p>
 
 <p>
-[![top 5 videos do Pint of Science Brasil][rankingtop5]][link_canal_pint]
+<img src="https://itxesco.github.io/assets/figuras/pintofscience/rankingtop5.jpeg">
+<p>
+<a href="https://www.youtube.com/channel/UCEq25HBY940kEE497ob83Pw> vídeos mais assistidos no Pint of Science Brasil - Bahia em 5 lugar</a>
 
 
 O <b><i>Pint of Science</b></i> é o maior evento mundial de divulgação científica. Sua primeira edição aconteceu em 2013 na cidade de Londres, organizado por cientistas do <i>Imperial College</i>. <br />
@@ -60,7 +62,7 @@ A proposta do evento é tirar os pesquisadores de dentro dos muros das universid
 O ambiente inspirou o nome do evento, já que o Pint corresponde ao copo  (473 mL) onde as bebidas são normalmente servidas por lá. Desse modo, o evento convida o público a tomar um Pint de ciência enquanto saboreiam a sua bebida preferida (seja água, suco, refrigerante ou cerveja).  
 <p>
 
-[![pintbahia][pba]][link_canal_pint]  
+<img src="https://itxesco.github.io/assets/figuras/pintofscience/pintbahia.jpeg">  
 <p>
 O aumento do interesse dos pesquisadores em divulgar suas pesquisas, e do público em conhecê-las, tem feito com que o Pint of Science cresça a cada ano, chegando a ser realizado em mais de 400 cidades e 24 países ao redor do mundo em 2019. O Brasil vem participando do evento desde 2015, e já pode ser considerado o " maior Pint mundial", pelo número de cidades participantes. <br />
 Em 2020, o festival deveria ocorrer nos bares de 74 cidades, mas devido a pandemia COVID-19, acabou sendo cancelado.  
@@ -71,28 +73,29 @@ No estado da Bahia, 5 universidades pública se uniram para fazer acontecer esta
 <p>
 1) Ações das universidades contra a COVID-19
 <p>
-[![pintbahia][pre01]][link_canal_pint] [![pintbahia][mesa01]][link_canal_pint]  
+<img src="https://itxesco.github.io/assets/figuras/pintofscience/pint_0809_pre.jpeg">
+<p>
+<img src="https://itxesco.github.io/assets/figuras/pintofscience/pint_0809_principal.jpeg">
+<p>
 <p>
 2) Racismo no Brasil  
 <p>
-[![pintbahia][pre02]][link_canal_pint] [![pintbahia][mesa02]][link_canal_pint]  
+<img src="https://itxesco.github.io/assets/figuras/pintofscience/pint_0909_pre.jpeg">
 <p>
-3) Desastres ambientais  
-[![pintbahia][pre03]][link_canal_pint] [![pintbahia][mesa03]][link_canal_pint]  
+ <img src="https://itxesco.github.io/assets/figuras/pintofscience/pint_0909_principal.jpeg">
 <p>
-Para ver a programação completa do nosso _Pint of Science Bahia_, acesse a página oficial do evento [aqui](https://pintofscience.com.br/events/porto-seguro)
 <p>
-Conheça a história completa do Pint of Science [no site oficial](https://pintofscience.com.br/historia/)
+3) Desastres ambientais
 <p>
-Saiba mais sobre a equipe da UFSB responsável pela realização do Pint of Science - Porto Seguro [aqui](https://pintofscience.com.br/equipe/Porto%20Seguro)
+<img src="https://itxesco.github.io/assets/figuras/pintofscience/pint_1009_pre.jpeg">
+<p>
+<img src="https://itxesco.github.io/assets/figuras/pintofscience/pint_1009_principal.jpeg">
+<p>
+
+Para ver a programação completa do nosso <b><i>Pint of Science Bahia</b></i>, acesse a página oficial do evento <a href="https://pintofscience.com.br/events/porto-seguro">aqui</a>
+<p>
+Conheça a história completa do Pint of Science <a href="https://pintofscience.com.br/historia/">no site oficial</a>
+<p>
+Saiba mais sobre a equipe da UFSB responsável pela realização do Pint of Science - Porto Seguro <a href="https://pintofscience.com.br/equipe/Porto%20Seguro">aqui</a>
 
 <p>
-[rankingtop5]: https://itxesco.github.io/assets/figuras/pintofscience/rankingtop5.jpeg  
-[link_canal_pint]: https://www.youtube.com/channel/UCEq25HBY940kEE497ob83Pw "vídeos mais assistidos no Pint of Science Brasil - Bahia em 5 lugar"  
-[pba]: https://itxesco.github.io/assets/figuras/pintofscience/pintbahia.jpeg "divulgação do Pint of Science BAHIA"  
-[pre01]:https://itxesco.github.io/assets/figuras/pintofscience/pint_0809_pre.jpeg "pré-evento do primeiro dia"  
-[mesa01]: https://itxesco.github.io/assets/figuras/pintofscience/pint_0809_principal.jpeg "mesa principal - primeiro dia"  
-[pre02]: https://itxesco.github.io/assets/figuras/pintofscience/pint_0909_pre.jpeg "pré-evento do segundo dia"  
-[mesa02]: https://itxesco.github.io/assets/figuras/pintofscience/pint_0909_principal.jpeg "mesa principal - segundo dia"  
-[pre03]: https://itxesco.github.io/assets/figuras/pintofscience/pint_1009_pre.jpeg "pré-evento do terceiro dia"  
-[mesa03]: https://itxesco.github.io/assets/figuras/pintofscience/pint_1009_principal.jpeg "mesa principal - terceiro dia"  
