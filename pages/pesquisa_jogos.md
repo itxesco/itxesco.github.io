@@ -66,16 +66,17 @@ Finalmente, o uso de jogos na educação de ciências e matemática pode fomenta
  A pesquisa sobre o impacto dos jogos no ensino dessas disciplinas pode fornecer insights valiosos sobre como desenvolver estratégias pedagógicas que não apenas melhorem o desempenho acadêmico, mas também preparem os alunos para os desafios do mundo real.
 <p>
 <p>
+<img src="https://itxesco.github.io/assets/figuras/rpg/JC_RPG.jpg" alt="jornal do campus" style="height: 300px; width: auto; object-fit: cover;">
 
-<img src="https://itxesco.github.io/assets/figuras/rpg/JC_RPG.jpg">
 
 Nascido oficialmente em 1974, com a série “Dungeons & Dragons”, o <b>RPG</b> é um jogo que admite diversas <i>modalidades</i>, envolvendo cartas, dados e livros. No chamado <i><b>RPG de mesa</b></i>, os participantes interpretam oralmente os personagens de uma história e tomam as decisões necessárias para definir seu rumo.
 <p>
 No mundo virtual, o <b>RPG</b> mais famoso é <i>World of Warcraft</i>, que reúne milhões de jogadores do mundo todo em seus servidores online. Categorizado como  <b>MMORPG</b>, <i>WoW</i>  utiliza os elementos do RPG para levar seus <i>players</i> por histórias de fantasia em um universo fictício.
 <p>
-Mas, o que é <b>RPG<b>?
+Mas, o que é <b>RPG</b>?
 <p>
-<img src="https://itxesco.github.io/assets/figuras/rpg/lots-of-dice.jpg">  
+<img src="https://itxesco.github.io/assets/figuras/rpg/lots-of-dice.jpg" alt="jornal do campus" style="height: 300px; width: auto; object-fit: cover;">
+
 <p>
 A sigla remete à interpretação de papéis em histórias com temas que podem ir desde conflitos medievais até sociedades futuristas. Em resumo,  <b>RPG</b> é um jogo onde cada participante constrói a <i>ficha</i> de seu personagem e o interpreta, exceto um, que assumo o papel de <i>narrador</i> e se torna  responsável pela descrição do ambiente e a interpretação dos <i>NPCs</i> (sigla em inglês para designar personagens não-jogadores). <br />
 Os jogadores, após descrição do ambiente e da situação pelo <i>narrador</i>, descrevem oralmente as ações de seus personagens, obedecendo as características que constam em suas <i>fichas</i>.
@@ -84,10 +85,11 @@ As ações têm seu resultado (sucesso ou falha?) a partir da comparação do re
 <p>
 O <b>RPG</b> é essencialmente cooperativo, pois é fundamental a cooperação entre os personagens de todos os jogadores para que  consigam <i>vencer</i> o jogo. A vitória só é possível se cada jogador auxiliar o outro, de modo que todos vencem juntos.
 <p>
-Já faz alguns anos que os <b>R</b>ole<b>P</b>laying <b>G</b>ames vem sendo usados na Educação, e no Brasil, quem primeiro chamou atenção para seu enorme potencial foi o psicólogo [Alfeu Marcatto](http://www.alfmarc.psc.br), em o seu livro “Saindo do Quadro”.
+Já faz alguns anos que os <b>R</b>ole<b>P</b>laying <b>G</b>ames vem sendo usados na Educação, e no Brasil, quem primeiro chamou atenção para seu enorme potencial foi o psicólogo <a href="http://www.alfmarc.psc.br">Alfeu Marcatto</a>, em o seu livro “Saindo do Quadro”.
 <p>
 <p>
-<img src="https://itxesco.github.io/assets/figuras/rpg/ice_dragon.jpg">  
+<img src="https://itxesco.github.io/assets/figuras/rpg/ice_dragon.jpg" alt="jornal do campus" style="height: 300px; width: auto; object-fit: cover;">
+
 <p>
  Com suas características discursivas e lúdicas, o <b>RPG</b> estimula seus participantes a desenvolverem a imaginação, o raciocínio e a interpretação de fatos e a resolução de situações-problema, resgatando o gosto pela leitura em uma postura ativa.
 
@@ -104,25 +106,26 @@ Algumas competências que o uso do <b>RPG</b> pode contribuir para desenvolver:
 <p>
 ---
 
-Logo após a vinda do <b>RPG</b> em larga escala para o Brasil, por volta de 1993, alguns jogadores  vieram a se tornar professores nos anos seguintes e passaram a buscar utilizar o jogo como uma  estratégia de Ensino, em um movimento que culminou com o a realização do <b>1o Simpósio de RPG e Educação</b> (maio de 2002) organizado pela ONG educativa [_Ludus Culturalis_](www.rpgeducacao.com.br).  
+Logo após a vinda do <b>RPG</b> em larga escala para o Brasil, por volta de 1993, alguns jogadores  vieram a se tornar professores nos anos seguintes e passaram a buscar utilizar o jogo como uma  estratégia de Ensino, em um movimento que culminou com o a realização do <b>1o Simpósio de RPG e Educação</b> (maio de 2002) organizado pela ONG educativa <a href="www.rpgeducacao.com.br">Ludus Culturalis</a>.  
 <p>
-  <img src="https://itxesco.github.io/assets/figuras/rpg/einstein.jpg">
+<img src="https://itxesco.github.io/assets/figuras/rpg/einstein.jpg" alt="jornal do campus" style="height: 300px; width: auto; object-fit: cover;">
 <p>
 Cada vez mais, o <b>RPG</b> vem sendo usado por professores em todo o Brasil. Algumas referências básicas nos estudos sobre esta prática:
 
 <p>
-BITTENCOURT, João Ricardo; GIRAFFA, Lucia Maria. <b>Role-playing games, educação e jogos computadorizados na cibercultura</b>. I Simpósio de RPG em Educação, p. 14, 2003. [![pdf](icons16/pdf-icon.png)](https://d1wqtxts1xzle7.cloudfront.net/49291500/historiapaper03.pdf?1475417856=&response-content-disposition=inline%3B+filename%3DRole_Playing_Games_Educacao_e_Jogos_Comp.pdf&Expires=1607975730&Signature=CPwz~-sLxvf1hF41gTd0tpJQqQeX2CFYOo-H59GY05AGokUzXKZDjYJzc5nmgo9G1-UNGauCJxb-NmFzU1efebdgbXeGfcbivbHDLyMAlpboign4DO5roW-p2-mkQJKi5ClTA3D1fAVo3EU6cnT3bgUG2u6Nbo3KIUwtIKhKmcVa4u~9LBRlWVuG6zIZfqQjHWhc5jtoXbtY0HIHFYGZhMT3YeppBEH8Y7t6pqqH3Si5kXdsRw3Iag2h6828lH8u6FJzThXiXWlBXEv181spkmUC3Wv9B-ipPu0WZFqixFb1bVTTZQDPMt2wCmC4zIW~SyEpKw5CGTv98zL6kx9~4w__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
+BITTENCOURT, João Ricardo; GIRAFFA, Lucia Maria. <b>Role-playing games, educação e jogos computadorizados na cibercultura</b>. I Simpósio de RPG em Educação, p. 14, 2003. <a href="https://d1wqtxts1xzle7.cloudfront.net/49291500/historiapaper03.pdf?1475417856=&response-content-disposition=inline%3B+filename%3DRole_Playing_Games_Educacao_e_Jogos_Comp.pdf&Expires=1607975730&Signature=CPwz~-sLxvf1hF41gTd0tpJQqQeX2CFYOo-H59GY05AGokUzXKZDjYJzc5nmgo9G1-UNGauCJxb-NmFzU1efebdgbXeGfcbivbHDLyMAlpboign4DO5roW-p2-mkQJKi5ClTA3D1fAVo3EU6cnT3bgUG2u6Nbo3KIUwtIKhKmcVa4u~9LBRlWVuG6zIZfqQjHWhc5jtoXbtY0HIHFYGZhMT3YeppBEH8Y7t6pqqH3Si5kXdsRw3Iag2h6828lH8u6FJzThXiXWlBXEv181spkmUC3Wv9B-ipPu0WZFqixFb1bVTTZQDPMt2wCmC4zIW~SyEpKw5CGTv98zL6kx9~4w__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png" alt=clique para baixar>pdf</a><br />
 <p>
-CABALERO, S. X.; MATTA, Alfredo Eurico Rodrigues. <b>O jogo RPG visto como uma comunidade de aprendizagem</b>. 2015. [![pdf](icons16/pdf-icon.png)](http://www.comunidadesvirtuais.pro.br/seminario2/trabalhos/suelixavier_alfredoeurico.pdf)   
+CABALERO, S. X.; MATTA, Alfredo Eurico Rodrigues. <b>O jogo RPG visto como uma comunidade de aprendizagem</b>. 2015. <a href="http://www.comunidadesvirtuais.pro.br/seminario2/trabalhos/suelixavier_alfredoeurico.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png" alt=clique para baixar>pdf</a><br />
 <p>
-FREITAS, Leandro Carlos Lima; SITKO, Camila Maria; DAS CHAGAS, Maria Liduína. <b>Panorama do RPG (Role-Playing Game) no Ensino de Física no período de 2015-2019</b>. Ensino & Pesquisa, v. 18, n. 3, 2020. [![pdf](icons16/pdf-icon.png)](http://periodicos.unespar.edu.br/index.php/ensinoepesquisa/article/view/3693)  
+FREITAS, Leandro Carlos Lima; SITKO, Camila Maria; DAS CHAGAS, Maria Liduína. <b>Panorama do RPG (Role-Playing Game) no Ensino de Física no período de 2015-2019</b>. Ensino & Pesquisa, v. 18, n. 3, 2020. <a href="http://periodicos.unespar.edu.br/index.php/ensinoepesquisa/article/view/3693"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png" alt=clique para baixar>pdf</a><br />
 <p>
-GRANDO, Anita; TAROUCO, Liane Margarida Rockenbach. <b>O uso de jogos educacionais do tipo RPG na educação</b>. RENOTE-Revista Novas Tecnologias na Educação, v. 6, n. 1, 2008. [![pdf](icons16/pdf-icon.png)](https://www.seer.ufrgs.br/renote/article/viewFile/14403/8308)  
+GRANDO, Anita; TAROUCO, Liane Margarida Rockenbach. <b>O uso de jogos educacionais do tipo RPG na educação</b>. RENOTE-Revista Novas Tecnologias na Educação, v. 6, n. 1, 2008. <a href="https://www.seer.ufrgs.br/renote/article/viewFile/14403/8308"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png" alt=clique para baixar>pdf</a><br />
 <p>
-JUNIOR, Francisco de Assis Nascimento; PIETROCOLA, Maurício. <b>O papel do RPG no ensino de Física</b>. 2005. [![pdf](icons16/pdf-icon.png)](https://sites.usp.br/nupic/wp-content/uploads/sites/293/2016/05/Francisco_de_Assis_Nascimento_Junior_O_PAPEL_DO_RPG.pdf)   
+JUNIOR, Francisco de Assis Nascimento; PIETROCOLA, Maurício. <b>O papel do RPG no ensino de Física</b>. 2005.
+<a href="https://sites.usp.br/nupic/wp-content/uploads/sites/293/2016/05/Francisco_de_Assis_Nascimento_Junior_O_PAPEL_DO_RPG.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png" alt=clique para baixar>pdf</a><br />
 <p>
-NASCIMENTO, F.; PIASSI, L. P. C. . <b>Role-Playing Games nas Aulas de Física</b>. Revista de Enseñanza de la Física, v. 27, p. 675-681, 2015. [![pdf](icons16/pdf-icon.png)](https://itxesco.github.io/assets/articles/Role-Playing_Games_nas_Aulas_de_Fsica.pdf)  
+NASCIMENTO, F.; PIASSI, L. P. C. . <b>Role-Playing Games nas Aulas de Física</b>. Revista de Enseñanza de la Física, v. 27, p. 675-681, 2015. <a href="https://itxesco.github.io/assets/articles/Role-Playing_Games_nas_Aulas_de_Fsica.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png" alt=clique para baixar>pdf</a><br />
 <p>
-VASQUES, Rafael Carneiro.<b>As potencialidades do RPG (Role Playing Game) na educação escolar</b>.2008.[![pdf](icons16/pdf-icon.png)](https://repositorio.unesp.br/handle/11449/90316)
+VASQUES, Rafael Carneiro.<b>As potencialidades do RPG (Role Playing Game) na educação escolar</b>.2008.<a href="https://repositorio.unesp.br/handle/11449/90316"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png" alt=clique para baixar>pdf</a><br />
 <p>
 </p>
