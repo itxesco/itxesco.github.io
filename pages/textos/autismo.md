@@ -1,6 +1,6 @@
 ---
 layout: page
-title: TEA em Adultos
+title: Transtorno do Espectro Autista
 description: O que é o Transtorno do Espectro Autista; TEA em Adultos; diagnóstico tardio; niveis de suporte
 ---
 <html lang="pt-BR">
