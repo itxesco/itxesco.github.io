@@ -6,7 +6,7 @@ description: O que é o Transtorno do Espectro Autista; TEA em Adultos; diagnós
 <p style="text-align: justify;">
 O autismo, ou Transtorno do Espectro do Autismo (TEA), é uma condição neurológica e de desenvolvimento que afeta a forma como uma pessoa percebe e socializa com os outros, resultando em dificuldades na comunicação e na interação social. O TEA inclui uma ampla gama de características e sintomas, que variam significativamente de pessoa para pessoa. Para entender melhor, veja a imagem abaixo: </p>
 <p>
-<img src="https://itxesco.github.io/assets/figuras/autismo/espectro_eletromagnetico.png">
+<img src="https://itxesco.github.io/assets/figuras/autismo/espectro_eletromagnetico.png" alt="espectro eletromagnético no universo" style="height: 300px; width: auto; object-fit: cover;">
 <p>
 <p style="text-align: justify;">
 A imagem apresenta a estrutura do espectro eletromagnético, separando as ondas por comprimento(m) e frequência (Hz). Olhando para ele, é fácil perceber que as cores que nossos olhos enxergam constituem uma pequena parte do todo (400nm a 750nm). Você não pode enxergar os Raios-X ou as microondas do forno na sua cozinha, mas sabe que eles são reais, assim como sabe que a cor azul é diferente da cor amarela.<br />
@@ -83,7 +83,8 @@ Não é uma doença e não tem cura, mas há tratamentos que facilitam a vida do
 Com o suporte adequado e um ambiente compreensivo, adultos com autismo podem levar uma vida plena e satisfatória, aproveitando suas habilidades e interesses únicos.
 </p>
 <p>
-<img src="https://itxesco.github.io/assets/figuras/autismo/tea_adulto.jpg">
+<img src="https://itxesco.github.io/assets/figuras/autismo/tea_adulto.jpg" alt="laço com estampa de girassol" style="height: 300px; width: auto; object-fit: cover;">
+
 <p>
 <p>
 <h3> Razões para usar o Girassol como símbolo </h3>
@@ -105,7 +106,8 @@ Embora não seja tradicionalmente associado ao autismo, o Girassol vem sendo ado
 <p>
 <h3> E Por que não usar o Quebra-Cabeça?</h3>
 <p>
-<img src="https://itxesco.github.io/assets/figuras/autismo/quebra.jpg">
+<img src="https://itxesco.github.io/assets/figuras/autismo/quebra.jpg" alt="quebra-cabeças" style="height: 300px; width: auto; object-fit: cover;">
+
 
 <p>
 <p style="text-align: justify;">
