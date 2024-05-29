@@ -3,6 +3,55 @@ layout: page
 title: TEA em Adultos
 description: O que é o Transtorno do Espectro Autista; TEA em Adultos; diagnóstico tardio; niveis de suporte
 ---
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu de Navegação</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .menu {
+            background-color: #333;
+            overflow: hidden;
+        }
+        .menu a {
+            float: left;
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+        .menu a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+        .content {
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="menu">
+    <a href="#TEA">O TEA em adultos</a>
+    <a href="#caracteristicas">Algumas Características que Adultos no TEA partilham</a>
+    <a href="#diagnostico">Diagnóstico Tardio</a>
+    <a href="#vida">A Vida no TEA</a>
+    <a href="#apoio">Apoio e Tratamento</a>
+    <a href="#girassol">Razões para usar o Girassol como símbolo</a>
+    <a href="#quebra">E Por que não usar o Quebra-Cabeças?</a>
+</div>
+<p>
+<p>
+
+
+<div class="content">
+    <h2 id="TEA">O TEA em adultos</h2>
+  </div>
+  <p>
 <p style="text-align: justify;">
 O autismo, ou Transtorno do Espectro do Autismo (TEA), é uma condição neurológica e de desenvolvimento que afeta a forma como uma pessoa percebe e socializa com os outros, resultando em dificuldades na comunicação e na interação social. O TEA inclui uma ampla gama de características e sintomas, que variam significativamente de pessoa para pessoa. Para entender melhor, veja a imagem abaixo: </p>
 <p>
@@ -16,7 +65,10 @@ Como disse, as ondas eletromagnéticas possuem características em comum, assim 
 </p>
 <p>
 <p>
-  <h3>Algumas Características que Adultos no TEA partilham</h3>
+<div class="content">
+    <h2 id="caracteristicas">Algumas Características que Adultos no TEA partilham</h2>
+  </div>
+
 <p>
 <b>1. Interação Social</b><br />
    - Dificuldade em compreender e usar a linguagem corporal, expressões faciais e gestos.<br />
@@ -41,7 +93,9 @@ Como disse, as ondas eletromagnéticas possuem características em comum, assim 
 <p>
 <p>
 <p>
-<h3> Diagnóstico Tardio </h3>
+<div class="content">
+    <h2 id="diagnostico">Diagnóstico Tardio</h2>
+  </div>
 <p>
 <p style="text-align: justify;">
 Muitas pessoas no TEA não foram diagnosticadas até a idade adulta, especialmente aquelas com sintomas menos evidentes. O motivo não é difícil de entender, basta procurar por um cardiologista em uma cidade pequena do interior para perceber que o acesso ao atendimento médico especializado é difícil nos dias de hoje. Agora, pense em como era há 20 anos atrás, ou 30, ou 40. Além disso é preciso lembrar que a própria ciência não é estática, está sempre em desenvolvimento e que aquilo que se sabia sobre o autismo em 1980 é muito diferente do que conhecemos em 2024.  <br />
@@ -53,7 +107,9 @@ Não é uma doença e não tem cura, mas há tratamentos que facilitam a vida do
 <p>
 <p>
 <p>
-<h3> A Vida no TEA </h3>
+<div class="content">
+    <h2 id="vida">A Vida no TEA</h2>
+  </div>
 <p>
 <p style="text-align: justify;">
 <b>1. Trabalho e Educação</b><br />
@@ -72,7 +128,9 @@ Não é uma doença e não tem cura, mas há tratamentos que facilitam a vida do
    </p>
 <p>
 <p>
-<h3> Apoio e Tratamento </h3>
+<div class="content">
+    <h2 id="apoio">Apoio e Tratamento</h2>
+  </div>
 <p>
 <p style="text-align: justify;">
 <b>- Terapia Cognitivo-Comportamental (TCC)</b>: Pode ajudar a desenvolver habilidades sociais e de comunicação, bem como a lidar com a ansiedade.<br />
@@ -87,7 +145,10 @@ Com o suporte adequado e um ambiente compreensivo, adultos com autismo podem lev
 
 <p>
 <p>
-<h3> Razões para usar o Girassol como símbolo </h3>
+<div class="content">
+    <h2 id="girassol">Razões para usar o Girassol como símbolo</h2>
+  </div>
+
 <p>
 <p style="text-align: justify;">
 Embora não seja tradicionalmente associado ao autismo, o Girassol vem sendo adotado como símbolo de uma série de condições invisíveis, incluindo TEA. Ele foi criado para ajudar pessoas com deficiências ocultas a sinalizar que podem precisar de ajuda, compreensão ou tempo extra em ambientes públicos e entre os motivos para adotá-lo, cito:<br />
@@ -104,7 +165,9 @@ Embora não seja tradicionalmente associado ao autismo, o Girassol vem sendo ado
    </p>
 <p>
 <p>
-<h3> E Por que não usar o Quebra-Cabeça?</h3>
+<div class="content">
+    <h2 id="quebra">E Por que não usar o Quebra-Cabeças?</h2>
+  </div>
 <p>
 <img src="https://itxesco.github.io/assets/figuras/autismo/quebra.jpg" alt="quebra-cabeças" style="height: 300px; width: auto; object-fit: cover;">
 
@@ -125,5 +188,5 @@ Existem algumas razões pelas quais tenho reservas em relação ao uso do quebra
 <p>
 Essas são algumas das razões pelas quais sou contra o uso do quebra-cabeça como símbolo do autismo. No entanto, é preciso lembrar que as opiniões podem variar amplamente dentro da comunidade autista, e muitas pessoas ainda valorizam o quebra-cabeça como um símbolo de conscientização e apoio.<br />
 <p>
-É importante ouvir as vozes da comunidade autista e respeitar suas perspectivas e preferências. Eu, particularmente, prefiro usar o Girassol pelos motivos acima expostos.<br />
+É importante ouvir as vozes da comunidade autista e respeitar suas perspectivas e preferências. Eu, particularmente,  uso o Girassol.
 </p>
