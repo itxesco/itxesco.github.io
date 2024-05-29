@@ -68,7 +68,7 @@ Finalmente, o uso de jogos na educação de ciências e matemática pode fomenta
 <p>
 <img src="https://itxesco.github.io/assets/figuras/rpg/JC_RPG.jpg" alt="jornal do campus" style="height: 300px; width: auto; object-fit: cover;">
 
-
+<p>
 Nascido oficialmente em 1974, com a série “Dungeons & Dragons”, o <b>RPG</b> é um jogo que admite diversas <i>modalidades</i>, envolvendo cartas, dados e livros. No chamado <i><b>RPG de mesa</b></i>, os participantes interpretam oralmente os personagens de uma história e tomam as decisões necessárias para definir seu rumo.
 <p>
 No mundo virtual, o <b>RPG</b> mais famoso é <i>World of Warcraft</i>, que reúne milhões de jogadores do mundo todo em seus servidores online. Categorizado como  <b>MMORPG</b>, <i>WoW</i>  utiliza os elementos do RPG para levar seus <i>players</i> por histórias de fantasia em um universo fictício.

@@ -65,7 +65,7 @@ Mas o que é uma História em Quadrinhos?
 
 Trata-se de uma forma de contar histórias a partir de uma ideia simples: posicionar uma imagem ao lado da outra, ilustrando a passagem do tempo.
 <p>
-<img src="https://itxesco.github.io/assets/figuras/hq/calvin.jpg" alt="Calvin" style="height: 300px; width: auto; object-fit: cover;">
+<img src="https://itxesco.github.io/assets/figuras/hq/calvin.jpg" alt="Calvin">
 
 <p>
 <h3>A lenda do menino amarelo </h3>
