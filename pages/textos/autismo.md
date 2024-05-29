@@ -37,12 +37,14 @@ description: O que é o Transtorno do Espectro Autista; TEA em Adultos; diagnós
 
 <div class="menu">
     <a href="#TEA">O TEA em adultos</a>
-    <a href="#caracteristicas">Algumas Características que Adultos no TEA partilham</a>
+    <a href="#caracteristicas">Algumas Características</a>
+    <a href="#direitos">Direitos do Autista</a>
     <a href="#diagnostico">Diagnóstico Tardio</a>
     <a href="#vida">A Vida no TEA</a>
     <a href="#apoio">Apoio e Tratamento</a>
-    <a href="#girassol">Razões para usar o Girassol como símbolo</a>
-    <a href="#quebra">E Por que não usar o Quebra-Cabeças?</a>
+    <a href="#girassol">O Girassol como símbolo</a>
+    <a href="#quebra">E o Quebra-Cabeças?</a>
+    <a href="#identificacao">Identificação</a>
 </div>
 <p>
 <p>
@@ -129,6 +131,12 @@ Não é uma doença e não tem cura, mas há tratamentos que facilitam a vida do
 <p>
 <p>
 <div class="content">
+    <h2 id="quebra">E Por que não usar o Quebra-Cabeças?</h2>
+  </div>
+<p>
+<p>
+
+<div class="content">
     <h2 id="apoio">Apoio e Tratamento</h2>
   </div>
 <p>
@@ -141,14 +149,17 @@ Não é uma doença e não tem cura, mas há tratamentos que facilitam a vida do
 Com o suporte adequado e um ambiente compreensivo, adultos com autismo podem levar uma vida plena e satisfatória, aproveitando suas habilidades e interesses únicos.
 </p>
 <p>
-<img src="https://itxesco.github.io/assets/figuras/autismo/tea_adulto.jpg" alt="laço com estampa de girassol" style="height: 300px; width: auto; object-fit: cover;">
-
+<div class="content">
+    <h2 id="TEA">O TEA em adultos</h2>
+  </div>
+  <p>
 <p>
 <p>
 <div class="content">
     <h2 id="girassol">Razões para usar o Girassol como símbolo</h2>
   </div>
-
+  <p>
+<img src="https://itxesco.github.io/assets/figuras/autismo/tea_adulto.jpg" alt="laço com estampa de girassol" style="height: 300px; width: auto; object-fit: cover;">
 <p>
 <p style="text-align: justify;">
 Embora não seja tradicionalmente associado ao autismo, o Girassol vem sendo adotado como símbolo de uma série de condições invisíveis, incluindo TEA. Ele foi criado para ajudar pessoas com deficiências ocultas a sinalizar que podem precisar de ajuda, compreensão ou tempo extra em ambientes públicos e entre os motivos para adotá-lo, cito:<br />
