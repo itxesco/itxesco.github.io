@@ -16,6 +16,7 @@
     <style>
             .tabela-imagens img {
                 height: 300px; /* Defina a altura desejada */
+                width: auto; /*Define a largura como automatica */
                 object-fit: cover; /* Ajusta a imagem para preencher o contêiner mantendo a proporção */
             }
         </style>
