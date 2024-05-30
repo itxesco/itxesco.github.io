@@ -1,8 +1,5 @@
----
-layout: page
-title: extensão universitária
-description: Projetos de extensão Universitária - Prof. Dr. Francisco Nascimento
----
+
+<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -11,6 +8,7 @@ description: Projetos de extensão Universitária - Prof. Dr. Francisco Nascimen
     <style>
         body {
             font-family: Arial, sans-serif;
+            text-align: justify;
         }
         .menu {
             background-color: #333;
@@ -34,37 +32,29 @@ description: Projetos de extensão Universitária - Prof. Dr. Francisco Nascimen
     </style>
 </head>
 <body>
+
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href= "/pages/extensao_oca.html">Oca da Ciência na Escola</a></li>
-          <li><a href= "/pages/extensao_sarau.html">Sarau Odara</a></li>
-          <li><a href= "/pages/extensao_pint.html">Pint of Science</a></li>
-            <li><a href= "/pages/extensao_esc_campus.html">Escolas no Campus</a></li>
-            <li><a href= "/pages/extensao_banca.html">Banca da Ciência</a></li>
-            <li><a href= "/pages/extensao_encontro.html">Encontro com Educadores</a></li>
+          <li><a href="/pages/extensao_oca.html">Oca da Ciência na Escola</a></li>
+          <li><a href="/pages/extensao_sarau.html">Sarau Odara</a></li>
+          <li><a href="/pages/extensao_pint.html">Pint of Science</a></li>
+          <li><a href="/pages/extensao_esc_campus.html">Escolas no Campus</a></li>
+          <li><a href="/pages/extensao_banca.html">Banca da Ciência</a></li>
+          <li><a href="/pages/extensao_encontro.html">Encontro com Educadores</a></li>
       </ul>
   </div>
 </div>
-<p>
-<p>
-
----
 
 <div class="content">
     <h2 id="encontro">O Encontro com Educadores</h2>
-  </div>
+    <p>- O Encontro com Educadores é uma ação de formação continuada para professores da rede pública estadual de Porto Seguro (BA). Faz parte das ações executadas pela Coordenação de Práticas Pedagógicas da UFSB/CSC junto ao Complexo Integrado de Educação de Porto Seguro (CIEPS).</p>
+    <p>A formação é dividida em três ciclos, cada um divido em 3 encontros. Cada ciclo se dedica a apresentar, introduzir e explorar o pensamento de um autor a partir da leitura de uma obra selecionada:</p>
+    <p><b>Ciclo 01 </b>- Frantz Fanon - Os condenados da Terra</p>
+    <p><b>Ciclo 02 </b>- Paulo Freire - a pedagogia do Oprimido</p>
+    <p><b>Ciclo 03 </b>- Georges Snyders - A Alegria na Escola</p>
+    <p>Dado o cenário da pandemia COVID-19, em 2020 o Encontro com Educadores foi realizado de maneira remota, utilizando encontros síncronos entre educadores da UFSB e do CIEPS.</p>
+</div>
 
-<p>
-- O Encontro com Educadores é uma ação de formação continuada para professores da rede pública estadual de Porto Seguro (BA). Faz parte das ações executadas pela Coordenação de Práticas Pedagógicas da UFSB/CSC junto ao Complexo Integrado de Educação de Porto Seguro (CIEPS).
-
-A formação é dividida em três ciclos, cada um divido em 3 encontros. Cada ciclo se dedica a apresentar, introduzir e explorar o pensamento de um autor a partir da leitura de uma obra selecionada:
-
->Ciclo 01 - Frantz Fanon - Os condenados da Terra  
-Ciclo 02 - Paulo Freire - a pedagogia do Oprimido  
-Ciclo 03 - Georges Snyders - A Alegria na Escola
-
-Dado o cenário da pandemia COVID-19, em 2020 o Encontro com Educadores foi realizado de maneira remota, utilizando encontros síncronos entre educadores da UFSB e do CIEPS.  
-
-
----
+</body>
+</html>
