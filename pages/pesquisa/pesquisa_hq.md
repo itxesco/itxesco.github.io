@@ -40,10 +40,10 @@
     <div class="navbar">
         <div class="navbar-inner">
             <ul class="nav">
-                <li><a href="/pages/pesquisa_afro.html">Afrofuturismo</a></li>
-                <li><a href="/pages/pesquisa_edu.html">Educação Antiracista</a></li>
-                <li><a href="/pages/pesquisa_hq.html">Histórias em Quadrinhos e Educação</a></li>
-                <li><a href="/pages/pesquisa_jogos.html">Jogos e Educação</a></li>
+                <li><a href="/pages/pesquisa/pesquisa_afro.html">Afrofuturismo</a></li>
+                <li><a href="/pages/pesquisa/pesquisa_edu.html">Educação Antiracista</a></li>
+                <li><a href="/pages/pesquisa/pesquisa_hq.html">Histórias em Quadrinhos e Educação</a></li>
+                <li><a href="/pages/pesquisa/pesquisa_jogos.html">Jogos e Educação</a></li>
             </ul>
         </div>
     </div>

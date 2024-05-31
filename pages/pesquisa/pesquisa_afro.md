@@ -1,7 +1,4 @@
-Aqui está o código HTML corrigido, com todos os parágrafos de texto justificados e as imagens centralizadas e ajustadas para uma altura de 300px:
 
-```html
-<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -37,10 +34,10 @@ Aqui está o código HTML corrigido, com todos os parágrafos de texto justifica
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="/pages/pesquisa_afro.html">afrofuturismo</a></li>
-          <li><a href="/pages/pesquisa_edu.html">educação antiracista</a></li>
-          <li><a href="/pages/pesquisa_hq.html">histórias em quadrinhos e educação</a></li>
-          <li><a href="/pages/pesquisa_jogos.html">jogos e educação</a></li>
+          <li><a href="/pages/pesquisa/pesquisa_afro.html">afrofuturismo</a></li>
+          <li><a href="/pages/pesquisa/pesquisa_edu.html">educação antiracista</a></li>
+          <li><a href="/pages/pesquisa/pesquisa_hq.html">histórias em quadrinhos e educação</a></li>
+          <li><a href="/pages/pesquisa/pesquisa_jogos.html">jogos e educação</a></li>
       </ul>
   </div>
 </div>

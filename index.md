@@ -26,24 +26,24 @@
     <table class="tabela-imagens">
         <tr>
             <td>
-                <a href="pages/pesquisa_edu.html">
+                <a href="pages/pesquisa/pesquisa_edu.html">
                     <img src="imagens/index_pics/educa_anti.jpg" alt="lousa escolar verde com a escrita Educação Antiracista em giz amarelo" title="Educação Antiracista"/>
                 </a>
             </td>
             <td>
-                <a href="pages/pesquisa_hq.html">
+                <a href="pages/pesquisa/pesquisa_hq.html">
                     <img src="imagens/index_pics/hq.jpg" alt="historias em quadrinhos" title="Historias em Quadrinhos de Super-Heróis e Ensino de Ciências"/>
                 </a>
             </td>
             <td>
-                <a href="pages/ensino.html">
+                <a href="pages/ensino/ensino.html">
                     <img src="imagens/index_pics/aulas_.png" alt="prof Francisco em frente a uma lousa verde cheia de equações em uma aula de física" title="aulas"/>
                 </a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="pages/decanato.html">
+                <a href="pages/ihac/decanato.html">
                     <img src="imagens/index_pics/mano.JPG" alt="Professor Francisco ao lado de mano brown e da reitora da UFSB" title="Decanato"/>
                 </a>
             </td>
@@ -53,7 +53,7 @@
                 </a>
             </td>
             <td>
-                <a href="pages/pesquisa_jogos.html">
+                <a href="pages/pesquisa/pesquisa_jogos.html">
                     <img src="imagens/index_pics/tbbt_jogos.jpg" alt="cena da série The big bang theory com os personagens jogando RPG" title="Jogos de RPG e Educação"/>
                 </a>
             </td>
