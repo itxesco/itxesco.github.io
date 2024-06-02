@@ -49,8 +49,6 @@
     <a href="#diagnostico">Diagnóstico Tardio</a>
     <a href="#vida">A Vida no TEA</a>
     <a href="#apoio">Apoio e Tratamento</a>
-    <a href="#girassol">O Girassol como símbolo</a>
-    <a href="#quebra">E o Quebra-Cabeças?</a>
     <a href="#identificacao">Identificação</a>
 </div>
 <p>
@@ -102,7 +100,7 @@
         <h3 id="direitos">Direitos da pessoa com autismo</h3>
         <p>
 Em 2012 foi instituída no Brasil  a Política Nacional de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista através da <a href="https://presrepublica.jusbrasil.com.br/legislacao/1033668/lei-12764-12">Lei Berenice Piana</a> e, em 2020, entrou em vigor a <a href="https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l13977.htm">Lei 13.977</a> que é conhecida como "Lei Romeo Mion". Essa lei foi responsável por criar a <a href="https://www.pessoacomdeficiencia.sp.gov.br/ciptea/#:~:text=A%20Carteira%20de%20Identificação%20da,TEA%20nos%20serviços%20públicos%20e">Carteira de Identificação da Pessoa com Transtorno do Espectro Autista (Ciptea)</a>,um documento oficial emitido de forma gratuita, sob responsabilidade de estados e municípios, que substitui  o atestado médico e  facilitr o acesso a direitos previstos na <a href="https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l13977.htm">Lei Berenice Piana.</a>
-Você pode encontrar a lista completa dos direitos das pessoas com autismo M ahref="https://institutosingular.org/blog/direitos-dos-autistas/?utm_source=google_ads&utm_medium=cpc&utm_campaign=21159085894&utm_content=&utm_term=&gad_source=1&gclid=EAIaIQobChMIvL7A1tm7hgMVbi7UAR0_CAsXEAAYASAAEgKIAfD_BwE">aqui</a>. A página <a href="https://autismolegal.com.br/direitos-do-autista/">Autismo Legal</a>  apresenta a mesma lista, de modo didático e detalhado.
+Você pode encontrar a lista completa dos direitos das pessoas com autismo  <a href="https://institutosingular.org/blog/direitos-dos-autistas/?utm_source=google_ads&utm_medium=cpc&utm_campaign=21159085894&utm_content=&utm_term=&gad_source=1&gclid=EAIaIQobChMIvL7A1tm7hgMVbi7UAR0_CAsXEAAYASAAEgKIAfD_BwE">aqui</a>. A página <a href="https://autismolegal.com.br/direitos-do-autista/">Autismo Legal</a>  apresenta a mesma lista, de modo didático e detalhado.
 
 <p>        
     <h3 id="diagnostico">Diagnóstico Tardio</h3>
@@ -137,8 +135,32 @@ Você pode encontrar a lista completa dos direitos das pessoas com autismo M ahr
     <b>- Suporte Vocacional:</b> Ajudar a encontrar e manter um emprego adequado.<br>
     <b>- Grupos de Apoio:</b> Conexão com outros adultos autistas para compartilhar experiências e estratégias.</p>
     <p>Com o suporte adequado e um ambiente compreensivo, adultos com autismo podem levar uma vida plena e satisfatória, aproveitando suas habilidades e interesses únicos.</p>
-
-    <h3 id="girassol">O Girassol como símbolo</h3>
+<p>
+<p>
+    <h3 id="identificacao">Símbolos do Autismo</h3>
+<p>
+<h4> O arco-íris em infinito</h4>
+<p>
+<img src="https://itxesco.github.io/assets/figuras/autismo/infinito.jpg" alt="símbolo do infinito com as cores do arco-íris" class="centered-img">
+<p>
+O símbolo do infinito em forma de arco-íris é usado para representar o autismo por várias razões:
+<p>
+<b>1. Diversidade e Inclusão</b><br>
+ O arco-íris, com suas muitas cores, simboliza a diversidade do espectro autista. Pessoas com autismo possuem uma ampla gama de habilidades, características e desafios, e o arco-íris é uma maneira de representar essa diversidade.
+<p>
+<b>2.Infinito</b><br>
+O símbolo do infinito reflete a ideia de que o autismo é uma condição contínua e não linear. Não é algo que pode ser "curado" ou que segue um caminho previsível. A forma de infinito também simboliza o potencial ilimitado das pessoas com autismo.
+<p>
+<b>3.Positividade e Esperança</b><br>
+ As cores vibrantes do arco-íris evocam sentimentos de alegria, esperança e positividade. Isso ajuda a desafiar estigmas e percepções negativas associadas ao autismo, promovendo uma visão mais positiva e inclusiva.
+<p>
+<b>4.Movimento da Neurodiversidade</b><br>
+ O símbolo do infinito em arco-íris é frequentemente associado ao movimento da neurodiversidade, que enfatiza que diferenças neurológicas como o autismo são variações normais do cérebro humano, e não desordens que precisam ser corrigidas.
+<p>
+Este símbolo é uma alternativa ao quebra-cabeça, que foi tradicionalmente usado para representar o autismo, mas que algumas pessoas sentem que pode sugerir que o autismo é um "mistério" ou algo que precisa ser resolvido. O símbolo do infinito em arco-íris oferece uma representação mais inclusiva e positiva da experiência autista.
+<p>
+    <h4> O girassol </h4>
+    <p>
     <img src="https://itxesco.github.io/assets/figuras/autismo/tea_adulto.jpg" alt="laço com estampa de girassol" class="centered-img">
     <p>
     Embora não seja tradicionalmente associado ao autismo, o Girassol vem sendo adotado como símbolo de uma série de condições invisíveis, incluindo TEA. Ele foi criado para ajudar pessoas com deficiências ocultas a sinalizar que podem precisar de ajuda, compreensão ou tempo extra em ambientes públicos e entre os motivos para adotá-lo, cito:</p>
@@ -151,7 +173,7 @@ Você pode encontrar a lista completa dos direitos das pessoas com autismo M ahr
     <b>3. Inclusão e Compreensão:</b><br>
     - O girassol ajuda a promover um ambiente mais inclusivo e compreensivo, facilitando a identificação de pessoas que podem precisar de apoio adicional devido a condições não imediatamente visíveis.</p>
 
-    <h3 id="quebra">E Por que não o Quebra-Cabeças?</h3>
+    <h4>E Por que não o Quebra-Cabeças?</h4>
     <img src="https://itxesco.github.io/assets/figuras/autismo/quebra.jpg" alt="quebra-cabeças" class="centered-img">
     <p>
     Existem algumas razões pelas quais tenho reservas em relação ao uso do quebra-cabeça como símbolo do autismo, que vejo serem compartilhadas por grande parte da comunidade autista na atualidade:</p>
@@ -173,7 +195,7 @@ Você pode encontrar a lista completa dos direitos das pessoas com autismo M ahr
     <p>
     Essas são algumas das razões pelas quais sou contra o uso do quebra-cabeça como símbolo do autismo. No entanto, é preciso lembrar que as opiniões podem variar amplamente dentro da comunidade autista, e muitas pessoas ainda valorizam o quebra-cabeça como um símbolo de conscientização e apoio.</p>
     <p>
-    É importante ouvir as vozes da comunidade autista e respeitar suas perspectivas e preferências. Eu, particularmente, uso o Girassol.</p>
+    É importante ouvir as vozes da comunidade autista e respeitar suas perspectivas e preferências. Eu, particularmente, uso o Girassol ou o infinito com arco-íris.</p>
 </div>
 
 </body>
