@@ -42,8 +42,8 @@
 <body>
 
 <div class="menu">
-    <a href="#TEA">O TEA </a>
-    <a href="TEA em adultos</a>
+    <a href="#TEA">O que é o TEA </a>
+    <a href="#adultos">TEA em adultos</a>
     <a href="#caracteristicas">Algumas Características</a>
     <a href="#direitos">Direitos do Autista</a>
     <a href="#diagnostico">Diagnóstico Tardio</a>
@@ -55,7 +55,16 @@
 </div>
 <p>
 <div class="content">
-    <h3 id="TEA">TEA em adultos</h3>
+    <h3 id="TEA">O que é o TEA?</h3>
+    <p>
+    A <a href="https://bvsms.saude.gov.br/transtorno-do-espectro-autista-tea-autismo/#:~:text=Tem%20como%20características%20a%20dificuldade,ou%20três%20anos%20de%20idade."> Biblioteca Virtual em Saúde (BVS)</a> do Ministério da Saúde define o Transtorno do Espectro Autista (TEA) como <i>um problema no desenvolvimento neurológico que prejudica a organização de pensamentos, sentimentos e emoções, que tem como características a dificuldade de comunicação por falta de domínio da linguagem e do uso da imaginação, a dificuldade de socialização e o comportamento limitado e repetitivo. <br>
+    Na página do <a href="https://www.saude.pr.gov.br/Pagina/Transtorno-do-Espectro-Autista-TEA">Governo do Estado do Paraná</a>, a definição que encontramos para o TEA é <i>um distúrbio do neurodesenvolvimento caracterizado por desenvolvimento atípico, manifestações comportamentais, déficits na comunicação e na interação social, padrões de comportamentos repetitivos e estereotipados, podendo apresentar um repertório restrito de interesses e atividades.</i><br>
+    Uma boa definição para o termo está na página "Autismo e Realidade", que apresenta o TEA segundo o Manual Diagnóstico e Estatístico de Transtornos Mentais DSM-5 (referência mundial de critérios para diagnósticos) de 2013, onde consta que <i> pessoas dentro do espectro podem apresentar déficit na comunicação social ou interação social (como nas linguagens verbal ou não verbal e na reciprocidade socioemocional) e padrões restritos e repetitivos de comportamento, como movimentos contínuos, interesses fixos e hipo ou hipersensibilidade a estímulos sensoriais. Todos os pacientes com autismo partilham estas dificuldades, mas cada um deles será afetado em intensidades diferentes, resultando em situações bem particulares. Apesar de ainda ser chamado de autismo infantil, pelo diagnóstico ser comum em crianças e até bebês, os transtornos são condições permanentes que acompanham a pessoa por todas as etapas da vida.</i><br>
+    <p>
+    A ciência ainda não encontrou as causas do TEA. As investigações a respeito do Transtorno remontam a 1943, no  livro “Distúrbios Autísticos do Contato Afetivo” do psiquiatra Leo Kanner. Em 1952, o DSM-1 classificava os  sintomas de autismo como um subgrupo da esquizofrenia infantil. Em 1980, o DSM-3 colocou o autismo como uma nova classe, a dos Transtornos Invasivos do Desenvolvimento (TID), reconhecendo-o como uma condição específica.<br>  
+<p>
+<div class="content">
+    <h3 id="adultos">TEA em adultos</h3>
     <p>
     O autismo, ou Transtorno do Espectro do Autismo (TEA), é uma condição neurológica e de desenvolvimento que afeta a forma como uma pessoa percebe e socializa com os outros, resultando em dificuldades na comunicação e na interação social. O TEA inclui uma ampla gama de características e sintomas, que variam significativamente de pessoa para pessoa. Para entender melhor, veja a imagem abaixo:</p>
 
@@ -86,10 +95,20 @@
     <b>4. Sensibilidade Sensorial</b><br>
     - Hipersensibilidade ou hipossensibilidade a estímulos sensoriais como luz, som, textura, cheiro e sabor.<br>
     - Comportamentos de autoconforto para lidar com sobrecargas sensoriais.</p>
+    <p>
+    <div class="content"
+        <h3 id="direitos">Direitos da pessoa com autismo</h3>
+        <p>
+Em 2012 foi instituída no Brasil  a Política Nacional de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista através da <a href="https://presrepublica.jusbrasil.com.br/legislacao/1033668/lei-12764-12">Lei Berenice Piana</a> e, em 2020, entrou em vigor a <a href="https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l13977.htm">Lei 13.977</a> que é conhecida como "Lei Romeo Mion". Essa lei foi responsável por criar a <a href="https://www.pessoacomdeficiencia.sp.gov.br/ciptea/#:~:text=A%20Carteira%20de%20Identificação%20da,TEA%20nos%20serviços%20públicos%20e">Carteira de Identificação da Pessoa com Transtorno do Espectro Autista (Ciptea)</a>,um documento oficial emitido de forma gratuita, sob responsabilidade de estados e municípios, que substitui  o atestado médico e  facilitr o acesso a direitos previstos na <a href="https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l13977.htm">Lei Berenice Piana.</a>
+Você pode encontrar a lista completa dos direitos das pessoas com autismo M ahref="https://institutosingular.org/blog/direitos-dos-autistas/?utm_source=google_ads&utm_medium=cpc&utm_campaign=21159085894&utm_content=&utm_term=&gad_source=1&gclid=EAIaIQobChMIvL7A1tm7hgMVbi7UAR0_CAsXEAAYASAAEgKIAfD_BwE">aqui</a>. A página <a href="https://autismolegal.com.br/direitos-do-autista/">Autismo Legal</a>  apresenta a mesma lista, de modo didático e detalhado.
 
+<p>        
     <h3 id="diagnostico">Diagnóstico Tardio</h3>
     <p>
-    Muitas pessoas no TEA não foram diagnosticadas até a idade adulta, especialmente aquelas com sintomas menos evidentes. O motivo não é difícil de entender, basta procurar por um cardiologista em uma cidade pequena do interior para perceber que o acesso ao atendimento médico especializado é difícil nos dias de hoje. Agora, pense em como era há 20 anos atrás, ou 30, ou 40. Além disso é preciso lembrar que a própria ciência não é estática, está sempre em desenvolvimento e que aquilo que se sabia sobre o autismo em 1980 é muito diferente do que conhecemos em 2024.</p>
+    O acesso a tratamento médico especializado pode ser considerado um privilégio em nosso país. Por melhor que seja, o SUS enfrenta limites como a própria escassez de médicos fora  dos grandes centros populacionais e mesmo onde se faz presente com mais força, ainda tem de lidar com os ataques corriqueiros de quem pensa a saúde como mercadoria.<br>
+    O motivo não é difícil de entender, basta procurar por um cardiologista em uma cidade pequena do interior para perceber que o acesso ao atendimento médico especializado é difícil nos dias de hoje. Agora, pense em como era há 20 anos atrás, ou 30, ou 40. Além disso é preciso lembrar que a própria ciência não é estática, está sempre em desenvolvimento e que aquilo que se sabia sobre o autismo em 1980 é muito diferente do que conhecemos em 2024.
+    <p>
+    Além disso, é preciso lembrar que o SUS foi instituído a partir da promulgação da nossa Constituição Federal em 1988. Se considerarmos os anos 1970 por base, temos 3 décadas de crianças nascidas com TEA que tiveram pouco acesso ao diagnóstico na infância e que só estão sendo diagnosticadas agora, na idade adulta. Em especial, crianças com sintomas menos evidentes tendem a receber algum outro tipo de classificação em casa e/ou na escola. </p>
     <p>
     O diagnóstico deve ser iniciado por um profissional de saúde mental especializado em TEA, como o neuropsicólogo, através de uma avaliação que inclui entrevistas, questionários e observações comportamentais. Depois, é necessário que um psiquiatra realize os demais exames investigativos até que se obtenha um laudo final. É importante lembrar que o adulto não "vira autista", ele sempre foi. A pessoa nasce autista, cresce e envelhece autista. Não é uma doença e não tem cura, mas há tratamentos que facilitam a vida do adulto no TEA.</p>
 
@@ -107,7 +126,8 @@
     <p>
     <b>4. Saúde Mental</b><br>
     - É comum que adultos com autismo também enfrentem desafios como ansiedade, depressão e outras condições de saúde mental. Terapia e suporte adequado podem ser benéficos.</p>
-
+<p>
+<p>
     <h3 id="apoio">Apoio e Tratamento</h3>
     <p>
     <b>- Terapia Cognitivo-Comportamental (TCC)</b>: Pode ajudar a desenvolver habilidades sociais e de comunicação, bem como a lidar com a ansiedade.<br>
