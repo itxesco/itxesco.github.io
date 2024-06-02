@@ -76,6 +76,8 @@
 
     <h3 id="caracteristicas">Algumas Características em Adultos no TEA</h3>
     <p>
+    Primeiro, é preciso ter em mente que o TEA não possui "características especificas", justamente por ser um espectro com diferentes graus e que se manifesta de diferentes maneiras. É possível apontar algumas caracteristas  que <i> uma parte</i> da população adulta que está no TEA compartilha, mas não se pode afirmar que toda pessoa autista adulta apresentará todas  ou mesmo algumas delas. É possível que apresente somente outras que não estejam listadas aqui:
+    <p>
     <b>1. Interação Social</b><br>
     - Dificuldade em compreender e usar a linguagem corporal, expressões faciais e gestos.<br>
     - Problemas em iniciar ou manter conversas.<br>
