@@ -48,7 +48,7 @@
                 </a>
             </td>
             <td>
-                <a href="pages/textos/autismo.html">
+                <a href="pages/pages/autismo/autismo.html">
                     <img src="imagens/index_pics/tea_adulto.jpg" alt="laço de tecido com estampa de girassóis" title="Autismo em Adultos"/>
                 </a>
             </td>

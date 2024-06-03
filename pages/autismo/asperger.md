@@ -1,4 +1,3 @@
-```html
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -29,7 +28,8 @@
 </head>
 <body>
     <h1>Síndrome de Asperger</h1>
-    <p>A síndrome de Asperger é um transtorno do espectro autista, um grupo de condições que inclui o autismo e outros transtornos com sintomas semelhantes, como problemas de linguagem e comunicação, e padrões repetitivos ou restritos de pensamentos e comportamento.</p>
+    <p>
+    A síndrome de Asperger é um transtorno do espectro autista, um grupo de condições que inclui o autismo e outros transtornos com sintomas semelhantes, como problemas de linguagem e comunicação, e padrões repetitivos ou restritos de pensamentos e comportamento.</p>
     <p>Pessoas com síndrome de Asperger têm problemas semelhantes ao autismo em áreas de interação social e comunicação, mas possuem inteligência e habilidades verbais normais. A síndrome de Asperger é geralmente considerada a forma mais branda dos transtornos do espectro autista.</p>
 
     <h2>Índice (clique para ir para as seções)</h2>
