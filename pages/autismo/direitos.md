@@ -62,25 +62,103 @@
 <p>
 
 <div class="menu">
-    <a href="#TEA">O que é o TEA </a>
-    <a href="#adultos">TEA em adultos</a>
-    <a href="#caracteristicas">Algumas Características</a>
-    <a href="#direitos">Direitos do Autista</a>
-    <a href="#diagnostico">Diagnóstico Tardio</a>
-    <a href="#vida">A Vida no TEA</a>
-    <a href="#apoio">Apoio e Tratamento</a>
-    <a href="#identificacao">Identificação</a>
+    <a href="#direitos">Direitos da Pessoa Autista </a>
+    <a href="#documentos">Documentação</a>
+    <a href="#ciptea">A CIPTEA</a>
+    <a href="#pcd">Identificação do Veículo como PCD</a>
+    <a href="#rg">TEA no RG</a>
+    <a href="#ipva">Isenção do IPVA</a>
+    <a href="#transporte">Gratuidade no Transporte Público</a>
+    <a href="#passagens">Desconto na passagem aérea para acompanhantes</a>
 </div>
 <p>
 <div class="content">
 
-        <h3 id="direitos">Direitos da pessoa com autismo</h3>
+        <h3 id="direitos">Direitos da pessoa autista</h3>
         <p>
 Em 2012 foi instituída no Brasil  a Política Nacional de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista através da <a href="https://presrepublica.jusbrasil.com.br/legislacao/1033668/lei-12764-12">Lei Berenice Piana</a> e, em 2020, entrou em vigor a <a href="https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l13977.htm">Lei 13.977</a> que é conhecida como "Lei Romeo Mion". Essa lei foi responsável por criar a <a href="https://www.pessoacomdeficiencia.sp.gov.br/ciptea/#:~:text=A%20Carteira%20de%20Identificação%20da,TEA%20nos%20serviços%20públicos%20e">Carteira de Identificação da Pessoa com Transtorno do Espectro Autista (Ciptea)</a>,um documento oficial emitido de forma gratuita, sob responsabilidade de estados e municípios, que substitui  o atestado médico e  facilitar o acesso a direitos previstos na <a href="https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l13977.htm">Lei Berenice Piana.</a>
 Você pode encontrar a lista completa dos direitos das pessoas com autismo  <a href="https://institutosingular.org/blog/direitos-dos-autistas/?utm_source=google_ads&utm_medium=cpc&utm_campaign=21159085894&utm_content=&utm_term=&gad_source=1&gclid=EAIaIQobChMIvL7A1tm7hgMVbi7UAR0_CAsXEAAYASAAEgKIAfD_BwE">aqui</a>. A página <a href="https://autismolegal.com.br/direitos-do-autista/">Autismo Legal</a>  apresenta a mesma lista, de modo didático e detalhado.
+</div>
+<p>
+<p>
+<h3 id="documentos">Como regularizar sua documentação </h3>
+<p>
+Vou apresentar aqui um breve guia dos procedimentos para obter sua documentação. Fiz a minha em SP e no Piauí, porque cada unidade da federação tem suas próprias regras e burocracia. E nem todos aceitam o laudo médico, te obrigando a passar por perícias independentes, muitas vezes sujeitas a um agendamento demorado.
+Vale lembrar, a documentação tem validade nacional, assim como acontece com o RG. Como resido em uma cidade pequena e pobre na qualidade de serviços públicos, busquei ser atendido nos locais onde cada processo fosse mais ágil e descomplicado.
+"cada processo", porque ao contrario do que poderia se esperar, não existe um protocolo unificado do governo para atendimento as pessoas no TEA, tornando o processo de reconhecimento longo, custoso e doloroso, que nos expõe muito além do necessário.
+<p>
+Separei minha jornada em etapas, cumprindo uma de cada vez, na ordem de importância e facilidade e as apresento aqui, com o passo a passo e os links necessários. Lembrando que fiz quase tudo em São Paulo (Capital) utilizando a estrutura do PoupaTempo:
+<p>
+<b><h3 id="ciptea">1. CIPTEA: A Carteira de Identificação da Pessoa com Transtorno do Espectro Autista </h3></b>
+<p>
+- A Carteira de Identificação da Pessoa com Transtorno do Espectro Autista facilita que seja recebida a atenção integral e prioritária, no atendimento  e no acesso aos serviços públicos e privados, em especial nas áreas de saúde educação e assistência social, evitando constrangimentos e o acompanhamento de laudos para comprovação da condição. Importante lembrar: beneficia a pessoa portadora e quem estiver lhe acompanhando. O procedimento para obte-la é bem simples:
+<p>
+1.1. separe uma foto digitalizada e seu laudo psiquiátrico com chave de verificação digital (agiliza o processo). Na ausência do laudo, eles aceitam o relatório medico. Mas faça com o laudo, porque agiliza a emissão. <br>
+1.2. Visite o portal da CIPTEA  <a href="https://ciptea.sp.gov.br/">clicando aqui</a> e faça o acesso através das suas credenciais gov.br;<br>
+1.3 Faça seu cadastro, suba a foto e o laudo nos locais indicados. forneça seu endereço (sim, você precisa ter um endereço residencial em SP).<br>
+1.4 Se você possui um veículo, forneça as informações (placa, renavam) no local adequado;<br>
+1.5 Espere o resultado. Será necessário acessar novamente o portal para conferir a aprovação.
+<p>
+A minha ficou pronta em 48 horas, mas sei de casos em que a CIPTEA foi disponibilizada para download no fim do mesmo dia. Com ela, foi disponibilizado um arquivo .pdf de adesivo para o carro.<br>
+<p>
+<a href="#direitos">voltar ao topo </a>
+<p>
+<p>
+<b><a href="#pcd">2. Identificação do Veículo como PCD</a></b>
+<p>
+Para que você possa estacionar seu carro nas vagas de estacionamento reservadas para PCD, é necessário que ele esteja em seu nome e você posicione o cartão de identificação PCD no painel do veículo, de forma visível, ao estacionar. <br>
+É necessário utilizar sempre o cartão original, não é permitido por lei fazer uma copia.<br>
+O cartão apresenta as informações necessárias para que a fiscalização possa conferir e juntamente à CIPTEA, foi o documento menos burocrático que obtive, mas somente porque optei em uma breve viagem ao PIAUÍ, onde o DETRAN te atende mediante agendamento prévio.<br>
+Fiz essa opção porque de acordo com as regras na Bahia, eu precisaria transferir meu carro para a cidade de Salvador (onde o procedimento é ágil e desburocratizado) OU transferí-lo para a cidade onde resido e fazer o procedimento junto a prefeitura local. Em São Paulo, encontrei as mesmas condições de dificuldade e para mim, foi mais fácil um "bate-e-volta" até Teresina, onde só precisei apresentar meu laudo e a CNH originais, entregar uma copia e o cartão foi disponibilizado na mesma hora.<br>
+O Piauí deu um show nesse quesito, mostrando que é possível prestar um serviço publico de qualidade: eles somente conferem a validade do seu laudo, que é o que realmente importa! Facilita muito sua vida se o laudo for digital, identificável por QRCode. Tenho os meus nesse formato e vejo que agiliza muito os procedimentos.<br>
+O cartão é válido em todo o território nacional e tem validade de 05 anos, quando precisará ser renovado.
+<p>
+<a href="#direitos">voltar ao topo </a>
+<p>
+<p>
+<b><h3 id="rg">3. Identificação do TEA no RG </h3></b>
+<p>
+- Outro documento que optei por adequar em SP (Capital) pela simplicidade do PoupaTempo. Há apenas um detalhe importante, um cuidado que <b> não pode ser negligenciado</b> em hipótese alguma:<b> eles não aceitam o laudo digital para inclusão do TEA no RG, é preciso levar um formulário específico impresso, assinado e carimbado pelo psiquiatra.</b><br>
+Com isso em mente, os passos são muito simples:
+<p>
+3.1 Baixe o formulário oficial no formato .pdf clicando aqui. Imprima e leve ao seu médico, peça que o preencha. Vale lembrar que o CID 11 ainda não está cadastrado no sistema do governo, então no atestado deve constar o CID 10.<br>
+3.2 Faça o agendamento para a <b>segunda via do RG</b> pelo site https://www.poupatempo.sp.gov.br/. No dia e hora, procure chegar com 10 minutos de antecedência. <b>Leve com você o atestado original assinado pelo médico</b>, que ficará retido no poupatempo.<br>
+3.3 Faça os procedimentos no atendimento, incluindo levar a versão antiga de seu RG e espere entre 10 a 15 dias úteis. É possível receber o documento em casa, mas eles não se responsabilizam pela entrega (vai como carta simples). Preferi retirar a minha pessoalmente. (qualquer pessoa pode retirar para você, desde que tenha o protocolo em mãos).
+<p>
+<a href="#direitos">voltar ao topo </a>
+<p>
+<p>
+<b><h3 id="IPVA">4. Isenção do IPVA </h3></b>
+<p>
+- Como meu veículo esta registrado em SP, fiz o procedimento por lá. Você pode encontrar as informações necessárias na página https://portal.fazenda.sp.gov.br/servicos/ipva/Paginas/como-solicitar-isencao-ipva-pcd.aspx. <br>
+Até o ponto em que estou, os passos tem sido simples:
+<p>
+4.1 Acesse o portal do SIVEI (Sistema de Veículos) <a href="https://www3.fazenda.sp.gov.br/SIVEI/"> clicando aqui </a> com suas credenciais gov.br e faça o agendamento de sua perícia:<br>
+a)Selecione "Novo Requerimento".<br>
+b)Selecione e Preencha o formulário Requerimento de Concessão de Isenção do IPVA pessoa autista .<br>
+c)Quando o sistema solicitar, carregue cada um dos documentos.​<br>
+​Atenção! Veja se​ você inseriu seu e-mail corretamente pois é por ele que receberá as informações do seu pedido.<br>
+4.2 Procure chegar com 30 minutos de antecedência, eles são bem pontuais. Leve consigo seus documentos de identidade e os laudos médicos do psiquiatra e neuro no formato digital. <br>
+4.3 Faça os procedimentos e aguarde 10 dias pelo resultado, que você irá consultar na página do SIVEI ou em https://www.ipva.fazenda.sp.gov.br/IPVANET_CertidaoIsencao/.
+<p>
+<b>Lembre-se de quitar todos os débitos do seu veículo ANTES de realizar essa perícia, senão ela o parecer será negativo.</b> O prazo para pedir isenção do IPVA de 2025 se encerra em dezembro de 2024, independente da sua placa.Não é possível obter a isenção do IPVA para o ano corrente.<br>
+Eu estou nessa fase, no momento. Assim que o processo caminhar, atualizo as informações da pagina.
+<p>
+<a href="#direitos">voltar ao topo </a>
+<p>
+<p>
+<b><h3 id="transporte">5. Gratuidade no Transporte Público </h3></b>
+<p>
+A preencher.
+<a href="#direitos">voltar ao topo </a>
+<p>
+<p>
+<b><h3 id="passagens">6. Desconto para acompanhantes em passagens aéreas </h3></b>
+<p>
+A preencher
+</p>
 
-<p>        
-
+</div>
 </div>
 
 </body>

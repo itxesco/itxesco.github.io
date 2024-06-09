@@ -31,9 +31,21 @@ description: Projetos de extensão Universitária - Prof. Dr. Francisco Nascimen
         .content {
             padding: 20px;
         }
+        p {
+            text-align: justify;
+        }
+        .centered-img {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            height: 200px;
+            width: auto;
+        }
+
     </style>
 </head>
 <body>
+
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
