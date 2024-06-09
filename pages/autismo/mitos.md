@@ -6,6 +6,26 @@
     <title>10 Equívocos Comuns Sobre o Autismo</title>
 </head>
 <body>
+<div class="navbar">
+  <div class="navbar-inner">
+      <ul class="nav">
+          <li><a href= "/pages/autismo/autismo.html">O que é o TEA</a></li>
+          <li><a href= "/pages/autismo/teadultos.html">TEA em adultos</a></li>
+          <li><a href= "/pages/autismo/apoioetratamento.html">Apoio e Tratamento</a></li>
+            <li><a href= "/pages/autismo/vidanotea.html">A vida no TEA</a></li>
+            <li><a href= "/pages/autismo/identificadao.html">simbologia e representaçao</a></li>
+            <li><a href= "/pages/autismo/Asperger.html">Não fale Äsperger"</a></li>
+            <li><a href= "/pages/autismo/identificadao.html">simbologia e representaçao</a></li>
+            <li><a href= "/pages/autismo/direitos.html">Direitos</a></li>
+            <li><a href= "/pages/autismo/fofos.html">não somos fofos</a></li>
+            <li><a href= "/pages/autismo/habilidades.html">Altas Habilidades e Superdotação</a></li>
+            <li><a href= "/pages/autismo/mitos.html">Mitos</a></li>
+              <li><a href= "/pages/autismo/namidia.html">TEA na cultura pop</a></li>
+      </ul>
+  </div>
+</div>
+<p>
+<p>
     <h1>10 Equívocos Comuns Sobre o Autismo</h1>
     <p>Há muitas concepções errôneas sobre o Autismo circulando por aí. Consequentemente, muitas pessoas com Autismo permanecem sem diagnóstico, inúmeros autistas são incompreendidos e milhões de dólares são doados a organizações sem fins lucrativos que não falam em nome daqueles com Autismo.</p>
     <p>Este é um momento preocupante para pessoas com Autismo (e falo como um desses autistas) porque a mídia foca uma porcentagem consideravelmente grande de sua cobertura sobre o Autismo em histórias contadas por aqueles que nem mesmo têm a condição. Elaborei uma lista de apenas dez equívocos que surgiram da falta de uma voz autista na mídia.</p>

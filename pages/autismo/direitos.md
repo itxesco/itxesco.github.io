@@ -40,6 +40,26 @@
     </style>
 </head>
 <body>
+<div class="navbar">
+  <div class="navbar-inner">
+      <ul class="nav">
+          <li><a href= "/pages/autismo/autismo.html">O que é o TEA</a></li>
+          <li><a href= "/pages/autismo/teadultos.html">TEA em adultos</a></li>
+          <li><a href= "/pages/autismo/apoioetratamento.html">Apoio e Tratamento</a></li>
+            <li><a href= "/pages/autismo/vidanotea.html">A vida no TEA</a></li>
+            <li><a href= "/pages/autismo/identificadao.html">simbologia e representaçao</a></li>
+            <li><a href= "/pages/autismo/Asperger.html">Não fale Äsperger"</a></li>
+            <li><a href= "/pages/autismo/identificadao.html">simbologia e representaçao</a></li>
+            <li><a href= "/pages/autismo/direitos.html">Direitos</a></li>
+            <li><a href= "/pages/autismo/fofos.html">não somos fofos</a></li>
+            <li><a href= "/pages/autismo/habilidades.html">Altas Habilidades e Superdotação</a></li>
+            <li><a href= "/pages/autismo/mitos.html">Mitos</a></li>
+              <li><a href= "/pages/autismo/namidia.html">TEA na cultura pop</a></li>
+      </ul>
+  </div>
+</div>
+<p>
+<p>
 
 <div class="menu">
     <a href="#TEA">O que é o TEA </a>
@@ -60,7 +80,7 @@ Em 2012 foi instituída no Brasil  a Política Nacional de Proteção dos Direit
 Você pode encontrar a lista completa dos direitos das pessoas com autismo  <a href="https://institutosingular.org/blog/direitos-dos-autistas/?utm_source=google_ads&utm_medium=cpc&utm_campaign=21159085894&utm_content=&utm_term=&gad_source=1&gclid=EAIaIQobChMIvL7A1tm7hgMVbi7UAR0_CAsXEAAYASAAEgKIAfD_BwE">aqui</a>. A página <a href="https://autismolegal.com.br/direitos-do-autista/">Autismo Legal</a>  apresenta a mesma lista, de modo didático e detalhado.
 
 <p>        
-    
+
 </div>
 
 </body>

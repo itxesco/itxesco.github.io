@@ -6,6 +6,26 @@
     <title>Autismo e Cultura Popular</title>
 </head>
 <body>
+<div class="navbar">
+  <div class="navbar-inner">
+      <ul class="nav">
+          <li><a href= "/pages/autismo/autismo.html">O que é o TEA</a></li>
+          <li><a href= "/pages/autismo/teadultos.html">TEA em adultos</a></li>
+          <li><a href= "/pages/autismo/apoioetratamento.html">Apoio e Tratamento</a></li>
+            <li><a href= "/pages/autismo/vidanotea.html">A vida no TEA</a></li>
+            <li><a href= "/pages/autismo/identificadao.html">simbologia e representaçao</a></li>
+            <li><a href= "/pages/autismo/Asperger.html">Não fale Äsperger"</a></li>
+            <li><a href= "/pages/autismo/identificadao.html">simbologia e representaçao</a></li>
+            <li><a href= "/pages/autismo/direitos.html">Direitos</a></li>
+            <li><a href= "/pages/autismo/fofos.html">não somos fofos</a></li>
+            <li><a href= "/pages/autismo/habilidades.html">Altas Habilidades e Superdotação</a></li>
+            <li><a href= "/pages/autismo/mitos.html">Mitos</a></li>
+              <li><a href= "/pages/autismo/namidia.html">TEA na cultura pop</a></li>
+      </ul>
+  </div>
+</div>
+<p>
+<p>
     <h1>Autismo e Cultura Popular</h1>
     <p>
       Eu não lembro como chegamos lá, exceto que veio depois de várias sessões de fortalecimento de laços, noites embriagadas pela companhia um do outro, contando verdades que mantínhamos perto do peito. Totalmente notável, assistir a uma amizade crescer, mas simultaneamente banal; era como qualquer outro dia. Tudo o que importa para esta história é que chegamos ao ponto na amizade em que senti que era hora de lhes contar: eu sou autista.</p>
