@@ -87,7 +87,7 @@ Vou apresentar aqui um breve guia dos procedimentos para obter sua documentaçã
 Vale lembrar, a documentação tem validade nacional, assim como acontece com o RG. Como resido em uma cidade pequena e pobre na qualidade de serviços públicos, busquei ser atendido nos locais onde cada processo fosse mais ágil e descomplicado.
 "cada processo", porque ao contrario do que poderia se esperar, não existe um protocolo unificado do governo para atendimento as pessoas no TEA, tornando o processo de reconhecimento longo, custoso e doloroso, que nos expõe muito além do necessário.
 <p>
-Separei minha jornada em etapas, cumprindo uma de cada vez, na ordem de importância e facilidade e as apresento aqui, com o passo a passo e os links necessários. Lembrando que fiz quase tudo em São Paulo (Capital) utilizando a estrutura do PoupaTempo:
+Separei minha jornada em etapas, cumprindo uma de cada vez, na ordem de importância e facilidade e as apresento aqui, com o passo a passo e os links necessários. Lembrando que minha experiencia se baseia em São Paulo (Capital) utilizando a estrutura do PoupaTempo:
 <p>
 <b><h3 id="ciptea">1. CIPTEA: A Carteira de Identificação da Pessoa com Transtorno do Espectro Autista </h3></b>
 <p>
@@ -108,9 +108,10 @@ A minha ficou pronta em 48 horas, mas sei de casos em que a CIPTEA foi disponibi
 <p>
 Para que você possa estacionar seu carro nas vagas de estacionamento reservadas para PCD, é necessário que ele esteja em seu nome e você posicione o cartão de identificação PCD no painel do veículo, de forma visível, ao estacionar. <br>
 É necessário utilizar sempre o cartão original, não é permitido por lei fazer uma copia.<br>
-O cartão apresenta as informações necessárias para que a fiscalização possa conferir e juntamente à CIPTEA, foi o documento menos burocrático que obtive, mas somente porque optei em uma breve viagem ao PIAUÍ, onde o DETRAN te atende mediante agendamento prévio.<br>
-Fiz essa opção porque de acordo com as regras na Bahia, eu precisaria transferir meu carro para a cidade de Salvador (onde o procedimento é ágil e desburocratizado) OU transferí-lo para a cidade onde resido e fazer o procedimento junto a prefeitura local. Em São Paulo, encontrei as mesmas condições de dificuldade e para mim, foi mais fácil um "bate-e-volta" até Teresina, onde só precisei apresentar meu laudo e a CNH originais, entregar uma copia e o cartão foi disponibilizado na mesma hora.<br>
-O Piauí deu um show nesse quesito, mostrando que é possível prestar um serviço publico de qualidade: eles somente conferem a validade do seu laudo, que é o que realmente importa! Facilita muito sua vida se o laudo for digital, identificável por QRCode. Tenho os meus nesse formato e vejo que agiliza muito os procedimentos.<br>
+O cartão apresenta as informações necessárias para que a fiscalização possa conferir seu direito de utilizar aquela vaga e é obtido junto ao DETRAN, mediante agendamento prévio.<br>
+Pelos depoimentos de pessoas com quem tive contato, há estados menos burocráticos, como o Piauí (onde basta apresentar sua CNH e o laudo médico, o cartão é emitido na hora) e outros mais burocraticos, como o Rio Grande do Sul.<br>
+Na Bahia o processo é bem ágil caso o veículo esteja registrado na cidade de Salvador. Caso contrário, o procedimento deve ser realizado junto a prefeitura local, assim como em São Paulo.<br>
+O Piauí é um show nesse quesito, mostrando que é possível prestar um serviço publico de qualidade sem causar transtorno ao cidadão: eles  conferem a validade do seu laudo, que é o que realmente importa, e realizam o trabalho. Facilitará sua vida se o laudo for digital, identificável por QRCode. Tenho os meus nesse formato e vejo que agiliza muito os procedimentos.<br>
 O cartão é válido em todo o território nacional e tem validade de 05 anos, quando precisará ser renovado.
 <p>
 <a href="#direitos">voltar ao topo </a>
@@ -118,7 +119,7 @@ O cartão é válido em todo o território nacional e tem validade de 05 anos, q
 <p>
 <b><h3 id="rg">3. Identificação do TEA no RG </h3></b>
 <p>
-- Outro documento que optei por adequar em SP (Capital) pela simplicidade do PoupaTempo. Há apenas um detalhe importante, um cuidado que <b> não pode ser negligenciado</b> em hipótese alguma:<b> eles não aceitam o laudo digital para inclusão do TEA no RG, é preciso levar um formulário específico impresso, assinado e carimbado pelo psiquiatra.</b><br>
+- A adequação do RG, com a inclusão do TEA, exige que o procedimento seja realizado como "pedido de segunda via", o que exige o pagamento de uma pequena taxa. É outro documento que se torna acessível com a simplicidade do PoupaTempo. Há apenas um detalhe importante, um cuidado que <b> não pode ser negligenciado</b> em hipótese alguma:<b> o PoupaTempo não aceita nenhum laudo digital para inclusão do TEA no RG, é preciso levar um formulário específico impresso, assinado e carimbado pelo psiquiatra. Este formulário pode ser baixado no site do PoupaTempo, em teoria (o link para download está quebrado) e disponibilizo abaixo para simplificar a vida de quem quiser.</b><br>
 Com isso em mente, os passos são muito simples:
 <p>
 3.1 Baixe o formulário oficial no formato .pdf clicando aqui. Imprima e leve ao seu médico, peça que o preencha. Vale lembrar que o CID 11 ainda não está cadastrado no sistema do governo, então no atestado deve constar o CID 10.<br>
