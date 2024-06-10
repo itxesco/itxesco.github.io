@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -30,24 +29,23 @@
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href= "/pages/autismo/autismo.html">O que é o TEA</a></li>
-          <li><a href= "/pages/autismo/teadultos.html">TEA em adultos</a></li>
-          <li><a href= "/pages/autismo/apoioetratamento.html">Apoio e Tratamento</a></li>
-            <li><a href= "/pages/autismo/vidanotea.html">A vida no TEA</a></li>
-            <li><a href= "/pages/autismo/identificadao.html">simbologia e representaçao</a></li>
-            <li><a href= "/pages/autismo/Asperger.html">Não fale Äsperger"</a></li>
-            <li><a href= "/pages/autismo/identificadao.html">simbologia e representaçao</a></li>
-            <li><a href= "/pages/autismo/direitos.html">Direitos</a></li>
-            <li><a href= "/pages/autismo/fofos.html">não somos fofos</a></li>
-            <li><a href= "/pages/autismo/habilidades.html">Altas Habilidades e Superdotação</a></li>
-            <li><a href= "/pages/autismo/mitos.html">Mitos</a></li>
-              <li><a href= "/pages/autismo/namidia.html">TEA na cultura pop</a></li>
+      <li><a href= "/pages/autismo/autismo.html">O que é o TEA</a></li>
+      <li><a href= "/pages/autismo/teadultos.html">TEA em adultos</a></li>
+      <li><a href= "/pages/autismo/apoioetratamento.html">Apoio e Tratamento</a></li>
+        <li><a href= "/pages/autismo/vidanotea.html">A vida no TEA</a></li>
+        <li><a href= "/pages/autismo/identificadao.html">simbologia e representaçao</a></li>
+        <li><a href= "/pages/autismo/Asperger.html">Não fale <del>Asperger</del></a></li>
+        <li><a href= "/pages/autismo/direitos.html">Direitos</a></li>
+        <li><a href= "/pages/autismo/fofos.html">não somos fofos</a></li>
+        <li><a href= "/pages/autismo/habilidades.html">Altas Habilidades e Superdotação</a></li>
+        <li><a href= "/pages/autismo/mitos.html">Mitos</a></li>
+          <li><a href= "/pages/autismo/namidia.html">TEA na cultura pop</a></li>
       </ul>
   </div>
 </div>
 <p>
 <p>
-    <h1>O quê? A maioria dos autistas não é de alta funcionalidade?</h1>
+    <h2>O quê? A maioria dos autistas não é de alta funcionalidade?</h2>
 
   ---
 
@@ -70,5 +68,3 @@
   Por que isso é tolerado? Eu não sei a resposta para essa pergunta. Isso me intriga tanto quanto o autismo intriga aqueles pais que não tiveram um filho que agisse de maneira tão normal quanto eles pensavam que deveria. Infelizmente, esses pais estão recebendo toda a atenção agora, enquanto os próprios autistas não estão sendo ouvidos. Espero que isso mude no futuro, mas todos nós com autismo precisamos aumentar nosso volume para fazer mais barulho antes de começarmos a ser ouvidos.
 
   ---
-</body>
-</html>
