@@ -12,7 +12,7 @@
       <li><a href= "/pages/autismo/apoioetratamento.html">Apoio e Tratamento</a></li>
         <li><a href= "/pages/autismo/vidanotea.html">A vida no TEA</a></li>
         <li><a href= "/pages/autismo/identificadao.html">simbologia e representaçao</a></li>
-        <li><a href= "/pages/autismo/Asperger.html">Não fale <del>Asperger</del></a></li>
+        <li><a href= "/pages/autismo/asperger.html">Não fale <del>Asperger</del></a></li>
         <li><a href= "/pages/autismo/direitos.html">Direitos</a></li>
         <li><a href= "/pages/autismo/fofos.html">não somos fofos</a></li>
         <li><a href= "/pages/autismo/habilidades.html">Altas Habilidades e Superdotação</a></li>
@@ -31,7 +31,7 @@
     <h3 id="equivoco10">10. Autismo é uma epidemia.</h3>
     <p>
     Organizações como Autism Speaks e Cure Autism Now são rápidas em rotular o Autismo como uma epidemia, apesar de cientistas terem encontrado o oposto. Por exemplo, o Dr. Roy Grinker, antropólogo na GWU, cuja pesquisa foi ironicamente financiada pela Autism Speaks (não preciso dizer que eles não ficaram muito felizes), publicou recentemente "Unstrange Minds", um livro que desmascara a ideia de uma “Epidemia de Autismo”. E ele não é o único cientista que tem problemas com aqueles que rotulam o autismo como uma epidemia.</p>
-
+<p>
     <h3 id="equivoco9">9. A maioria dos autistas são “de baixa funcionalidade”.</h3>
     <p>
     Devido às conotações negativas que o autismo recebe do termo “baixa funcionalidade”, as maiores organizações sem fins lucrativos gostam de focar nos autistas de baixa funcionalidade porque as pessoas têm mais probabilidade de doar para ajudar pessoas gravemente afetadas (essas mesmas organizações usam a estatística de 1 em 150, mas implicam que 1 em 150 pessoas são de baixa funcionalidade). No entanto, os estudos mais recentes mostram que um pouco menos da metade dos autistas são de baixa funcionalidade. Muitos especialistas em autismo apontam que a Síndrome de Asperger é subdiagnosticada, o que indica uma porcentagem ainda menor de pessoas que se qualificariam como “de baixa funcionalidade”.</p>

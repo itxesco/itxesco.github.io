@@ -34,7 +34,7 @@
       <li><a href= "/pages/autismo/apoioetratamento.html">Apoio e Tratamento</a></li>
         <li><a href= "/pages/autismo/vidanotea.html">A vida no TEA</a></li>
         <li><a href= "/pages/autismo/identificadao.html">simbologia e representaçao</a></li>
-        <li><a href= "/pages/autismo/Asperger.html">Não fale <del>Asperger</del></a></li>
+        <li><a href= "/pages/autismo/asperger.html">Não fale <del>Asperger</del></a></li>
         <li><a href= "/pages/autismo/direitos.html">Direitos</a></li>
         <li><a href= "/pages/autismo/fofos.html">não somos fofos</a></li>
         <li><a href= "/pages/autismo/habilidades.html">Altas Habilidades e Superdotação</a></li>
@@ -62,3 +62,4 @@ Histórias negativas que prejudicam aqueles de nós no espectro não se limitam 
 Mas tudo isso está melhorando gradualmente com o tempo. Toda vez que algo negativo é divulgado na mídia, fico aliviado ao ver vozes daqueles no espectro se manifestando e muitos aliados ecoando essas vozes.
 <p>
 Mal posso esperar pelo dia em que não precisaremos nos manifestar contra representações negativas, mas é importante entender que as coisas não mudarão da noite para o dia e que a paciência e a compreensão são fundamentais para convencer os outros a ouvirem nossas histórias. As pessoas autistas têm a responsabilidade de advogar de forma respeitosa e entender que os pais também têm histórias para contar. Mas os pais também precisam perceber que seus filhos crescem e nem sempre compartilham das mesmas opiniões. Se todos pudermos trabalhar mais em nos ouvir mutuamente, acredito que o mundo será um lugar melhor e o cenário midiático será mais inclusivo.
+  <a href="#top">topo</a></p>
