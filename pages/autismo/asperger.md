@@ -176,7 +176,3 @@
     Muitos dos Institutos do NIH, incluindo o NINDS, estão patrocinando pesquisas para entender o que causa a SA e como ela pode ser tratada de forma eficaz. Um estudo está usando a ressonância magnética funcional (fMRI) para mostrar como anomalias em áreas específicas do cérebro causam mudanças na função cerebral que resultam nos sintomas de SA e outros TEAs. Um estudo em grande escala está comparando avaliações neuropsicológicas e psiquiátricas de crianças com possíveis diagnósticos de SA ou AAF às de seus pais e irmãos para ver se existem padrões de sintomas que ligam a SA e a AAF a perfis neuropsicológicos específicos. Um ensaio clínico está testando a eficácia de um antidepressivo em indivíduos com SA e AAF que exibem altos níveis de comportamento obsessivo/ritualístico. Outros investigadores estão conduzindo um estudo de longo prazo para coletar e analisar amostras de DNA de um grande grupo de crianças com SA e AAF e suas famílias para identificar genes e interações genéticas que estão ligadas à SA e AAF.</p>
     <p>
     <a href="#top">topo</a></p>
-
-
-</body>
-</html>

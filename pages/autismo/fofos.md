@@ -119,5 +119,3 @@ Se você quer ver essa mudança, e está envolvido com o mundo criativo, fica fa
  Simplificando, represente sua gente. Já temos ótimos exemplos disso, embora, em minha própria experiência, esses tenham sido casos minoritários. Mas eles existem.
  </p>
   <a href="#top">topo</a></p>
- </div>
- </div>
