@@ -118,6 +118,6 @@ Não estamos à mercê de nosso rótulo, assim não é como o mundo precisa olha
 Se você quer ver essa mudança, e está envolvido com o mundo criativo, fica facil: se você escreve, escreva personagens autistas como gostaria que fossem retratados. Se você atua, preencha papéis autistas, da mesma forma que Hollywood deveria escalar atores paquistaneses para papéis paquistaneses e papéis trans para pessoas trans.<br>
  Simplificando, represente sua gente. Já temos ótimos exemplos disso, embora, em minha própria experiência, esses tenham sido casos minoritários. Mas eles existem.
  </p>
-
+  <a href="#top">topo</a></p>
  </div>
  </div>

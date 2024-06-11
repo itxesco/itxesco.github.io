@@ -65,7 +65,9 @@
 <p>
 <h4> O arco-íris em infinito</h4>
 <p>
+<p>
 <img src="https://itxesco.github.io/assets/figuras/autismo/infinito.jpg" alt="símbolo do infinito com as cores do arco-íris" class="centered-img">
+<p>
 <p>
 O símbolo do infinito em forma de arco-íris é usado para representar o autismo por várias razões:
 <p>
@@ -83,9 +85,13 @@ O símbolo do infinito reflete a ideia de que o autismo é uma condição contí
 <p>
 Este símbolo é uma alternativa ao quebra-cabeça, que foi tradicionalmente usado para representar o autismo, mas que algumas pessoas sentem que pode sugerir que o autismo é um "mistério" ou algo que precisa ser resolvido. O símbolo do infinito em arco-íris oferece uma representação mais inclusiva e positiva da experiência autista.
 <p>
-    <h4> O girassol </h4>
+<p>
+<p>
+    <h4> O cordão de girassol </h4>
+    <p>
     <p>
     <img src="https://itxesco.github.io/assets/figuras/autismo/tea_adulto.jpg" alt="laço com estampa de girassol" class="centered-img">
+    <p>
     <p>
     Embora não seja tradicionalmente associado ao autismo, o Girassol vem sendo adotado como símbolo de uma série de condições invisíveis, incluindo TEA. Ele foi criado para ajudar pessoas com deficiências ocultas a sinalizar que podem precisar de ajuda, compreensão ou tempo extra em ambientes públicos e entre os motivos para adotá-lo, cito:</p>
     <p>
@@ -96,9 +102,13 @@ Este símbolo é uma alternativa ao quebra-cabeça, que foi tradicionalmente usa
     <p>
     <b>3. Inclusão e Compreensão:</b><br>
     - O girassol ajuda a promover um ambiente mais inclusivo e compreensivo, facilitando a identificação de pessoas que podem precisar de apoio adicional devido a condições não imediatamente visíveis.</p>
+<p>
 
     <h4>E Por que não o Quebra-Cabeças?</h4>
+    <p>
+    <p>
     <img src="https://itxesco.github.io/assets/figuras/autismo/quebra.jpg" alt="quebra-cabeças" class="centered-img">
+    <p>
     <p>
     Existem algumas razões pelas quais tenho reservas em relação ao uso do quebra-cabeça como símbolo do autismo, que vejo serem compartilhadas por grande parte da comunidade autista na atualidade:</p>
     <p>
@@ -120,4 +130,4 @@ Este símbolo é uma alternativa ao quebra-cabeça, que foi tradicionalmente usa
     Essas são algumas das razões pelas quais sou contra o uso do quebra-cabeça como símbolo do autismo. No entanto, é preciso lembrar que as opiniões podem variar amplamente dentro da comunidade autista, e muitas pessoas ainda valorizam o quebra-cabeça como um símbolo de conscientização e apoio.</p>
     <p>
     É importante ouvir as vozes da comunidade autista e respeitar suas perspectivas e preferências. Eu, particularmente, uso o Girassol ou o infinito com arco-íris.</p>
-</div>
+      <a href="#top">topo</a></p>

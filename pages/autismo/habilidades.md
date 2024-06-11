@@ -80,4 +80,5 @@
 <p>
   Por que isso é tolerado? Eu não sei a resposta para essa pergunta. Isso me intriga tanto quanto o autismo intriga aqueles pais que não tiveram um filho que agisse de maneira tão normal quanto eles pensavam que deveria. Infelizmente, esses pais estão recebendo toda a atenção agora, enquanto os próprios autistas não estão sendo ouvidos. Espero que isso mude no futuro, mas todos nós com autismo precisamos aumentar nosso volume para fazer mais barulho antes de começarmos a ser ouvidos.
 </p>
+  <a href="#top">topo</a></p>
   ---

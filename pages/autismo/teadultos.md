@@ -94,5 +94,3 @@
     - Hipersensibilidade ou hipossensibilidade a estímulos sensoriais como luz, som, textura, cheiro e sabor.<br>
     - Comportamentos de autoconforto para lidar com sobrecargas sensoriais.</p>
     <p>
-
-</div>

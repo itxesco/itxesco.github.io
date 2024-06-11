@@ -70,5 +70,4 @@
     <b>- Grupos de Apoio:</b> Conexão com outros adultos autistas para compartilhar experiências e estratégias.</p>
     <p>Com o suporte adequado e um ambiente compreensivo, adultos com autismo podem levar uma vida plena e satisfatória, aproveitando suas habilidades e interesses únicos.</p>
 <p>
-
-</div>
+  <a href="#top">topo</a></p>

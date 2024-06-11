@@ -78,3 +78,4 @@
     <b>4. Saúde Mental</b><br>
     - É comum que adultos com autismo também enfrentem desafios como ansiedade, depressão e outras condições de saúde mental. Terapia e suporte adequado podem ser benéficos.</p>
 </div>
+  <a href="#top">topo</a></p>

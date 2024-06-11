@@ -100,7 +100,7 @@ Separei minha jornada em etapas, cumprindo uma de cada vez, na ordem de importâ
 <p>
 A minha ficou pronta em 48 horas, mas sei de casos em que a CIPTEA foi disponibilizada para download no fim do mesmo dia. Com ela, foi disponibilizado um arquivo .pdf de adesivo para o carro.<br>
 <p>
-<a href="#direitos">voltar ao topo </a>
+  <a href="#top">topo</a></p>
 <p>
 <p>
 <b><a href="#pcd">2. Identificação do Veículo como PCD</a></b>
@@ -113,8 +113,7 @@ Na Bahia o processo é bem ágil caso o veículo esteja registrado na cidade de 
 O Piauí é um show nesse quesito, mostrando que é possível prestar um serviço publico de qualidade sem causar transtorno ao cidadão: eles  conferem a validade do seu laudo, que é o que realmente importa, e realizam o trabalho. Facilitará sua vida se o laudo for digital, identificável por QRCode. Tenho os meus nesse formato e vejo que agiliza muito os procedimentos.<br>
 O cartão é válido em todo o território nacional e tem validade de 05 anos, quando precisará ser renovado.
 <p>
-<a href="#direitos">voltar ao topo </a>
-<p>
+  <a href="#top">topo</a></p><p>
 <p>
 <b><h3 id="rg">3. Identificação do TEA no RG </h3></b>
 <p>
@@ -125,8 +124,7 @@ Com isso em mente, os passos são muito simples:
 3.2 Faça o agendamento para a <b>segunda via do RG</b> pelo site https://www.poupatempo.sp.gov.br/. No dia e hora, procure chegar com 10 minutos de antecedência. <b>Leve com você o atestado original assinado pelo médico</b>, que ficará retido no poupatempo.<br>
 3.3 Faça os procedimentos no atendimento, incluindo levar a versão antiga de seu RG e espere entre 10 a 15 dias úteis. É possível receber o documento em casa, mas eles não se responsabilizam pela entrega (vai como carta simples). Preferi retirar a minha pessoalmente. (qualquer pessoa pode retirar para você, desde que tenha o protocolo em mãos).
 <p>
-<a href="#direitos">voltar ao topo </a>
-<p>
+  <a href="#top">topo</a></p><p>
 <p>
 <b><h3 id="IPVA">4. Isenção do IPVA </h3></b>
 <p>
@@ -144,19 +142,17 @@ c)Quando o sistema solicitar, carregue cada um dos documentos.​<br>
 <b>Lembre-se de quitar todos os débitos do seu veículo ANTES de realizar essa perícia, senão ela o parecer será negativo.</b> O prazo para pedir isenção do IPVA de 2025 se encerra em dezembro de 2024, independente da sua placa.Não é possível obter a isenção do IPVA para o ano corrente.<br>
 Eu estou nessa fase, no momento. Assim que o processo caminhar, atualizo as informações da pagina.
 <p>
-<a href="#direitos">voltar ao topo </a>
-<p>
+  <a href="#top">topo</a></p><p>
 <p>
 <b><h3 id="transporte">5. Gratuidade no Transporte Público </h3></b>
 <p>
 A preencher.
-<a href="#direitos">voltar ao topo </a>
-<p>
+  <a href="#top">topo</a></p><p>
 <p>
 <b><h3 id="passagens">6. Desconto para acompanhantes em passagens aéreas </h3></b>
 <p>
 A preencher
 </p>
-
+  <a href="#top">topo</a></p>
 </div>
 </div>
