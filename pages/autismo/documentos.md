@@ -48,7 +48,7 @@
       <li><a href= "/pages/autismo/apoioetratamento.html">Apoio e Tratamento</a></li>
         <li><a href= "/pages/autismo/vidanotea.html">A vida no TEA</a></li>
         <li><a href= "/pages/autismo/identificadao.html">simbologia e representaçao</a></li>
-        <li><a href= "/pages/autismo/asperger.html">Não fale <del>Asperger</del></a></li>
+        <li><a href= "/pages/autismo/asperger.html"> <del>Asperger</del></a></li>
         <li><a href= "/pages/autismo/direitos.html">Direitos</a></li>
         <li><a href= "/pages/autismo/fofos.html">não somos fofos</a></li>
         <li><a href= "/pages/autismo/habilidades.html">Altas Habilidades e Superdotação</a></li>
@@ -88,17 +88,17 @@ Vale lembrar, independente do estado de emissão, sua documentação tem validad
 Separei minha jornada em etapas tendo em mente uma analogia com o plantio e crescimento de uma árvore, estabelecendo uma ordem de importância e  facilidade de se obter cada documento. Eu não me enquadro nas especificações do CADÚNICO (tarifa social de agua/luz e aposentadoria especial), então não faço ideia de como proceder naqueles casos. Compartilho aqui a minha jornada, passo a passo e os links necessários:<br>
 <p>
 <p>
-<img src="https://itxesco.github.io/assets/figuras/autismo/Linha_do_tempo.jpg" alt="linha da sequencia de documentos em analogia com o plantio de uma arvore, relacionando cada documento a uma parte do corpo da arvote" class="centered-img">
+<img src="https://itxesco.github.io/assets/figuras/autismo/Linha_do_tempo.jpg" alt="linha da sequencia de documentos em analogia com o plantio de uma arvore, relacionando cada documento a uma parte do corpo da árvore" class="centered-img">
 <p>
 <p>
-<b><h3 id="ciptea">1. CIPTEA: A Carteira de Identificação da Pessoa com Transtorno do Espectro Autista </h3></b>
+<b><h4 id="ciptea">1. CIPTEA: A Carteira de Identificação da Pessoa com Transtorno do Espectro Autista </h4></b>
 <p>
 - A Carteira de Identificação da Pessoa com Transtorno do Espectro Autista facilita que seja recebida a atenção integral e prioritária, no atendimento  e no acesso aos serviços públicos e privados, em especial nas áreas de saúde educação e assistência social, evitando constrangimentos e o acompanhamento de laudos para comprovação da condição. Importante lembrar: beneficia a pessoa portadora e quem estiver lhe acompanhando. O procedimento para obte-la é bem simples:
 <p>
 1.1. separe uma foto digitalizada e seu laudo psiquiátrico com chave de verificação digital (agiliza o processo). Na ausência do laudo, eles aceitam o relatório medico. Mas faça com o laudo, porque agiliza a emissão. <br>
 1.2. Visite o portal da CIPTEA  <a href="https://ciptea.sp.gov.br/">clicando aqui</a> e faça o acesso através das suas credenciais gov.br;<br>
 1.3 Faça seu cadastro, suba a foto e o laudo nos locais indicados. forneça seu endereço (sim, você precisa ter um endereço residencial em SP).<br>
-1.4 Se você possui um veículo, forneça as informações (placa, renavam) no local adequado;<br>
+1.4 Se você possui um veículo, forneça as informações (placa, RENAVAM) no local adequado;<br>
 1.5 Espere o resultado. Será necessário acessar novamente o portal para conferir a aprovação.
 <p>
 A minha ficou pronta em 48 horas, mas sei de casos em que a CIPTEA foi disponibilizada para download no fim do mesmo dia. Com ela, foi disponibilizado um arquivo .pdf de adesivo para o carro.<br>
@@ -106,19 +106,19 @@ A minha ficou pronta em 48 horas, mas sei de casos em que a CIPTEA foi disponibi
   <a href="#top">topo</a></p>
 <p>
 <p>
-<b><a href="#pcd">2. Identificação do Veículo como PCD</a></b>
+<b><a href="#pcd"><h4>2. Identificação do Veículo como PCD</h4></a></b>
 <p>
 Para que você possa estacionar seu carro nas vagas de estacionamento reservadas para PCD, é necessário que ele esteja em seu nome e você posicione o cartão de identificação PCD no painel do veículo, de forma visível, ao estacionar. <br>
 É necessário utilizar sempre o cartão original, não é permitido por lei fazer uma copia.<br>
 O cartão apresenta as informações necessárias para que a fiscalização possa conferir seu direito de utilizar aquela vaga e é obtido junto ao DETRAN, mediante agendamento prévio.<br>
-Pelos depoimentos de pessoas com quem tive contato, há estados menos burocráticos, como o Piauí (onde basta apresentar sua CNH e o laudo médico, o cartão é emitido na hora) e outros mais burocraticos, como o Rio Grande do Sul.<br>
+Pelos depoimentos de pessoas com quem tive contato, há estados menos burocráticos, como o Piauí (onde basta apresentar sua CNH e o laudo médico, o cartão é emitido na hora) e outros mais burocráticos, como o Rio Grande do Sul.<br>
 Na Bahia o processo é bem ágil caso o veículo esteja registrado na cidade de Salvador. Caso contrário, o procedimento deve ser realizado junto a prefeitura local, assim como em São Paulo.<br>
 O Piauí é um show nesse quesito, mostrando que é possível prestar um serviço publico de qualidade sem causar transtorno ao cidadão: eles  conferem a validade do seu laudo, que é o que realmente importa, e realizam o trabalho. Facilitará sua vida se o laudo for digital, identificável por QRCode. Tenho os meus nesse formato e vejo que agiliza muito os procedimentos.<br>
 O cartão é válido em todo o território nacional e tem validade de 05 anos, quando precisará ser renovado.
 <p>
   <a href="#top">topo</a></p><p>
 <p>
-<b><h3 id="rg">3. Identificação do TEA no RG </h3></b>
+<b><h4 id="rg">3. Identificação do TEA no RG </h4></b>
 <p>
 - A adequação do RG, com a inclusão do TEA, exige que o procedimento seja realizado como "pedido de segunda via", o que exige o pagamento de uma pequena taxa. É outro documento que se torna acessível com a simplicidade do PoupaTempo. Há apenas um detalhe importante, um cuidado que <b> não pode ser negligenciado</b> em hipótese alguma:<b> o PoupaTempo não aceita nenhum laudo digital para inclusão do TEA no RG, é preciso levar um formulário específico impresso, assinado e carimbado pelo psiquiatra. Este formulário pode ser baixado no site do PoupaTempo, em teoria (o link para download está quebrado) e disponibilizo abaixo para simplificar a vida de quem quiser.</b><br>
 Com isso em mente, os passos são muito simples:
@@ -129,7 +129,7 @@ Com isso em mente, os passos são muito simples:
 <p>
   <a href="#top">topo</a></p><p>
 <p>
-<b><h3 id="IPVA">4. Isenção do IPVA </h3></b>
+<b><h4 id="IPVA">4. Isenção do IPVA </h4></b>
 <p>
 - Como meu veículo esta registrado em SP, fiz o procedimento por lá. Você pode encontrar as informações necessárias na página https://portal.fazenda.sp.gov.br/servicos/ipva/Paginas/como-solicitar-isencao-ipva-pcd.aspx. <br>
 Até o ponto em que estou, os passos tem sido simples:
@@ -147,12 +147,12 @@ Eu estou nessa fase, no momento. Assim que o processo caminhar, atualizo as info
 <p>
   <a href="#top">topo</a></p><p>
 <p>
-<b><h3 id="transporte">5. Gratuidade no Transporte Público </h3></b>
+<b><h4 id="transporte">5. Gratuidade no Transporte Público </h4></b>
 <p>
 A preencher.
   <a href="#top">topo</a></p><p>
 <p>
-<b><h3 id="passagens">6. Desconto para acompanhantes em passagens aéreas </h3></b>
+<b><h4 id="passagens">6. Desconto para acompanhantes em passagens aéreas </h4></b>
 <p>
 A preencher
 </p>
