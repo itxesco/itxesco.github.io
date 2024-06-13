@@ -34,7 +34,7 @@
             display: block;
             margin-left: auto;
             margin-right: auto;
-            height: 200px;
+            height: 400px;
             width: auto;
         }
     </style>
