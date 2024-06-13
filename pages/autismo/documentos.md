@@ -85,8 +85,11 @@ Se este é o seu caso, em primeiro lugar, lembre-se: eu resido na Bahia, mas ain
 <p>
 Vale lembrar, independente do estado de emissão, sua documentação tem validade nacional, assim como acontece com o RG. Portanto, dentro de suas possibilidades, pesquise o melhor cenário para obter cada uma. <br>Como resido em uma cidade pequena e pobre na qualidade de serviços públicos, busquei ser atendido nos locais onde cada processo fosse mais ágil e descomplicado. Digo "cada processo", porque ao contrário do que é de se esperar, não existe um protocolo unificado do governo para atendimento as pessoas no TEA, tornando o processo de reconhecimento legal de nossa condição longo, custoso e doloroso, que nos expõe muito além do necessário.
 <p>
-Separei minha jornada em etapas e estou  cumprindo uma de cada vez, na ordem de importância que delimitei e de acordo com a facilidade de se obter cada documento.<br>
- apresento aqui, com o passo a passo e os links necessários:
+Separei minha jornada em etapas tendo em mente uma analogia com o plantio e crescimento de uma árvore, estabelecendo uma ordem de importância e  facilidade de se obter cada documento. Eu não me enquadro nas especificações do CADÚNICO (tarifa social de agua/luz e aposentadoria especial), então não faço ideia de como proceder naqueles casos. Compartilho aqui a minha jornada, passo a passo e os links necessários:<br>
+<p>
+<p>
+<img src="https://itxesco.github.io/assets/figuras/autismo/Linha_do_tempo.jpg" alt="linha da sequencia de documentos em analogia com o plantio de uma arvore, relacionando cada documento a uma parte do corpo da arvote" class="centered-img">
+<p>
 <p>
 <b><h3 id="ciptea">1. CIPTEA: A Carteira de Identificação da Pessoa com Transtorno do Espectro Autista </h3></b>
 <p>
