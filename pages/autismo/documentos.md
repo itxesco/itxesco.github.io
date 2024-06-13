@@ -62,13 +62,15 @@
 <p>
 <nav>
     <ul>
-        <li><a href="#ciptea">Obtenha a CIPTEA</a></li>
-        <li><a href="#rg">Faça constar o TEA na segunda via do seu RG</a></li>
-        <li><a href="#ipva">Identifique seu veículo como PCD</a></li>
-        <li><a href="#ipva">Obtenha a isenção do IPVA</a></li>
-        <li><a href="#CNH">Altere sua CNH para PCD</a></li>
-        <li><a href="#transporte">Obtenha a gratuidade no Transporte Público</a></li>
-        <li><a href="#passagens">Obtenha o desconto na passagem aérea para acompanhantes</a></li>
+    <h3>Índice da página:</h3>
+    <p>
+        <li><a href="#ciptea">1. Obtenha a CIPTEA</a></li>
+        <li><a href="#rg">2. Faça constar o TEA na segunda via do seu RG</a></li>
+        <li><a href="#ipva">3. Identifique seu veículo como PCD</a></li>
+        <li><a href="#ipva">4. Obtenha a isenção do IPVA</a></li>
+        <li><a href="#CNH">5. Altere sua CNH para PCD</a></li>
+        <li><a href="#transporte">6. Obtenha a gratuidade no Transporte Público</a></li>
+        <li><a href="#passagens">7. Obtenha o desconto na passagem aérea para acompanhantes</a></li>
 <p>
 <div class="content">
 
@@ -88,10 +90,12 @@ Vale lembrar, independente do estado de emissão, sua documentação tem validad
 Separei minha jornada em etapas tendo em mente uma analogia com o plantio e crescimento de uma árvore, estabelecendo uma ordem de importância e  facilidade de se obter cada documento. Eu não me enquadro nas especificações do CADÚNICO (tarifa social de agua/luz e aposentadoria especial), então não faço ideia de como proceder naqueles casos. Compartilho aqui a minha jornada, passo a passo e os links necessários:<br>
 <p>
 <p>
-<img src="https://itxesco.github.io/assets/figuras/autismo/Linha_do_tempo.jpg" alt="linha da sequencia de documentos em analogia com o plantio de uma arvore, relacionando cada documento a uma parte do corpo da árvore" class="centered-img">
+<img src="https://itxesco.github.io/assets/figuras/autismo/Linha_do_tempo_de_crescimento_2.jpg" alt="linha da sequencia de documentos em analogia com o plantio de uma arvore, relacionando cada documento a uma parte do corpo da árvore" class="centered-img">
+<p>
+  <a href="#top">volte ao topo</a></p>
 <p>
 <p>
-<b><h4 id="ciptea">1. CIPTEA: A Carteira de Identificação da Pessoa com Transtorno do Espectro Autista </h4></b>
+<b><h4 id="ciptea">1. Como fazer a sua CIPTEA </h4></b>
 <p>
 - A Carteira de Identificação da Pessoa com Transtorno do Espectro Autista facilita que seja recebida a atenção integral e prioritária, no atendimento  e no acesso aos serviços públicos e privados, em especial nas áreas de saúde educação e assistência social, evitando constrangimentos e o acompanhamento de laudos para comprovação da condição. Importante lembrar: beneficia a pessoa portadora e quem estiver lhe acompanhando. O procedimento para obte-la é bem simples:
 <p>
@@ -103,10 +107,21 @@ Separei minha jornada em etapas tendo em mente uma analogia com o plantio e cres
 <p>
 A minha ficou pronta em 48 horas, mas sei de casos em que a CIPTEA foi disponibilizada para download no fim do mesmo dia. Com ela, foi disponibilizado um arquivo .pdf de adesivo para o carro.<br>
 <p>
-  <a href="#top">topo</a></p>
+  <a href="#top">volte ao topo</a></p>
+<p>
+<b><h4 id="rg">2. Identifique o TEA no seu RG </h4></b>
+<p>
+- A adequação do RG, com a inclusão do TEA, exige que o procedimento seja realizado como "pedido de segunda via", o que exige o pagamento de uma pequena taxa. É outro documento que se torna acessível com a simplicidade do PoupaTempo. Há apenas um detalhe importante, um cuidado que <b> não pode ser negligenciado</b> em hipótese alguma:<b> o PoupaTempo não aceita nenhum laudo digital para inclusão do TEA no RG, é preciso levar um formulário específico impresso, assinado e carimbado pelo psiquiatra. Este formulário pode ser baixado no site do PoupaTempo, em teoria (o link para download está quebrado) e disponibilizo abaixo para simplificar a vida de quem quiser.</b><br>
+Com isso em mente, os passos são muito simples:
+<p>
+3.1 Baixe o formulário oficial no formato .pdf clicando aqui. Imprima e leve ao seu médico, peça que o preencha. Vale lembrar que o CID 11 ainda não está cadastrado no sistema do governo, então no atestado deve constar o CID 10.<br>
+3.2 Faça o agendamento para a <b>segunda via do RG</b> pelo site do PoupaTempo (clique <a href="https://www.poupatempo.sp.gov.br/">aqui para acessar</a>). No dia e hora, procure chegar com 10 minutos de antecedência. <b>Leve com você o atestado original assinado pelo médico</b>, que ficará retido no poupatempo.<br>
+3.3 Faça os procedimentos no atendimento, incluindo levar a versão antiga de seu RG e espere entre 10 a 15 dias úteis. É possível receber o documento em casa, mas eles não se responsabilizam pela entrega (vai como carta simples). Preferi retirar a minha pessoalmente. (qualquer pessoa pode retirar para você, desde que tenha o protocolo em mãos).
+<p>
+  <a href="#top">volte ao topo</a></p><p>
 <p>
 <p>
-<b><a href="#pcd"><h4>2. Identificação do Veículo como PCD</h4></a></b>
+<b><a href="#pcd"><h4>3. Identificação seu Veículo como PCD</h4></a></b>
 <p>
 Para que você possa estacionar seu carro nas vagas de estacionamento reservadas para PCD, é necessário que ele esteja em seu nome e você posicione o cartão de identificação PCD no painel do veículo, de forma visível, ao estacionar. <br>
 É necessário utilizar sempre o cartão original, não é permitido por lei fazer uma copia.<br>
@@ -116,20 +131,9 @@ Na Bahia o processo é bem ágil caso o veículo esteja registrado na cidade de 
 O Piauí é um show nesse quesito, mostrando que é possível prestar um serviço publico de qualidade sem causar transtorno ao cidadão: eles  conferem a validade do seu laudo, que é o que realmente importa, e realizam o trabalho. Facilitará sua vida se o laudo for digital, identificável por QRCode. Tenho os meus nesse formato e vejo que agiliza muito os procedimentos.<br>
 O cartão é válido em todo o território nacional e tem validade de 05 anos, quando precisará ser renovado.
 <p>
-  <a href="#top">topo</a></p><p>
+  <a href="#top">volte ao topo</a></p><p>
 <p>
-<b><h4 id="rg">3. Identificação do TEA no RG </h4></b>
-<p>
-- A adequação do RG, com a inclusão do TEA, exige que o procedimento seja realizado como "pedido de segunda via", o que exige o pagamento de uma pequena taxa. É outro documento que se torna acessível com a simplicidade do PoupaTempo. Há apenas um detalhe importante, um cuidado que <b> não pode ser negligenciado</b> em hipótese alguma:<b> o PoupaTempo não aceita nenhum laudo digital para inclusão do TEA no RG, é preciso levar um formulário específico impresso, assinado e carimbado pelo psiquiatra. Este formulário pode ser baixado no site do PoupaTempo, em teoria (o link para download está quebrado) e disponibilizo abaixo para simplificar a vida de quem quiser.</b><br>
-Com isso em mente, os passos são muito simples:
-<p>
-3.1 Baixe o formulário oficial no formato .pdf clicando aqui. Imprima e leve ao seu médico, peça que o preencha. Vale lembrar que o CID 11 ainda não está cadastrado no sistema do governo, então no atestado deve constar o CID 10.<br>
-3.2 Faça o agendamento para a <b>segunda via do RG</b> pelo site do PoupaTempo (clique <a href="https://www.poupatempo.sp.gov.br/">aqui para acessar</a>). No dia e hora, procure chegar com 10 minutos de antecedência. <b>Leve com você o atestado original assinado pelo médico</b>, que ficará retido no poupatempo.<br>
-3.3 Faça os procedimentos no atendimento, incluindo levar a versão antiga de seu RG e espere entre 10 a 15 dias úteis. É possível receber o documento em casa, mas eles não se responsabilizam pela entrega (vai como carta simples). Preferi retirar a minha pessoalmente. (qualquer pessoa pode retirar para você, desde que tenha o protocolo em mãos).
-<p>
-  <a href="#top">topo</a></p><p>
-<p>
-<b><h4 id="IPVA">4. Isenção do IPVA </h4></b>
+<b><h4 id="IPVA">4. Obtenha a Isenção do IPVA para seu veículo </h4></b>
 <p>
 - Como meu veículo esta registrado em SP, fiz o procedimento por lá. Você pode encontrar as informações necessárias na página oficial <a href="https://portal.fazenda.sp.gov.br/servicos/ipva/Paginas/como-solicitar-isencao-ipva-pcd.aspx.">clicando aqui</a> <br>
 Até o ponto em que estou, os passos tem sido simples:
@@ -145,15 +149,20 @@ c)Quando o sistema solicitar, carregue cada um dos documentos.​<br>
 <b>Lembre-se de quitar todos os débitos do seu veículo ANTES de realizar essa perícia, senão ela o parecer será negativo.</b> O prazo para pedir isenção do IPVA de 2025 se encerra em dezembro de 2024, independente da sua placa.Não é possível obter a isenção do IPVA para o ano corrente.<br>
 Eu estou nessa fase, no momento. Assim que o processo caminhar, atualizo as informações da pagina.
 <p>
-  <a href="#top">topo</a></p><p>
+  <a href="#top">volte ao topo</a></p><p>
 <p>
-<b><h4 id="transporte">5. Gratuidade no Transporte Público </h4></b>
+<b><h4 id="cnh">5. Altere sua CNH para PCD </h4></b>
 <p>
 A preencher.
-  <a href="#top">topo</a></p><p>
 <p>
-<b><h4 id="passagens">6. Desconto para acompanhantes em passagens aéreas </h4></b>
+  <a href="#top">volte ao topo</a></p><p>
+<p>
+<b><h4 id="transporte">6. Obtenha a gratuidade no transporte público </h4></b>
 <p>
 A preencher
+<p>
+<p>
+<b><h4 id="passagens">7. Obtenha o desconto na passagem aérea para acompanhantes</h4></b>
 </p>
-  <a href="#top">topo</a></p>
+<p>
+  <a href="#top">volte ao topo</a></p>
