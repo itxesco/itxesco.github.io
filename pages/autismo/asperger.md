@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
-    <title>Síndrome de Asperger</title>
+    <title>Síndrome de <del>Asperger</del></title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -47,15 +47,15 @@
 </div>
 <p>
 <p>
-    <h2>Síndrome de Asperger</h2>
+    <h2>Síndrome de <del>Asperger</del></h2>
     <p>
-    A síndrome de Asperger é um transtorno do espectro autista, um grupo de condições que inclui o autismo e outros transtornos com sintomas semelhantes, como problemas de linguagem e comunicação, e padrões repetitivos ou restritos de pensamentos e comportamento.</p>
-    <p>Pessoas com síndrome de Asperger têm problemas semelhantes ao autismo em áreas de interação social e comunicação, mas possuem inteligência e habilidades verbais normais. A síndrome de Asperger é geralmente considerada a forma mais branda dos transtornos do espectro autista.</p>
+    A síndrome de <del>Asperger</del> é um transtorno do espectro autista, um grupo de condições que inclui o autismo e outros transtornos com sintomas semelhantes, como problemas de linguagem e comunicação, e padrões repetitivos ou restritos de pensamentos e comportamento.</p>
+    <p>Pessoas com síndrome de <del>Asperger</del> têm problemas semelhantes ao autismo em áreas de interação social e comunicação, mas possuem inteligência e habilidades verbais normais. A síndrome de <del>Asperger</del> é geralmente considerada a forma mais branda dos transtornos do espectro autista.</p>
 
     <h3>Índice (clique para ir para as seções)</h3>
     <ul>
-        <li><a href="#what-is-asperger-syndrome">O que é a síndrome de Asperger?</a></li>
-        <li><a href="#why-is-it-called-asperger-syndrome">Por que é chamada de síndrome de Asperger?</a></li>
+        <li><a href="#what-is-asperger-syndrome">O que era a síndrome de <del>Asperger</del>?</a></li>
+        <li><a href="#why-is-it-called-asperger-syndrome">Por que era chamada de síndrome de <del>Asperger</del>?</a></li>
         <li><a href="#common-signs-or-symptoms">Quais são alguns sinais ou sintomas comuns?</a></li>
         <li><a href="#causes">O que causa a SA? É genético?</a></li>
         <li><a href="#diagnosis">Como é diagnosticada?</a></li>
@@ -65,8 +65,8 @@
         <li><a href="#more-information">Onde posso obter mais informações?</a></li>
     </ul>
 
-    <h3 id="what-is-asperger-syndrome">O que é a síndrome de Asperger?</h3>
-    <p>A síndrome de Asperger (SA) é um transtorno do desenvolvimento caracterizado por:</p>
+    <h3 id="what-is-asperger-syndrome">O que era a síndrome de <del>Asperger</del>?</h3>
+    <p>A síndrome de <del>Asperger</del> (SA) é um transtorno do desenvolvimento caracterizado por:</p>
     <ul>
         <li>Interesses limitados ou uma preocupação incomum com um assunto particular, excluindo outras atividades</li>
         <li>Rotinas ou rituais repetitivos</li>
@@ -88,11 +88,11 @@
     <p>
     <a href="#top">topo</a></p>
 
-    <h3 id="why-is-it-called-asperger-syndrome">Por que é chamada de síndrome de Asperger?</h3>
+    <h3 id="why-is-it-called-asperger-syndrome">Por que é chamada de síndrome de <del>Asperger</del>?</h3>
     <p>
-    Em 1944, um pediatra austríaco chamado Hans Asperger observou quatro crianças em sua prática que tinham dificuldade em se integrar socialmente. Embora sua inteligência parecesse normal, as crianças careciam de habilidades de comunicação não verbal, não demonstravam empatia com seus colegas e eram fisicamente desajeitadas. Sua maneira de falar era desconexa ou excessivamente formal, e seu interesse absorvente em um único tópico dominava suas conversas. O Dr. Asperger chamou a condição de “psicopatia autística” e a descreveu como um transtorno de personalidade marcado principalmente pelo isolamento social.</p>
+    Em 1944, um pediatra austríaco chamado Hans <del>Asperger</del> observou quatro crianças em sua prática que tinham dificuldade em se integrar socialmente. Embora sua inteligência parecesse normal, as crianças careciam de habilidades de comunicação não verbal, não demonstravam empatia com seus colegas e eram fisicamente desajeitadas. Sua maneira de falar era desconexa ou excessivamente formal, e seu interesse absorvente em um único tópico dominava suas conversas. O Dr. <del>Asperger</del> chamou a condição de “psicopatia autística” e a descreveu como um transtorno de personalidade marcado principalmente pelo isolamento social.</p>
     <p>
-    As observações de Asperger, publicadas em alemão, não foram amplamente conhecidas até 1981, quando uma médica inglesa chamada Lorna Wing publicou uma série de estudos de caso de crianças mostrando sintomas semelhantes, que ela chamou de síndrome de Asperger. Os escritos de Wing foram amplamente publicados e popularizados. A SA tornou-se uma doença e diagnóstico distintos em 1992, quando foi incluída na décima edição publicada do manual de diagnóstico da Organização Mundial da Saúde, a Classificação Internacional de Doenças (CID-10), e em 1995 foi adicionada ao Manual Diagnóstico e Estatístico de Transtornos Mentais (DSM-IV), o livro de referência diagnóstica da Associação Psiquiátrica Americana.</p>
+    As observações de <del>Asperger</del>, publicadas em alemão, não foram amplamente conhecidas até 1981, quando uma médica inglesa chamada Lorna Wing publicou uma série de estudos de caso de crianças mostrando sintomas semelhantes, que ela chamou de síndrome de Asperger. Os escritos de Wing foram amplamente publicados e popularizados. A SA tornou-se uma doença e diagnóstico distintos em 1992, quando foi incluída na décima edição publicada do manual de diagnóstico da Organização Mundial da Saúde, a Classificação Internacional de Doenças (CID-10), e em 1995 foi adicionada ao Manual Diagnóstico e Estatístico de Transtornos Mentais (DSM-IV), o livro de referência diagnóstica da Associação Psiquiátrica Americana.</p>
     <p>
     <a href="#top">topo</a></p>
 

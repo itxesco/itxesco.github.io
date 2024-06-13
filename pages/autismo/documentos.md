@@ -62,7 +62,7 @@
 <p>
 <nav>
     <ul>
-    <h3>Índice da página:</h3>
+    <h3>Índice (clique para ir direto)</h3>
     <p>
         <li><a href="#ciptea">1. Obtenha a CIPTEA</a></li>
         <li><a href="#rg">2. Faça constar o TEA na segunda via do seu RG</a></li>
