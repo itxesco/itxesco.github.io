@@ -60,17 +60,31 @@
 </div>
 <p>
 <p>
-
-<div class="menu">
-    <a href="#direitos">Direitos da Pessoa Autista </a>
-    <a href="#documentos">Documentação</a>
-    <a href="#ciptea">A CIPTEA</a>
-    <a href="#pcd">Identificação do Veículo como PCD</a>
-    <a href="#rg">TEA no RG</a>
-    <a href="#ipva">Isenção do IPVA</a>
-    <a href="#transporte">Gratuidade no Transporte Público</a>
-    <a href="#passagens">Desconto na passagem aérea para acompanhantes</a>
+<p>
+<h3>Índice (clique para ir para as seções)</h3>
+<ul>
+    <li><a href="#berenice">1. Lei do Autismo (Lei Berenice Piana)</del>?</a></li>
+    <li><a href="#ciptea">2. CIPTEA (Lei Romeu Mion)</a></li>
+    <li><a href="#convenio">3. Planos de Saúde</a></li>
+    <li><a href="#atendimento">4. Atendimento prioritário</a></li>
+    <li><a href="#tratamento">5. Tratamento fora de domicílio</a></li>
+    <li><a href="#remedios">6. Isenção de medicamentos</a></li>
+    <li><a href="#educacao">7. Educação</a></li>
+    <li><a href="#matricula">8. Matrícula</a></li>
+    <li><a href="#professordeapoio">9. Professor de apoio</a></li>
+    <li><a href="#trabalho">10. Trabalho e profissionalização</del>?</a></li>
+    <li><a href="#cotas">11. Lei de Cotas</a></li>
+    <li><a href="#jornada">12. Redução da Jornada de Trabalho</a></li>
+    <li><a href="#pis">13. PIS/PASEP</a></li>
+    <li><a href="#fgts">14. FGTS</a></li>
+    <li><a href="#lazer">15. Lazer</a></li>
+    <li><a href="#transporte">16. Transporte</a></li>
+    <li><a href="#passe">17. Passe livre</a></li>
+    <li><a href="#cartao">Cartão DeFis</a></li>
+    <li><a href="#cnh">Carteira Nacional de Habilitação</a></li>
 </div>
+<p>
+<p>
 <p>
 <div class="content">
 
@@ -80,6 +94,7 @@ A pessoa autista é reconhecida como PCD para todos os efeitos legais em territ�
 Você pode encontrar a lista completa dos direitos das pessoas com autismo  <a href="https://institutosingular.org/blog/direitos-dos-autistas/?utm_source=google_ads&utm_medium=cpc&utm_campaign=21159085894&utm_content=&utm_term=&gad_source=1&gclid=EAIaIQobChMIvL7A1tm7hgMVbi7UAR0_CAsXEAAYASAAEgKIAfD_BwE">aqui</a>. A página <a href="https://autismolegal.com.br/direitos-do-autista/">Autismo Legal</a>  apresenta a mesma lista, de modo didático e detalhado.
 </div>
 <p>
-
 </p>
   <a href="#top">topo</a></p>
+  <p>
+  <p>
