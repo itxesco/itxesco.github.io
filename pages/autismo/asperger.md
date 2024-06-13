@@ -30,40 +30,43 @@
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-      <li><a href= "/pages/autismo/autismo.html">O que é o TEA</a></li>
-      <li><a href= "/pages/autismo/teadultos.html">TEA em adultos</a></li>
+      <li><a href= "/pages/autismo/autismo.html">O Transtorno do Espectro Autista</a></li>
+      <li><a href= "/pages/autismo/teadultos.html">TEA em Adultos</a></li>
       <li><a href= "/pages/autismo/apoioetratamento.html">Apoio e Tratamento</a></li>
         <li><a href= "/pages/autismo/vidanotea.html">A vida no TEA</a></li>
-        <li><a href= "/pages/autismo/identificadao.html">simbologia e representaçao</a></li>
+        <li><a href= "/pages/autismo/identificadao.html">simbologia e Identificação</a></li>
         <li><a href= "/pages/autismo/asperger.html"> <del>Asperger</del></a></li>
         <li><a href= "/pages/autismo/direitos.html">Direitos</a></li>
         <li><a href= "/pages/autismo/fofos.html">não somos fofos</a></li>
         <li><a href= "/pages/autismo/habilidades.html">Altas Habilidades e Superdotação</a></li>
-        <li><a href= "/pages/autismo/mitos.html">Mitos</a></li>
+        <li><a href= "/pages/autismo/mitos.html">Mitos sobre o TEA</a></li>
           <li><a href= "/pages/autismo/documentos.html">Documentos</a></li>
-          <li><a href= "/pages/autismo/namidia.html">TEA na cultura pop</a></li>
+          <li><a href= "/pages/autismo/namidia.html">TEA e Representatividade</a></li>
       </ul>
   </div>
 </div>
 <p>
+<h3>Índice (clique para ir para as seções)</h3>
+<ul>
+    <li><a href="#what-is-asperger-syndrome">O que era a síndrome de <del>Asperger</del>?</a></li>
+    <li><a href="#why-is-it-called-asperger-syndrome">Por que era chamada de síndrome de <del>Asperger</del>?</a></li>
+    <li><a href="#common-signs-or-symptoms">Quais são alguns sinais ou sintomas comuns?</a></li>
+    <li><a href="#causes">O que causa a SA? É genético?</a></li>
+    <li><a href="#diagnosis">Como é diagnosticada?</a></li>
+    <li><a href="#treatments">Existem tratamentos disponíveis?</a></li>
+    <li><a href="#prognosis">As crianças com SA melhoram? O que acontece quando se tornam adultos?</a></li>
+    <li><a href="#research">Que pesquisas estão sendo feitas?</a></li>
+    <li><a href="#more-information">Onde posso obter mais informações?</a></li>
+</ul>
 <p>
-    <h2>Síndrome de <del>Asperger</del></h2>
+    <h3>Síndrome de <del>Asperger</del></h3>
     <p>
     A síndrome de <del>Asperger</del> é um transtorno do espectro autista, um grupo de condições que inclui o autismo e outros transtornos com sintomas semelhantes, como problemas de linguagem e comunicação, e padrões repetitivos ou restritos de pensamentos e comportamento.</p>
     <p>Pessoas com síndrome de <del>Asperger</del> têm problemas semelhantes ao autismo em áreas de interação social e comunicação, mas possuem inteligência e habilidades verbais normais. A síndrome de <del>Asperger</del> é geralmente considerada a forma mais branda dos transtornos do espectro autista.</p>
 
-    <h3>Índice (clique para ir para as seções)</h3>
-    <ul>
-        <li><a href="#what-is-asperger-syndrome">O que era a síndrome de <del>Asperger</del>?</a></li>
-        <li><a href="#why-is-it-called-asperger-syndrome">Por que era chamada de síndrome de <del>Asperger</del>?</a></li>
-        <li><a href="#common-signs-or-symptoms">Quais são alguns sinais ou sintomas comuns?</a></li>
-        <li><a href="#causes">O que causa a SA? É genético?</a></li>
-        <li><a href="#diagnosis">Como é diagnosticada?</a></li>
-        <li><a href="#treatments">Existem tratamentos disponíveis?</a></li>
-        <li><a href="#prognosis">As crianças com SA melhoram? O que acontece quando se tornam adultos?</a></li>
-        <li><a href="#research">Que pesquisas estão sendo feitas?</a></li>
-        <li><a href="#more-information">Onde posso obter mais informações?</a></li>
-    </ul>
+    <p>
+    <p>
+    <p>
 
     <h3 id="what-is-asperger-syndrome">O que era a síndrome de <del>Asperger</del>?</h3>
     <p>A síndrome de <del>Asperger</del> (SA) é um transtorno do desenvolvimento caracterizado por:</p>
