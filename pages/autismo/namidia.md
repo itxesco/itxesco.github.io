@@ -39,6 +39,7 @@
         <li><a href= "/pages/autismo/fofos.html">não somos fofos</a></li>
         <li><a href= "/pages/autismo/habilidades.html">Altas Habilidades e Superdotação</a></li>
         <li><a href= "/pages/autismo/mitos.html">Mitos</a></li>
+          <li><a href= "/pages/autismo/documentos.html">Documentos</a></li>
           <li><a href= "/pages/autismo/namidia.html">TEA na cultura pop</a></li>
       </ul>
   </div>
