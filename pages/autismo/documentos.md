@@ -48,10 +48,9 @@
       <li><a href= "/pages/autismo/apoioetratamento.html">Apoio e Tratamento</a></li>
         <li><a href= "/pages/autismo/identificadao.html">simbologia e representaçao</a></li>
         <li><a href= "/pages/autismo/asperger.html"> <del>Asperger</del></a></li>
-        <li><a href= "/pages/autismo/direitos.html">Direitos</a></li>
+        <li><a href= "/pages/autismo/direitos.html">Direitos e Documentação</a></li>
         <li><a href= "/pages/autismo/fofos.html">não somos fofos</a></li>
         <li><a href= "/pages/autismo/habilidades.html">Altas Habilidades e Superdotação</a></li>
-        <li><a href= "/pages/autismo/documentos.html">Documentos</a></li>
         <li><a href= "/pages/autismo/mitos.html">Mitos</a></li>
           <li><a href= "/pages/autismo/namidia.html">TEA na cultura pop</a></li>
       </ul>

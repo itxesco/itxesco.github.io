@@ -30,17 +30,16 @@
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-      <li><a href= "/pages/autismo/autismo.html">O Transtorno do Espectro Autista</a></li>
-      <li><a href= "/pages/autismo/teadultos.html">TEA em Adultos</a></li>
+      <li><a href= "/pages/autismo/autismo.html">O que é o TEA</a></li>
+      <li><a href= "/pages/autismo/teadultos.html">TEA em adultos</a></li>
       <li><a href= "/pages/autismo/apoioetratamento.html">Apoio e Tratamento</a></li>
-        <li><a href= "/pages/autismo/identificadao.html">simbologia e Identificação</a></li>
+        <li><a href= "/pages/autismo/identificadao.html">simbologia e representaçao</a></li>
         <li><a href= "/pages/autismo/asperger.html"> <del>Asperger</del></a></li>
-        <li><a href= "/pages/autismo/direitos.html">Direitos</a></li>
+        <li><a href= "/pages/autismo/direitos.html">Direitos e Documentação</a></li>
         <li><a href= "/pages/autismo/fofos.html">não somos fofos</a></li>
         <li><a href= "/pages/autismo/habilidades.html">Altas Habilidades e Superdotação</a></li>
-        <li><a href= "/pages/autismo/mitos.html">Mitos sobre o TEA</a></li>
-          <li><a href= "/pages/autismo/documentos.html">Documentos</a></li>
-          <li><a href= "/pages/autismo/namidia.html">TEA e Representatividade</a></li>
+        <li><a href= "/pages/autismo/mitos.html">Mitos</a></li>
+          <li><a href= "/pages/autismo/namidia.html">TEA na cultura pop</a></li>
       </ul>
   </div>
 </div>
