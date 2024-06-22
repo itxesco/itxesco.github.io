@@ -1,6 +1,6 @@
 ---
 layout: page
-title: notas de aula
+title: arquivos e artigos úteis
 description: notas de aulas do prof. dr. Francisco de Assis Nascimento Junior da UFSB
 ---
 
