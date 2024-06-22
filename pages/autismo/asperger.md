@@ -33,7 +33,6 @@
       <li><a href= "/pages/autismo/autismo.html">O Transtorno do Espectro Autista</a></li>
       <li><a href= "/pages/autismo/teadultos.html">TEA em Adultos</a></li>
       <li><a href= "/pages/autismo/apoioetratamento.html">Apoio e Tratamento</a></li>
-        <li><a href= "/pages/autismo/vidanotea.html">A vida no TEA</a></li>
         <li><a href= "/pages/autismo/identificadao.html">simbologia e Identificação</a></li>
         <li><a href= "/pages/autismo/asperger.html"> <del>Asperger</del></a></li>
         <li><a href= "/pages/autismo/direitos.html">Direitos</a></li>
