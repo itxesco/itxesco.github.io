@@ -70,6 +70,14 @@
     <p>
     <p>
     <p>
+    <p>
+    <h3 id="apoio">Apoio e Tratamento</h3>
+    <p>
+   <b>- Terapia Cognitivo-Comportamental (TCC)</b>: Pode ajudar a desenvolver habilidades sociais e de comunicação, bem como a lidar com a ansiedade.<br>
+   <b>- Treinamento de Habilidades Sociais:</b> Programas específicos para melhorar a interação social.<br>
+   <b>- Suporte Vocacional:</b> Ajudar a encontrar e manter um emprego adequado.<br>
+   <b>- Grupos de Apoio:</b> Conexão com outros adultos autistas para compartilhar experiências e estratégias.</p>
+  <p>Com o suporte adequado e um ambiente compreensivo, adultos com autismo podem levar uma vida plena e satisfatória, aproveitando suas habilidades e interesses únicos.</p>
 <p>
 <p>
 <p>

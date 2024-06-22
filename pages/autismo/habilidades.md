@@ -44,7 +44,6 @@
       <ul class="nav">
       <li><a href= "/pages/autismo/autismo.html">O que é o TEA</a></li>
       <li><a href= "/pages/autismo/teadultos.html">Diagnóstico Tardio</a></li>
-      <li><a href= "/pages/autismo/apoioetratamento.html">Apoio e Tratamento</a></li>
         <li><a href= "/pages/autismo/identificadao.html">simbologia e representaçao</a></li>
         <li><a href= "/pages/autismo/asperger.html"> <del>Asperger</del></a></li>
         <li><a href= "/pages/autismo/direitos.html">Direitos e Documentação</a></li>
