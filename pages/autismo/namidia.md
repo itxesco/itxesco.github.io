@@ -42,11 +42,12 @@
 </div>
 <p>
 <p>
-<h2>Autismo na midia</h2>
+<p>
+<h2>Autismo e Cultura Pop</h2>
 <p>
 A mídia tem um efeito sutil, porém poderoso, em nossas vidas. Tudo o que fazemos, pensamos e sentimos é influenciado pelas histórias contadas pelos meios de comunicação. O autismo é relativamente novo no olhar público, então as histórias que ouvimos têm um impacto ainda maior no que pensamos.
 <p>
-Quando eu estava crescendo, desenvolvi grande parte da minha interpretação do mundo a partir da televisão, filmes e livros que li. Mas durante muitos anos, a única representação que tive do autismo era  o filme <i>Rain Man</i>.
+No decorrer da infância, desenvolvi grande parte da minha interpretação do mundo a partir da televisão, filmes e livros que li. Mas durante muitos anos, a única representação que tive do autismo era  o filme <i>Rain Man</i>.
 <p>
 Embora muitas pessoas critiquem rapidamente <i>Rain Man</i>, ele surgiu em um momento em que muito poucas pessoas sequer tinham ouvido o termo autismo, e ainda menos sabiam o que era. O filme trouxe o autismo para o <i>mainstream </i> e acho que subestimamos o quão importante foi para tantas pessoas finalmente terem algo com que pudessem se identificar na mídia (especialmente pais que estavam cansados de explicar a todos que encontravam em público). Muito mudou desde então e vimos mais representação, tanto boa quanto ruim.
 <p>
@@ -80,20 +81,23 @@ Eu não sabia como responder, nem o que esperar, mas a reação dela me surpreen
 
     <p>
 "É tão estranho que vocês sintam a necessidade de esconder essa parte de todo o mundo," ela disse. A conversa fluiu, ela entendeu meu pedido para guardar segredo no trabalho por enquanto e quando voltei para casa, me peguei pensando em como seria a reação das pessoas quando eu decidisse tirar a máscara de Neurotípico. Entrei online para saber as histórias de quem passou por isso e encontrei a seguinte frase:<br>
-       "O autismo é meio que a síndrome da moda agora."</p>
+       "O autismo meio que está na moda agora."</p>
 <p>
-É aqui que este texto começa. Com uma pausa, procurando uma maneira melhor de dizer isso, porque aquela frase me chocou e eu demorei tentando entender a ideia de como alguém pode ser capaz de dizer que uma condição neurológica possa ser moda. Veio o estalo e me toquei que o TEA é visto como algo "fofo" pela cultura pop.</p>
-    <p>
-Eu não tinha certeza de como reagir a isso. Ainda agora essa ideia flutua em minha mente e ainda tenho sentimentos mistos.<br>
+É aqui que este texto começa. Com uma pausa, procurando uma maneira melhor de dizer isso, porque aquela frase me chocou e eu demorei tentando entender a ideia de como alguém pode ser capaz de dizer que uma condição neurológica possa estar na moda. Veio um estalo e me toquei que uma das razões pode estar em como o TEA é mostrado como algo "fofo" pela cultura pop.
+<p>
+Mas até ai, vamos lembrar que eu pesquiso representação de minorias e sua relação com a ciência na cultura pop, então pode ser que seja somente meu cérebro tentando traduzir o assunto para o meu campo de conhecimento. Eu não tinha certeza de como reagir a isso. Ainda agora essa ideia flutua em minha mente e ainda tenho sentimentos mistos.<br>
 Me incomoda que as pessoas possam diminuir as lutas das famílias e das pessoas com  distúrbio do neurodesenvolvimento, considerando-o uma "moda". É ridiculo, mas eu imagino pessoas correndo para <i>psicólogos de grife</i> para obter seu <i>diagnóstico de grife</i>. É claro, gosto de estar na moda: vestia calças xadrez na adolescência em 1992, por exemplo. O simples fato é que eu, enquanto professor, acredito que é preciso lutar contra a forma como o público percebe este distúrbio e como ele é retratado na cultura pop, porque isso influencia profundamente a reação dos neurotípicos em relação a pessoas neuroatípicas , quer saibam nossas identidades ou não.<br>
 Até porquê quem conhece uma pessoa autista, conhece somente uma pessoa autista. Existe ela, com todas as suas características e nuances pessoais e existe eu, com todas as minhas nuances e características pessoais, e existe a ideia flutuante do que é o autismo e como ele se parece, e os três parecem impossíveis de separar.</p>
-
     <p>
 O autismo e cultura pop têm tido uma relação complicada por um longo tempo. Em 1988, o filme <i>Rain Man</i> introduziu o TEA ao público em geral. Após seu lançamento, os diagnósticos nos Estados Unidos dispararam, assim como a presença de personagens autistas na cultura pop.
+<p>
+  <img src="https://itxesco.github.io/assets/figuras/autismo/rain_man.jpg" alt="cartaz do filme Rain Man" class="centered-img">
 <p>
 Nos anos 1980, havia apenas dois filmes estrelando personagens autistas e na década seguinte, houve treze. Quanto mais antigo o filme ou livro ou programa, menos autistas os personagens parecem ser; alguns carregam o rótulo de 'autista', mas com muito poucos sintomas. Em vez disso, os personagens são afligidos por algum distúrbio mental genérico, que quando rotulado como autismo vende mais ingressos.</p>
 <p>
     <h2 id="rain-man">Rain Man e Além</h2>
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PrDY8CcRu3g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p>
 <i>Rain Man</i>, no entanto, foi nuançado. Eu sempre apreciei a história,  em um nível pessoal, o que não necessariamente era algo bom. O filme conta uma história ambientada em uma época em que a maneira comum de lidar com uma pessoa diagnosticada era enviá-la para a internação em uma instituição. Os cineastas mostram a instituição como um lugar acolhedor, seguro e confortável para o personagem Ray, mas na vida real esses lugares muitas vezes eram mal administrados e mantidos em  condições péssimas. Um Ray da vida real possivelmente teria tido sua deficiência intensificada por estar em um lugar assim. Muitas crianças autistas nascidas nessa época cresceram com deficiências mentais severas porque pouco de sua natureza foi compreendida. O ator Dustin Hoffman mostrou imenso respeito em sua performance, pintando um personagem multifacetado de forma humana, mas devido ao seu lugar no espectro, ele é frequentemente um incômodo para a história, ou pior, um veículo apenas para mover a trama adiante. Não quero criticar <i>Rain Man</i>, que considero um grande primeiro passo para apresentar o autismo para o público, mas é que ele foi apenas isso; o primeiro passo.</p>
 <p>
