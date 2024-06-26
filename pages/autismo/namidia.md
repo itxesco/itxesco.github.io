@@ -1,27 +1,40 @@
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
-    <title>Autismo na Mídia</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu de Navegação</title>
     <style>
         body {
             font-family: Arial, sans-serif;
         }
-        h1, h2 {
+        .menu {
+            background-color: #333;
+            overflow: hidden;
+        }
+        .menu a {
+            float: left;
+            display: block;
+            color: white;
             text-align: center;
-        }
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        li {
-            margin: 5px 0;
-        }
-        a {
-            color: #007BFF;
+            padding: 14px 16px;
             text-decoration: none;
         }
-        a:hover {
-            text-decoration: underline;
+        .menu a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+        .content {
+            padding: 20px;
+        }
+        p {
+            text-align: justify;
+        }
+        .centered-img {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            height: 200px;
+            width: auto;
         }
     </style>
 </head>
