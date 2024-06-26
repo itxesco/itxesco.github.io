@@ -48,17 +48,23 @@ A mídia tem um efeito sutil, porém poderoso, em nossas vidas. Tudo o que fazem
 <p>
 Quando eu estava crescendo, desenvolvi grande parte da minha interpretação do mundo a partir da televisão, filmes e livros que li. Mas durante muitos anos, a única representação que tive do autismo era  o filme <i>Rain Man</i>.
 <p>
-Embora muitas pessoas critiquem rapidamente Rain Man, ele surgiu em um momento em que muito poucas pessoas sequer tinham ouvido o termo autismo, e ainda menos sabiam o que era. O filme trouxe o autismo para o <i>mainstream </i> e acho que subestimamos o quão importante foi para tantas pessoas finalmente terem algo com que pudessem se identificar na mídia (especialmente pais que estavam cansados de explicar a todos que encontravam em público). Muito mudou desde então e vimos mais representação, tanto boa quanto ruim.
+Embora muitas pessoas critiquem rapidamente <i>Rain Man</i>, ele surgiu em um momento em que muito poucas pessoas sequer tinham ouvido o termo autismo, e ainda menos sabiam o que era. O filme trouxe o autismo para o <i>mainstream </i> e acho que subestimamos o quão importante foi para tantas pessoas finalmente terem algo com que pudessem se identificar na mídia (especialmente pais que estavam cansados de explicar a todos que encontravam em público). Muito mudou desde então e vimos mais representação, tanto boa quanto ruim.
 <p>
 Certamente estamos em um lugar melhor em 2024 do que estávamos nos anos 1980. Programas como <b>The Bridge </b>e <b>The Good Doctor</b> mostram personagens autistas como mais do que apenas um estereótipo e seus protagonistas autistas até mesmo têm empregos que o público pode invejar.
 <p>
-O seriado <b>Atypical</b> gira em torno de uma família criando um adolescente no espectro. O programa até retratou o personagem autista namorando e eventualmente arranjando uma namorada. Embora muitas pessoas tenham sido críticas à primeira temporada, os <i>showrunners</i> fizeram um esforço para mudar as coisas e a segunda temporada apresentará atores autistas interpretando personagens autistas na tela. Dito isso, espero ver mais programas sensíveis às realidades desde o início, em vez de reagir às críticas depois que o dano já está feito.
+O seriado <b>Atypical</b> gira em torno de uma família criando um adolescente no espectro. Até onde acompanhei, o programa  retrata bem a vida do personagem autista que eventualmente arranja uma namorada. Li  muitas críticas ruins à primeira temporada, que gostei bastante. Os <i>showrunners</i> fizeram um esforço para mudar as coisas a partir  da segunda temporada, que apresenta atores autistas interpretando personagens autistas.<br>
+Achei isso um toque carinhoso, que se parece muito com o cuidado que tiveram na contratação de toda a equipe de "Pantera Negra".
 <p>
-Histórias negativas que prejudicam aqueles de nós no espectro não se limitam a séries de TV e filmes. Alguns dos piores infratores são organizações de notícias. Por exemplo, quando ocorre um ato de violência em nossa sociedade (como um tiroteio), repórteres e comentaristas da televisão a cabo rapidamente buscam uma explicação. Muitas vezes, apontam para um diagnóstico de autismo, apesar do fato de que o autismo não tem absolutamente nenhuma ligação com a violência. Até mesmo mencionar o autismo nessas histórias não serve para nada e confunde o público, fazendo-os pensar que deve estar relacionado.
+ Dito isso, espero ver mais programas sensíveis às  nossas realidades, mesmo que sejam comédias, desde que o riso seja com o autismo e não dele, como na maior parte das piadas de <i> The Big Bang Theory</i>.
 <p>
-Mas tudo isso está melhorando gradualmente com o tempo. Toda vez que algo negativo é divulgado na mídia, fico aliviado ao ver vozes daqueles no espectro se manifestando e muitos aliados ecoando essas vozes.
+Histórias negativas que prejudicam as pessoas no espectro não se limitam a séries de TV e filmes. Alguns dos piores infratores são organizações de notícias, que relacionam o autismo a estereótipos que não condizem com a realidade. Por exemplo, relacionando a não-comunicação verbal com retardo mental. Isso confunde o público, fazendo-os acreditar em algo que não está relacionado com a verdade.
 <p>
-Mal posso esperar pelo dia em que não precisaremos nos manifestar contra representações negativas, mas é importante entender que as coisas não mudarão da noite para o dia e que a paciência e a compreensão são fundamentais para convencer os outros a ouvirem nossas histórias. As pessoas autistas têm a responsabilidade de advogar de forma respeitosa e entender que os pais também têm histórias para contar. Mas os pais também precisam perceber que seus filhos crescem e nem sempre compartilham das mesmas opiniões. Se todos pudermos trabalhar mais em nos ouvir mutuamente, acredito que o mundo será um lugar melhor e o cenário midiático será mais inclusivo.
+Não sei se isso está melhorando gradualmente com o tempo. Por um lado, as series tem se tornado mais humanas e realistas, por outro,  toda vez que algo negativo é divulgado na mídia, as pessoas que batalham pela desmistificação do TEA são sobrecarregadas.
+<p>
+Mal posso esperar pelo dia em que não precisaremos nos manifestar contra representações negativas, mas é importante entender que as coisas não mudarão da noite para o dia e que a paciência e a compreensão são fundamentais para convencer as pessoas neurotípicas a ouvirem nossas histórias. As pessoas autistas têm a responsabilidade de advogar de forma respeitosa? Sim, mas é preciso lembrar que cada autista é um autista e nem toda pessoa autista é capaz sequer de se comunicar verbalmente.
+<p>
+É preciso entender também a situação das famílias atípicas, que também têm suas histórias para contar e que precisam ser ouvidas. Se todos pudermos trabalhar mais em nos ouvir mutuamente, acredito que o mundo será um lugar melhor e o cenário midiático será mais inclusivo.<br>
+Eu detesto a palavra <i> inclusão</i>, mas isso é assunto para outro texto.
 <p>
 <p>
   <a href="#top">topo</a></p>
@@ -76,15 +82,15 @@ Eu não sabia como responder, nem o que esperar, mas a reação dela me surpreen
 "É tão estranho que vocês sintam a necessidade de esconder essa parte de todo o mundo," ela disse. A conversa fluiu, ela entendeu meu pedido para guardar segredo no trabalho por enquanto e quando voltei para casa, me peguei pensando em como seria a reação das pessoas quando eu decidisse tirar a máscara de Neurotípico. Entrei online para saber as histórias de quem passou por isso e encontrei a seguinte frase:<br>
        "O autismo é meio que a síndrome da moda agora."</p>
 <p>
-É aqui que o texto começa. Com uma pausa, procurando uma maneira melhor de dizer isso, porque aquela frase me chocou e eu demorei tentando entender a ideia de como alguém pode ser capaz de dizer que uma condição neurológica possa ser moda. Veio o estalo e me toquei que o TEA é visto como algo "fofo" pela cultura pop.</p>
+É aqui que este texto começa. Com uma pausa, procurando uma maneira melhor de dizer isso, porque aquela frase me chocou e eu demorei tentando entender a ideia de como alguém pode ser capaz de dizer que uma condição neurológica possa ser moda. Veio o estalo e me toquei que o TEA é visto como algo "fofo" pela cultura pop.</p>
     <p>
 Eu não tinha certeza de como reagir a isso. Ainda agora essa ideia flutua em minha mente e ainda tenho sentimentos mistos.<br>
 Me incomoda que as pessoas possam diminuir as lutas das famílias e das pessoas com  distúrbio do neurodesenvolvimento, considerando-o uma "moda". É ridiculo, mas eu imagino pessoas correndo para <i>psicólogos de grife</i> para obter seu <i>diagnóstico de grife</i>. É claro, gosto de estar na moda: vestia calças xadrez na adolescência em 1992, por exemplo. O simples fato é que eu, enquanto professor, acredito que é preciso lutar contra a forma como o público percebe este distúrbio e como ele é retratado na cultura pop, porque isso influencia profundamente a reação dos neurotípicos em relação a pessoas neuroatípicas , quer saibam nossas identidades ou não.<br>
 Até porquê quem conhece uma pessoa autista, conhece somente uma pessoa autista. Existe ela, com todas as suas características e nuances pessoais e existe eu, com todas as minhas nuances e características pessoais, e existe a ideia flutuante do que é o autismo e como ele se parece, e os três parecem impossíveis de separar.</p>
 
     <p>
-<h3><a href="#rain-man">O autismo e cultura pop</a></h3> <br>
-têm tido uma relação complicada por um longo tempo. Em 1988, o filme <i>Rain Man</i> introduziu o TEA ao público em geral. Após seu lançamento, os diagnósticos nos Estados Unidos dispararam, assim como a presença de personagens autistas na cultura pop.<br>
+O autismo e cultura pop têm tido uma relação complicada por um longo tempo. Em 1988, o filme <i>Rain Man</i> introduziu o TEA ao público em geral. Após seu lançamento, os diagnósticos nos Estados Unidos dispararam, assim como a presença de personagens autistas na cultura pop.
+<p>
 Nos anos 1980, havia apenas dois filmes estrelando personagens autistas e na década seguinte, houve treze. Quanto mais antigo o filme ou livro ou programa, menos autistas os personagens parecem ser; alguns carregam o rótulo de 'autista', mas com muito poucos sintomas. Em vez disso, os personagens são afligidos por algum distúrbio mental genérico, que quando rotulado como autismo vende mais ingressos.</p>
 <p>
     <h2 id="rain-man">Rain Man e Além</h2>
