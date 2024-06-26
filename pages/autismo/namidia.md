@@ -45,6 +45,13 @@
 <p>
 <h2>Autismo e Cultura Pop</h2>
 <p>
+<li><a href="#inicio">1. Toda história tem um começo</a></li>
+<li><a href="#rain_man">2. Rain Man e além</a></li>
+<li><a href="#parenthood">3. Parenthood</a></li>
+<li><a href="#comunity">4. Comunity (seis temporadas e um filme!)</a></li>
+<li><a href="#quadrinhos">5. Super-heróis Autistas</a></li>
+<p>
+<p>
 A mídia tem um efeito sutil, porém poderoso, em nossas vidas. Tudo o que fazemos, pensamos e sentimos é influenciado pelas histórias contadas pelos meios de comunicação. O autismo é relativamente novo no olhar público, então as histórias que ouvimos têm um impacto ainda maior no que pensamos.
 <p>
 No decorrer da infância, desenvolvi grande parte da minha interpretação do mundo a partir da televisão, filmes e livros que li. Mas durante muitos anos, a única representação que tive do autismo era  o filme <i>Rain Man</i>.
@@ -71,6 +78,7 @@ Eu detesto a palavra <i> inclusão</i>, mas isso é assunto para outro texto.
   <a href="#top">topo</a></p>
 <p>
 <p>
+<h2 id="inicio">toda história tem um início</h2>
 <p>
 
     <p>
@@ -95,7 +103,7 @@ O autismo e cultura pop têm tido uma relação complicada por um longo tempo. E
 <p>
 Nos anos 1980, assisti apenas a dois filmes estrelando personagens autistas e na década seguinte, assisti a treze. Isso é importante pelo ponto de vista quantitativo, mas é preciso apontar que nessas quanto mais antigo o ano de produção do filme ou publicação do livro, menos autistas os personagens parecem ser; alguns carregam o rótulo de 'autista', mas com muito poucos sintomas, onde os personagens são afligidos por algum distúrbio mental genérico, que ao ser rotulado como autismo  parece vender mais ingressos.</p>
 <p>
-    <h2 id="rain-man">Rain Man e Além</h2>
+<h2 id="rain_man">Rain Man e Além</h2>
 <p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PrDY8CcRu3g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p>
@@ -107,7 +115,7 @@ Durante toda a infância, o fantasma da internação me assombrou. Era imperativ
  De volta ao filme, Dustin Hoffman mostrou imenso respeito em sua performance, pintando um personagem multifacetado de forma humana. Eu já o admirava desde que assisti a <i>Tootsie</i>, mas sua performance em <i>Rain Man</i> foi excepcional. Devido ao seu lugar no espectro,  seu personagem, Ray, é frequentemente mostrado como um incômodo para a história, ou pior, como um veículo para mover a trama adiante. <br>
  Não quero criticar <i>Rain Man</i>, que considero ter sido um grande primeiro passo para apresentar o autismo ao grande público, mas é que ele foi apenas isso: um primeiro passo.</p>
 <p>
-<h2 id="personagens-autistas">Personagens Autistas na TV</h2>
+<h2 id="parenthood">Parenthood</h2>
 <p>
 Hoje, personagens autistas parecem estar sendo melhor representados. Muitas obras de ficção apresentam personagens, principais e secundários, no espectro. Sua presença na televisão, no cinema, nos quadrinhos e na literatura não chega a manter o TEA em evidência, mas nos lembra de sua existência e relevância para a vida daqueles não afetados. Devo dizer que, embora meu primeiro foco para este desabafo esteja  em personagens de cinema e televisão, minha análise principal será sobre as histórias em quadrinhos. Vale ressaltar que as horas de narrativa em uma série de tv com 10 episódios oferecem a oportunidade de pintar imagens mais complexas das personagens, e porque somos uma sociedade que tem uma televisão em cada casa, no mínimo, e faz uso de outras telas para assistir a seus programas.
 <p>
@@ -129,9 +137,12 @@ De volta a <i>Parenthood</i>, nada parece acontecer com Max em que o <del>Asperg
 <p>
 <a href="#top">topo</a></p>
 <p>
-<h2 id="personagens-autistas">Personagens Autistas na TV</h2>
+<h2 id="comunity">Seis temporadas e um filme</h2>
 <p>
-Outro ponto de narrativa que preciso mencionar é o personagem de Abed em <i>Community</i>. Enquanto o personagem luta com convenções sociais, ele também é, como outro personagem o coloca, um xamã. Sua alta inteligência não é retratada como se ele fosse um <i>savant</i>, mas simplesmente um cara inteligente. Ele é autoconsciente, consciente da câmera, consciente da maneira como o mundo do programa funciona, de uma forma que nenhum dos outros personagens é. Mais importante para mim, ele tem um grupo de amigos forte, unido e solidário. A maior adversidade que Abed enfrenta vem da forma como o mundo reage às suas peculiaridades. <br>
+Outro ponto de narrativa que preciso mencionar é o personagem de Abed em <i>Community</i>. Enquanto o personagem luta com convenções sociais, ele também é, como outro personagem o coloca, um xamã. Sua alta inteligência não é retratada como se ele fosse um <i>savant</i>, mas simplesmente um cara inteligente. Ele é autoconsciente, consciente da câmera, consciente da maneira como o mundo do programa funciona, de uma forma que nenhum dos outros personagens é. Mais importante para mim, ele tem um grupo de amigos forte, unido e solidário. A maior adversidade que Abed enfrenta vem da forma como o mundo reage às suas peculiaridades.
+<p>
+<img src="https://itxesco.github.io/assets/figuras/autismo/Comunity_S1_DVD.jpg" alt="cartaz da série Comunity" class="centered-img">
+<p>
 Em um episódio crucial, seus colegas descobrem que uma garota gosta dele e aproveitam a oportunidade, agindo como se fosse raro ou especial uma garota se interessar por alguém como ele. Eles tentam forçá-lo a sair de sua zona de conforto para falar com essa garota, enquanto fazem comentários que, sem saber, podem ser prejudiciais para alguém no espectro, como "Você pode nunca ter outra oportunidade [para uma vida normal] como esta!" Eles tentam treiná-lo, consertá-lo.<br>
 Durante todo o tempo, Abed vai junto com seus amigos, sem protestar ou expressar desconforto. A narrativa conclui com a realização de que Abed sabe o que está fazendo. Ele está ciente do charme sutil de sua esquisitice, e que realmente, ele apenas prefere que as garotas venham até ele. Eu não tinha visto um personagem autista retratado com tanta competência e humanidade desde Abed.</p>
 <p>
@@ -142,7 +153,7 @@ Você pode sentir um desgosto palpável por suas palhaçadas em suas vozes, de m
 De acordo com <i>The Big Bang Theory</i>, pessoas autistas são insuportáveis e intoleráveis, e devem ser tratadas com hostilidade e desprezo <i>sutis</i>.
 <p>
 Há muitos exemplos de personagens autistas ruins por aí, muitos dos quais não sinto necessidade de listar. Eles sugerem imagens falsas e irrealistas do autismo, sugerem que as pessoas autistas são definidas por sua deficiência, e não o contrário.<br>
-São personagens que sugerem que as pessoas autistas só podem se conectar entre si e só podem encontrar amor com outras pessoas "estranhas", porque são muito estranhas para que qualquer outra pessoa se interesse por elas.
+São personagens que sugerem que as pessoas autistas só podem se conectar entre si e só podem encontrar amor com outras pessoas "estranhas", porque são muito estranhas para que qualquer outra pessoa se interesse por elas.<br>
 Personagens gritam e brigam uns com os outros quando alguém sugere que seu ente querido tem autismo, como se fosse uma acusação horrível.<br>
 O problema com a maioria das representações da mídia sobre o autismo não é que seja injustamente estereotipado, é que geralmente é muito simpático, em oposição a empático, e através disso alimenta os tropos problemáticos e as ansiedades da sociedade sobre o autismo: "o personagem autista está tentando, veja o quanto ele está tentando" ou "o personagem autista quer se encaixar, mas não pode e nunca vai conseguir por causa do autismo. Você não se sente triste? Você não sente pena dele?".<br>
  Dessa perspectiva, a cultura pop é compassiva e solidária, mas nos diminui, nos faz parecer fracos e necessitados de caridade.
@@ -155,3 +166,7 @@ Simplificando, represente sua gente. Já temos ótimos exemplos disso, embora, e
  </p>
  <p>
   <a href="#top">topo</a></p>
+
+  <p>
+  <h2 id="quadrinhos">Super-heróis Autistas</h2>
+  <p>
