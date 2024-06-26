@@ -72,7 +72,7 @@ Eu detesto a palavra <i> inclusão</i>, mas isso é assunto para outro texto.
 <p>
 <p>
 <p>
-    <h2>Autismo e Cultura Pop</h2>
+
     <p>
 Para o que nos interessa, a história começa em um café com uma colega de trabalho em um domingo de sol, na orla norte de Porto Seguro. Marcamos em uma lanchonete perto de casa e eu, distraidamente, coloquei minhas coisas (celular, chave do carro, carteira) sobre a mesa. Acontece que eu havia inserido uma fita de girassóis no chaveiro com as chaves do carro e me não prestei atenção ao fato. Até o momento, vivia há anos com o diagnóstico na gaveta  e há meses com o laudo no bolso, em segredo. Tudo o que importa para esta história é que  em determinado ponto da conversa, ela apontou para o meu chaveiro e perguntou: você é autista?</p>
 
@@ -89,17 +89,20 @@ Mas até ai, vamos lembrar que eu pesquiso representação de minorias e sua rel
 Me incomoda que as pessoas possam diminuir as lutas das famílias e das pessoas com  distúrbio do neurodesenvolvimento, considerando-o uma "moda". É ridiculo, mas eu imagino pessoas correndo para <i>psicólogos de grife</i> para obter seu <i>diagnóstico de grife</i>. É claro, gosto de estar na moda: vestia calças xadrez na adolescência em 1992, por exemplo. O simples fato é que eu, enquanto professor, acredito que é preciso lutar contra a forma como o público percebe este distúrbio e como ele é retratado na cultura pop, porque isso influencia profundamente a reação dos neurotípicos em relação a pessoas neuroatípicas , quer saibam nossas identidades ou não.<br>
 Até porquê quem conhece uma pessoa autista, conhece somente uma pessoa autista. Existe ela, com todas as suas características e nuances pessoais e existe eu, com todas as minhas nuances e características pessoais, e existe a ideia flutuante do que é o autismo e como ele se parece, e os três parecem impossíveis de separar.</p>
     <p>
-O autismo e cultura pop têm tido uma relação complicada por um longo tempo. Em 1988, o filme <i>Rain Man</i> introduziu o TEA ao público em geral. Após seu lançamento, os diagnósticos nos Estados Unidos dispararam, assim como a presença de personagens autistas na cultura pop.
+O autismo e cultura pop têm tido uma relação complicada por um longo tempo. Em 1988, o filme <i>Rain Man</i> introduziu o TEA ao público em geral. Após seu lançamento, os diagnósticos nos Estados Unidos dispararam, assim como a presença de personagens autistas nos filmes, séries e histórias em quadrinhos.
 <p>
   <img src="https://itxesco.github.io/assets/figuras/autismo/rain_man.jpg" alt="cartaz do filme Rain Man" class="centered-img">
 <p>
-Nos anos 1980, havia apenas dois filmes estrelando personagens autistas e na década seguinte, houve treze. Quanto mais antigo o filme ou livro ou programa, menos autistas os personagens parecem ser; alguns carregam o rótulo de 'autista', mas com muito poucos sintomas. Em vez disso, os personagens são afligidos por algum distúrbio mental genérico, que quando rotulado como autismo vende mais ingressos.</p>
+Nos anos 1980, assisti apenas a dois filmes estrelando personagens autistas e na década seguinte, assisti a treze. Isso é importante pelo ponto de vista quantitativo, mas é preciso apontar que nessas quanto mais antigo o ano de produção do filme ou publicação do livro, menos autistas os personagens parecem ser; alguns carregam o rótulo de 'autista', mas com muito poucos sintomas, onde os personagens são afligidos por algum distúrbio mental genérico, que ao ser rotulado como autismo  parece vender mais ingressos.</p>
 <p>
     <h2 id="rain-man">Rain Man e Além</h2>
 <p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PrDY8CcRu3g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p>
-<i>Rain Man</i>, no entanto, foi nuançado. Eu sempre apreciei a história,  em um nível pessoal, o que não necessariamente era algo bom. O filme conta uma história ambientada em uma época em que a maneira comum de lidar com uma pessoa diagnosticada era enviá-la para a internação em uma instituição. Os cineastas mostram a instituição como um lugar acolhedor, seguro e confortável para o personagem Ray, mas na vida real esses lugares muitas vezes eram mal administrados e mantidos em  condições péssimas. Um Ray da vida real possivelmente teria tido sua deficiência intensificada por estar em um lugar assim. Muitas crianças autistas nascidas nessa época cresceram com deficiências mentais severas porque pouco de sua natureza foi compreendida. O ator Dustin Hoffman mostrou imenso respeito em sua performance, pintando um personagem multifacetado de forma humana, mas devido ao seu lugar no espectro, ele é frequentemente um incômodo para a história, ou pior, um veículo apenas para mover a trama adiante. Não quero criticar <i>Rain Man</i>, que considero um grande primeiro passo para apresentar o autismo para o público, mas é que ele foi apenas isso; o primeiro passo.</p>
+<i>Rain Man</i>, no entanto, foi nuançado. Eu sempre apreciei a história,  em um nível pessoal, o que não necessariamente foi algo bom. O filme conta uma história ambientada em uma época em que a maneira comum de lidar com uma pessoa diagnosticada era enviá-la para ser internada em uma instituição. O filme mostra a instituição como um lugar acolhedor, seguro e confortável para o personagem Ray, mas na vida real esses lugares muitas vezes eram mal administrados e mantidos em  condições péssimas. <br>
+Um Ray da vida real possivelmente teria tido sua deficiência intensificada por ser colocado para viver em um lugar assim. Muitas crianças autistas nascidas nessa época cresceram com deficiências mentais severas porque pouco de sua natureza foi compreendida.<br>
+Durante toda a 
+ O ator Dustin Hoffman mostrou imenso respeito em sua performance, pintando um personagem multifacetado de forma humana, mas devido ao seu lugar no espectro, ele é frequentemente um incômodo para a história, ou pior, um veículo apenas para mover a trama adiante. Não quero criticar <i>Rain Man</i>, que considero um grande primeiro passo para apresentar o autismo para o público, mas é que ele foi apenas isso; o primeiro passo.</p>
 <p>
 <h2 id="personagens-autistas">Personagens Autistas na TV</h2>
 <p>
