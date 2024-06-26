@@ -124,7 +124,7 @@ De muitas maneiras, quando assistimos a esses programas,  recebemos seus persona
     <p>
 Alguns desses personagens são notáveis. Em <a href="https://www.primevideo.com/-/pt/detail/Parenthood/0Q7I1WN6ZZ1GRI5ZS2JN20OXT8">Parenthood</a>, o jovem Max Braverman é diagnosticado no primeiro episódio.
 <p>
-<img src="https://itxesco.github.io/assets/figuras/autismo/parenthood.jpg" alt="cartaz da série Parenthood" class="centered-img">
+<img src="https://itxesco.github.io/assets/figuras/autismo/parenthood_.jpg" alt="cartaz da série Parenthood" class="centered-img">
 <p>
 O programa não é necessariamente sobre Max, mesmo quando conta uma das suas histórias, mas é dado um tratamento tão honesto e justo ao personagem quanto possível. Max parece ser uma pessoa real. Sua história espelha tanto algumas de minhas próprias experiências com o diagnóstico que às vezes é um pouco doloroso assistir, e eu acabei não acompanhando a série.
 <p>
