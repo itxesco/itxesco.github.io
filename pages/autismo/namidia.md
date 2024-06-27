@@ -63,34 +63,34 @@
     <tr>
         <td>
             <a href="pages/pesquisa/pesquisa_edu.html">
-                <img src="imagens/assets/figuras/autismo/rain_man.jpg" alt="cartaz do filme rain man" title="Rain Man"/>
+                <img src="https://itxesco.github.io/assets/figuras/autismo/rain_man.jpg" alt="cartaz do filme rain man" title="Rain Man"/>
             </a>
         </td>
         <td>
             <a href="pages/pesquisa/pesquisa_hq.html">
-                <img src="imagens/assets/figuras/autismo/Community_S1_DVD.jpg" alt="historias em quadrinhos" title="Community"/>
+                <img src="https://itxesco.github.io/assets/figuras/autismo/Community_S1_DVD.jpg" alt="historias em quadrinhos" title="Community"/>
             </a>
         </td>
         <td>
             <a href="pages/ensino/ensino.html">
-                <img src="imagens/assets/figuras/autismo/parenthood_.jpg" alt="cartaz da série Parenthood" title="parenthood"/>
+                <img src="https://itxesco.github.io/assets/figuras/autismo/parenthood_.jpg" alt="cartaz da série Parenthood" title="parenthood"/>
             </a>
         </td>
     </tr>
     <tr>
         <td>
             <a href="pages/ihac/decanato.html">
-                <img src="imagens/assets/figuras/autismo/richards.jpg" alt="reed richards do quarteto fantastico" title="quarteto fantástico"/>
+                <img src="https://itxesco.github.io/assets/figuras/autismo/richards.jpg" alt="reed richards do quarteto fantastico" title="quarteto fantástico"/>
             </a>
         </td>
         <td>
             <a href="pages/autismo/autismo.html">
-                <img src="imagens/assets/figuras/autismo/Black_Manta.jpg" alt="Black Manta" title="Arraia Negra"/>
+                <img src="https://itxesco.github.io/assets/figuras/autismo/Black_Manta.jpg" alt="Black Manta" title="Arraia Negra"/>
             </a>
         </td>
         <td>
             <a href="pages/pesquisa/pesquisa_jogos.html">
-                <img src="imagens/assets/figuras/autismo/L_.jpg" alt="L da serie deathnote" title="faz o L"/>
+                <img src="https://itxesco.github.io/assets/figuras/autismo/L_.jpg" alt="L da serie deathnote" title="faz o L"/>
             </a>
         </td>
     </tr>
