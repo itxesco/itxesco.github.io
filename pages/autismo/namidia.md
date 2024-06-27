@@ -72,7 +72,7 @@
 <table class="tabela-imagens">
     <tr>
         <td>
-            <a href="https://itxesco.github.io/pages/autismo/shtea.md.html">
+            <a href="https://itxesco.github.io/pages/autismo/shtea.html">
                 <img src="https://itxesco.github.io/assets/figuras/autismo/richards.jpg" alt="reed richards do quarteto fantástico" title="TEA nos quadrinhos"/>
             </a>
         </td>
@@ -94,12 +94,12 @@
             </a>
         </td>
         <td>
-            <a href="https://itxesco.github.io/pages/autismo/shtea.md.html">
+            <a href="https://itxesco.github.io/pages/autismo/shtea.html">
                 <img src="https://itxesco.github.io/assets/figuras/autismo/black_manta_capa.jpg" alt="Arraia-Negra ou Black Manta" title="Arraia Negra"/>
             </a>
         </td>
         <td>
-            <a href="https://itxesco.github.io/pages/autismo/shtea.md.html">
+            <a href="https://itxesco.github.io/pages/autismo/shtea.html">
                 <img src="https://itxesco.github.io/assets/figuras/autismo/L_.jpg" alt="L da serie deathnote" title="faz o L"/>
             </a>
         </td>
@@ -111,7 +111,7 @@
 <li><a href="#rain_man">2. Rain Man e além</a></li>
 <li><a href="#parenthood">3. Parenthood</a></li>
 <li><a href="#comunity">4. Comunity (seis temporadas e um filme!)</a></li>
-<a href="https://itxesco.github.io/pages/autismo/shtea.md.html">5. Super-heróis Autistas</a>
+<a href="https://itxesco.github.io/pages/autismo/shtea.html">5. Super-heróis Autistas</a>
 <p>
 <p>
 A mídia tem um efeito sutil, porém poderoso, em nossas vidas. Tudo o que fazemos, pensamos e sentimos é influenciado pelas histórias contadas pelos meios de comunicação. O autismo é relativamente novo no olhar público, então as histórias que ouvimos têm um impacto ainda maior no que pensamos.
