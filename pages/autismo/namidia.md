@@ -237,6 +237,5 @@ Simplificando, represente sua gente. Já temos ótimos exemplos disso, embora, e
  <p>
   <a href="#top">topo</a></p>
   <p>
-  <h2 id="quadrinhos">Super-heróis Autistas</h2>
   <p>
 </html>
