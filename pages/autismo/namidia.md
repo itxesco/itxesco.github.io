@@ -77,29 +77,29 @@
             </a>
         </td>
         <td>
-            <a href="pages/pesquisa/pesquisa_hq.html">
-                <img src="https://itxesco.github.io/assets/figuras/autismo/Community_S1_DVD_capa.jpg" alt="historias em quadrinhos" title="Community"/>
+            <li><a href="#comunity">
+                <img src="https://itxesco.github.io/assets/figuras/autismo/Community_S1_DVD_capa.jpg" alt="A série Community, da netflix" title="Community"/></li>
             </a>
         </td>
         <td>
-            <a href="pages/ensino/ensino.html">
-                <img src="https://itxesco.github.io/assets/figuras/autismo/parenthood_capa.jpg" alt="cartaz da série Parenthood" title="parenthood"/>
+            <li><a href="#parenthood">
+                <img src="https://itxesco.github.io/assets/figuras/autismo/parenthood_capa.jpg" alt="cartaz da série Parenthood" title="parenthood"/></li>
             </a>
         </td>
     </tr>
     <tr>
         <td>
-            <a href="pages/ihac/decanato.html">
-                <img src="https://itxesco.github.io/assets/figuras/autismo/rain_man_capa.jpg" alt="reed richards do quarteto fantastico" title="quarteto fantástico"/>
+            <li><a href="#rain_man">
+                <img src="https://itxesco.github.io/assets/figuras/autismo/rain_man_capa.jpg" alt="o filme Rain Man" title="Rain Man e além"/></li>
             </a>
         </td>
         <td>
-            <a href="pages/autismo/autismo.html">
-                <img src="https://itxesco.github.io/assets/figuras/autismo/black_manta_capa.jpg" alt="Black Manta" title="Arraia Negra"/>
+            <a href="https://itxesco.github.io/pages/autismo/shtea.md.html">
+                <img src="https://itxesco.github.io/assets/figuras/autismo/black_manta_capa.jpg" alt="Arraia-Negra ou Black Manta" title="Arraia Negra"/>
             </a>
         </td>
         <td>
-            <a href="pages/pesquisa/pesquisa_jogos.html">
+            <a href="https://itxesco.github.io/pages/autismo/shtea.md.html">
                 <img src="https://itxesco.github.io/assets/figuras/autismo/L_.jpg" alt="L da serie deathnote" title="faz o L"/>
             </a>
         </td>
@@ -111,7 +111,7 @@
 <li><a href="#rain_man">2. Rain Man e além</a></li>
 <li><a href="#parenthood">3. Parenthood</a></li>
 <li><a href="#comunity">4. Comunity (seis temporadas e um filme!)</a></li>
-<li><a href="#quadrinhos">5. Super-heróis Autistas</a></li>
+<a href="https://itxesco.github.io/pages/autismo/shtea.md.html">5. Super-heróis Autistas</a>
 <p>
 <p>
 A mídia tem um efeito sutil, porém poderoso, em nossas vidas. Tudo o que fazemos, pensamos e sentimos é influenciado pelas histórias contadas pelos meios de comunicação. O autismo é relativamente novo no olhar público, então as histórias que ouvimos têm um impacto ainda maior no que pensamos.
