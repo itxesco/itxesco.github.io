@@ -95,7 +95,7 @@
         </td>
         <td>
             <a href="pages/autismo/autismo.html">
-                <img src="https://itxesco.github.io/assets/figuras/autismo/Black_Manta_capa.jpg" alt="Black Manta" title="Arraia Negra"/>
+                <img src="https://itxesco.github.io/assets/figuras/autismo/black_manta_capa.jpg" alt="Black Manta" title="Arraia Negra"/>
             </a>
         </td>
         <td>
