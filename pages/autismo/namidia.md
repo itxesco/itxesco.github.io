@@ -1,6 +1,3 @@
-Aqui está o código HTML corrigido:
-
-```html
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -62,11 +59,7 @@ Aqui está o código HTML corrigido:
         <a href="/pages/autismo/habilidades.html">Altas Habilidades e Superdotação</a>
         <a href="/pages/autismo/mitos.html">Mitos</a>
         <a href="/pages/autismo/namidia.html">TEA na Cultura Pop</a>
-    </div>
-    <div class="content">
-        <h1>Bem-vindo ao nosso site</h1>
-        <p>Este é um exemplo de página com um menu de navegação e conteúdo centralizado.</p>
-        <img src="caminho/para/sua/imagem.jpg" alt="Exemplo de Imagem" class="centered-img">
+
     </div>
 </body>
 
@@ -80,7 +73,7 @@ Aqui está o código HTML corrigido:
     <tr>
         <td>
             <a href="pages/pesquisa/pesquisa_edu.html">
-                <img src="https://itxesco.github.io/assets/figuras/autismo/rain_man_capa.jpg" alt="cartaz do filme rain man" title="Rain Man"/>
+                <img src="https://itxesco.github.io/assets/figuras/autismo/richards.jpg" alt="cartaz do filme rain man" title="Rain Man"/>
             </a>
         </td>
         <td>
@@ -97,7 +90,7 @@ Aqui está o código HTML corrigido:
     <tr>
         <td>
             <a href="pages/ihac/decanato.html">
-                <img src="https://itxesco.github.io/assets/figuras/autismo/richards.jpg" alt="reed richards do quarteto fantastico" title="quarteto fantástico"/>
+                <img src="https://itxesco.github.io/assets/figuras/autismo/rain_man_capa.jpg" alt="reed richards do quarteto fantastico" title="quarteto fantástico"/>
             </a>
         </td>
         <td>
