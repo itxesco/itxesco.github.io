@@ -130,7 +130,7 @@ Eu detesto a palavra <i> inclusão</i>, mas isso é assunto para outro texto.
   <a href="#top">topo</a></p>
 <p>
 <p>
-<h2 id="inicio">toda história tem um início</h2>
+<h2 id="inicio">toda história tem um começo</h2>
 <p>
 
     <p>
@@ -155,6 +155,9 @@ O autismo e cultura pop têm tido uma relação complicada por um longo tempo. E
 <p>
 Nos anos 1980, assisti apenas a dois filmes estrelando personagens autistas e na década seguinte, assisti a treze. Isso é importante pelo ponto de vista quantitativo, mas é preciso apontar que nessas quanto mais antigo o ano de produção do filme ou publicação do livro, menos autistas os personagens parecem ser; alguns carregam o rótulo de 'autista', mas com muito poucos sintomas, onde os personagens são afligidos por algum distúrbio mental genérico, que ao ser rotulado como autismo  parece vender mais ingressos.</p>
 <p>
+ <a href="#top">topo</a></p>
+ <p>
+ <p>
 <h2 id="rain_man">Rain Man e Além</h2>
 <p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PrDY8CcRu3g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -166,8 +169,10 @@ Durante toda a infância, o fantasma da internação me assombrou. Era imperativ
 <p>
  De volta ao filme, Dustin Hoffman mostrou imenso respeito em sua performance, pintando um personagem multifacetado de forma humana. Eu já o admirava desde que assisti a <i>Tootsie</i>, mas sua performance em <i>Rain Man</i> foi excepcional. Devido ao seu lugar no espectro,  seu personagem, Ray, é frequentemente mostrado como um incômodo para a história, ou pior, como um veículo para mover a trama adiante. <br>
  Não quero criticar <i>Rain Man</i>, que considero ter sido um grande primeiro passo para apresentar o autismo ao grande público, mas é que ele foi apenas isso: um primeiro passo.</p>
-<p>
-<h2 id="parenthood">Parenthood</h2>
+ <p>
+  <a href="#top">topo</a></p>
+  <p>
+  <p><h2 id="parenthood">Parenthood</h2>
 <p>
 Hoje, personagens autistas parecem estar sendo melhor representados. Muitas obras de ficção apresentam personagens, principais e secundários, no espectro. Sua presença na televisão, no cinema, nos quadrinhos e na literatura não chega a manter o TEA em evidência, mas nos lembra de sua existência e relevância para a vida daqueles não afetados. Devo dizer que, embora meu primeiro foco para este desabafo esteja  em personagens de cinema e televisão, minha análise principal será sobre as histórias em quadrinhos. Vale ressaltar que as horas de narrativa em uma série de tv com 10 episódios oferecem a oportunidade de pintar imagens mais complexas das personagens, e porque somos uma sociedade que tem uma televisão em cada casa, no mínimo, e faz uso de outras telas para assistir a seus programas.
 <p>
@@ -187,8 +192,9 @@ Me lembrou nosso grupo de pessoas estranhas na graduação do IFUSP, que chamamo
 <p>
 De volta a <i>Parenthood</i>, nada parece acontecer com Max em que o <del>Asperger</del> não esteja no centro da história. Embora eu queira criticar o programa por adotar uma abordagem um tanto médica ao autismo do personagem, em vez de um ângulo experiencial ou pessoal, não me sinto a vontade. Aos quase 50 anos de idade, assistir ao pai de Max lutando para se conectar com seu filho indisciplinado durante uma aventura em um parque temático me faz pensar em meu próprio relacionamento com meus pais, tios e avós. O quanto eu dei trabalho crescendo. Max me parece ser real e sincero, e em uma era em que todos ainda estão descobrindo como lidar com suas questões, isso é o suficiente.</p>
 <p>
-<a href="#top">topo</a></p>
-<p>
+ <a href="#top">topo</a></p>
+ <p>
+ <p>
 <h2 id="comunity">Seis temporadas e um filme</h2>
 <p>
 Outro ponto de narrativa que preciso mencionar é o personagem de Abed em <i>Community</i>. Enquanto o personagem luta com convenções sociais, ele também é, como outro personagem o coloca, um xamã. Sua alta inteligência não é retratada como se ele fosse um <i>savant</i>, mas simplesmente um cara inteligente. Ele é autoconsciente, consciente da câmera, consciente da maneira como o mundo do programa funciona, de uma forma que nenhum dos outros personagens é. Mais importante para mim, ele tem um grupo de amigos forte, unido e solidário. A maior adversidade que Abed enfrenta vem da forma como o mundo reage às suas peculiaridades.
@@ -220,7 +226,6 @@ Simplificando, represente sua gente. Já temos ótimos exemplos disso, embora, e
  </p>
  <p>
   <a href="#top">topo</a></p>
-
   <p>
   <h2 id="quadrinhos">Super-heróis Autistas</h2>
   <p>
