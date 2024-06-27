@@ -4,6 +4,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Menu de Navegação</title>
     <style>
+        .tabela-imagens img {
+            height: 300px; /* Defina a altura desejada */
+            width: auto; /*Define a largura como automática */
+            object-fit: contain; /* Ajusta a imagem para caber no contêiner mantendo a proporção */
+            display: block;
+            margin: auto;
+        }
+        .tabela-imagens td {
+            text-align: center; /* Centraliza as imagens dentro da célula */
+        }
+    </style>
+</head>
+<body>
         body {
             font-family: Arial, sans-serif;
         }
@@ -37,6 +50,7 @@
             width: auto;
         }
     </style>
+
 </head>
 <body>
 <div class="navbar">
