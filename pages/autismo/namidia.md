@@ -51,8 +51,6 @@
         }
     </style>
 
-</head>
-<body>
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
@@ -77,17 +75,17 @@
     <tr>
         <td>
             <a href="pages/pesquisa/pesquisa_edu.html">
-                <img src="https://itxesco.github.io/assets/figuras/autismo/rain_man.jpg" alt="cartaz do filme rain man" title="Rain Man"/>
+                <img src="https://itxesco.github.io/assets/figuras/autismo/rain_man_capa.jpg" alt="cartaz do filme rain man" title="Rain Man"/>
             </a>
         </td>
         <td>
             <a href="pages/pesquisa/pesquisa_hq.html">
-                <img src="https://itxesco.github.io/assets/figuras/autismo/Community_S1_DVD.jpg" alt="historias em quadrinhos" title="Community"/>
+                <img src="https://itxesco.github.io/assets/figuras/autismo/Community_S1_DVD_capa.jpg" alt="historias em quadrinhos" title="Community"/>
             </a>
         </td>
         <td>
             <a href="pages/ensino/ensino.html">
-                <img src="https://itxesco.github.io/assets/figuras/autismo/parenthood_.jpg" alt="cartaz da série Parenthood" title="parenthood"/>
+                <img src="https://itxesco.github.io/assets/figuras/autismo/parenthood_capa.jpg" alt="cartaz da série Parenthood" title="parenthood"/>
             </a>
         </td>
     </tr>
@@ -99,7 +97,7 @@
         </td>
         <td>
             <a href="pages/autismo/autismo.html">
-                <img src="https://itxesco.github.io/assets/figuras/autismo/Black_Manta.png" alt="Black Manta" title="Arraia Negra"/>
+                <img src="https://itxesco.github.io/assets/figuras/autismo/Black_Manta_capa.png" alt="Black Manta" title="Arraia Negra"/>
             </a>
         </td>
         <td>
