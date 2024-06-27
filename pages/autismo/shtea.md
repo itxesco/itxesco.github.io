@@ -193,5 +193,42 @@ Mark Shiffron, o carteiro protagonista de Postal de Matt Hawkins , é o personag
 <p>
 O fato é que Mark é o personagem pelo qual o leitor médio mais simpatizará. Os primeiros capítulos podem ser um pouco pesados ​​em explicações básicas sobre Asperger, mas está claro que os escritores entenderam, e Mark rapidamente se desenvolve além de "101 de <del>Asperger</del>" em um personagem complexo e atraente, confrontado com algumas escolhas difíceis.
 <p>
-
+<p>
+<h2> Algumas teorias minhas...</h2>
+<p>
+<p>
+1. O Rei do Crime (The Kingpin, Marvel Comics)
+<p>
+<img src="https://itxesco.github.io/assets/figuras/autismo/kingpin.jpg" alt="personagem rei do crime na serie do demolidor" class="centered-img">
+<p>
+É assim que você escreve um vilão deficiente sem ser ofensivo no nível do Arraia Negra. Embora seja discutível quanto do comportamento de Wilson Fisk se deve a traumas de infância versus qualquer coisa parecida com autismo, sintomas como dificuldade de contato visual, preferência por rotina precisa e padrões de fala afetados levaram os críticos a interpretá-lo como um personagem autista.
+<p>
+O ator Vincent D'Onofrio sabe o que está fazendo ao retratar o personagem dessa maneira; ele tem uma família diferente e se perguntou publicamente se seria diagnosticado como tal se crescesse hoje. Ao contrário da frequência com que problemas de saúde mental são usados ​​​​como bode expiatório para a vilania, as tendências de aparência autista de Fisk não têm nada a ver com seus planos malignos e, em vez disso, ajudam a humanizá-lo. Com toda a sua estranheza, ele pode ser o vilão mais charmoso do MCU.
+<p>
+<p>
+2. Drax e Mantis (guardiões da galaxia, MCU)
+<p>
+<img src="https://itxesco.github.io/assets/figuras/autismo/drax_mantis.jpg" alt="drax e mantis" class="centered-img">
+<p>
+Drax, que interpreta as metáforas literalmente e sempre diz o que pensa, independentemente de ser socialmente apropriado, tornou-se um favorito entre os espectadores autistas após o lançamento do primeiro filme dos Guardiões da Galáxia . Quer essa interpretação fosse ou não a intenção original de James Gunn ao fazer o primeiro filme, ele certamente percebeu como o personagem estava ressoando, e em Guardiões da Galáxia 2 a ressonância parece ainda mais intencional.
+<p>
+Além de sua literalidade e honestidade brutal, Drax também demonstra sensibilidade sensorial no filme (“Meus mamilos!”). O novo personagem Mantis também parece ter sido escrito com tons do espectro; embora possa sentir intensamente as emoções das outras pessoas, ela tem dificuldade em compreendê-las e tem dificuldade com os fundamentos da interação social.
+<p>
+<p>
+3. L
+<p>
+<img src="https://itxesco.github.io/assets/figuras/autismo/L_2.jpg" alt="L do manga Death Note" class="centered-img">
+<p>
+O “superdetetive levemente autista” é comum o suficiente para ser um clichê ( a comunidade zombou da prevalência do arquétipo), mas pode ser bem feito. L da série de mangá Death Note de Tsugumi Ohba e suas subsequentes adaptações para cinema e anime é um dos melhores exemplos do tropo. O detetive anti-social, mal-educado, viciado em doces e com aparência de “louco” está firmemente do lado da retidão. Enquanto isso, Light Yagami, popular, tradicionalmente bonito, bom em esportes e tira boas notas, é secretamente o maior serial killer do mundo.
+<p>
+Tudo isto envia uma mensagem forte de que a capacidade de uma pessoa se conformar às normas sociais não é de forma alguma um reflexo da qualidade do seu carácter. Será interessante ver como a interpretação do personagem por LaKeith Stanfield no filme americanizado da Netflix, lançado em 25 de agosto de 2017, se compara aos quadrinhos originais e às adaptações anteriores.
+<p>
+<p>
+4. Peter Parker, o Homem-Aranha (Marvel Comics)
+<p>
+<img src="https://itxesco.github.io/assets/figuras/autismo/spiderman.jpg" alt="peter parker o homem-aranha" class="centered-img">
+<p>
+Eu defenderia Peter Parker. Ele tem grande dificuldade em ler situações sociais (especialmente perceber os sinais sociais de que alguém quer que ele pare de falar), fixa-se nas coisas a tal ponto que sua vida sofre, tem problemas em ficar superestimulado, luta para manter relacionamentos interpessoais por não valorizar seus sentimentos acima de seus próprios desejos pessoais, e rotineiramente tem sua confiança abusada por figuras de autoridade e modelos em quem ele acredita poder confiar.
+<p>
+<p>
 </html>
