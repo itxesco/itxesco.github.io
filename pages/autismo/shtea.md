@@ -114,129 +114,84 @@
 <li><a href="#quadrinhos">5. Super-heróis Autistas</a></li>
 <p>
 <p>
-A mídia tem um efeito sutil, porém poderoso, em nossas vidas. Tudo o que fazemos, pensamos e sentimos é influenciado pelas histórias contadas pelos meios de comunicação. O autismo é relativamente novo no olhar público, então as histórias que ouvimos têm um impacto ainda maior no que pensamos.
-<p>
-No decorrer da infância, desenvolvi grande parte da minha interpretação do mundo a partir da televisão, filmes e livros que li. Mas durante muitos anos, a única representação que tive do autismo era  o filme <i>Rain Man</i>.
-<p>
-Embora muitas pessoas critiquem rapidamente <i>Rain Man</i>, ele surgiu em um momento em que muito poucas pessoas sequer tinham ouvido o termo autismo, e ainda menos sabiam o que era. O filme trouxe o autismo para o <i>mainstream </i> e acho que subestimamos o quão importante foi para tantas pessoas finalmente terem algo com que pudessem se identificar na mídia (especialmente pais que estavam cansados de explicar a todos que encontravam em público). Muito mudou desde então e vimos mais representação, tanto boa quanto ruim.
-<p>
-Certamente estamos em um lugar melhor em 2024 do que estávamos nos anos 1980. Programas como <b>The Bridge </b>e <b>The Good Doctor</b> mostram personagens autistas como mais do que apenas um estereótipo e seus protagonistas autistas até mesmo têm empregos que o público pode invejar.
-<p>
-O seriado <b>Atypical</b> gira em torno de uma família criando um adolescente no espectro. Até onde acompanhei, o programa  retrata bem a vida do personagem autista que eventualmente arranja uma namorada. Li  muitas críticas ruins à primeira temporada, que gostei bastante. Os <i>showrunners</i> fizeram um esforço para mudar as coisas a partir  da segunda temporada, que apresenta atores autistas interpretando personagens autistas.<br>
-Achei isso um toque carinhoso, que se parece muito com o cuidado que tiveram na contratação de toda a equipe de "Pantera Negra".
-<p>
- Dito isso, espero ver mais programas sensíveis às  nossas realidades, mesmo que sejam comédias, desde que o riso seja com o autismo e não dele, como na maior parte das piadas de <i> The Big Bang Theory</i>.
-<p>
-Histórias negativas que prejudicam as pessoas no espectro não se limitam a séries de TV e filmes. Alguns dos piores infratores são organizações de notícias, que relacionam o autismo a estereótipos que não condizem com a realidade. Por exemplo, relacionando a não-comunicação verbal com retardo mental. Isso confunde o público, fazendo-os acreditar em algo que não está relacionado com a verdade.
-<p>
-Não sei se isso está melhorando gradualmente com o tempo. Por um lado, as series tem se tornado mais humanas e realistas, por outro,  toda vez que algo negativo é divulgado na mídia, as pessoas que batalham pela desmistificação do TEA são sobrecarregadas.
-<p>
-Mal posso esperar pelo dia em que não precisaremos nos manifestar contra representações negativas, mas é importante entender que as coisas não mudarão da noite para o dia e que a paciência e a compreensão são fundamentais para convencer as pessoas neurotípicas a ouvirem nossas histórias. As pessoas autistas têm a responsabilidade de advogar de forma respeitosa? Sim, mas é preciso lembrar que cada autista é um autista e nem toda pessoa autista é capaz sequer de se comunicar verbalmente.
-<p>
-É preciso entender também a situação das famílias atípicas, que também têm suas histórias para contar e que precisam ser ouvidas. Se todos pudermos trabalhar mais em nos ouvir mutuamente, acredito que o mundo será um lugar melhor e o cenário midiático será mais inclusivo.<br>
-Eu detesto a palavra <i> inclusão</i>, mas isso é assunto para outro texto.
-<p>
-<p>
-  <a href="#top">topo</a></p>
-<p>
-<p>
-<h2 id="inicio">toda história tem um começo</h2>
-<p>
-
-    <p>
-Para o que nos interessa, a história começa em um café com uma colega de trabalho em um domingo de sol, na orla norte de Porto Seguro. Marcamos em uma lanchonete perto de casa e eu, distraidamente, coloquei minhas coisas (celular, chave do carro, carteira) sobre a mesa. Acontece que eu havia inserido uma fita de girassóis no chaveiro com as chaves do carro e me não prestei atenção ao fato. Até o momento, vivia há anos com o diagnóstico na gaveta  e há meses com o laudo no bolso, em segredo. Tudo o que importa para esta história é que  em determinado ponto da conversa, ela apontou para o meu chaveiro e perguntou: você é autista?</p>
-
-    <p>
-Eu não sabia como responder, nem o que esperar, mas a reação dela me surpreendeu. Aprendi, desde então, que as pessoas geralmente  são sinceras sobre suas expectativas em relação ao autismo.</p>
-
-    <p>
-"É tão estranho que vocês sintam a necessidade de esconder essa parte de todo o mundo," ela disse. A conversa fluiu, ela entendeu meu pedido para guardar segredo no trabalho por enquanto e quando voltei para casa, me peguei pensando em como seria a reação das pessoas quando eu decidisse tirar a máscara de Neurotípico. Entrei online para saber as histórias de quem passou por isso e encontrei a seguinte frase:<br>
-       "O autismo meio que está na moda agora."</p>
-<p>
-É aqui que este texto começa. Com uma pausa, procurando uma maneira melhor de dizer isso, porque aquela frase me chocou e eu demorei tentando entender a ideia de como alguém pode ser capaz de dizer que uma condição neurológica possa estar na moda. Veio um estalo e me toquei que uma das razões pode estar em como o TEA é mostrado como algo "fofo" pela cultura pop.
-<p>
-Mas até ai, vamos lembrar que eu pesquiso representação de minorias e sua relação com a ciência na cultura pop, então pode ser que seja somente meu cérebro tentando traduzir o assunto para o meu campo de conhecimento. Eu não tinha certeza de como reagir a isso. Ainda agora essa ideia flutua em minha mente e ainda tenho sentimentos mistos.<br>
-Me incomoda que as pessoas possam diminuir as lutas das famílias e das pessoas com  distúrbio do neurodesenvolvimento, considerando-o uma "moda". É ridiculo, mas eu imagino pessoas correndo para <i>psicólogos de grife</i> para obter seu <i>diagnóstico de grife</i>. É claro, gosto de estar na moda: vestia calças xadrez na adolescência em 1992, por exemplo. O simples fato é que eu, enquanto professor, acredito que é preciso lutar contra a forma como o público percebe este distúrbio e como ele é retratado na cultura pop, porque isso influencia profundamente a reação dos neurotípicos em relação a pessoas neuroatípicas , quer saibam nossas identidades ou não.<br>
-Até porquê quem conhece uma pessoa autista, conhece somente uma pessoa autista. Existe ela, com todas as suas características e nuances pessoais e existe eu, com todas as minhas nuances e características pessoais, e existe a ideia flutuante do que é o autismo e como ele se parece, e os três parecem impossíveis de separar.</p>
-    <p>
-O autismo e cultura pop têm tido uma relação complicada por um longo tempo. Em 1988, o filme <i>Rain Man</i> introduziu o TEA ao público em geral. Após seu lançamento, os diagnósticos nos Estados Unidos dispararam, assim como a presença de personagens autistas nos filmes, séries e histórias em quadrinhos.
-<p>
-  <img src="https://itxesco.github.io/assets/figuras/autismo/rain_man.jpg" alt="cartaz do filme Rain Man" class="centered-img">
-<p>
-Nos anos 1980, assisti apenas a dois filmes estrelando personagens autistas e na década seguinte, assisti a treze. Isso é importante pelo ponto de vista quantitativo, mas é preciso apontar que nessas quanto mais antigo o ano de produção do filme ou publicação do livro, menos autistas os personagens parecem ser; alguns carregam o rótulo de 'autista', mas com muito poucos sintomas, onde os personagens são afligidos por algum distúrbio mental genérico, que ao ser rotulado como autismo  parece vender mais ingressos.</p>
-<p>
- <a href="#top">topo</a></p>
- <p>
- <p>
-<h2 id="rain_man">Rain Man e Além</h2>
-<p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PrDY8CcRu3g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<p>
-<i>Rain Man</i>, no entanto, foi nuançado. Eu sempre apreciei a história,  em um nível pessoal, o que não necessariamente foi algo bom. O filme conta uma história ambientada em uma época em que a maneira comum de lidar com uma pessoa diagnosticada era enviá-la para ser internada em uma instituição. O filme mostra a instituição como um lugar acolhedor, seguro e confortável para o personagem Ray, mas na vida real esses lugares muitas vezes eram mal administrados e mantidos em  condições péssimas. <br>
-Um Ray da vida real possivelmente teria tido sua deficiência intensificada por ser colocado para viver em um lugar assim. Muitas crianças autistas nascidas nessa época cresceram com deficiências mentais severas porque pouco de sua natureza foi compreendida.
-<p>
-Durante toda a infância, o fantasma da internação me assombrou. Era imperativo mascarar minha condição, não deixar que ninguém percebesse nenhum dos meus sintomas, para não correr o risco de ser internado. Por sorte, eram os anos 1980 e minha família era pobre, o que fazia com que eu passasse a maior parte do dia afastado dos adultos, o que facilitou muito meu processo de mascaramento.
-<p>
- De volta ao filme, Dustin Hoffman mostrou imenso respeito em sua performance, pintando um personagem multifacetado de forma humana. Eu já o admirava desde que assisti a <i>Tootsie</i>, mas sua performance em <i>Rain Man</i> foi excepcional. Devido ao seu lugar no espectro,  seu personagem, Ray, é frequentemente mostrado como um incômodo para a história, ou pior, como um veículo para mover a trama adiante. <br>
- Não quero criticar <i>Rain Man</i>, que considero ter sido um grande primeiro passo para apresentar o autismo ao grande público, mas é que ele foi apenas isso: um primeiro passo.</p>
- <p>
-  <a href="#top">topo</a></p>
-  <p>
-  <p><h2 id="parenthood">Parenthood</h2>
-<p>
-Hoje, personagens autistas parecem estar sendo melhor representados. Muitas obras de ficção apresentam personagens, principais e secundários, no espectro. Sua presença na televisão, no cinema, nos quadrinhos e na literatura não chega a manter o TEA em evidência, mas nos lembra de sua existência e relevância para a vida daqueles não afetados. Devo dizer que, embora meu primeiro foco para este desabafo esteja  em personagens de cinema e televisão, minha análise principal será sobre as histórias em quadrinhos. Vale ressaltar que as horas de narrativa em uma série de tv com 10 episódios oferecem a oportunidade de pintar imagens mais complexas das personagens, e porque somos uma sociedade que tem uma televisão em cada casa, no mínimo, e faz uso de outras telas para assistir a seus programas.
-<p>
-De muitas maneiras, quando assistimos a esses programas,  recebemos seus personagens em nossas casas e passamos a  <i>viver</i> com eles.</p>
-
-    <p>
-Alguns desses personagens são notáveis. Em <a href="https://www.primevideo.com/-/pt/detail/Parenthood/0Q7I1WN6ZZ1GRI5ZS2JN20OXT8">Parenthood</a>, o jovem Max Braverman é diagnosticado no primeiro episódio.
-<p>
-<img src="https://itxesco.github.io/assets/figuras/autismo/parenthood_.jpg" alt="cartaz da série Parenthood" class="centered-img">
-<p>
-O programa não é necessariamente sobre Max, mesmo quando conta uma das suas histórias, mas é dado um tratamento tão honesto e justo ao personagem quanto possível. Max parece ser uma pessoa real. Sua história espelha tanto algumas de minhas próprias experiências com o diagnóstico que às vezes é um pouco doloroso assistir, e eu acabei não acompanhando a série.
-<p>
-Soube recentemente que o criador do programa, Jason Katims, o escreveu a partir de sua própria vida: ele teve seu filho diagnosticado com <del>Asperger</del> (nomenclatura que atualmente não existe mais, tendo sido incorporado ao TEA), e a perspectiva do programa do pai observando o autismo de longe é clara. Katims trabalhou muito para criar um personagem autista realista e contou com a ajuda de um psicólogo comportamental para esse processo.
-<p>
-Em decorrência, as histórias de Max giram em torno de seu autismo e suas lutas para se conectar com seus colegas. Quando ele finalmente faz amigos, eles também lutam com suas próprias deficiências. Por mais real que ele pareça, ainda é impossível colorir Max como uma pessoa completamente real, porque sua identidade está totalmente envolvida com o TEA. <p>
-Me lembrou nosso grupo de pessoas estranhas na graduação do IFUSP, que chamamos de "Tensores". Nos dávamos bem naquela época, mas com o tempo cada pessoa do grupo foi descobrindo uma ou outra neurodivergência, o que explica muita coisa.
-<p>
-De volta a <i>Parenthood</i>, nada parece acontecer com Max em que o <del>Asperger</del> não esteja no centro da história. Embora eu queira criticar o programa por adotar uma abordagem um tanto médica ao autismo do personagem, em vez de um ângulo experiencial ou pessoal, não me sinto a vontade. Aos quase 50 anos de idade, assistir ao pai de Max lutando para se conectar com seu filho indisciplinado durante uma aventura em um parque temático me faz pensar em meu próprio relacionamento com meus pais, tios e avós. O quanto eu dei trabalho crescendo. Max me parece ser real e sincero, e em uma era em que todos ainda estão descobrindo como lidar com suas questões, isso é o suficiente.</p>
-<p>
- <a href="#top">topo</a></p>
- <p>
- <p>
-<h2 id="comunity">Seis temporadas e um filme</h2>
-<p>
-Outro ponto de narrativa que preciso mencionar é o personagem de Abed em <i>Community</i>. Enquanto o personagem luta com convenções sociais, ele também é, como outro personagem o coloca, um xamã. Sua alta inteligência não é retratada como se ele fosse um <i>savant</i>, mas simplesmente um cara inteligente. Ele é autoconsciente, consciente da câmera, consciente da maneira como o mundo do programa funciona, de uma forma que nenhum dos outros personagens é. Mais importante para mim, ele tem um grupo de amigos forte, unido e solidário. A maior adversidade que Abed enfrenta vem da forma como o mundo reage às suas peculiaridades.
-<p>
-<img src="https://itxesco.github.io/assets/figuras/autismo/Community_S1_DVD.jpg" alt="cartaz da série Comunity" class="centered-img">
-<p>
-Em um episódio crucial, seus colegas descobrem que uma garota gosta dele e aproveitam a oportunidade, agindo como se fosse raro ou especial uma garota se interessar por alguém como ele. Eles tentam forçá-lo a sair de sua zona de conforto para falar com essa garota, enquanto fazem comentários que, sem saber, podem ser prejudiciais para alguém no espectro, como "Você pode nunca ter outra oportunidade [para uma vida normal] como esta!" Eles tentam treiná-lo, consertá-lo.<br>
-Durante todo o tempo, Abed vai junto com seus amigos, sem protestar ou expressar desconforto. A narrativa conclui com a realização de que Abed sabe o que está fazendo. Ele está ciente do charme sutil de sua esquisitice, e que realmente, ele apenas prefere que as garotas venham até ele. Eu não tinha visto um personagem autista retratado com tanta competência e humanidade desde Abed.</p>
-<p>
-Simultaneamente, temos narrativas de programas como <i>The Big Bang Theory</i>, que era uma febre nos meus tempos de graduação no <a href="https://https://portal.if.usp.br/ifusp/">IFUSP</a>, mas que abandonei por volta da sexta temporada. Recentemente, retomei e consegui assistir a todos os episódios que faltavam. Reconheço que é um programa querido e repleto de personagens , mas eu não consigo me identificar com isso. <br>
-Na faculdade, muitos colegas gostavam de imitar e se comparar  ao personagem mais típico, Sheldon. Eu me irritava com isso, e demorei muito para entender por quê. Não é que a representação de Sheldon seja injusta para o autismo - é uma paródia, ele é uma versão exagerada de uma pessoa real, interpretada para risos. E eu acredito firmemente que é aceitável rir com o autismo, mas não da pessoa autista.<br>
-O problema  aqui são seus pares. Em um programa onde os nerds costumam ser alvo de piadas (falando sério, tente assistir a um episódio de TBBT sem som, somente as legendas. Sem a trilha sonora de risadas, o show é cruel), Sheldon está no fundo do poço. Seus amigos não o suportam, mal conseguem lidar com ele. <br>
-Você pode sentir um desgosto palpável por suas palhaçadas em suas vozes, de modo sutil para não chamar a atenção dele. Isso traz de volta memórias de interações ruins que presenciei com pessoas neurotípicas menos compreensivas, que não se importam em rir dos sintomas de uma pessoa real.<br> Claro, é possível descartar TBBT como apenas um programa de televisão, mas o problema é que esse pedaço proeminente de mídia define uma cultura, define as expectativas das pessoas umas com as outras, e define como devemos e não devemos reagir entre nós.<br>
-De acordo com <i>The Big Bang Theory</i>, pessoas autistas são insuportáveis e intoleráveis, e devem ser tratadas com hostilidade e desprezo <i>sutis</i>.
-<p>
-<img src="https://itxesco.github.io/assets/figuras/autismo/tbbt_.jpeg" alt="cartaz da série the big bang theory" class="centered-img">
-<p>
-Há muitos exemplos de personagens autistas ruins por aí, muitos dos quais não sinto necessidade de listar. Eles sugerem imagens falsas e irrealistas do autismo, sugerem que as pessoas autistas são definidas por sua deficiência, e não o contrário.<br>
-São personagens que sugerem que as pessoas autistas só podem se conectar entre si e só podem encontrar amor com outras pessoas "estranhas", porque são muito estranhas para que qualquer outra pessoa se interesse por elas.<br>
-Personagens gritam e brigam uns com os outros quando alguém sugere que seu ente querido tem autismo, como se fosse uma acusação horrível.<br>
-O problema com a maioria das representações da mídia sobre o autismo não é que seja injustamente estereotipado, é que geralmente é muito simpático, em oposição a empático, e através disso alimenta os tropos problemáticos e as ansiedades da sociedade sobre o autismo: "o personagem autista está tentando, veja o quanto ele está tentando" ou "o personagem autista quer se encaixar, mas não pode e nunca vai conseguir por causa do autismo. Você não se sente triste? Você não sente pena dele?".<br>
- Dessa perspectiva, a cultura pop é compassiva e solidária, mas nos diminui, nos faz parecer fracos e necessitados de caridade.
-<p>
-Não estamos à mercê de nosso rótulo, assim não é como o mundo precisa olhar para o autismo. O rótulo é definido por aqueles que vivem sob ele, e não o contrário. Todos os personagens, não apenas aqueles com autismo, precisam ser retratados com empatia, não com simpatia. <br>
-Personagens autistas precisam ser mostrados fora da luz de seu transtorno, de uma maneira tão complicada e matizada quanto os personagens neurotípicos são escritos. Não se deve consultar médicos e especialistas  no transtorno para entender essas pessoas, os autores devem consultar as pessoas reais que vivem com o diagnóstico. É assim que a audiência irá amar um personagem. É assim que o enredo  os torna  pessoas reais.
-<p>
-Se você quer ver essa mudança, e está envolvido com o mundo criativo, fica facil: se você escreve, escreva personagens autistas como gostaria que fossem retratados. Se você atua, preencha papéis autistas, da mesma forma que Hollywood deveria escalar atores paquistaneses para papéis paquistaneses e papéis trans para pessoas trans.<br>
-Simplificando, represente sua gente. Já temos ótimos exemplos disso, embora, em minha própria experiência, esses tenham sido casos minoritários. Mas eles existem.
- </p>
- <p>
-  <a href="#top">topo</a></p>
   <p>
   <h2 id="quadrinhos">Super-heróis Autistas</h2>
   <p>
+  A representação de personagens oficialmente diagnosticados em quadrinhos de super-heróis é mínima, e a situação não é muito melhor nos quadrinhos independentes. Existem, no entanto, muitos personagens que, embora não sejam oficialmente diagnosticados, apresentam características de autismo e que os fãs autistas têm adotado amplamente. Aqui está uma lista de 11 personagens canonicamente autistas de quadrinhos e mídia de super-heróis, seguida por cinco teorias minhas.
+  <p>
+  1. O Arraia-Negra (DC Comics)
+  <p>
+  <img src="https://itxesco.github.io/assets/figuras/autismo/arraia_negra.jpg" alt="arraia negra personagem da dc comics" class="centered-img">
+  <p>
+  O inimigo de Aquaman, Black Manta, está no final da lista porque, francamente, ele é simplesmente constrangedor em termos de representação autista. A edição nº 8 da série de quadrinhos Aquaman de 2003 o reconfigura como um órfão autista criado em Arkham, que de alguma forma está "curado" de seu autismo e então se torna um supervilão. O autismo não é algo que pode ser curado, e as pessoas nem deveriam achar isso!
+<p>
+O autismo geralmente vem com dons e diferenças inofensivas, bem como deficiências, e os sintomas mais incapacitantes podem ser tratados individualmente. Ainda assim, quaisquer que sejam os seus pensamentos sobre a questão da cura, usá-la como uma desculpa barata e ousada para o mal é de mau gosto. Agora, qual história de origem do Arraia Negra é mais de mau gosto: a do autismo de 2003 ou a do abuso sexual infantil de 1993?
+<p>
+<p>
+2. Legião (Marvel Comics)
+<p>
+<img src="https://itxesco.github.io/assets/figuras/autismo/legion.jpg" alt="legião personagem da marvel comics" class="centered-img">
+<p>
+Legião é um personagem que tem recebido muita atenção recentemente graças ao seu excelente show no FX. O que ele não é é uma representação clara do autismo. Em sua primeira aparição em Novos Mutantes #25, Moira MacTaggert o descreveu como “primeiro catatônico, agora autista”. Ele também foi descrito várias vezes como esquizofrênico. Ambas as descrições fazem parecer que houve alguma ignorância séria sobre questões de saúde mental na Marvel.
+<p>
+O que Legião realmente tem é o Transtorno Dissociativo de Identidade (múltiplas personalidades). É possível que o TDI se sobreponha ao autismo (Elliot, de Mr. Robot, é um exemplo de personagem que parece ter os dois), mas simplesmente não há evidências reais de que o autismo de Legião seja outra coisa senão um diagnóstico incorreto de escritores ignorantes.
+<p>
+<p>
+3. Um Punhado de X-men
+<p>
+Eles poderiam ocupar mais espaço na lista, mas simplesmente não há muito o que escrever sobre a maioria desses personagens. Alguns são melhores que outros, mas são todos muito menores. Há Laura Dean, que foi escrita como tendo sido autista quando criança, mas depois superando isso (não é assim que o autismo funciona); há L'il Bro, cujos sintomas graves de autismo são insinuados como sendo causados ​​por abuso sexual (também não é assim que o autismo funciona); há o Caos que na verdade é um enxame de nanomáquinas (...OK, então); e depois há o boneco de nome infelizmente que é uma nuvem de gás senciente e morre após quatro aparições (... os quadrinhos são estranhos). Um pouco mais significativa do que essas quatro é Claudette St. Croix, que foi vista principalmente fundida com sua gêmea neurotípica Nicole em um único corpo. Ela não foi vista de nenhuma forma desde o início do novo milênio.
+<p>
+<p>
+4. Jhonny Do
+<p>
+<img src="https://itxesco.github.io/assets/figuras/autismo/jhonnydo.jpg" alt="Jhonny Do personagem da marvel comics" class="centered-img">
+<p>
+Johnny Do era uma criança pirocinética gravemente autista nos quadrinhos Psi-Force , uma das oito séries da curta linha "Novo Universo" da Marvel (Terra-148611) que durou de 1986 a 1989. Johnny foi terrivelmente maltratado como prisioneiro do Projeto Siberiano Russo, tratado como um animal e ameaçado de lobotomia. Outro preso, o vampiro psíquico Thomas Boyd, saiu do Projeto e o resgatou, mais ou menos adotando-o como seu.
+
+Embora ainda não-verbal e gravemente incapacitado, Johnny começou a prosperar e a se abrir sob a proteção amorosa de Boyd, trabalhando ao lado dele como parte da organização de operações secretas Medusa Web. Talvez o tivéssemos visto crescer e se desenvolver ainda mais se o “Novo Universo” não tivesse sido um fracasso colossal, destruído rapidamente após ter sido introduzido.
+<p>
+<p>
+5. Rosa Reyes
+<p>
+<img src="https://itxesco.github.io/assets/figuras/autismo/rosareyes.jpg" alt="personagem de quadrinhos Rosa Reyes" class="centered-img">
+<p>
+Rosa Reyes, apresentada na edição nº 5 da história em quadrinhos de Simon Oliver FBP: The Federal Bureau of Physics (anteriormente intitulada Collider ), é uma agente especial durona que investiga anormalidades quânticas em um mundo onde violações das leis da física se tornaram comuns . Ela é boa em seu trabalho, movida pelo desejo de entender os mistérios que separaram sua família, mas não tem talento para coisas como conversa fiada e foi jogada entre departamentos por causa de suas fracas habilidades sociais.
+
+Ela inicialmente não se dava bem com seu parceiro Adam Hardy, que faz piadas de "Rain Man" e outros comentários capazes sobre sua síndrome de Asperger, mas os dois têm que trabalhar juntos e aprender a respeitar um ao outro ao longo dos 24 anos. série de questões.
+<p>
+<p>
+6. Power Ranger Azul (versão do filme de 2017)
+<p>
+<img src="https://itxesco.github.io/assets/figuras/autismo/blueranger.jpg" alt="power ranger azul do filme de 2017" class="centered-img">
+<p>
+O último filme dos Power Rangers causou divisão, mas uma coisa em que fãs e críticos geralmente concordam é a representação de Billy Cranston, o novo Blue Ranger, como sendo abertamente autista. Foi de longe um dos seus pontos fortes. Ele é notável como o primeiro super-herói autista a ser reconhecido diretamente como tal na tela grande. Ele também é um raro exemplo de pessoa negra autista representada na mídia.
+
+As pessoas de cor autistas frequentemente não são diagnosticadas e não recebem o mesmo nível de serviços que as pessoas autistas brancas, por isso a representação na mídia é extremamente importante. Dos exemplos oficialmente confirmados nesta lista, Billy é provavelmente o de maior destaque. Bom, exceto o próximo, que você talvez não saiba que é autista, mas com certeza já ouviu falar dele.
+<p>
+<p>
+7. Reed Richards, o Sr. Fantástico (Marvel Comics)
+<p>
+<img src="https://itxesco.github.io/assets/figuras/autismo/reed_autista.jpg" alt="reed richards afirmando ser autista" class="centered-img">
+<p>
+o que antes era objeto de especulação agora é oficialmente canônico. A partir da história em quadrinhos da primeira temporada do Quarteto Fantástico de 2012 , de Roberto Aguirre-Sacasa, Reed Richards se diagnosticou com autismo, embora também esteja desenvolvendo uma cura para isso. Podemos falar sobre como esta representação é problemática, como parece improvável que uma pessoa autista tão bem sucedida na vida como Reed consideraria curar-se (tenha em mente que uma cura para algo que afecta todo o seu cérebro basicamente o reescreveria numa pessoa completamente diferente) , ou sobre as controvérsias sobre o autodiagnóstico (muito para abordar aqui). Mas apesar de tudo isso, o simples fato do fundador do Quarteto Fantástico ser autista é legal o suficiente para colocá-lo no topo da lista.
+<p>
+<p>
+8. Emma
+<p>
+<img src="https://itxesco.github.io/assets/figuras/autismo/emma.jpg" alt="personagem emma" class="centered-img">
+<p>
+Indo da personagem mais famosa para a mais obscura desta lista, Emma é uma garota mágica autista não-verbal cujo monólogo interno fornece a narração em Jade Street Protection Services de Fabian Lelay e Katy Rex . Ao longo da série, ela busca independência, luta contra a ansiedade, faz novos amigos (ela se comunica com eles por meio de mensagens de texto) e arrasa como atiradora.
+<p>
+Rex fez questão de fazer sua pesquisa para retratar Emma de maneira confiável, contando com o feedback de sua editora Magdalene Visaggio, criadora de Kim & Kim , que também é autista. Com apenas quatro edições, JSPS parece um pouco apressado, mas também parece um começo potencialmente promissor para uma nova equipe de super-heroínas que esperamos ver mais no futuro (a coleção de brochuras comerciais foi lançada em janeiro de 2018)
+<p>
+<p>
+9. MARK SHIFFRON
+<p>
+<img src="https://itxesco.github.io/assets/figuras/autismo/mark.jpg" alt="personagem emma" class="centered-img">
+<p>
+Mark Shiffron, o carteiro protagonista de Postal de Matt Hawkins , é o personagem menos "super" desta lista. O que há de tão especial nele no que diz respeito aos personagens da Síndrome de Asperger é que a escrita o trata como normal . Sim, ele tem excentricidades, como qualquer pessoa desse espectro. Mas como o único cidadão da cidade de Éden que não é condenado, essas excentricidades são bastante insignificantes em comparação com a estranheza dos mistérios que o rodeiam.
+<p>
+O fato é que Mark é o personagem pelo qual o leitor médio mais simpatizará. Os primeiros capítulos podem ser um pouco pesados ​​em explicações básicas sobre Asperger, mas está claro que os escritores entenderam, e Mark rapidamente se desenvolve além de "101 de <del>Asperger</del>" em um personagem complexo e atraente, confrontado com algumas escolhas difíceis.
+<p>
+
 </html>
