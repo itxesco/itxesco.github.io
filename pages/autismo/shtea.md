@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -65,15 +66,14 @@
 <p>
 <p>
 <p>
-<p>
 <h2>Autismo e Cultura Pop</h2>
 <p>
 <p>
 <table class="tabela-imagens">
     <tr>
         <td>
-            <a href="https://itxesco.github.io/pages/autismo/shtea.md.html">
-                <img src="https://itxesco.github.io/assets/figuras/autismo/richards.jpg" alt="reed richards do quarteto fantástico" title="TEA nos quadrinhos"/>
+            <a href="pages/pesquisa/pesquisa_edu.html">
+                <img src="https://itxesco.github.io/assets/figuras/autismo/richards.jpg" alt="cartaz do filme rain man" title="Rain Man"/>
             </a>
         </td>
         <td>
@@ -95,7 +95,7 @@
         </td>
         <td>
             <a href="pages/autismo/autismo.html">
-                <img src="https://itxesco.github.io/assets/figuras/autismo/Black_Manta_capa.jpg" alt="Black Manta" title="Arraia Negra"/>
+                <img src="https://itxesco.github.io/assets/figuras/autismo/Black_Manta_capa.png" alt="Black Manta" title="Arraia Negra"/>
             </a>
         </td>
         <td>
