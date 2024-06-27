@@ -1,22 +1,13 @@
+Aqui está o código HTML corrigido:
+
+```html
+<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Menu de Navegação</title>
     <style>
-        .tabela-imagens img {
-            height: 300px; /* Defina a altura desejada */
-            width: auto; /*Define a largura como automática */
-            object-fit: contain; /* Ajusta a imagem para caber no contêiner mantendo a proporção */
-            display: block;
-            margin: auto;
-        }
-        .tabela-imagens td {
-            text-align: center; /* Centraliza as imagens dentro da célula */
-        }
-    </style>
-</head>
-<body>
         body {
             font-family: Arial, sans-serif;
         }
@@ -49,22 +40,36 @@
             height: 200px;
             width: auto;
         }
+        .tabela-imagens img {
+            height: 300px; /* Defina a altura desejada */
+            width: auto; /* Define a largura como automática */
+            object-fit: contain; /* Ajusta a imagem para caber no contêiner mantendo a proporção */
+            display: block;
+            margin: auto;
+        }
+        .tabela-imagens td {
+            text-align: center; /* Centraliza as imagens dentro da célula */
+        }
     </style>
+</head>
+<body>
+    <div class="menu">
+        <a href="/pages/autismo/autismo.html">O que é o TEA</a>
+        <a href="/pages/autismo/teadultos.html">Diagnóstico Tardio</a>
+        <a href="/pages/autismo/identificadao.html">Simbologia e Representação</a>
+        <a href="/pages/autismo/asperger.html"><del>Asperger</del></a>
+        <a href="/pages/autismo/direitos.html">Direitos e Documentação</a>
+        <a href="/pages/autismo/habilidades.html">Altas Habilidades e Superdotação</a>
+        <a href="/pages/autismo/mitos.html">Mitos</a>
+        <a href="/pages/autismo/namidia.html">TEA na Cultura Pop</a>
+    </div>
+    <div class="content">
+        <h1>Bem-vindo ao nosso site</h1>
+        <p>Este é um exemplo de página com um menu de navegação e conteúdo centralizado.</p>
+        <img src="caminho/para/sua/imagem.jpg" alt="Exemplo de Imagem" class="centered-img">
+    </div>
+</body>
 
-<div class="navbar">
-  <div class="navbar-inner">
-      <ul class="nav">
-      <li><a href= "/pages/autismo/autismo.html">O que é o TEA</a></li>
-      <li><a href= "/pages/autismo/teadultos.html">Diagnóstico Tardio</a></li>
-        <li><a href= "/pages/autismo/identificadao.html">simbologia e representaçao</a></li>
-        <li><a href= "/pages/autismo/asperger.html"> <del>Asperger</del></a></li>
-        <li><a href= "/pages/autismo/direitos.html">Direitos e Documentação</a></li>
-        <li><a href= "/pages/autismo/habilidades.html">Altas Habilidades e Superdotação</a></li>
-        <li><a href= "/pages/autismo/mitos.html">Mitos</a></li>
-          <li><a href= "/pages/autismo/namidia.html">TEA na cultura pop</a></li>
-      </ul>
-  </div>
-</div>
 <p>
 <p>
 <p>
@@ -241,3 +246,4 @@ Simplificando, represente sua gente. Já temos ótimos exemplos disso, embora, e
   <p>
   <h2 id="quadrinhos">Super-heróis Autistas</h2>
   <p>
+</html>
