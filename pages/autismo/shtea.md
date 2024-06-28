@@ -83,9 +83,9 @@
 <p>
   <p>
   <p>
-  A representação de personagens oficialmente diagnosticados em quadrinhos de super-heróis é mínima, e a situação não é muito melhor nos quadrinhos independentes. Existem, no entanto, muitos personagens que, embora não sejam oficialmente diagnosticados, apresentam características de autismo e que os fãs autistas têm adotado amplamente. Aqui está uma lista de 11 personagens canonicamente autistas de quadrinhos e mídia de super-heróis, seguida por cinco teorias minhas.
+  Aprendi a ler aos 6 anos de idade, com uma revista de historias em quadrinhos do Homem-Aranha que encontrei na cesta de jornais na sala da casa do meu avô. A partir dai, avancei sobre livros infanto-juvenis (o primeiro foi a adaptação de Moby Dick da editora Melhoramentos, que me rendeu um hiperfoco absurdo na história ate os dias de hoje) e, sobretudo, histórias em quadrinhos. Sem medo de errar, posso dizer que li todas as historias em quadrinhos de super-heróis publicadas no Brasil entre 1986 e 1999. Na virada do século XXI a situação mudou um pouco por causa da faculdade, mas mantive a leitura de muitos títulos (só não posso mais afirmar que li todos).<br> Posso então afirmar que a representação de personagens oficialmente diagnosticados com TEA nos quadrinhos de super-heróis <i>mainstream</i> é mínima, e a situação não é muito melhor nos quadrinhos da cena independente estadunidense. Existem, no entanto, muitos personagens que, embora não sejam oficialmente diagnosticados, apresentam características de autismo e que o fã autista pode se identificar com facilidade.<br> Aqui está uma lista de 09 personagens canonicamente autistas de quadrinhos de super-heróis, seguida por 04 teorias minhas.
   <p>
-  1. <h2 id="arraia">O Arraia-Negra (DC Comics)</h2>
+  1. <h4 id="arraia">O Arraia-Negra (DC Comics)</h4>
   <p>
   <img src="https://itxesco.github.io/assets/figuras/autismo/arraia_negra.jpg" alt="arraia negra personagem da dc comics" class="centered-img">
   <p>
@@ -94,7 +94,7 @@
 O autismo geralmente vem com dons e diferenças inofensivas, bem como deficiências, e os sintomas mais incapacitantes podem ser tratados individualmente. Ainda assim, quaisquer que sejam os seus pensamentos sobre a questão da cura, usá-la como uma desculpa barata e ousada para o mal é de mau gosto. Agora, qual história de origem do Arraia Negra é mais de mau gosto: a do autismo de 2003 ou a do abuso sexual infantil de 1993?
 <p>
 <p>
-2. <h2 id="legiao">Legião (Marvel Comics)</h2>
+2. <h4 id="legiao">Legião (Marvel Comics)</h4>
 <p>
 <img src="https://itxesco.github.io/assets/figuras/autismo/legion.jpg" alt="legião personagem da marvel comics" class="centered-img">
 <p>
@@ -103,12 +103,12 @@ Legião é um personagem que tem recebido muita atenção recentemente graças a
 O que Legião realmente tem é o Transtorno Dissociativo de Identidade (múltiplas personalidades). É possível que o TDI se sobreponha ao autismo (Elliot, de Mr. Robot, é um exemplo de personagem que parece ter os dois), mas simplesmente não há evidências reais de que o autismo de Legião seja outra coisa senão um diagnóstico incorreto de escritores ignorantes.
 <p>
 <p>
-3. <h2 id="x_men">Um Punhado de X-men (Marvel Comics)</h2>
+3. <h4 id="x_men">Um Punhado de X-men (Marvel Comics)</h4>
 <p>
 Eles poderiam ocupar mais espaço na lista, mas simplesmente não há muito o que escrever sobre a maioria desses personagens. Alguns são melhores que outros, mas são todos muito menores. Há Laura Dean, que foi escrita como tendo sido autista quando criança, mas depois superando isso (não é assim que o autismo funciona); há L'il Bro, cujos sintomas graves de autismo são insinuados como sendo causados ​​por abuso sexual (também não é assim que o autismo funciona); há o Caos que na verdade é um enxame de nanomáquinas (...OK, então); e depois há o boneco de nome infelizmente que é uma nuvem de gás senciente e morre após quatro aparições (... os quadrinhos são estranhos). Um pouco mais significativa do que essas quatro é Claudette St. Croix, que foi vista principalmente fundida com sua gêmea neurotípica Nicole em um único corpo. Ela não foi vista de nenhuma forma desde o início do novo milênio.
 <p>
 <p>
-4. <h2 id="johnny">Jhonny Do</h2>
+4. <h4 id="johnny">Jhonny Do</h4>
 <p>
 <img src="https://itxesco.github.io/assets/figuras/autismo/jhonnydo.jpg" alt="Jhonny Do personagem da marvel comics" class="centered-img">
 <p>
@@ -117,7 +117,7 @@ Johnny Do era uma criança pirocinética gravemente autista nos quadrinhos Psi-F
 Embora ainda não-verbal e gravemente incapacitado, Johnny começou a prosperar e a se abrir sob a proteção amorosa de Boyd, trabalhando ao lado dele como parte da organização de operações secretas Medusa Web. Talvez o tivéssemos visto crescer e se desenvolver ainda mais se o “Novo Universo” não tivesse sido um fracasso colossal, destruído rapidamente após ter sido introduzido.
 <p>
 <p>
-5. <h2 id="rosa">Rosa Reyes</h2>
+5. <h4 id="rosa">Rosa Reyes</h4>
 <p>
 <img src="https://itxesco.github.io/assets/figuras/autismo/rosareyes.jpg" alt="personagem de quadrinhos Rosa Reyes" class="centered-img">
 <p>
@@ -126,7 +126,7 @@ Rosa Reyes, apresentada na edição nº 5 da história em quadrinhos de Simon Ol
 Ela inicialmente não se dava bem com seu parceiro Adam Hardy, que faz piadas de "Rain Man" e outros comentários capazes sobre sua síndrome de Asperger, mas os dois têm que trabalhar juntos e aprender a respeitar um ao outro ao longo dos 24 anos. série de questões.
 <p>
 <p>
-6. <h2 id="power_ranger">Power Ranger Azul (versão do filme de 2017)</h2>
+6. <h4 id="power_ranger">Power Ranger Azul (versão do filme de 2017)</h4>
 <p>
 <img src="https://itxesco.github.io/assets/figuras/autismo/blueranger.jpg" alt="power ranger azul do filme de 2017" class="centered-img">
 <p>
@@ -135,14 +135,14 @@ O último filme dos Power Rangers causou divisão, mas uma coisa em que fãs e c
 As pessoas de cor autistas frequentemente não são diagnosticadas e não recebem o mesmo nível de serviços que as pessoas autistas brancas, por isso a representação na mídia é extremamente importante. Dos exemplos oficialmente confirmados nesta lista, Billy é provavelmente o de maior destaque. Bom, exceto o próximo, que você talvez não saiba que é autista, mas com certeza já ouviu falar dele.
 <p>
 <p>
-7. <h2 id="richards">Reed Richards, o Sr. Fantástico (Marvel Comics)</h2>
+7. <h4 id="richards">Reed Richards, o Sr. Fantástico (Marvel Comics)</h4>
 <p>
 <img src="https://itxesco.github.io/assets/figuras/autismo/reed_autista.jpg" alt="reed richards afirmando ser autista" class="centered-img">
 <p>
 o que antes era objeto de especulação agora é oficialmente canônico. A partir da história em quadrinhos da primeira temporada do Quarteto Fantástico de 2012 , de Roberto Aguirre-Sacasa, Reed Richards se diagnosticou com autismo, embora também esteja desenvolvendo uma cura para isso. Podemos falar sobre como esta representação é problemática, como parece improvável que uma pessoa autista tão bem sucedida na vida como Reed consideraria curar-se (tenha em mente que uma cura para algo que afecta todo o seu cérebro basicamente o reescreveria numa pessoa completamente diferente) , ou sobre as controvérsias sobre o autodiagnóstico (muito para abordar aqui). Mas apesar de tudo isso, o simples fato do fundador do Quarteto Fantástico ser autista é legal o suficiente para colocá-lo no topo da lista.
 <p>
 <p>
-8. <h2 id="emma">Emma</h2>
+8. <h4 id="emma">Emma</h4>
 <p>
 <img src="https://itxesco.github.io/assets/figuras/autismo/Emma.jpeg" alt="personagem emma" class="centered-img">
 <p>
@@ -151,7 +151,7 @@ Indo da personagem mais famosa para a mais obscura desta lista, Emma é uma garo
 Rex fez questão de fazer sua pesquisa para retratar Emma de maneira confiável, contando com o feedback de sua editora Magdalene Visaggio, criadora de Kim & Kim , que também é autista. Com apenas quatro edições, JSPS parece um pouco apressado, mas também parece um começo potencialmente promissor para uma nova equipe de super-heroínas que esperamos ver mais no futuro (a coleção de brochuras comerciais foi lançada em janeiro de 2018)
 <p>
 <p>
-9.<h2 id="mark">MARK SHIFFRON</h2>
+9.<h4 id="mark">MARK SHIFFRON</h4>
 <p>
 <img src="https://itxesco.github.io/assets/figuras/autismo/mark.jpg" alt="personagem emma" class="centered-img">
 <p>
@@ -163,7 +163,7 @@ O fato é que Mark é o personagem pelo qual o leitor médio mais simpatizará. 
 <h2 id="teorias">Algumas teorias minhas...</h2>
 <p>
 <p>
-1. <h2 id="kingpin">O Rei do Crime (The Kingpin, Marvel Comics)</h2>
+1. <h4 id="kingpin">O Rei do Crime (The Kingpin, Marvel Comics)</h4>
 <p>
 <img src="https://itxesco.github.io/assets/figuras/autismo/kingpin.jpg" alt="personagem rei do crime na serie do demolidor" class="centered-img">
 <p>
@@ -172,7 +172,7 @@ O fato é que Mark é o personagem pelo qual o leitor médio mais simpatizará. 
 O ator Vincent D'Onofrio sabe o que está fazendo ao retratar o personagem dessa maneira; ele tem uma família diferente e se perguntou publicamente se seria diagnosticado como tal se crescesse hoje. Ao contrário da frequência com que problemas de saúde mental são usados ​​​​como bode expiatório para a vilania, as tendências de aparência autista de Fisk não têm nada a ver com seus planos malignos e, em vez disso, ajudam a humanizá-lo. Com toda a sua estranheza, ele pode ser o vilão mais charmoso do MCU.
 <p>
 <p>
-2. <h2 id="drax_mantis">Drax e Mantis (guardiões da galaxia, MCU)</h2>
+2. <h4 id="drax_mantis">Drax e Mantis (guardiões da galaxia, MCU)</h4>
 <p>
 <img src="https://itxesco.github.io/assets/figuras/autismo/drax_mantis.jpg" alt="drax e mantis" class="centered-img">
 <p>
@@ -181,7 +181,7 @@ Drax, que interpreta as metáforas literalmente e sempre diz o que pensa, indepe
 Além de sua literalidade e honestidade brutal, Drax também demonstra sensibilidade sensorial no filme (“Meus mamilos!”). O novo personagem Mantis também parece ter sido escrito com tons do espectro; embora possa sentir intensamente as emoções das outras pessoas, ela tem dificuldade em compreendê-las e tem dificuldade com os fundamentos da interação social.
 <p>
 <p>
-3. <h2 id="L">L</h2>
+3. <h4 id="L">L</h4>
 <p>
 <img src="https://itxesco.github.io/assets/figuras/autismo/L_2.jpg" alt="L do manga Death Note" class="centered-img">
 <p>
@@ -190,7 +190,7 @@ O “superdetetive levemente autista” é comum o suficiente para ser um clich�
 Tudo isto envia uma mensagem forte de que a capacidade de uma pessoa se conformar às normas sociais não é de forma alguma um reflexo da qualidade do seu carácter. Será interessante ver como a interpretação do personagem por LaKeith Stanfield no filme americanizado da Netflix, lançado em 25 de agosto de 2017, se compara aos quadrinhos originais e às adaptações anteriores.
 <p>
 <p>
-4. <h2 id="miranha">Peter Parker, o Homem-Aranha (Marvel Comics)</h2>
+4. <h4 id="miranha">Peter Parker, o Homem-Aranha (Marvel Comics)</h4>
 <p>
 <img src="https://itxesco.github.io/assets/figuras/autismo/spiderman.jpg" alt="peter parker o homem-aranha" class="centered-img">
 <p>
