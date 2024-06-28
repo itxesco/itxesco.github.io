@@ -68,7 +68,6 @@
 <p>
 <h2>Autismo e Cultura Pop</h2>
 <p>
-<p>
 <table class="tabela-imagens">
     <tr>
         <td>
