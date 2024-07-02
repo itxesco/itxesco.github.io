@@ -68,6 +68,42 @@
 <p>
 <h2>Autismo e Cultura Pop</h2>
 <p>
+<table class="tabela-imagens">
+    <tr>
+        <td>
+            <a href="https://itxesco.github.io/pages/autismo/shtea.html">
+                <img src="https://itxesco.github.io/assets/figuras/autismo/richards.jpg" alt="reed richards do quarteto fantástico" title="TEA nos quadrinhos"/>
+            </a>
+        </td>
+        <td>
+            <li><a href="#comunity">
+                <img src="https://itxesco.github.io/assets/figuras/autismo/Community_S1_DVD_capa.jpg" alt="A série Community, da netflix" title="Community"/></li>
+            </a>
+        </td>
+        <td>
+            <li><a href="#parenthood">
+                <img src="https://itxesco.github.io/assets/figuras/autismo/parenthood_capa.jpg" alt="cartaz da série Parenthood" title="parenthood"/></li>
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <li><a href="#rain_man">
+                <img src="https://itxesco.github.io/assets/figuras/autismo/rain_man_capa.jpg" alt="o filme Rain Man" title="Rain Man e além"/></li>
+            </a>
+        </td>
+        <td>
+            <a href="https://itxesco.github.io/pages/autismo/shtea.html">
+                <img src="https://itxesco.github.io/assets/figuras/autismo/black_manta_capa.jpg" alt="Arraia-Negra ou Black Manta" title="Arraia Negra"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://itxesco.github.io/pages/autismo/shtea.html">
+                <img src="https://itxesco.github.io/assets/figuras/autismo/L_.jpg" alt="L da serie deathnote" title="faz o L"/>
+            </a>
+        </td>
+    </tr>
+</table>
 <p>
 <p>
 <li><a href="#inicio">1. Toda história tem um começo</a></li>
@@ -75,7 +111,6 @@
 <li><a href="#parenthood">3. Parenthood</a></li>
 <li><a href="#comunity">4. Comunity (seis temporadas e um filme!)</a></li>
 <a href="https://itxesco.github.io/pages/autismo/shtea.html">5. Super-heróis Autistas</a>
-<p>
 <p>
 <p>
 A mídia tem um efeito sutil, porém poderoso, em nossas vidas. Tudo o que fazemos, pensamos e sentimos é influenciado pelas histórias contadas pelos meios de comunicação. O autismo é relativamente novo no olhar público, então as histórias que ouvimos têm um impacto ainda maior no que pensamos.
@@ -125,7 +160,7 @@ Até porquê quem conhece uma pessoa autista, conhece somente uma pessoa autista
     <p>
 O autismo e cultura pop têm tido uma relação complicada por um longo tempo. Em 1988, o filme <i>Rain Man</i> introduziu o TEA ao público em geral. Após seu lançamento, os diagnósticos nos Estados Unidos dispararam, assim como a presença de personagens autistas nos filmes, séries e histórias em quadrinhos.
 <p>
-  <img src="https://itxesco.github.io/assets/figuras/autismo/rain_man_capa.jpg" alt="cartaz do filme Rain Man" class="centered-img">
+  <img src="https://itxesco.github.io/assets/figuras/autismo/rain_man.jpg" alt="cartaz do filme Rain Man" class="centered-img">
 <p>
 Nos anos 1980, assisti apenas a dois filmes estrelando personagens autistas e na década seguinte, assisti a treze. Isso é importante pelo ponto de vista quantitativo, mas é preciso apontar que nessas quanto mais antigo o ano de produção do filme ou publicação do livro, menos autistas os personagens parecem ser; alguns carregam o rótulo de 'autista', mas com muito poucos sintomas, onde os personagens são afligidos por algum distúrbio mental genérico, que ao ser rotulado como autismo  parece vender mais ingressos.</p>
 <p>
@@ -155,7 +190,7 @@ De muitas maneiras, quando assistimos a esses programas,  recebemos seus persona
     <p>
 Alguns desses personagens são notáveis. Em <a href="https://www.primevideo.com/-/pt/detail/Parenthood/0Q7I1WN6ZZ1GRI5ZS2JN20OXT8">Parenthood</a>, o jovem Max Braverman é diagnosticado no primeiro episódio.
 <p>
-<img src="https://itxesco.github.io/assets/figuras/autismo/parenthood_capa.jpg" alt="cartaz da série Parenthood" class="centered-img">
+<img src="https://itxesco.github.io/assets/figuras/autismo/parenthood_.jpg" alt="cartaz da série Parenthood" class="centered-img">
 <p>
 O programa não é necessariamente sobre Max, mesmo quando conta uma das suas histórias, mas é dado um tratamento tão honesto e justo ao personagem quanto possível. Max parece ser uma pessoa real. Sua história espelha tanto algumas de minhas próprias experiências com o diagnóstico que às vezes é um pouco doloroso assistir, e eu acabei não acompanhando a série.
 <p>
@@ -173,7 +208,7 @@ De volta a <i>Parenthood</i>, nada parece acontecer com Max em que o <del>Asperg
 <p>
 Outro ponto de narrativa que preciso mencionar é o personagem de Abed em <i>Community</i>. Enquanto o personagem luta com convenções sociais, ele também é, como outro personagem o coloca, um xamã. Sua alta inteligência não é retratada como se ele fosse um <i>savant</i>, mas simplesmente um cara inteligente. Ele é autoconsciente, consciente da câmera, consciente da maneira como o mundo do programa funciona, de uma forma que nenhum dos outros personagens é. Mais importante para mim, ele tem um grupo de amigos forte, unido e solidário. A maior adversidade que Abed enfrenta vem da forma como o mundo reage às suas peculiaridades.
 <p>
-<img src="https://itxesco.github.io/assets/figuras/autismo/Community_S1_DVD_capa.jpg" alt="cartaz da série Comunity" class="centered-img">
+<img src="https://itxesco.github.io/assets/figuras/autismo/Community_S1_DVD.jpg" alt="cartaz da série Comunity" class="centered-img">
 <p>
 Em um episódio crucial, seus colegas descobrem que uma garota gosta dele e aproveitam a oportunidade, agindo como se fosse raro ou especial uma garota se interessar por alguém como ele. Eles tentam forçá-lo a sair de sua zona de conforto para falar com essa garota, enquanto fazem comentários que, sem saber, podem ser prejudiciais para alguém no espectro, como "Você pode nunca ter outra oportunidade [para uma vida normal] como esta!" Eles tentam treiná-lo, consertá-lo.<br>
 Durante todo o tempo, Abed vai junto com seus amigos, sem protestar ou expressar desconforto. A narrativa conclui com a realização de que Abed sabe o que está fazendo. Ele está ciente do charme sutil de sua esquisitice, e que realmente, ele apenas prefere que as garotas venham até ele. Eu não tinha visto um personagem autista retratado com tanta competência e humanidade desde Abed.</p>
@@ -184,7 +219,7 @@ O problema  aqui são seus pares. Em um programa onde os nerds costumam ser alvo
 Você pode sentir um desgosto palpável por suas palhaçadas em suas vozes, de modo sutil para não chamar a atenção dele. Isso traz de volta memórias de interações ruins que presenciei com pessoas neurotípicas menos compreensivas, que não se importam em rir dos sintomas de uma pessoa real.<br> Claro, é possível descartar TBBT como apenas um programa de televisão, mas o problema é que esse pedaço proeminente de mídia define uma cultura, define as expectativas das pessoas umas com as outras, e define como devemos e não devemos reagir entre nós.<br>
 De acordo com <i>The Big Bang Theory</i>, pessoas autistas são insuportáveis e intoleráveis, e devem ser tratadas com hostilidade e desprezo <i>sutis</i>.
 <p>
-<img src="https://itxesco.github.io/assets/figuras/autismo/tbbt_capa.jpeg" alt="cartaz da série the big bang theory" class="centered-img">
+<img src="https://itxesco.github.io/assets/figuras/autismo/tbbt_.jpeg" alt="cartaz da série the big bang theory" class="centered-img">
 <p>
 Há muitos exemplos de personagens autistas ruins por aí, muitos dos quais não sinto necessidade de listar. Eles sugerem imagens falsas e irrealistas do autismo, sugerem que as pessoas autistas são definidas por sua deficiência, e não o contrário.<br>
 São personagens que sugerem que as pessoas autistas só podem se conectar entre si e só podem encontrar amor com outras pessoas "estranhas", porque são muito estranhas para que qualquer outra pessoa se interesse por elas.<br>
@@ -202,3 +237,4 @@ Simplificando, represente sua gente. Já temos ótimos exemplos disso, embora, e
   <a href="#top">topo</a></p>
   <p>
   <p>
+</html>
