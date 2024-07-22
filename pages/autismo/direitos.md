@@ -181,8 +181,41 @@ Você pode encontrar a lista completa dos direitos das pessoas com autismo  <a h
   <p>
   <b><h4 id="CNH">5. Altere sua CNH para PCD </h4></b>
   <p>
-  A preencher.
+Este foi um processo que considerava particularmente assustador, até que dei início aos procedimentos e descobri ser um dos mais simples. Literalmente, você só precisa solicitar a emissão da segunda via da sua CNH com a mudança para PCD.
+É simples assim.
+O procedimento todo levou um dia, ao contrario dos "meses" esperados.  Eu não tenho limitação para dirigir o carro com câmbio mecânico. Se este for o seu caso, será preciso voltar para a auto-escola e fazer novamente a prova prática, mas eu não precisei.<br>
+Vale dizer aqui que com a pressa para não perder a hora, me apresentei ao DETRAN-SP SEM A CIPTEA, entretanto, me identifiquei como autista apresentando o RG e fui atendido de um modo que só posso classificar como excelente.
+<p>
+Aqui o passo-a-passo que realizei:
+<p>
+1. Acesse o site do DETRAN-SP (clique <a href="https://www.detran.sp.gov.br/wps/portal/portaldetran/cidadao/habilitacao/fichaservico/renovacaoCnhDeficiencia/00655948-8ae6-4a89-a865-7a2f0458d56d">aqui para acessar</a>) e clique em "faça o agendamento";
+2. Entre com seu usuário e senha do gov.br;
+3. Opte por fazer o agendamento por local ou data;
+4. Escolha a hora do atendimento;
+5. Chegue 30 minutos antes, é uma boa antecedência.
+<p>
+  <img src="https://itxesco.github.io/assets/figuras/autismo/agendamento.jpg" alt="print do agendamento realizado" class="centered-img">
+<p>
+No DETRAN-SP, ao ter sua senha chamada, você irá explicar que precisa inserir a condição de PCD na sua CNH. A primeira atendente te fornecerá as mesmas instruções que recebi e fará o agendamento da sua perícia médica. Novamente, você pode optar por local ou data. Eu arrisquei "data" e ela conseguiu me encaixar para dali a duas horas.<br>
+A segunda atendente irá coletar sua biometria, assinatura e foto.<br>
+A partir daqui, há três hipóteses:
+<p>
+a) após a emissão do laudo pericial, caso você esteja apto a dirigir veículos com câmbio manual - basta esperar 3 dias para a mudança na sua CNH digital e 10 dias para o envio da nova CNH física.
+Sim, é só isso. Foi o meu caso, aliás.
+<p>
+b) Caso você não seja uma pessoa apta a dirigir veículos com câmbio manual -  você será direcionado para a auto escola, deverá novamente se matricular, fazer um número mínimo de aulas para dirigir carros com câmbio automático, refazer a prova prática.
+ <p>
+c) Você é reprovado na perícia, não tem o status como PCD reconhecido e sua CNH segue normal.
+<p>
+No meu caso: levei todos os meus laudos (o do meu psiquiatra e o da perícia anterior do DETRAN-SP, relativo ao pedido de isenção para o pagamento do IPVA), o relatório do Neuro e meu RG (que já possui a identificação como TEA e a CID).  Isso simplificou muito o procedimento, que iniciou meio conturbado.<br>
+No início, o médio entendeu que eu estava RENOVANDO a CNH vencida e me submeteu a uma perícia médica padrão. Demorou um tempo para ele entender que minha CNH estava válida e que eu desejava altera-la para PCD. Apresentei os laudos e o RG com o CID, ele analisou, fizemos a perícia. <br>
+O procedimento feito pelo médico no sistema é muito simples: ele clica em um menu, abre o abecedário e ele seleciona a letra "X". Em um espaço para anotações, ele digita seu CID. Em uma outra opção, ele insere o arquivo digital do seu laudo.<br>
+Você paga a taxa da perícia no local e paga a taxa da emissão/envio da 2a via da sua CNH em uma lotérica ou no app do Banco do Brasil.<br>
+Dois dias depois, a imagem da minha CNH digital mudou e ficou assim:
+<p>
+    <img src="https://itxesco.github.io/assets/figuras/autismo/rgpcd.jpg" alt="imagem de uma CNH identificada como PCD" class="centered-img">
   <p>
+  E agora, estou aguardando receber a versão física do documento.
     <a href="#top">volte ao topo</a></p><p>
   <p>
   <b><h4 id="transporte">6. Obtenha a gratuidade no transporte público municipal</h4></b>
