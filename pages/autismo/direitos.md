@@ -161,7 +161,7 @@ Você pode encontrar a lista completa dos direitos das pessoas com autismo  <a h
   <p>
   <b><h4 id="ipva">4. Obtenha a Isenção do IPVA para seu veículo </h4></b>
   <p>
-  - Como meu veículo esta registrado em SP, fiz o procedimento por lá. Você pode encontrar as informações necessárias na página oficial <a href="https://portal.fazenda.sp.gov.br/servicos/ipva/Paginas/como-solicitar-isencao-ipva-pcd.aspx.">clicando aqui</a> <br>
+  - Como meu veículo esta registrado em SP, fiz o procedimento por lá. Você pode encontrar as informações necessárias na página oficial <a href="https://portal.fazenda.sp.gov.br/servicos/ipva/Paginas/como-solicitar-isencao-ipva-pcd.aspx">clicando aqui</a> <br>
   Até o ponto em que estou, os passos tem sido simples:
   <p>
   1. Acesse o portal do SIVEI (Sistema de Veículos) <a href="https://www3.fazenda.sp.gov.br/SIVEI/"> clicando aqui </a> com suas credenciais gov.br e faça o agendamento de sua perícia:<br>

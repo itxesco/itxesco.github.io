@@ -184,7 +184,7 @@ O problema  aqui são seus pares. Em um programa onde os nerds costumam ser alvo
 Você pode sentir um desgosto palpável por suas palhaçadas em suas vozes, de modo sutil para não chamar a atenção dele. Isso traz de volta memórias de interações ruins que presenciei com pessoas neurotípicas menos compreensivas, que não se importam em rir dos sintomas de uma pessoa real.<br> Claro, é possível descartar TBBT como apenas um programa de televisão, mas o problema é que esse pedaço proeminente de mídia define uma cultura, define as expectativas das pessoas umas com as outras, e define como devemos e não devemos reagir entre nós.<br>
 De acordo com <i>The Big Bang Theory</i>, pessoas autistas são insuportáveis e intoleráveis, e devem ser tratadas com hostilidade e desprezo <i>sutis</i>.
 <p>
-<img src="https://itxesco.github.io/assets/figuras/autismo/tbbt_capa.jpeg" alt="cartaz da série the big bang theory" class="centered-img">
+<img src="https://itxesco.github.io/assets/figuras/autismo/tbbt_capa.jpg" alt="cartaz da série the big bang theory" class="centered-img">
 <p>
 Há muitos exemplos de personagens autistas ruins por aí, muitos dos quais não sinto necessidade de listar. Eles sugerem imagens falsas e irrealistas do autismo, sugerem que as pessoas autistas são definidas por sua deficiência, e não o contrário.<br>
 São personagens que sugerem que as pessoas autistas só podem se conectar entre si e só podem encontrar amor com outras pessoas "estranhas", porque são muito estranhas para que qualquer outra pessoa se interesse por elas.<br>
