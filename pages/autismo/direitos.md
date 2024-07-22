@@ -78,7 +78,7 @@ Você pode encontrar a lista completa dos direitos das pessoas com autismo  <a h
       <p>
           <li><a href="#ciptea">1. Obtenha a CIPTEA</a></li>
           <li><a href="#rg">2. Faça constar o TEA na segunda via do seu RG</a></li>
-          <li><a href="#ipva">3. Identifique seu veículo como PCD</a></li>
+          <li><a href="#pcd">3. Identifique seu veículo como PCD</a></li>
           <li><a href="#ipva">4. Obtenha a isenção do IPVA</a></li>
           <li><a href="#CNH">5. Altere sua CNH para PCD</a></li>
           <li><a href="#transporte">6. Obtenha a gratuidade no Transporte Público</a></li>
@@ -159,7 +159,7 @@ Você pode encontrar a lista completa dos direitos das pessoas com autismo  <a h
   <p>
     <a href="#top">volte ao topo</a></p><p>
   <p>
-  <b><h4 id="IPVA">4. Obtenha a Isenção do IPVA para seu veículo </h4></b>
+  <b><h4 id="ipva">4. Obtenha a Isenção do IPVA para seu veículo </h4></b>
   <p>
   - Como meu veículo esta registrado em SP, fiz o procedimento por lá. Você pode encontrar as informações necessárias na página oficial <a href="https://portal.fazenda.sp.gov.br/servicos/ipva/Paginas/como-solicitar-isencao-ipva-pcd.aspx.">clicando aqui</a> <br>
   Até o ponto em que estou, os passos tem sido simples:
@@ -179,7 +179,7 @@ Você pode encontrar a lista completa dos direitos das pessoas com autismo  <a h
   <p>
     <a href="#top">volte ao topo</a></p><p>
   <p>
-  <b><h4 id="cnh">5. Altere sua CNH para PCD </h4></b>
+  <b><h4 id="CNH">5. Altere sua CNH para PCD </h4></b>
   <p>
   A preencher.
   <p>
@@ -189,6 +189,7 @@ Você pode encontrar a lista completa dos direitos das pessoas com autismo  <a h
   <p>
   A preencher
   <p>
+    <a href="#top">volte ao topo</a></p>
   <p>
   <b><h4 id="passagens">7. Obtenha o desconto na passagem aérea para acompanhantes</h4></b>
   </p>
