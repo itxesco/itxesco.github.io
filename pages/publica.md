@@ -5,13 +5,12 @@ description: prof. dr. Francisco de Assis Nascimento Junior artigos publicados
 ---
 <h3>Trabalhos publicados</h3>
 <p>
-Nesta página você pode ter acesso fácil a minhas publicações e colaborações, organizadas em ordem cronológica decrescente, de minha autoria ou realizados sob minha orientação.<br>
+Nesta página você pode ter acesso fácil a minhas publicações e colaborações, organizadas em ordem cronológica decrescente, de minha autoria ou realizados sob minha orientação. Clique sobre o ícone <img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"> para acessar diretamente os arquivos<br>
 <p>
 <li><a href="#mestrado">1. minha dissertação de mestrado</a></li>
 <li><a href="#doutorado">2. minha tese de doutorado</a></li>
 <li><a href="#orientacoes">3. dissertações de mestrado que orientei</a></li>
 <p>
-(Clique sobre os ícones para acessar diretamente os arquivos em pdf)
 <p>
 ---
 <p>
