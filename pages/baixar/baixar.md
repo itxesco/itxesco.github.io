@@ -14,6 +14,7 @@ description: notas de aulas do prof. dr. Francisco de Assis Nascimento Junior da
  **sobre o Transtorno do Espectro Autista**
 <p>
 1. Legislação
+<p>
 - <a href="https://itxesco.github.io/biblioteca/tea/legislacao/lei_berenice_piana.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png" alt="clique para baixar">Lei Berenice Piana</a>
 <p>
 - <a href="https://itxesco.github.io/biblioteca/tea/legislacao/lei_romeo_mion.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png" alt="clique para baixar">Lei Romeo Mion</a>
