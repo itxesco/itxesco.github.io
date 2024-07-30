@@ -19,7 +19,8 @@ GOMES, Emerson F.; RAMOS, João Eduardo F.;**NASCIMENTO, Francisco**; PIASSI, Lu
 **NASCIMENTO, Francisco.**. Uma análise das implicações das representações de gênero nas histórias em quadrinhos de super-heróis para o ensino/aprendizagem de ciências. In: Editora Científica digital. (Org.). OPEN SCIENCE RESEARCH III. 1ed.São Paulo: Editora Científica digital, 2022, v. 3, p. 2401-2411.[![doi](https://itxesco.github.io/imagens/icones/icons16/doi-icon.png)](https://dx.doi.org/10.37885/220308328) [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/implicacoes_genero_sh.pdf)<br>
 
 
-SANTOS JUNIOR, Ubiratan  Gomes; **NASCIMENTO, Francisco.**. Pele Negra, Máscara Cromada. In: XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura.2022, Salvador (BA. Anais do XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura, 2022. [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/pele_negra_mascara_cromada.pdf)<br>
+SANTOS JUNIOR, Ubiratan  Gomes; **NASCIMENTO, Francisco.**. Pele Negra, Máscara Cromada. In: XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura.2022, Salvador (BA. Anais do XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura, 2022.
+<a href="https://itxesco.github.io/biblioteca/artigos/pele_negra_mascara_cromada.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a><br>
 
 
 **NASCIMENTO JR, Francisco.**. Como a cultura dos jogos digitais pode auxiliar no interesse pela ciência? Uma análise pandêmica de World of Warcraft. In: XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura.2022, Salvador (BA. Anais do XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura, 2022. [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/jogos_educacao_warcraft.pdf)<br>
@@ -27,7 +28,7 @@ SANTOS JUNIOR, Ubiratan  Gomes; **NASCIMENTO, Francisco.**. Pele Negra, Máscara
 
 TEIXEIRA, M.M.L.; SANTANA, J.V.N.;BONFIM, V.C.; **NASCIMENTO JR, Francisco.**. Oficinas de RPG: a Transdisciplinaridade como caminho para um ensino decolonial de ciências. In: XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura.2022, Salvador (BA. Anais do XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura, 2022. [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/rpg_decolonialidade_ciencias.pdf)<br>
 
-   
+
 CARNEIRO, Ericka Cristian; **NASCIMENTO JR, Francisco.**. Literatura de Mulheres Negras no Ensino de Ciências. In: XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura.2022, Salvador (BA. Anais do XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura, 2022. [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/literatura_negras_ciencias.pdf)<br>
 
 ---
