@@ -123,16 +123,14 @@ Nesta página você pode ter acesso fácil a minhas publicações e colaboraçõ
 ---
 <p>
 NASCIMENTO JUNIOR, F. A.<b>Crise de identidade: gênero e ciência nos quadrinhos de super-heróis</b>. Tese (Doutorado) – Faculdade de Educação da Universidade
-de São Paulo. São Paulo: Universidade de São Paulo, 2017.<a href="https://doi.org/10.11606/T.48.2017.tde-07082017-155126"><img src="https://itxesco.github.io/imagens/icones/icons16/doi-icon.png"></a>  | <a href="https://itxesco.github.io/biblioteca/teses/crise_de_identidade.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a><br>
-<a href="https://teses.usp.br/teses/disponiveis/48/48134/tde-07082017-155126/pt-br.php">também disponível no repositório de teses e dissertações da USP</a>
+de São Paulo. São Paulo: Universidade de São Paulo, 2017.|<a href="https://doi.org/10.11606/T.48.2017.tde-07082017-155126"><img src="https://itxesco.github.io/imagens/icones/icons16/doi-icon.png"></a>|<a href="https://itxesco.github.io/biblioteca/teses/crise_de_identidade.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a><br><a href="https://teses.usp.br/teses/disponiveis/48/48134/tde-07082017-155126/pt-br.php">também disponível no repositório de teses e dissertações da USP</a>
 <p>
 ---
 
 <h4 id="mestrado">minha dissertação</h4>
 ---
 <p>
-NASCIMENTO JUNIOR, F. A.<b>Quarteto Fantástico: Histórias em Quadrinhos, Ficção Científica e Satisfação Cultural no Ensino de Ciências</b>. Dissertação (Mestrado em Ensino de Ciências). Instituto de Física da Universidade de São Paulo. 2013.<a href="https://doi.org/10.11606/D.81.2013.tde-23042013-113427"><img src="https://itxesco.github.io/imagens/icones/icons16/doi-icon.png"></a>  | <a href="https://itxesco.github.io/biblioteca/dissertacoes/quarteto_fantastico.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a><br> |
-<a href="https://teses.usp.br/teses/disponiveis/81/81131/tde-23042013-113427/pt-br.php">também disponível no repositório de teses e dissertações da USP</a>
+NASCIMENTO JUNIOR, F. A.<b>Quarteto Fantástico: Histórias em Quadrinhos, Ficção Científica e Satisfação Cultural no Ensino de Ciências</b>. Dissertação (Mestrado em Ensino de Ciências). Instituto de Física da Universidade de São Paulo. 2013.|<a href="https://doi.org/10.11606/D.81.2013.tde-23042013-113427"><img src="https://itxesco.github.io/imagens/icones/icons16/doi-icon.png"></a>|<a href="https://itxesco.github.io/biblioteca/dissertacoes/quarteto_fantastico.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a><br>|<a href="https://teses.usp.br/teses/disponiveis/81/81131/tde-23042013-113427/pt-br.php">também disponível no repositório de teses e dissertações da USP</a>
 <p>
 <p>
 <a href="#top">topo</a><br>
