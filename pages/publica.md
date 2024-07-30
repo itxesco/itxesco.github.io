@@ -24,7 +24,6 @@ Nesta página você pode ter acesso fácil a minhas publicações e colaboraçõ
 <p>
 <p>
 <a href="#top">topo</a>
-<p>
 ---
 <p>
 <h4>2022 </h4>
@@ -41,7 +40,6 @@ Nesta página você pode ter acesso fácil a minhas publicações e colaboraçõ
 <p>
 <p>
 <a href="#top">topo</a>
-<p>
 ---
 <p>
 <h4>2021</h4>
@@ -52,7 +50,6 @@ Nesta página você pode ter acesso fácil a minhas publicações e colaboraçõ
 <p>
 <p>
 <a href="#top">topo</a>
-<p>
 ---
 <p>
 <h4>2020</h4>
@@ -71,7 +68,6 @@ Nesta página você pode ter acesso fácil a minhas publicações e colaboraçõ
 <p>
 <p>
 <a href="#top">topo</a>
-<p>
 ---
 <p>
 <h4>2017</h4>
@@ -90,7 +86,6 @@ Nesta página você pode ter acesso fácil a minhas publicações e colaboraçõ
 <p>
 <p>
 <a href="#top">topo</a>
-<p>
 ---
 <p>
 <h4>2015</h4>
@@ -105,7 +100,6 @@ Nesta página você pode ter acesso fácil a minhas publicações e colaboraçõ
 <p>
 <p>
 <a href="#top">topo</a>
-<p>
 ---
 <p>
 <h4>2014</h4>
@@ -141,7 +135,6 @@ NASCIMENTO JUNIOR, F. A.<b>QuartetoFantástico: Histórias em Quadrinhos, Ficç�
 <p>
 <p>
 <a href="#top">topo</a>
-<p>
 ---
 <p>
 <h4 id="orientacoes">dissertações de mestrado que orientei</h4>
