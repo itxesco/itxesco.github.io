@@ -17,19 +17,19 @@ GOMES, Emerson F.; RAMOS, João Eduardo F.;<b>NASCIMENTO, Francisco</b>; PIASSI,
 <p>
 #### 2022  
 
-<b>NASCIMENTO, Francisco.</b>. Uma análise das implicações das representações de gênero nas histórias em quadrinhos de super-heróis para o ensino/aprendizagem de ciências. In: Editora Científica digital. (Org.). OPEN SCIENCE RESEARCH III. 1ed.São Paulo: Editora Científica digital, 2022, v. 3, p. 2401-2411.[![doi](https://itxesco.github.io/imagens/icones/icons16/doi-icon.png)](https://dx.doi.org/10.37885/220308328) [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/implicacoes_genero_sh.pdf)<br>
-
+<b>NASCIMENTO, Francisco.</b>. Uma análise das implicações das representações de gênero nas histórias em quadrinhos de super-heróis para o ensino/aprendizagem de ciências. In: Editora Científica digital. (Org.). OPEN SCIENCE RESEARCH III. 1ed.São Paulo: Editora Científica digital, 2022, v. 3, p. 2401-2411.<a href="https://dx.doi.org/10.37885/220308328><img src="https://itxesco.github.io/imagens/icones/icons16/doi-icon.png></a> <a href="https://itxesco.github.io/biblioteca/artigos/implicacoes_genero_sh.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a>
+<p>
 
 SANTOS JUNIOR, Ubiratan  Gomes; <b>NASCIMENTO, Francisco.</b>. Pele Negra, Máscara Cromada. In: XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura.2022, Salvador (BA. Anais do XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura, 2022.
-[![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](href=https://itxesco.github.io/biblioteca/artigos/pele_negra_mascara_cromada.pdf)
+<a href=https://itxesco.github.io/biblioteca/artigos/pele_negra_mascara_cromada.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a>
 <p>
-<b>NASCIMENTO, Francisco.</b>. Como a cultura dos jogos digitais pode auxiliar no interesse pela ciência? Uma análise pandêmica de World of Warcraft. In: XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura.2022, Salvador (BA. Anais do XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura, 2022. [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/jogos_educacao_warcraft.pdf)<br>
+<b>NASCIMENTO, Francisco.</b>. Como a cultura dos jogos digitais pode auxiliar no interesse pela ciência? Uma análise pandêmica de World of Warcraft. In: XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura.2022, Salvador (BA. Anais do XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura, 2022. <a href="https://itxesco.github.io/biblioteca/artigos/jogos_educacao_warcraft.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a>
+<p>
 
+TEIXEIRA, M.M.L.; SANTANA, J.V.N.;BONFIM, V.C.; <b>NASCIMENTO, Francisco.</b>. Oficinas de RPG: a Transdisciplinaridade como caminho para um ensino decolonial de ciências. In: XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura.2022, Salvador (BA. Anais do XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura, 2022. [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/rpg_decolonialidade_ciencias.pdf)
+<p>
 
-TEIXEIRA, M.M.L.; SANTANA, J.V.N.;BONFIM, V.C.; <b>NASCIMENTO, Francisco.</b>. Oficinas de RPG: a Transdisciplinaridade como caminho para um ensino decolonial de ciências. In: XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura.2022, Salvador (BA. Anais do XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura, 2022. [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/rpg_decolonialidade_ciencias.pdf)<br>
-
-
-CARNEIRO, Ericka Cristian; <b>NASCIMENTO JR, Francisco.</b>. Literatura de Mulheres Negras no Ensino de Ciências. In: XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura.2022, Salvador (BA. Anais do XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura, 2022. [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/literatura_negras_ciencias.pdf)<br>
+CARNEIRO, Ericka Cristian; <b>NASCIMENTO JR, Francisco.</b>. Literatura de Mulheres Negras no Ensino de Ciências. In: XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura.2022, Salvador (BA. Anais do XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura, 2022. [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/literatura_negras_ciencias.pdf)
 <p>
 ---
 <p>
