@@ -98,14 +98,14 @@ SILVA, F. A. M.; <b>NASCIMENTO, F.</b>; PIASSI, L. P. C. . A Identificação do 
 <h3>tese de doutorado</h3>
 ---
 <p>
-<b>NASCIMENTO JUNIOR, F. A.</b> **Crise de identidade: gênero e ciência nos quadrinhos de super-heróis**. Tese (Doutorado) – Faculdade de Educação da Universidade
+<NASCIMENTO JUNIOR, F. A.<b>Crise de identidade: gênero e ciência nos quadrinhos de super-heróis</b>. Tese (Doutorado) – Faculdade de Educação da Universidade
 de São Paulo. São Paulo: Universidade de São Paulo, 2017.
-[disponível no repositório de teses e dissertações da USP](https://teses.usp.br/teses/disponiveis/48/48134/tde-07082017-155126/pt-br.php)
+<a href="https://teses.usp.br/teses/disponiveis/48/48134/tde-07082017-155126/pt-br.php">disponível no repositório de teses e dissertações da USP - clique aqui para acessar</a>
 <p>
 ---
 
 <h3>dissertação de mestrado</h3>
 ---
 <p>
-<b>NASCIMENTO JUNIOR, F. A.</b>**QuartetoFantástico: Histórias em Quadrinhos, Ficção Científica e Satisfação Cultural no Ensino de Ciências**. Dissertação (Mestrado em Ensino de Ciências). Instituto de Física da Universidade de São Paulo.
-[disponível no repositório de teses e dissertações da USP](https://teses.usp.br/teses/disponiveis/81/81131/tde-23042013-113427/pt-br.php)
+NASCIMENTO JUNIOR, F. A.<b>QuartetoFantástico: Histórias em Quadrinhos, Ficção Científica e Satisfação Cultural no Ensino de Ciências</b>. Dissertação (Mestrado em Ensino de Ciências). Instituto de Física da Universidade de São Paulo.
+<a href="https://teses.usp.br/teses/disponiveis/81/81131/tde-23042013-113427/pt-br.php">disponível no repositório de teses e dissertações da USP - clique aqui para acessar </a>
