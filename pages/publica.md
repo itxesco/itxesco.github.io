@@ -23,7 +23,7 @@ Nesta página você pode ter acesso fácil a minhas publicações e colaboraçõ
 3. GOMES, Emerson F.; RAMOS, João Eduardo F.;<b>NASCIMENTO, Francisco</b>; PIASSI, Luis Paulo. Satisfação Cultural e Ciência: a Teoria de Georges Snyders e seus diálogos no Ensino de Física. In: XXV Simpósio Nacional de Ensino de Física. Caruaru (PE). 2023. <a href="https://itxesco.github.io/biblioteca/artigos/satisfacao_cultural_ciencias.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a>
 <p>
 <p>
-<a href="#top">topo</a>
+<a href="#top">topo</a><br>
 ---
 <p>
 <h4>2022 </h4>
@@ -39,7 +39,7 @@ Nesta página você pode ter acesso fácil a minhas publicações e colaboraçõ
 5. CARNEIRO, Ericka Cristian; <b>NASCIMENTO JR, Francisco.</b>. Literatura de Mulheres Negras no Ensino de Ciências. In: XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura.2022, Salvador (BA. Anais do XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura, 2022. <a href="https://itxesco.github.io/biblioteca/artigos/literatura_negras_ciencias.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a>
 <p>
 <p>
-<a href="#top">topo</a>
+<a href="#top">topo</a><br>
 ---
 <p>
 <h4>2021</h4>
@@ -49,7 +49,7 @@ Nesta página você pode ter acesso fácil a minhas publicações e colaboraçõ
 2. <b>NASCIMENTO, F.</b>. COLONIZAÇÃO CULTURAL E COLONIALISMO: UMA DISCUSSÃO NECESSÁRIA AO ENSINO DE FÍSICA. In: XXIV Simpósio Nacional de Ensino de Física (SNEF), 2021, Santo André (SP). Anais do XXIV SNEF, 2021. <a href="https://itxesco.github.io/biblioteca/anais/SNEF_2021_2.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a>
 <p>
 <p>
-<a href="#top">topo</a>
+<a href="#top">topo</a><br>
 ---
 <p>
 <h4>2020</h4>
@@ -59,7 +59,7 @@ Nesta página você pode ter acesso fácil a minhas publicações e colaboraçõ
 2. <b>NASCIMENTO, F.</b>. Por que acreditamos em _fake news_?. In: OLIVEIRA, A. M. et al. Paulo Freire em tempos de fake news: Edição 2020. Recife: Even3 Publicações, 2020. <a href="https://doi.org/10.29327/523688"><img src="https://itxesco.github.io/imagens/icones/icons16/doi-icon.png"></a> | <a href="https://itxesco.github.io/biblioteca/artigos/paulo-freire-em-tempos-de-fake-news-edicao-2020.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a>
 <p>
 <p>
-<a href="#top">topo</a>
+<a href="#top">topo</a><br>
 <p>
 ---
 <h4>2019</h4>
@@ -67,7 +67,7 @@ Nesta página você pode ter acesso fácil a minhas publicações e colaboraçõ
 1. <b>NASCIMENTO, F.</b>. Stan Lee, o Quarteto Fantástico e a evolução da divulgação científica nas histórias em quadrinhos de super-heróis: possibilidades para uma aula de ciências. Diálogo (UNILASALLE), v. 1, p. 55-65, 2019. <a href="http://dx.doi.org/10.18316/dialogo.v0i42.5872"><img src="https://itxesco.github.io/imagens/icones/icons16/doi-icon.png"></a> | <a href="https://itxesco.github.io/biblioteca/artigos/5872-19839-2-PB_1.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a>
 <p>
 <p>
-<a href="#top">topo</a>
+<a href="#top">topo</a><br>
 ---
 <p>
 <h4>2017</h4>
@@ -85,7 +85,7 @@ Nesta página você pode ter acesso fácil a minhas publicações e colaboraçõ
 6. BARROS, N. R.; <b>NASCIMENTO, F.</b>; PIASSI, L. P. C. . O funk e o rock nas estrelas: uma oficina para o ensino de astronomia. In: XXII Simpósio Nacional de Ensino de Física - SNEF, 2017, São Carlos. Anais do XXII SNEF, 2017. <a href="https://itxesco.github.io/biblioteca/anais/funkerock.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a>
 <p>
 <p>
-<a href="#top">topo</a>
+<a href="#top">topo</a><br>
 ---
 <p>
 <h4>2015</h4>
@@ -99,7 +99,7 @@ Nesta página você pode ter acesso fácil a minhas publicações e colaboraçõ
 4. SILVA, F. A. M.; <b>NASCIMENTO, F.</b>; PIASSI, L. P. C. . A Identificação do Cientista nos Quadrinhos de Ficção Científica - Uma Análise do caso " Magnetar". In: 3 Jornadas Internacionais de Histórias em Quadrinhos, 2015, São Paulo. anais das 3 Jornadas Internacionais de Histórias em Quadrinhos, 2015. <a href="https://itxesco.github.io/biblioteca/anais/artigo_080620151103012.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a>
 <p>
 <p>
-<a href="#top">topo</a>
+<a href="#top">topo</a><br>
 ---
 <p>
 <h4>2014</h4>
@@ -114,7 +114,7 @@ Nesta página você pode ter acesso fácil a minhas publicações e colaboraçõ
 4. <b>NASCIMENTO, F.</b>; PIASSI, L. P. C. . Crise de Identidade: a Representação de Gênero nos Quadrinhos de Super-Heróis. In: 3o Congresso Internacional Interdisciplinar Em Sociais E Humanidades (Coninter)o Congresso Internacional Interdisciplinar Em Sociais E Humanidades (Coninter), 2014, Salvador. CONINTER 3 - Volume 7 - Estudos de Gênero, Feminismo e Sexualidades, 2014. v. 7. p. 1. <a href="https://itxesco.github.io/biblioteca/anais/NASCIMENTOJRF.A.2014CRISEDEIDENTIDADE.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a>
 <p>
 <p>
-<a href="#top">topo</a>
+<a href="#top">topo</a><br>
 <p>
 ---
 <p>
@@ -134,7 +134,7 @@ NASCIMENTO JUNIOR, F. A.<b>QuartetoFantástico: Histórias em Quadrinhos, Ficç�
 <a href="https://teses.usp.br/teses/disponiveis/81/81131/tde-23042013-113427/pt-br.php">disponível no repositório de teses e dissertações da USP - clique aqui para acessar </a>
 <p>
 <p>
-<a href="#top">topo</a>
+<a href="#top">topo</a><br>
 ---
 <p>
 <h4 id="orientacoes">dissertações de mestrado que orientei</h4>
