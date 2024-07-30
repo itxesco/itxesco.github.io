@@ -1,10 +1,10 @@
 ---
 layout: page
 title:    
-description: Prof. Dr. Francisco Nascimento artigos publicados
----  
+description: prof. dr. Francisco de Assis Nascimento Junior artigos publicados
+---
 
-#### 2023  
+###2023
 
 **JUNIOR, Francisco de Assis Nascimento**; CARNEIRO, ERICKA SANTANA ; JESUS, MILENA SANTOS . LITERATURA NEGRO-BRASILEIRA: SIGNIFICANDO SENTIDOS PARA O CORPO NEGRO NO PROCESSO DE ENSINO-APRENDIZADO. CONHECIMENTO & DIVERSIDADE, v. 15, p. 556-575, 2023. [![doi](https://itxesco.github.io/imagens/icones/icons16/doi-icon.png)](https://dx.doi.org/10.18316/rcd.v15i37.9719) [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/literatura_negro_brasileira.pdf)
 <p>
