@@ -20,7 +20,7 @@ description: notas de aulas do prof. dr. Francisco de Assis Nascimento Junior da
 <p>
 - <a href="https://itxesco.github.io/biblioteca/tea/legislacao/manual_de_atendimento_a_pessoas_com_transtorno_do_espectro_autista.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png" alt="clique para baixar">Manual de Atendimento a Pessoas Autistas</a>
 <p>
-2. Articos Científicos
+2. Artigos Científicos
 <p>
 - <a href="https://itxesco.github.io/biblioteca/tea/artigos/file-3.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png" alt="clique para baixar">Widespread signatures of positive selection in common risk alleles associated to autism spectrum disorder</a><br>
 [O estudo baseado em uma análise de associação genômica ampla que mostrou que variantes herdadas ligadas ao TEA foram encontradas sob seleção positiva em números maiores do que seria esperado por acaso]

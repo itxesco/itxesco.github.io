@@ -7,11 +7,12 @@ description: prof. dr. Francisco de Assis Nascimento Junior artigos publicados
 ###2023
 
 **JUNIOR, Francisco de Assis Nascimento**; CARNEIRO, ERICKA SANTANA ; JESUS, MILENA SANTOS . LITERATURA NEGRO-BRASILEIRA: SIGNIFICANDO SENTIDOS PARA O CORPO NEGRO NO PROCESSO DE ENSINO-APRENDIZADO. CONHECIMENTO & DIVERSIDADE, v. 15, p. 556-575, 2023. [![doi](https://itxesco.github.io/imagens/icones/icons16/doi-icon.png)](https://dx.doi.org/10.18316/rcd.v15i37.9719) [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/literatura_negro_brasileira.pdf)
-<p>
+</p>
 VISCONDE, S. K. F. ; **NASCIMENTO, F.** . Tecendo pontos: a Umbanda e a importância da etnomatemática na escola. OBSERVATORIO DE LA ECONOMÍA LATINOAMERICANA, v. 21, p. 4581-4595, 2023.![(https://itxesco.github.io/imagens/icones/icons16/doi-icon.png)](https://dx.doi.org/10.55905/oelv21n6-077) ![(https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/etnomatematica_umbanda.pdf)
-<p>
-GOMES, Emerson F.; RAMOS, João Eduardo F.;**NASCIMENTO, Francisco**; PIASSI, Luis Paulo. Satisfação Cultural e Ciência: a Teoria de Georges Snyders e seus diálogos no Ensino de Física. In: XXV Simpósio Nacional de Ensino de Física. Caruaru (PE). 2023. [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/satisfacao_cultural_ciencias.pdf)
-<p>
+</p>
+GOMES, Emerson F.; RAMOS, João Eduardo F.;<b>NASCIMENTO, Francisco</b>; PIASSI, Luis Paulo. Satisfação Cultural e Ciência: a Teoria de Georges Snyders e seus diálogos no Ensino de Física. In: XXV Simpósio Nacional de Ensino de Física. Caruaru (PE). 2023. <a href="https://itxesco.github.io/biblioteca/artigos/satisfacao_cultural_ciencias.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a>
+</p>
+
 ---
 <p>
 #### 2022  
