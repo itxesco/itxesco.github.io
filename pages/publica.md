@@ -3,7 +3,10 @@ layout: page
 title:    
 description: prof. dr. Francisco de Assis Nascimento Junior artigos publicados
 ---
-
+Trabalhos publicados  (artigos em revistas, trabalhos em anais de eventos, livros e capitulos de livros) em ordem cronológica decrescente. Clique sobre os ícones para acessar diretamente os arquivos em pdf:
+<p>
+---
+<p>
 <h3>2023</h3>
 
 **JUNIOR, Francisco de Assis Nascimento**; CARNEIRO, ERICKA SANTANA ; JESUS, MILENA SANTOS . LITERATURA NEGRO-BRASILEIRA: SIGNIFICANDO SENTIDOS PARA O CORPO NEGRO NO PROCESSO DE ENSINO-APRENDIZADO. CONHECIMENTO & DIVERSIDADE, v. 15, p. 556-575, 2023. [![doi](https://itxesco.github.io/imagens/icones/icons16/doi-icon.png)](https://dx.doi.org/10.18316/rcd.v15i37.9719) [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/literatura_negro_brasileira.pdf)
@@ -95,7 +98,7 @@ SILVA, F. A. M.; <b>NASCIMENTO, F.</b>; PIASSI, L. P. C. . A Identificação do 
 <p>
 ---
 <p>
-<h3>tese de doutorado</h3>
+<h3>tese</h3>
 ---
 <p>
 <NASCIMENTO JUNIOR, F. A.<b>Crise de identidade: gênero e ciência nos quadrinhos de super-heróis</b>. Tese (Doutorado) – Faculdade de Educação da Universidade
@@ -104,7 +107,7 @@ de São Paulo. São Paulo: Universidade de São Paulo, 2017.
 <p>
 ---
 
-<h3>dissertação de mestrado</h3>
+<h3>dissertação</h3>
 ---
 <p>
 NASCIMENTO JUNIOR, F. A.<b>QuartetoFantástico: Histórias em Quadrinhos, Ficção Científica e Satisfação Cultural no Ensino de Ciências</b>. Dissertação (Mestrado em Ensino de Ciências). Instituto de Física da Universidade de São Paulo.
