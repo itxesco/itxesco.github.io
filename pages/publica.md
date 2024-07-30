@@ -128,7 +128,7 @@ de São Paulo. São Paulo: Universidade de São Paulo, 2017.<a href="https://doi
 <p>
 ---
 
-<h4 id="mestrado">dissertação de mestrado</h4>
+<h4 id="mestrado">minha dissertação</h4>
 ---
 <p>
 NASCIMENTO JUNIOR, F. A.<b>Quarteto Fantástico: Histórias em Quadrinhos, Ficção Científica e Satisfação Cultural no Ensino de Ciências</b>. Dissertação (Mestrado em Ensino de Ciências). Instituto de Física da Universidade de São Paulo. 2013.<a href="https://doi.org/10.11606/D.81.2013.tde-23042013-113427"><img src="https://itxesco.github.io/imagens/icones/icons16/doi-icon.png"></a>  | <a href="https://itxesco.github.io/biblioteca/dissertacoes/quarteto_fantastico.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a><br> |
@@ -138,7 +138,7 @@ NASCIMENTO JUNIOR, F. A.<b>Quarteto Fantástico: Histórias em Quadrinhos, Ficç
 <a href="#top">topo</a><br>
 ---
 <p>
-<h4 id="orientacoes">dissertações de mestrado que orientei</h4>
+<h4 id="orientacoes">Orientações de mestrado</h4>
 <p>
 1. Valtiângeli Rodrigues da Silva Moitinho. <b>O Ensino de Matemática: Uma Reflexão de Aprendizado dentro de uma Perspectiva Decolonial</b>. |2021|<a href="https://itxesco.github.io/biblioteca/dissertacoes/ensino_matematica_decolonial.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a> <br>
 2. Sheila Katrini Ferrari Visconde. <b>A Matemática e o conhecimento de Povos de Terreiro: um diálogo necessário para as práticas de Ensino/Aprendizagem</b>. |2021|<a href="https://itxesco.github.io/biblioteca/dissertacoes/matematica_povos_terreiro.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a><br>
