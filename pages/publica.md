@@ -101,7 +101,7 @@ SILVA, F. A. M.; <b>NASCIMENTO, F.</b>; PIASSI, L. P. C. . A Identificação do 
 <h3>tese</h3>
 ---
 <p>
-<NASCIMENTO JUNIOR, F. A.<b>Crise de identidade: gênero e ciência nos quadrinhos de super-heróis</b>. Tese (Doutorado) – Faculdade de Educação da Universidade
+NASCIMENTO JUNIOR, F. A.<b>Crise de identidade: gênero e ciência nos quadrinhos de super-heróis</b>. Tese (Doutorado) – Faculdade de Educação da Universidade
 de São Paulo. São Paulo: Universidade de São Paulo, 2017.
 <a href="https://teses.usp.br/teses/disponiveis/48/48134/tde-07082017-155126/pt-br.php">disponível no repositório de teses e dissertações da USP - clique aqui para acessar</a>
 <p>
