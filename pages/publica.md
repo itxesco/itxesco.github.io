@@ -16,7 +16,7 @@ Nesta página você pode ter acesso fácil a minhas publicações e colaboraçõ
 <p>
 <h4>2023</h4>
 
-<b>JUNIOR, Francisco de Assis Nascimento</b>; CARNEIRO, ERICKA SANTANA ; JESUS, MILENA SANTOS . LITERATURA NEGRO-BRASILEIRA: SIGNIFICANDO SENTIDOS PARA O CORPO NEGRO NO PROCESSO DE ENSINO-APRENDIZADO. CONHECIMENTO & DIVERSIDADE, v. 15, p. 556-575, 2023. <a href="https://dx.doi.org/10.18316/rcd.v15i37.9719"><img src="https://itxesco.github.io/imagens/icones/icons16/doi-icon.png"></a> | <a href="https://itxesco.github.io/biblioteca/artigos/literatura_negro_brasileira.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a>
+<b>JUNIOR, Francisco de Assis Nascimento</b>; CARNEIRO, ERICKA SANTANA ; JESUS, MILENA SANTOS . LITERATURA NEGRO-BRASILEIRA: SIGNIFICANDO SENTIDOS PARA O CORPO NEGRO NO PROCESSO DE ENSINO-APRENDIZADO. CONHECIMENTO & DIVERSIDADE, v. 15, p. 556-575, 2023. <a href="https://dx.doi.org/10.18316/rcd.v15i37.9719"><img src="https://itxesco.github.io/imagens/icones/icons16/doi-icon.png"></a> | <a href="https://itxesco.github.io/biblioteca/artigos/literatura_negro_brasileira.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a><br>
 <p>
 VISCONDE, S. K. F. ; <b>NASCIMENTO, F.</b>. Tecendo pontos: a Umbanda e a importância da etnomatemática na escola. OBSERVATORIO DE LA ECONOMÍA LATINOAMERICANA, v. 21, p. 4581-4595, 2023. <a href="https://dx.doi.org/10.55905/oelv21n6-077"><img src="https://itxesco.github.io/imagens/icones/icons16/doi-icon.png"></a> | <a href="https://itxesco.github.io/biblioteca/artigos/tecendo_pontos.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a>
 <p>
