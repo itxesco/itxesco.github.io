@@ -6,22 +6,30 @@ description: Prof. Dr. Francisco Nascimento artigos publicados
 
 #### 2023  
 
-**JUNIOR, Francisco de Assis Nascimento**; CARNEIRO, ERICKA SANTANA ; JESUS, MILENA SANTOS . LITERATURA NEGRO-BRASILEIRA: SIGNIFICANDO SENTIDOS PARA O CORPO NEGRO NO PROCESSO DE ENSINO-APRENDIZADO. CONHECIMENTO & DIVERSIDADE, v. 15, p. 556-575, 2023. [![doi](https://itxesco.github.io/imagens/icones/icons16/doi-icon.png)](https://dx.doi.org/10.18316/rcd.v15i37.9719) [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/literatura_negro_brasileira.pdf)<br/>
-
-VISCONDE, S. K. F. ; **NASCIMENTO, F.** . Tecendo pontos: a Umbanda e a importância da etnomatemática na escola. OBSERVATORIO DE LA ECONOMÍA LATINOAMERICANA, v. 21, p. 4581-4595, 2023.[![doi](https://itxesco.github.io/imagens/icones/icons16/doi-icon.png)](https://dx.doi.org/10.55905/oelv21n6-077) [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/etnomatematica_umbanda.pdf)<br/>
-
+**JUNIOR, Francisco de Assis Nascimento**; CARNEIRO, ERICKA SANTANA ; JESUS, MILENA SANTOS . LITERATURA NEGRO-BRASILEIRA: SIGNIFICANDO SENTIDOS PARA O CORPO NEGRO NO PROCESSO DE ENSINO-APRENDIZADO. CONHECIMENTO & DIVERSIDADE, v. 15, p. 556-575, 2023. [![doi](https://itxesco.github.io/imagens/icones/icons16/doi-icon.png)](https://dx.doi.org/10.18316/rcd.v15i37.9719) [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/literatura_negro_brasileira.pdf)
+<p>
+VISCONDE, S. K. F. ; **NASCIMENTO, F.** . Tecendo pontos: a Umbanda e a importância da etnomatemática na escola. OBSERVATORIO DE LA ECONOMÍA LATINOAMERICANA, v. 21, p. 4581-4595, 2023.[![doi](https://itxesco.github.io/imagens/icones/icons16/doi-icon.png)](https://dx.doi.org/10.55905/oelv21n6-077) [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/etnomatematica_umbanda.pdf)
+<p>
+GOMES, Emerson F.; RAMOS, João Eduardo F.;**NASCIMENTO, Francisco**; PIASSI, Luis Paulo. Satisfação Cultural e Ciência: a Teoria de Georges Snyders e seus diálogos no Ensino de Física. In: XXV Simpósio Nacional de Ensino de Física. Caruaru (PE). 2023. [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/satisfacao_cultural_ciencias.pdf)
+<p>
 ---
-
 
 #### 2022  
 
-**NASCIMENTO, Francisco.**. Uma análise das implicações das representações de gênero nas histórias em quadrinhos de super-heróis para o ensino/aprendizagem de ciências. In: Editora Científica digital. (Org.). OPEN SCIENCE RESEARCH III. 1ed.São Paulo: Editora Científica digital, 2022, v. 3, p. 2401-2411.[![doi](https://itxesco.github.io/imagens/icones/icons16/doi-icon.png)](https://dx.doi.org/10.37885/220308328) [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/implicacoes_genero_sh.pdf)
-<p>
-SANTOS JUNIOR, Ubiratan  Gomes; **NASCIMENTO, Francisco.**. Pele Negra, Máscara Cromada. In: XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura.2022, Salvador (BA. Anais do XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura, 2022. [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/pele_negra_mascara_cromada.pdf)
-<p>
-**NASCIMENTO JR, Francisco.**. Como a cultura dos jogos digitais pode auxiliar no interesse pela ciência? Uma análise pandêmica de World of Warcraft. In: XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura.2022, Salvador (BA. Anais do XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura, 2022. [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/jogos_educacao_warcraft.pdf)
-<p>
-TEIXEIRA, M.M.L.; SANTANA, J.V.N.;BONFIM, V.C.; **NASCIMENTO JR, Francisco.**. Oficinas de RPG: a Transdisciplinaridade como caminho para um ensino decolonial de ciências. In: XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura.2022, Salvador (BA. Anais do XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura, 2022. [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/rpg_decolonialidade_ciencias.pdf)
+**NASCIMENTO, Francisco.**. Uma análise das implicações das representações de gênero nas histórias em quadrinhos de super-heróis para o ensino/aprendizagem de ciências. In: Editora Científica digital. (Org.). OPEN SCIENCE RESEARCH III. 1ed.São Paulo: Editora Científica digital, 2022, v. 3, p. 2401-2411.[![doi](https://itxesco.github.io/imagens/icones/icons16/doi-icon.png)](https://dx.doi.org/10.37885/220308328) [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/implicacoes_genero_sh.pdf)<br>
+
+
+SANTOS JUNIOR, Ubiratan  Gomes; **NASCIMENTO, Francisco.**. Pele Negra, Máscara Cromada. In: XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura.2022, Salvador (BA. Anais do XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura, 2022. [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/pele_negra_mascara_cromada.pdf)<br>
+
+
+**NASCIMENTO JR, Francisco.**. Como a cultura dos jogos digitais pode auxiliar no interesse pela ciência? Uma análise pandêmica de World of Warcraft. In: XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura.2022, Salvador (BA. Anais do XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura, 2022. [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/jogos_educacao_warcraft.pdf)<br>
+
+
+TEIXEIRA, M.M.L.; SANTANA, J.V.N.;BONFIM, V.C.; **NASCIMENTO JR, Francisco.**. Oficinas de RPG: a Transdisciplinaridade como caminho para um ensino decolonial de ciências. In: XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura.2022, Salvador (BA. Anais do XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura, 2022. [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/rpg_decolonialidade_ciencias.pdf)<br>
+
+   
+CARNEIRO, Ericka Cristian; **NASCIMENTO JR, Francisco.**. Literatura de Mulheres Negras no Ensino de Ciências. In: XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura.2022, Salvador (BA. Anais do XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura, 2022. [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/literatura_negras_ciencias.pdf)<br>
+
 ---
 
 
