@@ -16,7 +16,7 @@ Nesta página você pode ter acesso fácil a minhas publicações e colaboraçõ
 <p>
 <h4>2023</h4>
 
-<b>JUNIOR, Francisco de Assis Nascimento</b>; CARNEIRO, ERICKA SANTANA ; JESUS, MILENA SANTOS . LITERATURA NEGRO-BRASILEIRA: SIGNIFICANDO SENTIDOS PARA O CORPO NEGRO NO PROCESSO DE ENSINO-APRENDIZADO. CONHECIMENTO & DIVERSIDADE, v. 15, p. 556-575, 2023. <a href="https://dx.doi.org/10.18316/rcd.v15i37.9719"><img src="https://itxesco.github.io/imagens/icones/icons16/doi-icon.png"></a> | <a href="https://itxesco.github.io/biblioteca/artigos/literatura_negro_brasileira.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a><br>
+<b>JUNIOR, Francisco de Assis Nascimento</b>; CARNEIRO, Ericka Santana ; JESUS, Milena Santos . <b>Literatura Negro-Brasileira: Significando sentidos para o corpo negro no processo de ensino-aprendizado</b>. CONHECIMENTO & DIVERSIDADE, v. 15, p. 556-575, 2023. <a href="https://dx.doi.org/10.18316/rcd.v15i37.9719"><img src="https://itxesco.github.io/imagens/icones/icons16/doi-icon.png"></a> | <a href="https://itxesco.github.io/biblioteca/artigos/literatura_negro_brasileira.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a><br>
 <p>
 VISCONDE, S. K. F. ; <b>NASCIMENTO, F.</b>. Tecendo pontos: a Umbanda e a importância da etnomatemática na escola. OBSERVATORIO DE LA ECONOMÍA LATINOAMERICANA, v. 21, p. 4581-4595, 2023. <a href="https://dx.doi.org/10.55905/oelv21n6-077"><img src="https://itxesco.github.io/imagens/icones/icons16/doi-icon.png"></a> | <a href="https://itxesco.github.io/biblioteca/artigos/tecendo_pontos.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a>
 <p>
@@ -29,9 +29,8 @@ GOMES, Emerson F.; RAMOS, João Eduardo F.;<b>NASCIMENTO, Francisco</b>; PIASSI,
 <p>
 <h4>2022 </h4>
 
-<b>NASCIMENTO, Francisco.</b>. Uma análise das implicações das representações de gênero nas histórias em quadrinhos de super-heróis para o ensino/aprendizagem de ciências. In: Editora Científica digital. (Org.). OPEN SCIENCE RESEARCH III. 1ed.São Paulo: Editora Científica digital, 2022, v. 3, p. 2401-2411.<a href="https://dx.doi.org/10.37885/220308328"><img src="https://itxesco.github.io/imagens/icones/icons16/doi-icon.png"></a>  | <a href="https://itxesco.github.io/biblioteca/artigos/implicacoes_genero_sh.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a>
+<b>NASCIMENTO, Francisco.</b>. Uma análise das implicações das representações de gênero nas histórias em quadrinhos de super-heróis para o ensino/aprendizagem de ciências. In: Editora Científica digital. (Org.). OPEN SCIENCE RESEARCH III. 1ed.São Paulo: Editora Científica digital, 2022, v. 3, p. 2401-2411.<a href="https://dx.doi.org/10.37885/220308328"><img src="https://itxesco.github.io/imagens/icones/icons16/doi-icon.png"></a>  | <a href="https://itxesco.github.io/biblioteca/artigos/implicacoes_genero_sh.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a><br>
 <p>
-
 SANTOS JUNIOR, Ubiratan  Gomes; <b>NASCIMENTO, Francisco.</b>. Pele Negra, Máscara Cromada. In: XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura.2022, Salvador (BA. Anais do XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura, 2022. <a href="https://itxesco.github.io/biblioteca/artigos/pele_negra_mascara_cromada.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a>
 <p>
 <b>NASCIMENTO, F.</b>. Como a cultura dos jogos digitais pode auxiliar no interesse pela ciência? Uma análise pandêmica de World of Warcraft. In: XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura.2022, Salvador (BA. Anais do XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura, 2022. <a href="https://itxesco.github.io/biblioteca/artigos/jogos_educacao_warcraft.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a>
