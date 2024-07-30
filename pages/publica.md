@@ -5,7 +5,7 @@ description: prof. dr. Francisco de Assis Nascimento Junior artigos publicados
 ---
 <h3>Trabalhos publicados</h3>
 <p>
-Nesta página você pode ter acesso fácil a minhas publicações e colaborações, organizadas em ordem cronológica decrescente. Também estão disponíveis minha tese de doutorado, a dissertação de mestrado e as dissertações de mestrado que orientei.<br>
+Nesta página você pode ter acesso fácil a minhas publicações e colaborações, organizadas em ordem cronológica decrescente, de minha autoria ou realizados sob minha orientação.<br>
 <p>
 <li><a href="#mestrado">1. minha dissertação de mestrado</a></li>
 <li><a href="#doutorado">2. minha tese de doutorado</a></li>
@@ -149,3 +149,16 @@ NASCIMENTO JUNIOR, F. A.<b>QuartetoFantástico: Histórias em Quadrinhos, Ficç�
 ---
 <p>
 <h4 id="orientacoes">dissertações de mestrado que orientei</4>
+<p>
+1. Valtiângeli Rodrigues da Silva Moitinho. <b>O Ensino de Matemática: Uma Reflexão de Aprendizado dentro de uma Perspectiva Decolonial</b><a href="https://itxesco.github.io/biblioteca/dissertacoes/ensino_matematica_decolonial.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a> - 2021 <br>
+2. Sheila Katrini Ferrari Visconde. <b>A Matemática e o conhecimento de Povos de Terreiro: um diálogo necessário para as práticas de Ensino/Aprendizagem</b> <a href="https://itxesco.github.io/biblioteca/dissertacoes/matematica_povos_terreiro.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a> - 2021<br>
+3. Martha Matos Lucas Teixeira. <b>Aventuras da Escrita no Ensino de Ciências: Afrofuturismos e jogos de RPG em práticas interdisciplinares de oficinas de redação</b>.<a href="https://itxesco.github.io/biblioteca/dissertacoes/aventuras_escrita_ensino.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a> - 2023 <br>
+4. Ubiratan Gomes dos Santos Junior.<b> Sonhos na Areia:o Silenciamento das Religiões de Matriz Africana na Cultura Pop – Um Estudo do Caso Sandman</b> <a href="https://itxesco.github.io/biblioteca/dissertacoes/SONHOS_NA_AREIA_O_Silenciamento_das_Religies_de_Matriz_Africana_na_Cultura_Pop_.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a> - 2023 <br>
+5. Ericka Cristian Santana Carneiro. <b>Literatura de Mulheres Negras no Ensino de Ciências</b>. <a href="https://itxesco.github.io/biblioteca/dissertacoes/literatura_mulheres_negras.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a> - 2023 <br>
+6. Marideise Silva Presende. <b> Kuiá: Raízes da Ancestralidade Africana</b>.<a href="https://itxesco.github.io/biblioteca/dissertacoes/raizes_ancestralidade_africana.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a> - 2024 <br>
+7. Lenilson de Oliveira Silva. <b> ESTEREÓTIPOS DE CIENTISTAS NA IMAGINAÇÃO DE ESTUDANTES DE ESCOLAS INDÍGENAS PATAXÓ DE PORTO SEGURO E SEU IMPACTO NO ENSINO/APRENDIZAGEM DE FÍSICA</b> <a href="https://itxesco.github.io/biblioteca/dissertacoes/estereotipos_cientistas_indigenas.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a> - 2024.
+<p>
+<p>
+<p>
+<a href="#top">topo</a>
+<p>
