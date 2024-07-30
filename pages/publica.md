@@ -3,28 +3,37 @@ layout: page
 title:    
 description: prof. dr. Francisco de Assis Nascimento Junior artigos publicados
 ---
-Trabalhos publicados  (artigos em revistas, trabalhos em anais de eventos, livros e capitulos de livros) em ordem cronológica decrescente. Clique sobre os ícones para acessar diretamente os arquivos em pdf:
+<h3>Trabalhos publicados</h3>
+<p>
+Nesta página você pode ter acesso fácil a minhas publicações e colaborações, organizadas em ordem cronológica decrescente. Também estão disponíveis minha tese de doutorado, a dissertação de mestrado e as dissertações de mestrado que orientei.<br>
+<p>
+<li><a href="#mestrado">1. minha dissertação de mestrado</a></li>
+<li><a href="#doutorado">2. minha tese de doutorado</a></li>
+<li><a href="#orientacoes">3. dissertações de mestrado que orientei</a></li>
+<p>
+(Clique sobre os ícones para acessar diretamente os arquivos em pdf)
 <p>
 ---
 <p>
-<h3>2023</h3>
+<h4>2023</h4>
 
-**JUNIOR, Francisco de Assis Nascimento**; CARNEIRO, ERICKA SANTANA ; JESUS, MILENA SANTOS . LITERATURA NEGRO-BRASILEIRA: SIGNIFICANDO SENTIDOS PARA O CORPO NEGRO NO PROCESSO DE ENSINO-APRENDIZADO. CONHECIMENTO & DIVERSIDADE, v. 15, p. 556-575, 2023. [![doi](https://itxesco.github.io/imagens/icones/icons16/doi-icon.png)](https://dx.doi.org/10.18316/rcd.v15i37.9719) [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/literatura_negro_brasileira.pdf)
+<b>JUNIOR, Francisco de Assis Nascimento</b>; CARNEIRO, ERICKA SANTANA ; JESUS, MILENA SANTOS . LITERATURA NEGRO-BRASILEIRA: SIGNIFICANDO SENTIDOS PARA O CORPO NEGRO NO PROCESSO DE ENSINO-APRENDIZADO. CONHECIMENTO & DIVERSIDADE, v. 15, p. 556-575, 2023. <a href="https://dx.doi.org/10.18316/rcd.v15i37.9719"><img src="https://itxesco.github.io/imagens/icones/icons16/doi-icon.png"></a> | <a href="https://itxesco.github.io/biblioteca/artigos/literatura_negro_brasileira.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a>
 <p>
-VISCONDE, S. K. F. ; <b>NASCIMENTO, F.</b>. Tecendo pontos: a Umbanda e a importância da etnomatemática na escola. OBSERVATORIO DE LA ECONOMÍA LATINOAMERICANA, v. 21, p. 4581-4595, 2023. <a href="https://dx.doi.org/10.55905/oelv21n6-077"><img src="https://itxesco.github.io/imagens/icones/icons16/doi-icon.png"></a> <a href="https://itxesco.github.io/biblioteca/artigos/tecendo_pontos.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a>
+VISCONDE, S. K. F. ; <b>NASCIMENTO, F.</b>. Tecendo pontos: a Umbanda e a importância da etnomatemática na escola. OBSERVATORIO DE LA ECONOMÍA LATINOAMERICANA, v. 21, p. 4581-4595, 2023. <a href="https://dx.doi.org/10.55905/oelv21n6-077"><img src="https://itxesco.github.io/imagens/icones/icons16/doi-icon.png"></a> | <a href="https://itxesco.github.io/biblioteca/artigos/tecendo_pontos.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a>
 <p>
 GOMES, Emerson F.; RAMOS, João Eduardo F.;<b>NASCIMENTO, Francisco</b>; PIASSI, Luis Paulo. Satisfação Cultural e Ciência: a Teoria de Georges Snyders e seus diálogos no Ensino de Física. In: XXV Simpósio Nacional de Ensino de Física. Caruaru (PE). 2023. <a href="https://itxesco.github.io/biblioteca/artigos/satisfacao_cultural_ciencias.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a>
 <p>
-
+<p>
+<a href="#top">topo</a>
+<p>
 ---
 <p>
-<h3>2022 </h3>
+<h4>2022 </h4>
 
-<b>NASCIMENTO, Francisco.</b>. Uma análise das implicações das representações de gênero nas histórias em quadrinhos de super-heróis para o ensino/aprendizagem de ciências. In: Editora Científica digital. (Org.). OPEN SCIENCE RESEARCH III. 1ed.São Paulo: Editora Científica digital, 2022, v. 3, p. 2401-2411.<a href="https://dx.doi.org/10.37885/220308328"><img src="https://itxesco.github.io/imagens/icones/icons16/doi-icon.png"></a> <a href="https://itxesco.github.io/biblioteca/artigos/implicacoes_genero_sh.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a>
+<b>NASCIMENTO, Francisco.</b>. Uma análise das implicações das representações de gênero nas histórias em quadrinhos de super-heróis para o ensino/aprendizagem de ciências. In: Editora Científica digital. (Org.). OPEN SCIENCE RESEARCH III. 1ed.São Paulo: Editora Científica digital, 2022, v. 3, p. 2401-2411.<a href="https://dx.doi.org/10.37885/220308328"><img src="https://itxesco.github.io/imagens/icones/icons16/doi-icon.png"></a>  | <a href="https://itxesco.github.io/biblioteca/artigos/implicacoes_genero_sh.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a>
 <p>
 
-SANTOS JUNIOR, Ubiratan  Gomes; <b>NASCIMENTO, Francisco.</b>. Pele Negra, Máscara Cromada. In: XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura.2022, Salvador (BA. Anais do XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura, 2022.
-<a href="https://itxesco.github.io/biblioteca/artigos/pele_negra_mascara_cromada.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a>
+SANTOS JUNIOR, Ubiratan  Gomes; <b>NASCIMENTO, Francisco.</b>. Pele Negra, Máscara Cromada. In: XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura.2022, Salvador (BA. Anais do XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura, 2022. <a href="https://itxesco.github.io/biblioteca/artigos/pele_negra_mascara_cromada.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a>
 <p>
 <b>NASCIMENTO, F.</b>. Como a cultura dos jogos digitais pode auxiliar no interesse pela ciência? Uma análise pandêmica de World of Warcraft. In: XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura.2022, Salvador (BA. Anais do XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura, 2022. <a href="https://itxesco.github.io/biblioteca/artigos/jogos_educacao_warcraft.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a>
 <p>
@@ -34,32 +43,44 @@ TEIXEIRA, M.M.L.; SANTANA, J.V.N.;BONFIM, V.C.; <b>NASCIMENTO, Francisco.</b>. O
 
 CARNEIRO, Ericka Cristian; <b>NASCIMENTO JR, Francisco.</b>. Literatura de Mulheres Negras no Ensino de Ciências. In: XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura.2022, Salvador (BA. Anais do XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura, 2022. <a href="https://itxesco.github.io/biblioteca/artigos/literatura_negras_ciencias.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a>
 <p>
+<p>
+<a href="#top">topo</a>
+<p>
 ---
 <p>
-<h3>2021</h3>
+<h4>2021</h4>
 <p>
 <b>NASCIMENTO, F.</b>. Uma Discussão sobre a Decolonialidade no Ensino de Física. In: XXIV Simpósio Nacional de Ensino de Física (SNEF), 2021, Santo André (SP). Anais do XXIV SNEF, 2021. <a href="https://itxesco.github.io/biblioteca/anais/SNEF_2021_1.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a>
 <p>
 <b>NASCIMENTO, F.</b>. COLONIZAÇÃO CULTURAL E COLONIALISMO: UMA DISCUSSÃO NECESSÁRIA AO ENSINO DE FÍSICA. In: XXIV Simpósio Nacional de Ensino de Física (SNEF), 2021, Santo André (SP). Anais do XXIV SNEF, 2021. <a href="https://itxesco.github.io/biblioteca/anais/SNEF_2021_2.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a>
 <p>
----
 <p>
-<h3>2020</h3>
-<p>
-<b>NASCIMENTO, F.</b>. Alfabetização Freiriana e o Ensino de Física: uma Reflexão sobre o Papel da Escola. In: ABREU, Janaina M., PADILHA, Paulo Roberto (orgs). Como Alfabetizar com Paulo Freire? [ebook] 1 ed., São Paulo, Instituto Paulo Freire, 2020. <a href="https://dx.doi.org/10.18316/518977"><img src="https://itxesco.github.io/imagens/icones/icons16/doi-icon.png"></a> <a href="https://itxesco.github.io/biblioteca/artigos/E-book_Como_Alfabetizar_com_Paulo_Freire.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a>
-<p>
-<b>NASCIMENTO, F.</b>. Por que acreditamos em _fake news_?. In: OLIVEIRA, A. M. et al. Paulo Freire em tempos de fake news: Edição 2020. Recife: Even3 Publicações, 2020. <a href="https://doi.org/10.29327/523688"><img src="https://itxesco.github.io/imagens/icones/icons16/doi-icon.png"></a> <a href="https://itxesco.github.io/biblioteca/artigos/paulo-freire-em-tempos-de-fake-news-edicao-2020.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a>
-<p>
----
-<h3>2019</h3>
-<p>
-<b>NASCIMENTO, F.</b>. Stan Lee, o Quarteto Fantástico e a evolução da divulgação científica nas histórias em quadrinhos de super-heróis: possibilidades para uma aula de ciências. Diálogo (UNILASALLE), v. 1, p. 55-65, 2019. <a href="http://dx.doi.org/10.18316/dialogo.v0i42.5872"><img src="https://itxesco.github.io/imagens/icones/icons16/doi-icon.png"></a> <a href="https://itxesco.github.io/biblioteca/artigos/5872-19839-2-PB_1.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a>
+<a href="#top">topo</a>
 <p>
 ---
 <p>
-<h3>2017</h3>
+<h4>2020</h4>
 <p>
-<b>NASCIMENTO, F.</b>; PIASSI, L. P. C. . Super-homens da América: por que precisamos falar sobre os quadrinhos de super-heróis?. CULTURAS MIDIÁTICAS, v. 10, p. 239-255, 2017. <a href="http://dx.doi.org/10.22478/ufpb.1983-5930.2017v10n2.37669"><img src="https://itxesco.github.io/imagens/icones/icons16/doi-icon.png"></a> <a href="https://itxesco.github.io/biblioteca/artigos/artigo_supermen_of_america.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a>
+<b>NASCIMENTO, F.</b>. Alfabetização Freiriana e o Ensino de Física: uma Reflexão sobre o Papel da Escola. In: ABREU, Janaina M., PADILHA, Paulo Roberto (orgs). Como Alfabetizar com Paulo Freire? [ebook] 1 ed., São Paulo, Instituto Paulo Freire, 2020. <a href="https://dx.doi.org/10.18316/518977"><img src="https://itxesco.github.io/imagens/icones/icons16/doi-icon.png"></a> | <a href="https://itxesco.github.io/biblioteca/artigos/E-book_Como_Alfabetizar_com_Paulo_Freire.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a>
+<p>
+<b>NASCIMENTO, F.</b>. Por que acreditamos em _fake news_?. In: OLIVEIRA, A. M. et al. Paulo Freire em tempos de fake news: Edição 2020. Recife: Even3 Publicações, 2020. <a href="https://doi.org/10.29327/523688"><img src="https://itxesco.github.io/imagens/icones/icons16/doi-icon.png"></a> | <a href="https://itxesco.github.io/biblioteca/artigos/paulo-freire-em-tempos-de-fake-news-edicao-2020.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a>
+<p>
+<p>
+<a href="#top">topo</a>
+<p>
+---
+<h4>2019</h4>
+<p>
+<b>NASCIMENTO, F.</b>. Stan Lee, o Quarteto Fantástico e a evolução da divulgação científica nas histórias em quadrinhos de super-heróis: possibilidades para uma aula de ciências. Diálogo (UNILASALLE), v. 1, p. 55-65, 2019. <a href="http://dx.doi.org/10.18316/dialogo.v0i42.5872"><img src="https://itxesco.github.io/imagens/icones/icons16/doi-icon.png"></a> | <a href="https://itxesco.github.io/biblioteca/artigos/5872-19839-2-PB_1.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a>
+<p>
+<p>
+<a href="#top">topo</a>
+<p>
+---
+<p>
+<h4>2017</h4>
+<p>
+<b>NASCIMENTO, F.</b>; PIASSI, L. P. C. . Super-homens da América: por que precisamos falar sobre os quadrinhos de super-heróis?. CULTURAS MIDIÁTICAS, v. 10, p. 239-255, 2017. <a href="http://dx.doi.org/10.22478/ufpb.1983-5930.2017v10n2.37669"><img src="https://itxesco.github.io/imagens/icones/icons16/doi-icon.png"></a> | <a href="https://itxesco.github.io/biblioteca/artigos/artigo_supermen_of_america.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a>
 <p>
 BARROS, N. R.; <b>NASCIMENTO JUNIOR, F. A.</b>; PIASSI, L. P. C. . O Funk e o Rock nas estrelas: uma oficina para o ensino de astronomia. REVISTA INTERFACES, v. 5, p. 247-256, 2017. <a href="https://itxesco.github.io/biblioteca/artigos/20170705174923.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a>
 <p>
@@ -71,9 +92,12 @@ Cardoso, G.V.; <b>NASCIMENTO, F.</b>; PIASSI, L. P. C. . FÍSICA E CINEMA: UMA O
 <p>
 BARROS, N. R.; <b>NASCIMENTO, F.</b>; PIASSI, L. P. C. . O funk e o rock nas estrelas: uma oficina para o ensino de astronomia. In: XXII Simpósio Nacional de Ensino de Física - SNEF, 2017, São Carlos. Anais do XXII SNEF, 2017. <a href="https://itxesco.github.io/biblioteca/anais/funkerock.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a>
 <p>
+<p>
+<a href="#top">topo</a>
+<p>
 ---
 <p>
-<h3>2015</h3>
+<h4>2015</h4>
 <p>
 <b>NASCIMENTO, F.</b>; PIASSI, L. P. C. . Role-Playing Games nas Aulas de Física. Revista de Enseñanza de la Física, v. 27, p. 675-681, 2015. <a href="https://itxesco.github.io/biblioteca/artigos/Role-Playing_Games_nas_Aulas_de_Fsica.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a>
 <p>
@@ -83,9 +107,12 @@ Cardoso, G.V.; <b>NASCIMENTO, F.</b>; PIASSI, L. P. C. . Batman e semicondutores
 <p>
 SILVA, F. A. M.; <b>NASCIMENTO, F.</b>; PIASSI, L. P. C. . A Identificação do Cientista nos Quadrinhos de Ficção Científica - Uma Análise do caso " Magnetar". In: 3 Jornadas Internacionais de Histórias em Quadrinhos, 2015, São Paulo. anais das 3 Jornadas Internacionais de Histórias em Quadrinhos, 2015. <a href="https://itxesco.github.io/biblioteca/anais/artigo_080620151103012.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a>
 <p>
+<p>
+<a href="#top">topo</a>
+<p>
 ---
 <p>
-<h3>2014</h3>
+<h4>2014</h4>
 
 <p>
 <b>NASCIMENTO, F.</b>; PIASSI, L. P. . Fantastic Four: Scientific Fiction Comic Books and Cultural Satisfaction as a tool in Physics Teaching. REVISTA DE EDUCACION DE LAS CIENCIAS, v. 15, p. 160-160, 2014. <a href="https://itxesco.github.io/biblioteca/artigos/NASCIMENTOF.A.2014FantasticFour-ScientificFictionComicBooksandCulturalSatisfactionasatoolinPhysicsTeaching.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a>
@@ -96,9 +123,12 @@ SILVA, F. A. M.; <b>NASCIMENTO, F.</b>; PIASSI, L. P. C. . A Identificação do 
 <p>
 <b>NASCIMENTO, F.</b>; PIASSI, L. P. C. . Crise de Identidade: a Representação de Gênero nos Quadrinhos de Super-Heróis. In: 3o Congresso Internacional Interdisciplinar Em Sociais E Humanidades (Coninter)o Congresso Internacional Interdisciplinar Em Sociais E Humanidades (Coninter), 2014, Salvador. CONINTER 3 - Volume 7 - Estudos de Gênero, Feminismo e Sexualidades, 2014. v. 7. p. 1. <a href="https://itxesco.github.io/biblioteca/anais/NASCIMENTOJRF.A.2014CRISEDEIDENTIDADE.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a>
 <p>
+<p>
+<a href="#top">topo</a>
+<p>
 ---
 <p>
-<h3>tese</h3>
+<h4 id="doutorado">tese de doutorado</h4>
 ---
 <p>
 NASCIMENTO JUNIOR, F. A.<b>Crise de identidade: gênero e ciência nos quadrinhos de super-heróis</b>. Tese (Doutorado) – Faculdade de Educação da Universidade
@@ -107,8 +137,15 @@ de São Paulo. São Paulo: Universidade de São Paulo, 2017.
 <p>
 ---
 
-<h3>dissertação</h3>
+<h4 id="mestrado">dissertação de mestrado</h4>
 ---
 <p>
 NASCIMENTO JUNIOR, F. A.<b>QuartetoFantástico: Histórias em Quadrinhos, Ficção Científica e Satisfação Cultural no Ensino de Ciências</b>. Dissertação (Mestrado em Ensino de Ciências). Instituto de Física da Universidade de São Paulo.
 <a href="https://teses.usp.br/teses/disponiveis/81/81131/tde-23042013-113427/pt-br.php">disponível no repositório de teses e dissertações da USP - clique aqui para acessar </a>
+<p>
+<p>
+<a href="#top">topo</a>
+<p>
+---
+<p>
+<h4 id="orientacoes">dissertações de mestrado que orientei</4>
