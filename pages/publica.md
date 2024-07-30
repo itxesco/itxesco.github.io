@@ -145,7 +145,7 @@ NASCIMENTO JUNIOR, F. A.<b>QuartetoFantástico: Histórias em Quadrinhos, Ficç�
 4. Ubiratan Gomes dos Santos Junior.<b> Sonhos na Areia:o Silenciamento das Religiões de Matriz Africana na Cultura Pop – Um Estudo do Caso Sandman</b> |2023| <a href="https://itxesco.github.io/biblioteca/dissertacoes/SONHOS_NA_AREIA_O_Silenciamento_das_Religies_de_Matriz_Africana_na_Cultura_Pop_.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a><br>
 5. Ericka Cristian Santana Carneiro. <b>Literatura de Mulheres Negras no Ensino de Ciências</b>. |2023| <a href="https://itxesco.github.io/biblioteca/dissertacoes/literatura_mulheres_negras.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a><br>
 6. Marideise Silva Presende. <b> Kuiá: Raízes da Ancestralidade Africana</b>. |2024|<a href="https://itxesco.github.io/biblioteca/dissertacoes/raizes_ancestralidade_africana.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a><br>
-7. Lenilson de Oliveira Silva. <b> ESTEREÓTIPOS DE CIENTISTAS NA IMAGINAÇÃO DE ESTUDANTES DE ESCOLAS INDÍGENAS PATAXÓ DE PORTO SEGURO E SEU IMPACTO NO ENSINO/APRENDIZAGEM DE FÍSICA</b> |2024|<a href="https://itxesco.github.io/biblioteca/dissertacoes/estereotipos_cientistas_indigenas.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a>.
+7. Lenilson de Oliveira Silva. <b> Estereótipos de Cientistas na  Imaginação de Estudantes de Escolas Indígenas Pataxó de Porto Seguro e seu Impacto no Ensino/Aprendizagem de Física</b> |2024|<a href="https://itxesco.github.io/biblioteca/dissertacoes/estereotipos_cientistas_indigenas.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a>.
 <p>
 <p>
 <p>
