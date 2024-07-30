@@ -15,14 +15,19 @@ VISCONDE, S. K. F. ; **NASCIMENTO, F.** . Tecendo pontos: a Umbanda e a importâ
 
 #### 2022  
 
-**NASCIMENTO, Francisco.**. Uma análise das implicações das representações de gênero nas histórias em quadrinhos de super-heróis para o ensino/aprendizagem de ciências. In: Editora Científica digital. (Org.). OPEN SCIENCE RESEARCH III. 1ed.São Paulo: Editora Científica digital, 2022, v. 3, p. 2401-2411.[![doi](https://itxesco.github.io/imagens/icones/icons16/doi-icon.png)](https://dx.doi.org/10.37885/220308328) [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/implicacoes_genero_sh.pdf)<br/>
-
+**NASCIMENTO, Francisco.**. Uma análise das implicações das representações de gênero nas histórias em quadrinhos de super-heróis para o ensino/aprendizagem de ciências. In: Editora Científica digital. (Org.). OPEN SCIENCE RESEARCH III. 1ed.São Paulo: Editora Científica digital, 2022, v. 3, p. 2401-2411.[![doi](https://itxesco.github.io/imagens/icones/icons16/doi-icon.png)](https://dx.doi.org/10.37885/220308328) [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/implicacoes_genero_sh.pdf)
+<p>
+SANTOS JUNIOR, Ubiratan  Gomes; **NASCIMENTO, Francisco.**. Pele Negra, Máscara Cromada. In: XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura.2022, Salvador (BA. Anais do XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura, 2022. [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/pele_negra_mascara_cromada.pdf)
+<p>
+**NASCIMENTO JR, Francisco.**. Como a cultura dos jogos digitais pode auxiliar no interesse pela ciência? Uma análise pandêmica de World of Warcraft. In: XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura.2022, Salvador (BA. Anais do XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura, 2022. [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/jogos_educacao_warcraft.pdf)
+<p>
+TEIXEIRA, M.M.L.; SANTANA, J.V.N.;BONFIM, V.C.; **NASCIMENTO JR, Francisco.**. Oficinas de RPG: a Transdisciplinaridade como caminho para um ensino decolonial de ciências. In: XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura.2022, Salvador (BA. Anais do XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura, 2022. [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/rpg_decolonialidade_ciencias.pdf)
 ---
 
 
 #### 2021  
 **NASCIMENTO, F.**. Uma Discussão sobre a Decolonialidade no Ensino de Física. In: XXIV Simpósio Nacional de Ensino de Física (SNEF), 2021, Santo André (SP). Anais do XXIV SNEF, 2021. [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/anais/SNEF_2021_1.pdf)
-
+<p>
 **NASCIMENTO, F.**. COLONIZAÇÃO CULTURAL E COLONIALISMO: UMA DISCUSSÃO NECESSÁRIA AO ENSINO DE FÍSICA. In: XXIV Simpósio Nacional de Ensino de Física (SNEF), 2021, Santo André (SP). Anais do XXIV SNEF, 2021. [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/anais/SNEF_2021_2.pdf)
 
 ---
@@ -50,11 +55,17 @@ VISCONDE, S. K. F. ; **NASCIMENTO, F.** . Tecendo pontos: a Umbanda e a importâ
 
 **NASCIMENTO, F.**; PIASSI, L. P. C. . Super-homens da América: por que precisamos falar sobre os quadrinhos de super-heróis?. CULTURAS MIDIÁTICAS, v. 10, p. 239-255, 2017. [![doi](https://itxesco.github.io/imagens/icones/icons16/doi-icon.png)](http://dx.doi.org/10.22478/ufpb.1983-5930.2017v10n2.37669)
 [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/artigo_supermen_of_america.pdf)
-
-
+<p>
 BARROS, N. R. ; **NASCIMENTO JUNIOR, F. A.** ; PIASSI, L. P. C. . O Funk e o Rock nas estrelas: uma oficina para o ensino de astronomia. REVISTA INTERFACES, v. 5, p. 247-256, 2017. [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/20170705174923.pdf)
-
+<p>
 **NASCIMENTO, F**. Quarteto Fantástico: Ensino de Física e Satisfação Cultural. 1. ed. Balti: Novas Edições Acadêmicas, 2017. v. 1. 116p .
+<p>
+**NASCIMENTO, F.**; PIASSI, L. P. C. . Questões de Gênero: dos Quadrinhos de Super-Heróis para as aulas de Física. In: XXII Simpósio Nacional de Ensino de Física - SNEF, 2017, São Carlos. Anais do XXII SNEF, 2017. [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/anais/snef2017.pdf)
+<p>
+Cardoso, G.V. ; **NASCIMENTO, F.** ; PIASSI, L. P. C. . FÍSICA E CINEMA: UMA OFICINA SOBRE
+SEMICONDUTORES COM O USO DO FILME BATMAN, O CAVALEIRO DAS TREVAS. In: XXII Simpósio Nacional de Ensino de Física - SNEF, 2017, São Carlos. Anais do XXII SNEF, 2017. [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/anais/oficinabatman.pdf)
+<p>
+BARROS, N. R. ;**NASCIMENTO, F.**; PIASSI, L. P. C. . O funk e o rock nas estrelas: uma oficina para o ensino de astronomia. In: XXII Simpósio Nacional de Ensino de Física - SNEF, 2017, São Carlos. Anais do XXII SNEF, 2017.  [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/anais/funkerock.pdf)
 
 ---
 
@@ -62,8 +73,13 @@ BARROS, N. R. ; **NASCIMENTO JUNIOR, F. A.** ; PIASSI, L. P. C. . O Funk e o Roc
 #### 2015
 
 **NASCIMENTO, F.**; PIASSI, L. P. C. . Role-Playing Games nas Aulas de Física. Revista de Enseñanza de la Física, v. 27, p. 675-681, 2015. [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/Role-Playing_Games_nas_Aulas_de_Fsica.pdf)
-
+<p>
 Cardoso, G.V. ; **NASCIMENTO, F.** ; PIASSI, L. P. C. . Batman e semicondutores: uma interface cultural entre o cinema e a física. Revista de Enseñanza de la Física, v. 27, p. 365-370, 2015.  [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/Batman_e_semicondutores_uma_interface_cultural_entre_o_cinema_e_a_fsica.pdf)
+<p>
+**NASCIMENTO, F.**; PIASSI, L.P.C. . A Representação do diálogo Gênero-Ciência nos Quadrinhos da DC Comics. In: 3 Jornadas Internacionais de Histórias em Quadrinhos, 2015, São Paulo. anais das 3 Jornadas Internacionais de Histórias em Quadrinhos, 2015.[![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/anais/A_REPRESENTACAO_DO_DIALOGO_GENERO_CIENCI.pdf)
+<p>
+SILVA, F. A. M.; **NASCIMENTO, F.**; PIASSI, L. P. C. . A Identificação do Cientista nos Quadrinhos de Ficção Científica - Uma Análise do caso " Magnetar". In: 3 Jornadas Internacionais de Histórias em Quadrinhos, 2015, São Paulo. anais das 3 Jornadas Internacionais de Histórias em Quadrinhos, 2015.[![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/anais/artigo_080620151103012.pdf)
+<p>
 
 ---
 
@@ -71,26 +87,13 @@ Cardoso, G.V. ; **NASCIMENTO, F.** ; PIASSI, L. P. C. . Batman e semicondutores:
 #### 2014
 
 **NASCIMENTO, F.**; PIASSI, L. P. . Fantastic Four: Scientific Fiction Comic Books and Cultural Satisfaction as a tool in Physics Teaching. REVISTA DE EDUCACION DE LAS CIENCIAS, v. 15, p. 160-160, 2014. [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/NASCIMENTOF.A.2014FantasticFour-ScientificFictionComicBooksandCulturalSatisfactionasatoolinPhysicsTeaching.pdf)
-
+<p>
 **NASCIMENTO, F.**; LIMA, M. M. . Superguia Enem : matemática e física. 1. ed. Bauru: Editora Alto Astral, 2014. v. 1. 90p.
-
----
-
-**NASCIMENTO, F.**; PIASSI, L. P. C. . Questões de Gênero: dos Quadrinhos de Super-Heróis para as aulas de Física. In: XXII Simpósio Nacional de Ensino de Física - SNEF, 2017, São Carlos. Anais do XXII SNEF, 2017. [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/anais/snef2017.pdf)
-
-Cardoso, G.V. ; **NASCIMENTO, F.** ; PIASSI, L. P. C. . FÍSICA E CINEMA: UMA OFICINA SOBRE
-SEMICONDUTORES COM O USO DO FILME BATMAN, O CAVALEIRO DAS TREVAS. In: XXII Simpósio Nacional de Ensino de Física - SNEF, 2017, São Carlos. Anais do XXII SNEF, 2017. [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/anais/oficinabatman.pdf)
-
-BARROS, N. R. ;**NASCIMENTO, F.**; PIASSI, L. P. C. . O funk e o rock nas estrelas: uma oficina para o ensino de astronomia. In: XXII Simpósio Nacional de Ensino de Física - SNEF, 2017, São Carlos. Anais do XXII SNEF, 2017.  [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/anais/funkerock.pdf)
-
-**NASCIMENTO, F.**; PIASSI, L.P.C. . A Representação do diálogo Gênero-Ciência nos Quadrinhos da DC Comics. In: 3 Jornadas Internacionais de Histórias em Quadrinhos, 2015, São Paulo. anais das 3 Jornadas Internacionais de Histórias em Quadrinhos, 2015.[![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/anais/A_REPRESENTACAO_DO_DIALOGO_GENERO_CIENCI.pdf)
-
-SILVA, F. A. M.; **NASCIMENTO, F.**; PIASSI, L. P. C. . A Identificação do Cientista nos Quadrinhos de Ficção Científica - Uma Análise do caso " Magnetar". In: 3 Jornadas Internacionais de Histórias em Quadrinhos, 2015, São Paulo. anais das 3 Jornadas Internacionais de Histórias em Quadrinhos, 2015.[![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/anais/artigo_080620151103012.pdf)
-
+<p>
 **NASCIMENTO, F.**; PIASSI, L. P. C. . A Gênese da cultura dos quadrinhos no Brasil. In: 3o Congresso Internacional Interdisciplinar Em Sociais E Humanidades (Coninter), 2014, Salvador. Anais CONINTER 3 -Volume 5 - Educação, Memória e História, 2014. v. 5. p. 207-221. [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/anais/NASCIMENTOJRF.A.2014AGnesedaCulturadosQuadrinhosnoBrasil.pdf)
-
+<p>
 **NASCIMENTO, F.**; PIASSI, L. P. C. . Crise de Identidade: a Representação de Gênero nos Quadrinhos de Super-Heróis. In: 3o Congresso Internacional Interdisciplinar Em Sociais E Humanidades (Coninter)o Congresso Internacional Interdisciplinar Em Sociais E Humanidades (Coninter), 2014, Salvador. CONINTER 3 - Volume 7 - Estudos de Gênero, Feminismo e Sexualidades, 2014. v. 7. p. 1. [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/anais/NASCIMENTOJRF.A.2014CRISEDEIDENTIDADE.pdf)
-
+<p>
 ---
 
 #### <a name="techreports"></a>tese
