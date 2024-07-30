@@ -20,9 +20,8 @@ GOMES, Emerson F.; RAMOS, João Eduardo F.;**NASCIMENTO, Francisco**; PIASSI, Lu
 
 
 SANTOS JUNIOR, Ubiratan  Gomes; **NASCIMENTO, Francisco.**. Pele Negra, Máscara Cromada. In: XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura.2022, Salvador (BA. Anais do XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura, 2022.
-<a href="https://itxesco.github.io/biblioteca/artigos/pele_negra_mascara_cromada.pdf"><img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png"></a><br>
-
-
+[![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](href=https://itxesco.github.io/biblioteca/artigos/pele_negra_mascara_cromada.pdf)
+<p>
 **NASCIMENTO JR, Francisco.**. Como a cultura dos jogos digitais pode auxiliar no interesse pela ciência? Uma análise pandêmica de World of Warcraft. In: XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura.2022, Salvador (BA. Anais do XVIII Enecult – Encontro de Estudos Multidisciplinares em Cultura, 2022. [![pdf](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/jogos_educacao_warcraft.pdf)<br>
 
 
