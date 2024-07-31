@@ -4,14 +4,14 @@ title: arquivos e artigos úteis
 description: notas de aulas do prof. dr. Francisco de Assis Nascimento Junior da UFSB
 ---
 
- **minhas notas de aula**
+ <h4>minhas notas de aula</h4>
 
 - [introdução ao cálculo](https://itxesco.github.io/pages/notas/introcalculo/index.html)
 - [sociedades tecnológicas e matrizes energéticas](https://itxesco.github.io/pages/notas/ISC0462.html)
 - [física geral](https://itxesco.github.io/pages/notas/fisicageral/index.html)
 
 ---
- **sobre o Transtorno do Espectro Autista**
+ <h4>sobre o Transtorno do Espectro Autista</h4>
 <p>
 1. Legislação
 <p>
@@ -43,8 +43,8 @@ description: notas de aulas do prof. dr. Francisco de Assis Nascimento Junior da
 <p>
 <p>
 ---
- **minhas listas de exercícios**
-
+ <h4>minhas listas de exercícios</h4>
+<p>
 - <a href="https://itxesco.github.io/pages/notas/introcalculo/listas.html">intro ao cálculo</a><br>
 [não é um curso de pré-cálculo, está no meio do caminho entre o Ensino Médio e um bom curso de cálculo 1]
 <p>
@@ -58,8 +58,8 @@ Se algum link estiver quebrado, por gentileza, entre em contato comigo no horár
 <p>
 <p>
 ---
-  **minhas notas de aula**
-
+  <h4>minhas notas de aula</h4>
+<p>
  - <a href="https://itxesco.github.io/pages/notas/introcalculo/index.html">introdução ao cálculo</a>
 <p>
 - <a href="https://itxesco.github.io/pages/notas/ISC0462.html">sociedades tecnológicas e matrizes energéticas</a>
