@@ -1,19 +1,20 @@
 ---
 layout: page
-title: Decanato
-description: IHAC-CSC da UFSB
+title: a Universidade Federal do Sul da Bahia
+description: decanato do IHAC-CSC da UFSB
 ---
 <p>
-<li><a href="#decano">1. O que faz um Decano?</a></li>
-<li><a href="#ihac">2. O IHAC-CSC</a></li>
-<li><a href="#lis">3. Licenciaturas Interdisciplinares?</a></li>
-<li><a href="#ppger">4. O PPGER</a></li>
-<li><a href="gestao">5. A gestão 2022-2026</a></li>
+<li><a href="#decano">1. O que é um Decano?</a></li>
+<li><a href="gestao">2. A gestão 2022-2026</a></li>
+<li><a href="#ihac">3. O IHAC-CSC</a></li>
+<li><a href="#lis">4. Licenciaturas Interdisciplinares?</a></li>
+<li><a href="#ppger">5. O PPGER</a></li>
+
 <p>
 
 ---
 <div class="content">
-    <h4 id="decano">O que faz um Decano?</h4>
+    <h4 id="decano">O que é um Decano?</h4>
   </div>
 
 <p>
@@ -23,10 +24,23 @@ Como a UFSB nasceu "do zero", sem se desmembrar de uma Universidade Federal pré
 Na prática, isso faz com que a pessoa eleita para uma gestão de 04 anos na direção da unidade seja tratado como "Decano" ou "Decana", ao invés de "Diretor". <br>
 Eu exerço a função de Decano do Instituto de Humanidades, Artes e Ciências do Campus Sosígenes Costa (<a href="https://ufsb.edu.br/ihac-csc/">IHAC-CSC</a>) da UFSB desde julho de 2022.<br>
 <p>
-<img src="https://itxesco.github.io/assets/figuras/decanato/programa_chapa_2.jpg" alt="propostas da chapa para o decanato do IHAC-CSC" class="centered-img">
-<p>
 <p>
 <a href="#top">topo</a><br>
+---
+<div class="content">
+    <h4 id="gestao">A gestão 2022-2026</h4>
+  </div>
+  p>
+  <img src="https://itxesco.github.io/assets/figuras/decanato/programa_chapa_2.jpg" alt="propostas da chapa para o decanato do IHAC-CSC" class="centered-img">
+  <p>
+  Os problemas enfrentados pelo IHAC-CSC após a reestruturação administrativa que realocou os cursos de Bacharelados Interdisciplinares para os respectivos Centros de Formação de suas grandes áreas (CFAC - Artes; CFCAM - Ciências Ambientais; CFCHS - Ciências Humanas e Sociais) e em meio a pandemia SARS COVID-19, eram diferentes daqueles que enfrentamos hoje.<br>
+  As propostas da nossa chapa vieram na direção de buscar e apresentar soluções para essas questões, direcionando o IHAC-CSC para aquela que acreditamos ser sua verdadeira vocação: constituir-se como o Centro de Educação da UFSB.<br>
+  Na metade do pleito (julho de 2024), elas ja foram quase que integralmente alcançadas, mas outros problemas surgiram: a falta de infraestrutura do Campus e problemas com o transporte de estudantes, por exemplo. Além de questões como a carga-horária docente e as dificuldades administrativas em ser reconhecido como um Centro de Educação pela própria UFSB.<br>
+  Espero que sejamos capazes de resolver tudo no decorrer dos próximos dois anos.
+  Você pode baixar a apresentação feita por mim para o CONSUNI ao tomar posse, onde apresentamos nosso plano de gestão estratégica para o IHAC-CSC até 2026 aqui.
+  <p>
+  <p>
+  <a href="#top">topo</a><br>
 ---
 <p>
 <div class="content">
@@ -38,11 +52,11 @@ O <a href="https://ufsb.edu.br/ihac-csc/">IHAC-CSC</a>, está localizado em Port
 <br />
 Originalmente, o IHAC-CSC foi pensado para abrigar todos os cursos de 1o ciclo do regime de formação da UFSB, os Bacharelados Interdisciplinares (BIs) e  as Licenciaturas Interdisciplinares (LIs). Em 2019, com a readequação administrativa da universidade, os BIs foram transferidos para os respectivos Centros de Formação e o  IHAC-CSC passou a  atuar exclusivamente no campo da Educação com suas 05 LIs:<br>
 <p>
-Em <a href="https://www.instagram.com/li.ciencias.natureza.csc>Ciências da Natureza e suas tecnologias</a><br>
-Em <a href="https://www.instagram.com/lichs.ufsb.csc>Ciências Humanas e Sociais e suas tecnologias</a><br>
-Em <a href="https://www.instagram.com/licenciatura_em_artes_ufsb>Artes e suas tecnologias</a><br>
-Em <a href="https://www.instagram.com/li.matcom.csc>Matemática e Computação e suas tecnologias</a><br>
-Em <a href="https://www.instagram.com/linguagens.csc> Linguagens e suas Tecnologias</a><br>
+Em <a href="https://www.instagram.com/li.ciencias.natureza.csc">Ciências da Natureza e suas tecnologias</a><br>
+Em <a href="https://www.instagram.com/lichs.ufsb.csc">Ciências Humanas e Sociais e suas tecnologias</a><br>
+Em <a href="https://www.instagram.com/licenciatura_em_artes_ufsb">Artes e suas tecnologias</a><br>
+Em <a href="https://www.instagram.com/li.matcom.csc">Matemática e Computação e suas tecnologias</a><br>
+Em <a href="https://www.instagram.com/linguagens.csc"> Linguagens e suas Tecnologias</a><br>
 <p>
  A  resolução do Conselho Nacional de Educação (CNE) estabelecendo a Base Nacional Comum para a Formação Inicial de Professores da Educação Básica e as diretrizes curriculares nacionais para os docentes, determinou o limite mínimo de duração e a carga-horária básica dos cursos de Licenciatura, agora alterados para 4 anos e 3200 horas, respectivamente. <br>
 Esse cenário impactou o modelo original das Licenciaturas Interdisciplinares, primeiramente pensadas como cursos de “primeiro ciclo”. Percebeu-se que as LIs possuem  características dos cursos de 1o e de 2 o ciclos em um só, unificado. Na prática, se apresentam como um ciclo a parte, único. <br>
@@ -76,18 +90,12 @@ Após essa fase, ao iniciar a Formação Específica, o estudante cumpre todos o
 ---
 <p>
 <div class="content">
-    <h2 id="ppger">O PPGER</h2>
+    <h4 id="ppger">O PPGER</h4>
   </div>
   <p>
   <p>
   <a href="#top">topo</a><br>
 ---
 
-<div class="content">
-    <h4 id="gestao">A gestão 2022-2026</h4>
-  </div>
-  <p>
-  <p>
-  <a href="#top">topo</a><br>
----
+
 <p>
