@@ -31,13 +31,16 @@ Em <a href="https://www.instagram.com/li.matcom.csc">Matemática e Computação 
 Em <a href="https://www.instagram.com/linguagens.csc"> Linguagens e suas Tecnologias</a><br>
 <p>
  A  resolução do Conselho Nacional de Educação (CNE) estabelecendo a Base Nacional Comum para a Formação Inicial de Professores da Educação Básica e as diretrizes curriculares nacionais para os docentes, determinou o limite mínimo de duração e a carga-horária básica dos cursos de Licenciatura, agora alterados para 4 anos e 3200 horas, respectivamente. <br>
+ <p>
 Esse cenário impactou o modelo original das Licenciaturas Interdisciplinares, primeiramente pensadas como cursos de “primeiro ciclo”. Percebeu-se que as LIs possuem  características dos cursos de 1o e de 2 o ciclos em um só, unificado. Na prática, se apresentam como um ciclo a parte, único. <br>
+<p>
 Na Pós-Graduação, o IHAC-CSC conta com o mestrado profissional do Programa de Pós-graduação em Ensino e Relações Étnico-raciais (PPGER - Conceito CAPES 04) e o recém-criado Programa <i>Lato Sensu</i> Educação para a Equidade em Ciências e Matemática.
 <br>
 <p>
 <p style="text-align: justify;">
 O IHAC-CSC conta com 36 docentes, sendo 90% detentores do título de Doutor e os outros 10% em processo de doutoramento, responsáveis por ofertar suas 05 LIs e realizar a gestão dos cursos e da unidade. Sua missão é promover a formação interdisciplinar inicial e continuada de professoras/es nas grandes áreas de Educação (Ensino, Artes, Ciências da Natureza, Ciências Humanas e Sociais, Linguagens e Matemática e Computação) em todos os níveis, contribuir para a construção de uma educação pública de base antirracista, gratuita e de qualidade, articulando a relação universidade /redes de ensino público em prol do desenvolvimento de seu território de abrangência. <br>
-Seu compromisso é prestar com excelência e primor atividades de ENSINO, PESQUISA E EXTENSÃO, buscando sempre contribuir para a melhoria contínua da educação na região conhecida como “Costa do Descobrimento” no litoral sul da Bahia.
+<p>
+Nosso compromisso é prestar com excelência e primor atividades de ENSINO, PESQUISA E EXTENSÃO, buscando sempre contribuir para a melhoria contínua da educação na região conhecida como “Costa do Descobrimento” no litoral sul da Bahia.
 <br>
 <p>
 <p>
@@ -50,7 +53,7 @@ Seu compromisso é prestar com excelência e primor atividades de ENSINO, PESQUI
   </div>
 <p>
 <p>
-<img src="https://itxesco.github.io/assets/figuras/decanato/encontro_lis.jpg" alt="I Encontro dos Ingressantes nas LIs do IHAC-CSC em 2023" class="centered-img">
+<img src="https://itxesco.github.io/assets/figuras/decanato/encontro_lis.png" alt="I Encontro dos Ingressantes nas LIs do IHAC-CSC em 2023" class="centered-img">
 <p>
 <p style="text-align: justify;">
 As Licenciaturas Interdisciplinares (LIs) da UFSB são cursos de graduação que formam de docentes capazes de atuar no ensino básico nas grandes áreas de conhecimento, que correspondem aos Parâmetros Curriculares Nacionais do Ensino Médio: Artes e suas tecnologias, Ciências Humanas e Sociais e suas tecnologias, Ciências da Natureza e suas tecnologias, Linguagens e suas tecnologias, Matemática e Computação e suas tecnologias. Todos são articulados por uma base comum de CCs de cunho cognitivo (a “formação geral” ou FG) e orientadas por um mesmo eixo de Componentes Curriculares obrigatórias do campo da Educação.<br>
@@ -89,8 +92,10 @@ Eu exerço a função de Decano do Instituto de Humanidades, Artes e Ciências d
   <img src="https://itxesco.github.io/assets/figuras/decanato/programa_chapa_2.jpg" alt="propostas da chapa para o decanato do IHAC-CSC" class="centered-img">
   <p>
   Os problemas enfrentados pelo IHAC-CSC após a reestruturação administrativa que realocou os cursos de Bacharelados Interdisciplinares para os respectivos Centros de Formação de suas grandes áreas (CFAC - Artes; CFCAM - Ciências Ambientais; CFCHS - Ciências Humanas e Sociais) e em meio a pandemia SARS COVID-19, eram diferentes daqueles que enfrentamos hoje.<br>
+  <p>
   As propostas da nossa chapa vieram na direção de buscar e apresentar soluções para essas questões, direcionando o IHAC-CSC para aquela que acreditamos ser sua verdadeira vocação: constituir-se como o Centro de Educação da UFSB.<br>
   Na metade do pleito (julho de 2024), elas ja foram quase que integralmente alcançadas, mas outros problemas surgiram: a falta de infraestrutura do Campus e problemas com o transporte de estudantes, por exemplo. Além de questões como a carga-horária docente e as dificuldades administrativas em ser reconhecido como um Centro de Educação pela própria UFSB.<br>
+  <p>
   Espero que sejamos capazes de resolver tudo no decorrer dos próximos dois anos.
   Você pode baixar a apresentação feita por mim para o CONSUNI ao tomar posse, onde apresentamos nosso plano de gestão estratégica para o IHAC-CSC até 2026 <a href="https://itxesco.github.io/biblioteca/ihac/plano_gestao_ihac.pdf">aqui. |<img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png">|</a><br>
   <p>
