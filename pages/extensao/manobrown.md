@@ -78,6 +78,8 @@ description: Projetos de extensão Universitária - Prof. Dr. Francisco Nascimen
 
   A decisão de conceder a honraria a Mano Brown foi deliberada e aprovada no Conselho Universitário da UFSB em 16 de agosto de 2023.
     <p>
+    Acesse meu parecer <a href="https://itxesco.github.io/biblioteca/ihac/relatoria_mano.pdf">aqui. |<img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png">|</a><br>
+    <p>
   1. <h4 id="processo">1. O Processo</h4>
   <p>
   <img src="https://itxesco.github.io/assets/figuras/extensao/assinatura.JPG" alt="Mano Brown assina seu certificado" class="centered-img">
@@ -93,7 +95,7 @@ description: Projetos de extensão Universitária - Prof. Dr. Francisco Nascimen
   <img src="https://itxesco.github.io/assets/figuras/extensao/assinatura_4.jpeg" alt="Mano Brown assina seu certificado" class="centered-img">
   <p>
   <p>
-  
+
   O inimigo de Aquaman, Black Manta, está no final da lista porque, francamente, ele é simplesmente constrangedor em termos de representação autista. A edição nº 8 da série de quadrinhos Aquaman de 2003 o reconfigura como um órfão autista criado em Arkham, que de alguma forma está "curado" de seu autismo e então se torna um supervilão. O autismo não é algo que pode ser curado, e as pessoas nem deveriam achar isso!
 <p>
 <p>
