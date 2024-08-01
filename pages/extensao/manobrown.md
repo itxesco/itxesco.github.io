@@ -77,6 +77,8 @@ description: Projetos de extensão Universitária - Prof. Dr. Francisco Nascimen
   No roteiro, ocorrerá uma apresentação cultural de abertura, seguida da solenidade propriamente dita, uma exibição de documentário e uma segunda apresentação cultural no encerramento.
 
   A decisão de conceder a honraria a Mano Brown foi deliberada e aprovada no Conselho Universitário da UFSB em 16 de agosto de 2023.
+<p>
+Acesse o memorial e a justificativa apresentados pela PROEX  <a href="https://itxesco.github.io/biblioteca/ihac/2_Memorial_Mano_Brown.pdf">aqui. |<img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png">|</a><br>
     <p>
     Acesse meu parecer <a href="https://itxesco.github.io/biblioteca/ihac/relatoria_mano.pdf">aqui. |<img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png">|</a><br>
     <p>
