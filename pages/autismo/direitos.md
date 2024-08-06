@@ -81,8 +81,9 @@ Você pode encontrar a lista completa dos direitos das pessoas com autismo  <a h
           <li><a href="#pcd">3. Identifique seu veículo como PCD</a></li>
           <li><a href="#ipva">4. Obtenha a isenção do IPVA</a></li>
           <li><a href="#CNH">5. Altere sua CNH para PCD</a></li>
-          <li><a href="#transporte">6. Obtenha a gratuidade no Transporte Público</a></li>
-          <li><a href="#passagens">7. Obtenha o desconto na passagem aérea para acompanhantes</a></li>
+          <li><a href="#transporte">6. Acesse a gratuidade no Transporte Público</a></li>
+          <li><a href="#passagens">7. Acesse o desconto na passagem aérea para acompanhantes</a></li>
+            <li><a href="#veiculos">8. Acesse o desconto para compra de veículos</a></li>
   <p>
 
   <h3 id="documentos">É muito importante regularizar sua documentação</h3>
@@ -218,13 +219,70 @@ Dois dias depois, a imagem da minha CNH digital mudou e ficou assim:
   E agora, estou aguardando receber a versão física do documento.
     <a href="#top">volte ao topo</a></p><p>
   <p>
-  <b><h4 id="transporte">6. Obtenha a gratuidade no transporte público municipal</h4></b>
+  <b><h4 id="transporte">6. Acesse a gratuidade no transporte público municipal</h4></b>
   <p>
   A preencher
   <p>
     <a href="#top">volte ao topo</a></p>
   <p>
-  <b><h4 id="passagens">7. Obtenha o desconto na passagem aérea para acompanhantes</h4></b>
+  <b><h4 id="passagens">7. Acesse o desconto na passagem aérea para acompanhantes</h4></b>
   </p>
   <p>
     <a href="#top">volte ao topo</a></p>
+    <p>
+    <p>
+    <b><h4 id="passagens">8. Acesse o desconto para compra de um veículo</h4></b>
+    </p>
+    <p>
+    Este eu deixei por último, porque acredito que nem todo mundo irá buscar usufruir desse direito. Eu, mesmo, não esperava precisar dele  antes de alguns anos. Comprei um carro ano 2020 em 2022 e seguia muito feliz com ele, até sofrer na mão de uma série de manutenções e reparos mau-feitos por mecânicos "reconhecidos" aqui na cidade, mas que não sabem instalar um motor de ventoinha do radiador.
+    Enfim, estou nos primeiros passos do processo, que também farei por São Paulo devido a facilidade de agendamento.
+    A essa altura, você já deve ter percebido que para exercer cada direito se deve percorrer um diferente caminho burocrático. Se já fez a CNH PCD e obteve a isenção do IPVA, foram duas perícias diferentes pelo DETRAN até chegar aqui e, adivinhe? Sim, terá que fazer uma terceira.
+    O passo-a-passo, com sua CNH PCD em mãos, lembre-se de que para iniciar o seu processo, deve antes marcar uma  consulta com seu médico para levar um laudo impresso assinado e carimbado com seu diagnóstico. Não leve o seu "laudo de gaveta" porque irá ficar sem ele, no processo. A partir dai:
+<p>
+  1. Documentos para isenção de IPI e IOF
+<p>
+        • Preencher requerimentos de pedido de isenção de IPI fornecidos pela Receita Federal.
+
+        • Laudo Médico e carteira de habilitação, (duas) cópias autenticadas pelo Detran.
+
+        • 2 (duas) cópias autenticadas por cartório do CPF, RG e comprovante de endereço (luz ou telefone fixo).
+
+        • 1 (uma) cópia simples da última declaração do Imposto de Renda. Obs.: Se não for declarante, apresentar cópia da declaração de Isento (também chamado recadastramento de CPF) ou, se for dependente, levar declaração do responsável legal.
+
+        • Documento que prove regularidade de contribuição a previdência (INSS). Ex: Holerite (destacar campo que informe o valor recolhido para o INSS), Extrato Semestral de Aposentadoria (caso esteja aposentado) ou no caso de Autônomo, empresário e profissional liberal, declaração do INSS que demonstre recolhimento mensal chamada de DRSCI obtido pela internet no site www.dataprev.gov.br ou direto em uma agencia da Previdência Social.
+
+
+        Obs.: Caso não se enquadre em nenhuma das situações acima, preencher declaração sob as penas da lei de não contribuinte do INSS
+        <p>
+2. Documentos para isenção de ICMS
+<p>
+        • Kit de requerimento de isenção de ICMS assinado com firma reconhecida, conseguido no posto fiscal da Secretaria da Fazenda.
+
+        • 1 Laudo médico (Detran) original e carteira de habilitação autenticada pelo Detran.
+
+        • 1 (uma) cópia autenticada por cartório do CPF, RG e comprovante de endereço que demonstre consumo (água, luz ou telefone fixo).
+
+        • Carta do vendedor, (que será emitida pela montadora que fabrica o carro escolhido). Este documento é fornecido pela concessionária onde será efetuada a compra.
+
+        • Cópia simples da última declaração de Imposto de Renda (Ano vigente).
+
+        • Comprovantes de capacidade econômica financeira: Exemplo: Holerite, extrato de poupança, aplicação ou documento do atual veículo que será vendido e usado como parte de pagamento.
+<p>
+3. Documentos para isenção de IPVA
+<p>
+• As instruções oficiais iniciam com um "Preencher Kit de requerimento em 3 vias de isenção de IPVA". Eu ainda não localizei esse "kit", estou aguardando encerrar o processo que iniciei e que explico <li><a href="#ipva">aqui</a></li>.
+
+• Laudo médico (uma cópia autenticada).
+
+• 1 (uma) cópia autenticada do RG, CPF, comprovante de residência (água, luz ou telefone fixo), carteira de motorista, certificado de propriedade e licenciamento do veículo frente e verso. (Obrigatoriamente em nome da Pessoa com Deficiência).
+
+• 1 (uma) cópia da nota fiscal da compra do carro (Somente para 0km).
+
+• Cópia autenticada da nota fiscal do serviço de adaptação do seu veículo (caso seja necessária alguma adaptação).
+
+• Declaração que irá possuir apenas um veículo com a isenção de IPVA.
+
+Obs.: No caso de possuir mais de um veículo em seu nome, só será aceita a isenção de apenas um veículo, ficando os demais sujeitos ao pagamento normal do tributo.
+    <p>
+4.
+      <a href="#top">volte ao topo</a></p>
