@@ -48,12 +48,13 @@ description: notas de aulas do prof. dr. Francisco de Assis Nascimento Junior da
 - <a href="https://itxesco.github.io/pages/notas/introcalculo/listas.html">intro ao cálculo</a><br>
 [não é um curso de pré-cálculo, está no meio do caminho entre o Ensino Médio e um bom curso de cálculo 1]
 <p>
-- <a href="https://itxesco.github.io/pages/notas/ISC0302.html">Movimento e geometria</a><br>
+- <a href="https://itxesco.github.io/pages/notas/ISC0302.html">Movimento e Geometria</a><br>
 [para o BI Ciencias da UFSB]
 <p>
 - <a href="https://itxesco.github.io/pages/notas/fisicageral/listas.html">física geral</a><br>
 [uma ementa parecida com a da finada Física 0, do bacharelado no IFUSP]
 <p>
+- <a href="https://itxesco.github.io/pages/aulas/ISC0752_files/listas.html">introdução à mecânica clássica</a><br>
 Se algum link estiver quebrado, por gentileza, entre em contato comigo no horário de aula.
 <p>
 <p>
@@ -66,4 +67,5 @@ Se algum link estiver quebrado, por gentileza, entre em contato comigo no horár
 <p>
 - <a href="https://itxesco.github.io/pages/notas/fisicageral/index.html">física geral</a>
 <p>
+- <a href="https://itxesco.github.io/pages/aulas/ISC0752_files/ISC0752_notas_de_aula.pdf">Introdução à Mecânica Clássica</a>"
  ---
