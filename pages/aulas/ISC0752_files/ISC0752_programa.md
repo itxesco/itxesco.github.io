@@ -8,8 +8,8 @@ title: ISC0752
 
 | Encontro | Data  | Tópico | Slides | Notas de Aula |
 | :---: | :--- |:---:| :---: | :--: |
-| 1|23/10	| SNCT - Programação oficial da UFSB |  [![texto][pdf]][1] | [![texto][pdf]][1] |
-| 2|30/10	| Os Pilares da Terra | [![texto][pdf]][2] | [![texto][pdf]][1] |
+| 1|23/10	| SNCT - Programação oficial da UFSB | - | - |
+| 2|30/10	| Os Pilares da Terra | [![texto][pptx]][1] | [![texto][pdf]][2] |
 | 3|06/11	|	Matemática, A Linguagem da Física | [![texto][pdf]][3] | [![texto][pdf]][1] |
 | 4|13/11	|	Respirar é Preciso (atividade programada) | [![texto][pdf]][4] | [![texto][pdf]][1] |
 | 5|20/11	|	Cálculo rapidinho | [![texto][pdf]][5]  | [![texto][pdf]][1] |
@@ -36,7 +36,9 @@ title: ISC0752
 [volte para a página anterior](https://itxesco.github.io/pages/aulas/ISC0752_index.html)  
 
 
-[pdf]: https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png  
+[pdf]: https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png
+[pptx]: https://itxesco.github.io/imagens/icones/icons16/pptx-icon.png
+
 [1]: https://itxesco.github.io/pages/aulas/ISC0752_files/slides/ISC0752_slides_aula01.pdf "atualizar"  
 [2]: https://itxesco.github.io/pages/aulas/ISC0752_files/notas/ISC0752_notas_aula01.pdf "atualizar"
 
