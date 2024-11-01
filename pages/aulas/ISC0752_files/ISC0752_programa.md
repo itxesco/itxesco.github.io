@@ -30,7 +30,7 @@ title: ISC0752
 | 18|12/03	|	A Lei da Gravitação é Universal | - | [![texto][pdf]][1] |
 
 
-#####	Fim do Quadrimestre letivo 2024.2
+#####	Fim do Semestre letivo 2024.2
 
 ---
 [volte para a página anterior](https://itxesco.github.io/pages/aulas/ISC0752_index.html)  

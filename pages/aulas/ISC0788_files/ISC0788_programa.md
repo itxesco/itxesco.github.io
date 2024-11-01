@@ -1,43 +1,57 @@
 ---
 layout: page
-title: CAM0172
+title: ISC0788
 ---
-#### Campo das Ciências: Saberes e Práticas -  Agenda do quadrimestre letivo 2020.2  
-
----
-
-| Encontro | Data  | Tópico | Leitura |
-| :---: | :--- |:---:| :---: |
-| 1|16/10	| Acolhimento - Programação oficial da UFSB |  [![texto][pdf]][1] |
-| 2|23/10	| Delimitação e abrangência do Campo das Ciências: Saberes e práticas | [![texto][pdf]][2] |
-| 3|30/10	|	A construção do conhecimento científico e seu poder transformador | [![texto][pdf]][3] |
-| 4|06/11	|	A produção e divulgação do conhecimento | [![texto][pdf]][4] |
-| 5|13/11	|	As bases de dados e os textos científicos | [![texto][pdf]][5]  |
-| 6|20/11	|	Estrutura de um Artigo científico, relatório e laudo (parecer) técnicos | [![texto][pdf]][6] |
-| 7|27/11	|	Método cientifico para produção de conhecimento: a. O problema (pergunta científica) e a hipótese científica; b. Justificativa; c. Objetivo geral e objetivos específicos; d. Revisão bibliográfica; e. Metodologia (Material e Métodos) | [![texto][pdf]][7] |
-| 8|04/12	| Cursos de Primeiro, Segundo e Terceiros Ciclos ofertados pela UFSB na grande área de Ciências | [![texto][pdf]][8] |
-| 9|11/12	|	Conhecendo carreiras e profissões do campo das Ciências: Engenharias, Ciências Exatas e da Terra, Ciências Biológicas e Ciências Agrárias. | [![texto][pdf]][9] |
-| 10|18/12	|	Uma Proposta de investigação científica em Nosso Território: descrição do problema, fato ou fenômeno; justificativa para um estudo cientifico; objetivos geral e específicos; revisão de literatura; metodologia; resultados esperados; cronograma de execução; orçamento; fonte de financiamento. | [![texto][pdf]][10]  |
-| - |21/12	| **início do recesso de fim de ano - interrupção do curso (2020)** | - |
-| - |25/01 | **fim do recesso - retorno  (2021)** | - |
-| 11|29/01	|	 entrevistas [dirigentes do CIEPS] | [![texto][pdf]][11] |
-| 12|01/02	|	O perfil profissional de um pesquisador e sua atuação nos campos das ciências: Ciências Exatas e da Terra, Ciências Biológicas, Engenharias, Ciências Agrárias e Ciências Ambientais. | - |
-
-#####  06/02		Fim do Quadrimestre letivo 2020.2
+#### Extensão Universitária na Formação de Professores/as [CCEX] (turmas 1 e 2) -  Agenda, slides e notas de aula  
 
 ---
-[sobre a Componente Curricular](index.html)  
-[programa](programa.html)
 
-[pdf]: https://itxesco.github.io/pages/icons16/pdf-icon.png  
-[1]: https://itxesco.github.io/aulas/ISC0180/recursos/PlanoAtividadesES1.pdf "atualizar"  
-[2]: https://itxesco.github.io/aulas/ISC0180/recursos/PlanoAtividadesES1.pdf "atualizar"
-[3]: https://itxesco.github.io/aulas/ISC0180/recursos/PlanoAtividadesES1.pdf "atualizar"
-[4]: https://itxesco.github.io/aulas/ISC0180/recursos/PlanoAtividadesES1.pdf "atualizar"
-[5]: https://itxesco.github.io/aulas/ISC0180/recursos/PlanoAtividadesES1.pdf "atualizar"
+| Encontro | Data  | Tópico | Slides | Notas de Aula |
+| :---: | :--- |:---:| :---: | :--: |
+| 1|24/10	| SNCT - Programação oficial da UFSB | - | - |
+| 2|31/10	| APRESENTAÇÃO E DISCUSSÃO DO P.E.A.; O QUE É EXTENSÃO E QUAL É A SUA IMPORTÂNCIA PARA A NOSSA FORMAÇÃO UNIVERSITÁRIA; CONCEITO E DIRETRIZES PARA A EXTENSÃO UNIVERSITÁRIA NA UFSB (CONVERSA INICIAL) | [![texto][pdf]][1] | [![texto][pdf]][2] |
+| 3|06/11	|	... | [![texto][pdf]][3] | [![texto][pdf]][1] |
+| 4|13/11	|	... | [![texto][pdf]][4] | [![texto][pdf]][1] |
+| 5|20/11	|	... | [![texto][pdf]][5]  | [![texto][pdf]][1] |
+| 6|27/11	|	... | [![texto][pdf]][6] | [![texto][pdf]][1] |
+| 7|04/12	|	... | [![texto][pdf]][7] | [![texto][pdf]][1] |
+| 8|11/12	| ... | [![texto][pdf]][8] | [![texto][pdf]][1] |
+| 9|18/12	|	... | [![texto][pdf]][9] | [![texto][pdf]][1] |
+| 10|25/12	|	Feliz Natal | [![texto][pdf]][10]  | [![texto][pdf]][1] |
+| - |01/01	| Feliz 2026 | - | - |
+| - |08/01 | **última semana de recesso (2024)** | - | - |
+| 11|15/01	|	 Revisão Geral do conteúdo (atividade programada)| [![texto][pdf]][11] | [![texto][pdf]][1] |
+| 12|22/01	|	Atividade Programada | - | [![texto][pdf]][1] |  |
+| 13|29/01	|	... | - | [![texto][pdf]][1] |
+| 14|05/02	|	 ... | - | [![texto][pdf]][1] |  
+| 15|12/02	|	... | - | [![texto][pdf]][1] |
+| 16|26/02	|	... | - | [![texto][pdf]][1] |
+| 17|05/03	|	... | - | [![texto][pdf]][1] |  
+| 18|12/03	|	... | - | [![texto][pdf]][1] |
+
+
+#####	Fim do Semestre letivo 2024.2
+
+---
+[volte para a página anterior](https://itxesco.github.io/pages/aulas/ISC0752_index.html)  
+
+
+[pdf]: https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png
+[pptx]: https://itxesco.github.io/imagens/icones/icons16/pptx-icon.png
+
+[1]: https://itxesco.github.io/pages/aulas/ISC0788_files/slides/ISC0788_slides_aula01.pdf "atualizar"  
+[2]: https://itxesco.github.io/pages/aulas/ISC0752_files/notas/ISC0752_notas_aula01.pdf "atualizar"
+
+[3]: https://itxesco.github.io/pages/aulas/ISC0752_files/slides/fundamentos_de_mecanica_aula01.pdf "atualizar"
+[4]: https://itxesco.github.io/pages/aulas/ISC0752_files/fundamentos_de_mecanica_aula01.pdf "atualizar"
+
+[5]: https://itxesco.github.io/pages/aulas/ISC0752_files/slides/fundamentos_de_mecanica_aula01.pdf "atualizar"
 [6]: https://itxesco.github.io/aulas/ISC0180/recursos/PlanoAtividadesES1.pdf "atualizar"
-[7]: https://itxesco.github.io/aulas/ISC0180/recursos/PlanoAtividadesES1.pdf "atualizar"
+
+[7]: https://itxesco.github.io/pages/aulas/ISC0752_files/slides/fundamentos_de_mecanica_aula01.pdf "atualizar"
 [8]: https://itxesco.github.io/aulas/ISC0180/recursos/PlanoAtividadesES1.pdf "atualizar"
-[9]: https://itxesco.github.io/aulas/ISC0180/recursos/PlanoAtividadesES1.pdf "atualizar"
+
+[9]: https://itxesco.github.io/pages/aulas/ISC0752_files/slides/fundamentos_de_mecanica_aula01.pdf "atualizar"
 [10]: https://itxesco.github.io/aulas/ISC0180/recursos/PlanoAtividadesES1.pdf "atualizar"
-[11]: https://itxesco.github.io/aulas/ISC0180/recursos/PlanoAtividadesES1.pdf "atualizar"
+
+[11]: https://itxesco.github.io/pages/aulas/ISC0752_files/slides/fundamentos_de_mecanica_aula01.pdf "atualizar"
