@@ -2,12 +2,12 @@
 layout: page
 title: ISC0752
 ---
-#### Fundamentos de Mecânica Clássica -  Agenda, slides e notas de aulas do quadrimestre letivo 2024.2  
+#### Fundamentos de Mecânica Clássica -  Agenda, slides e notas de aula  
 
 ---
 
 | Encontro | Data  | Tópico | Slides | Notas de Aula |
-| :---: | :--- |:---:| :---: |
+| :---: | :--- |:---:| :---: | :--: |
 | 1|23/10	| SNCT - Programação oficial da UFSB |  [![texto][pdf]][1] | [![texto][pdf]][1] |
 | 2|30/10	| Os Pilares da Terra | [![texto][pdf]][2] | [![texto][pdf]][1] |
 | 3|06/11	|	Matemática, A Linguagem da Física | [![texto][pdf]][3] | [![texto][pdf]][1] |
@@ -18,9 +18,9 @@ title: ISC0752
 | 8|11/12	| Terceira Parte do conteúdo de Dinâmica | [![texto][pdf]][8] | [![texto][pdf]][1] |
 | 9|18/12	|	Primeira Avaliação | [![texto][pdf]][9] | [![texto][pdf]][1] |
 | 10|25/12	|	Feliz Natal | [![texto][pdf]][10]  | [![texto][pdf]][1] |
-| - |01/01	| Feliz 2026 | - |
-| - |08/01 | **fúltima semana de recesso (2024)** | - | - |
-| 11|15/01	|	 Revisão Geral da Componente (atividade programada)| [![texto][pdf]][11] | [![texto][pdf]][1] |
+| - |01/01	| Feliz 2026 | - | - |
+| - |08/01 | **última semana de recesso (2024)** | - | - |
+| 11|15/01	|	 Revisão Geral do conteúdo (atividade programada)| [![texto][pdf]][11] | [![texto][pdf]][1] |
 | 12|22/01	|	Atividade Programada | - | [![texto][pdf]][1] |  |
 | 13|29/01	|	A energia que precisamos para iniciar o ano | - | [![texto][pdf]][1] |
 | 14|05/02	|	 Energia (parte 2) | - | [![texto][pdf]][1] |  
