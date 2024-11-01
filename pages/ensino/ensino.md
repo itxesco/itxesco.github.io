@@ -13,9 +13,11 @@ Na [graduação](https://ufsb.edu.br/ensino/graduacao) leciono Componentes Curri
 ---
 #### <a name="current"></a> ![UFSB](https://itxesco.github.io/imagens/icones/icons16/ufsb-icon.jpg)  Componentes Curriculares  sendo ministradas no semestre atual (2024.2):  
 
-**ISC0752** - [Fundamentos de Mecânica Clássica](https://itxesco.github.io/pages/aulas/ISC0752_index.html)
-**ISC0813** - [ESTÁGIO SUPERVISIONADO IV DAS CIÊNCIAS](https://itxesco.github.io/pages/aulas/ISC0813_index.html)  
-**ISC0788** - [EXTENSÃO UNIVERSITÁRIA NA FORMAÇÃO DE PROFESSORES/AS - CCEX](https://itxesco.github.io/pages/aulas/ISC0788_index.html)
+**ISC0752** - [Fundamentos de Mecânica Clássica](https://itxesco.github.io/pages/aulas/ISC0752_index.html)  
+**ISC0813** - [ESTÁGIO SUPERVISIONADO IV DAS CIÊNCIAS](https://itxesco.github.io/pages/aulas/ISC0813_index.html)    
+
+**ISC0788** - [EXTENSÃO UNIVERSITÁRIA NA FORMAÇÃO DE PROFESSORES/AS - CCEX](https://itxesco.github.io/pages/aulas/ISC0788_index.html)  
+
 **ISC0787** - [PRÁTICAS DECOLONIAIS E PEDAGOGIA FREIRIANA NO ENSINO DE CIÊNCIAS](https://itxesco.github.io/pages/aulas/ISC0787_index.html)  
 
 ---

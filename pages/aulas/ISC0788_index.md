@@ -13,7 +13,7 @@ A Aprendizagem Baseada em Problemas Concretos (ABPC) por todo o tempo dialoga co
 Ao final, pretende-se contribuir para a aproximação entre conhecimento e aprendizado através da ação,  tendo como meta a formação pautada na cidadania ativa..
 
 
->- [conteúdo programático](https://itxesco.github.io/aulas/ISC0070/agenda.html)
+>- [conteúdo programático](https://itxesco.github.io/pages/aulas/ISC0788_files/ISC0788_programa.html)
 
 ---
 
@@ -22,10 +22,10 @@ Ao final, pretende-se contribuir para a aproximação entre conhecimento e apren
 
     <div class="row-fluid">
         <div class="span5">
-          <p>  presencialmente,  quintas-feiras 18:30-21:00, sala 11 no Bloco Central (devido a pandemia COVID-19, estão substituídos por encontros síncronos. O link para o servidor está disponibilizado na área da componente no sigaA e também foi encaminhado por e-mail.</p>
+          <p>  presencialmente,  quintas-feiras 18:30-21:00, sala Itabela no Pórtico (Sede do Campus).</p>
             <br>
 <p> <b>atendimento</b>
-deve ser agendado por e-mail e irá ocorrer nas quartas-feiras 13:30-16:30 na area reservada no servidor da Componente no Discord</p>
+deve ser agendado com antecedência e irá ocorrer na disponibilidade discente, na sala do professor</p>
 <br/>
 
 
