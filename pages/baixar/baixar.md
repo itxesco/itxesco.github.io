@@ -8,7 +8,8 @@ description: notas de aulas do prof. dr. Francisco de Assis Nascimento Junior da
 
 - [introdução ao cálculo](https://itxesco.github.io/pages/notas/introcalculo/index.html)
 - [sociedades tecnológicas e matrizes energéticas](https://itxesco.github.io/pages/notas/ISC0462.html)
-- [física geral](https://itxesco.github.io/pages/notas/fisicageral/index.html)
+- [física geral](https://itxesco.github.io/pages/notas/fisicageral/index.html)  
+- <a href="https://itxesco.github.io/pages/aulas/ISC0752_files/ISC0752_notas_de_aula.pdf">Fundamentos de  Mecânica Clássica</a>"
 
 ---
  <h4>sobre o Transtorno do Espectro Autista</h4>
@@ -59,13 +60,3 @@ Se algum link estiver quebrado, por gentileza, entre em contato comigo no horár
 <p>
 <p>
 ---
-  <h4>minhas notas de aula</h4>
-<p>
- - <a href="https://itxesco.github.io/pages/notas/introcalculo/index.html">introdução ao cálculo</a>
-<p>
-- <a href="https://itxesco.github.io/pages/notas/ISC0462.html">sociedades tecnológicas e matrizes energéticas</a>
-<p>
-- <a href="https://itxesco.github.io/pages/notas/fisicageral/index.html">física geral</a>
-<p>
-- <a href="https://itxesco.github.io/pages/aulas/ISC0752_files/ISC0752_notas_de_aula.pdf">Introdução à Mecânica Clássica</a>"
- ---

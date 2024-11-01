@@ -3,9 +3,8 @@ layout: page
 title: ISC0752 - Fundamentos de Mecânica Clássica
 description: Francisco de Assis Nascimento Junior é Professor Adjunto no Campus Sosígenes Costa da Universidade Federal do Sul da Bahia, em Porto Seguro (BA); onde atua na formação de professores e pesquisa as relações entre identidade de gênero/relações étnico-raciais no Ensino de Ciências através das Histórias em Quadrinhos de Super-Heróis
 ---
->- [cronograma](https://itxesco.github.io/pages/aulas/ISC0752_files/agenda.html)
+- [pronograma, slides e notas de aula](https://itxesco.github.io/pages/aulas/ISC0752_files/ISC0752_programa.md)
 >- [Plano de Ensino e Aprendizagem](https://itxesco.github.io/pages/aulas/ISC0752_files/programa.html)
->- [Notas de Aula](https://itxesco.github.io/pages/baixar/baixar.html)
 >- [Textos e Material de Apoio](https://itxesco.github.io/pages/aulas/ISC0752_files/textos.html)
 
 <h4>Apresentação</h4>
@@ -84,7 +83,7 @@ O horário de atendimento será combinado com a turma, levando em consideração
 <p>
     <div class="row-fluid">
         <div class="span5">
-          <p>  presencialmente nas terças-feiras, das 18:30 às 22:30, sala 11 no CIEB (CUNI Porto) .
+          <p>  presencialmente nas terças-feiras, das 18:30 às 22:30, sala Itabela no Bloco de Feiras (Sede) .
           </p>
             <br>
 <p> <b>atendimento</b>

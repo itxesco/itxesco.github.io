@@ -11,7 +11,15 @@ O quadrimestre letivo 2023.3 foi o último da Universidade. Mais informações e
 Na [graduação](https://ufsb.edu.br/ensino/graduacao) leciono Componentes Curriculares (CCs)  pertencentes ao chamado "Eixo da Educação" (obrigatórias para todas as Licenciaturas Interdisciplinares) e  nas CCs específicas de Física/Ensino de Física  e estágio supervisionado para a  [Licenciatura Interdisciplinar em Ciências da Natureza e suas tecnologias](https://ufsb.edu.br/component/content/article/1907-licenciatura-interdisciplinar-em-ciencias-da-natureza-csc). Também integro o NDE e o Colegiado desse Curso.
 
 ---
-#### <a name="current"></a> ![UFSB](https://itxesco.github.io/imagens/icones/icons16/ufsb-icon.jpg)  Componentes Curriculares  ministradas durante o regime quadrimestral:
+#### <a name="current"></a> ![UFSB](https://itxesco.github.io/imagens/icones/icons16/ufsb-icon.jpg)  Componentes Curriculares  sendo ministradas no semestre atual (2024.2):  
+
+**ISC0752** - [Fundamentos de Mecânica Clássica](https://itxesco.github.io/pages/aulas/ISC0752_index.html)
+**ISC0813** - [ESTÁGIO SUPERVISIONADO IV DAS CIÊNCIAS](https://itxesco.github.io/pages/aulas/ISC0813_index.html)  
+**ISC0788** - [EXTENSÃO UNIVERSITÁRIA NA FORMAÇÃO DE PROFESSORES/AS - CCEX](https://itxesco.github.io/pages/aulas/ISC0788_index.html)
+**ISC0787** - [PRÁTICAS DECOLONIAIS E PEDAGOGIA FREIRIANA NO ENSINO DE CIÊNCIAS](https://itxesco.github.io/pages/aulas/ISC0787_index.html)  
+
+---
+##### <a name="current"></a> ![UFSB](https://itxesco.github.io/imagens/icones/icons16/ufsb-icon.jpg)  Componentes Curriculares  ministradas durante o regime quadrimestral:
 
 ---
 
@@ -24,7 +32,8 @@ Na [graduação](https://ufsb.edu.br/ensino/graduacao) leciono Componentes Curri
 |  **ISC0390** - [Estágio Supervisionado V](https://itxesco.github.io/aulas/ISC0390/index.html) | **ISC0462** - [Sociedade Tecnológica e Matrizes Energéticas](https://itxesco.github.io/aulas/ISC0462/index.html) |  
 | **ISC0468** - [Estágio Supervisionado VI](https://itxesco.github.io/aulas/ISC0468/index.html) | **ISC0070** - [Matemática e Espaço](https://itxesco.github.io/aulas/ISC0070/index.html) |  
 | **ISC0528** - [Pesquisa em Ensino de Ciências](https://itxesco.github.io/aulas/ISC0528/index.html) | **CAM0172** - [Campo das Ciências - Saberes e Práticas](https://itxesco.github.io/aulas/CAM0172/index.html) |  
-| **ISC0312** - [Educação e Relações Étnico-Raciais](https://itxesco.github.io/aulas/ISC0312/index.html) | **ISC0467** - [Práticas Laboratoriais Interdisciplinares em Ciências da Natureza](https://itxesco.github.io/aulas/ISC0467/index.html) |  
+| **ISC0312** - [Educação e Relações Étnico-Raciais](https://itxesco.github.io/aulas/ISC0312/index.html) | **ISC0467** - [Práticas Laboratoriais Interdisciplinares em Ciências da Natureza](https://itxesco.github.io/aulas/ISC0467/index.html) |
+| **ISC0787** - [Práticas Decoloniais e Pedagogia Freireana no Ensino de Ciências](https://itxesco.github.io/pages/aulas/ISC0787_index.html) | **ISC0752** - [Fundamentos de Mecânica Clássica](https://itxesco.github.io/pages/aulas/ISC0752_index.html) |
 
 
 ---
