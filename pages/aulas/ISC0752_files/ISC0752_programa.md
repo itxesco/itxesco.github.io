@@ -37,14 +37,19 @@ title: ISC0752
 
 
 [pdf]: https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png  
-[1]: https://itxesco.github.io/aulas/ISC0180/recursos/PlanoAtividadesES1.pdf "atualizar"  
-[2]: https://itxesco.github.io/aulas/ISC0180/recursos/PlanoAtividadesES1.pdf "atualizar"
-[3]: https://itxesco.github.io/aulas/ISC0180/recursos/PlanoAtividadesES1.pdf "atualizar"
-[4]: https://itxesco.github.io/aulas/ISC0180/recursos/PlanoAtividadesES1.pdf "atualizar"
-[5]: https://itxesco.github.io/aulas/ISC0180/recursos/PlanoAtividadesES1.pdf "atualizar"
+[1]: https://itxesco.github.io/pages/aulas/ISC0752_files/slides/ISC0752_slides_aula01.pdf "atualizar"  
+[2]: https://itxesco.github.io/pages/aulas/ISC0752_files/notas/ISC0752_notas_aula01.pdf "atualizar"
+
+[3]: https://itxesco.github.io/pages/aulas/ISC0752_files/slides/fundamentos_de_mecanica_aula01.pdf "atualizar"
+[4]: https://itxesco.github.io/pages/aulas/ISC0752_files/fundamentos_de_mecanica_aula01.pdf "atualizar"
+
+[5]: https://itxesco.github.io/pages/aulas/ISC0752_files/slides/fundamentos_de_mecanica_aula01.pdf "atualizar"
 [6]: https://itxesco.github.io/aulas/ISC0180/recursos/PlanoAtividadesES1.pdf "atualizar"
-[7]: https://itxesco.github.io/aulas/ISC0180/recursos/PlanoAtividadesES1.pdf "atualizar"
+
+[7]: https://itxesco.github.io/pages/aulas/ISC0752_files/slides/fundamentos_de_mecanica_aula01.pdf "atualizar"
 [8]: https://itxesco.github.io/aulas/ISC0180/recursos/PlanoAtividadesES1.pdf "atualizar"
-[9]: https://itxesco.github.io/aulas/ISC0180/recursos/PlanoAtividadesES1.pdf "atualizar"
+
+[9]: https://itxesco.github.io/pages/aulas/ISC0752_files/slides/fundamentos_de_mecanica_aula01.pdf "atualizar"
 [10]: https://itxesco.github.io/aulas/ISC0180/recursos/PlanoAtividadesES1.pdf "atualizar"
-[11]: https://itxesco.github.io/aulas/ISC0180/recursos/PlanoAtividadesES1.pdf "atualizar"
+
+[11]: https://itxesco.github.io/pages/aulas/ISC0752_files/slides/fundamentos_de_mecanica_aula01.pdf "atualizar"
