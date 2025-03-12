@@ -1,86 +1,139 @@
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <title>10 Equívocos Comuns Sobre o Autismo</title>
-</head>
-<body>
-<div class="navbar">
-  <div class="navbar-inner">
-      <ul class="nav">
-      <li><a href= "/pages/autismo/autismo.html">O que é o TEA</a></li>
-      <li><a href= "/pages/autismo/teadultos.html">Diagnóstico Tardio</a></li>
-        <li><a href= "/pages/autismo/identificadao.html">simbologia e representaçao</a></li>
-        <li><a href= "/pages/autismo/asperger.html"> <del>Asperger</del></a></li>
-        <li><a href= "/pages/autismo/direitos.html">Direitos e Documentação</a></li>
-        <li><a href= "/pages/autismo/habilidades.html">Altas Habilidades e Superdotação</a></li>
-        <li><a href= "/pages/autismo/mitos.html">Mitos</a></li>
-          <li><a href= "/pages/autismo/namidia.html">TEA na cultura pop</a></li>
-      </ul>
-  </div>
-</div>
-<p>
-<p>
-    <h2>10 Equívocos Comuns Sobre o Autismo</h2>
-    <p>
-    Há muitas concepções errôneas sobre o Autismo circulando por aí. Consequentemente, muitas pessoas com Autismo permanecem sem diagnóstico, inúmeros autistas são incompreendidos e milhões de dólares são doados a organizações sem fins lucrativos que não falam em nome daqueles com Autismo.</p>
-    <p>Este é um momento preocupante para pessoas com Autismo (e falo como um desses autistas) porque a mídia foca uma porcentagem consideravelmente grande de sua cobertura sobre o Autismo em histórias contadas por aqueles que nem mesmo têm a condição. Elaborei uma lista de apenas dez equívocos que surgiram da falta de uma voz autista na mídia.</p>
 
-    <h3 id="equivoco10">10. Autismo é uma epidemia.</h3>
-    <p>
-    Organizações como Autism Speaks e Cure Autism Now são rápidas em rotular o Autismo como uma epidemia, apesar de cientistas terem encontrado o oposto. Por exemplo, o Dr. Roy Grinker, antropólogo na GWU, cuja pesquisa foi ironicamente financiada pela Autism Speaks (não preciso dizer que eles não ficaram muito felizes), publicou recentemente "Unstrange Minds", um livro que desmascara a ideia de uma “Epidemia de Autismo”. E ele não é o único cientista que tem problemas com aqueles que rotulam o autismo como uma epidemia.</p>
-<p>
-    <h3 id="equivoco9">9. A maioria dos autistas são “de baixa funcionalidade”.</h3>
-    <p>
-    Devido às conotações negativas que o autismo recebe do termo “baixa funcionalidade”, as maiores organizações sem fins lucrativos gostam de focar nos autistas de baixa funcionalidade porque as pessoas têm mais probabilidade de doar para ajudar pessoas gravemente afetadas (essas mesmas organizações usam a estatística de 1 em 150, mas implicam que 1 em 150 pessoas são de baixa funcionalidade). No entanto, os estudos mais recentes mostram que um pouco menos da metade dos autistas são de baixa funcionalidade. Muitos especialistas em autismo apontam que a Síndrome de Asperger é subdiagnosticada, o que indica uma porcentagem ainda menor de pessoas que se qualificariam como “de baixa funcionalidade”.</p>
+# 10 Equívocos Comuns Sobre o Autismo
 
-    <h3 id="equivoco8">8. O autismo pode ser tratado por ________ (insira aqui um tratamento não aprovado).</h3>
-    <p>
-    Este é um dos equívocos mais preocupantes porque geralmente é espalhado por pessoas que tentam tirar proveito de pais desinformados que farão qualquer coisa para ajudar seus filhos. Muitos desses autoproclamados especialistas enganam famílias, arrancando-lhes pequenas fortunas e conduzindo “tratamentos” perigosos e altamente ilegais em crianças autistas, sem nenhuma melhoria em sua condição. Ao longo da história, oportunistas têm aparecido quando os cientistas não conseguem encontrar uma cura real, e desta vez não é diferente.</p>
+## Navegação
 
-    <h3 id="equivoco7">7. O autismo é causado pelo mercúrio.</h3>
-    <p>
-    Este mito é popular entre os mesmos oportunistas que mencionei anteriormente, mas mais nos EUA. Como o mercúrio é um veneno real que existe em tudo, desde vacinas até termômetros, é fácil convencer os pais de que ele causa problemas. Embora doses altas de mercúrio sejam muito perigosas, o mercúrio não causa autismo em nenhuma dose. Além disso, a quantidade de mercúrio nas vacinas não é alta o suficiente para ter qualquer efeito mensurável. Estudos têm mostrado consistentemente que não há ligação entre autismo e vacinas. Este mito de uma correlação é especialmente preocupante quando surtos reais foram causados pelo medo dos pais em vacinar seus filhos.</p>
+- [O que é o TEA](/pages/autismo/autismo.html)
+- [Diagnóstico Tardio](/pages/autismo/teadultos.html)
+- [Simbologia e Representação](/pages/autismo/identificadao.html)
+- [~~Asperger~~](/pages/autismo/asperger.html)
+- [Direitos e Documentação](/pages/autismo/direitos.html)
+- [Altas Habilidades e Superdotação](/pages/autismo/habilidades.html)
+- [Mitos](/pages/autismo/mitos.html)
+- [TEA na Cultura Pop](/pages/autismo/namidia.html)
 
-    <h3 id="equivoco6">6. Autistas não verbais são severamente mentalmente prejudicados.</h3>
-    <p>
-    Como têm dificuldade em se comunicar com o resto do mundo, você pode pensar que são de alguma forma menos inteligentes. O oposto é verdadeiro. Autistas de baixa funcionalidade têm habilidades de comunicação prejudicadas, mas são tão inteligentes quanto a média das pessoas, e muitos são ainda mais inteligentes.</p>
+---
 
-    <h3 id="equivoco5">5. Autistas não podem ser gênios.</h3>
-    <p>
-    Na verdade, há muitos gênios históricos que se acredita terem tido autismo (Albert Einstein e Thomas Jefferson, por exemplo). No entanto, acho tolice usá-los como evidência quando posso simplesmente apontar para pessoas atualmente vivas como o economista vencedor do Prêmio Nobel Vernon Smith e o ator Dan Aykroyd, que fizeram declarações públicas sobre serem diagnosticados com Autismo.</p>
+## Introdução
 
-    <h3 id="equivoco4">4. Temos uma boa compreensão do autismo.</h3>
-    <p>
-    Os cientistas não sabem muito sobre o cérebro, muito menos sobre o Autismo. Todos os dias, os pesquisadores aprendem coisas novas sobre o Autismo. Mesmo assim, ainda temos muito mais pesquisas a fazer antes de começarmos a entender esse quebra-cabeça.</p>
+Muitas concepções errôneas sobre o **Autismo** continuam a circular, resultando em falta de diagnósticos, incompreensão e financiamento de organizações que não representam verdadeiramente os autistas.
 
-    <h3 id="equivoco3">3. Autistas querem ser curados.</h3>
-    <p>
-    A maioria dos autistas, na verdade, não quer ser curada porque já aceitaram o autismo como parte de sua personalidade, identidade e estilo de vida. Você pode não entender por que alguém gostaria de ser diagnosticado com uma condição psiquiátrica, mas até mesmo a homossexualidade foi listada no DSM como sendo um distúrbio em um determinado momento.</p>
+A mídia frequentemente dá mais espaço para narrativas contadas por pessoas que **não são autistas**, o que leva à perpetuação de mitos. Abaixo, apresento **dez equívocos comuns sobre o autismo**, derivados da ausência de vozes autistas na mídia.
 
-    <h3 id="equivoco2">2. Pessoas com Autismo são iguais.</h3>
-    <p>
-    Embora você possa rapidamente usar o autismo para se referir à identidade de alguém, os autistas diferem uns dos outros tanto quanto aqueles sem a condição diferem uns dos outros.</p>
-    <p>Quando meu amigo Dan e eu começamos o Wrong Planet, ficamos surpresos com o quão diferentes os membros eram uns dos outros. Ingenuamente pensamos que seriam exatamente como nós. Nem é preciso dizer que os membros do Wrong Planet e os autistas vêm em todas as formas, tamanhos, profissões, religiões, afiliações políticas e nacionalidades.</p>
+---
 
-    <h3 id="equivoco1">1. Autistas são representados por organizações sem fins lucrativos como Autism Speaks e Cure Autism Now; doar para essas causas ajuda pessoas com Autismo.</h3>
-    <p>
-    Na verdade, a maioria dos autistas sente que essas organizações estão prestando um desserviço àqueles que vivem com Autismo, conduzindo campanhas que desumanizam as pessoas com a condição e pintam um quadro impreciso de como é o Autismo.</p>
-    <p>
-    Por exemplo, a <i>Autism Speaks</i>, a maior organização de Autismo do mundo (em termos de capital financeiro) não tem funcionários autistas e nenhum membro do conselho com a condição. Eles não permitem que indivíduos autistas falem em suas conferências com a justificativa de que “não seria apropriado”.</p>
-    <p>
-    Embora muitas das pesquisas que financiam possam ser conduzidas por bons cientistas que desconhecem a inclinação política da organização, o objetivo final da <i>Autism Speaks </i>é estabelecer a triagem pré-natal. Qualquer benefício que resulte dessas pesquisas é, consequentemente, prejudicado pelas mensagens negativas que transmitem.</p>
-    <p>
-    Existem no mundo organizações dirigidas por autistas, como Wrong Planet e a Autistic Self Advocacy Network, que tentam dar mais voz aos autistas na mídia. A ASAN, por exemplo, recentemente teve sucesso em uma campanha midiática criticando o <i>New York University Child Study Center</i>. O centro se desculpou e rescindiu uma campanha publicitária (a Ransom Notes Campaign) que pintava o Autismo e a Síndrome de Asperger de maneira irrealisticamente negativa.</p>
+## Índice
 
-    <nav>
-        <ul>
-            <li><a href="#equivoco10">Autismo é uma epidemia</a></li>
-            <li><a href="#equivoco9">A maioria dos autistas são “de baixa funcionalidade”</a></li>
-            <li><a href="#equivoco8">O autismo pode ser tratado por ________ (insira aqui um tratamento não aprovado)</a></li>
-            <li><a href="#equivoco7">O autismo é causado pelo mercúrio</a></li>
-            <li><a href="#equivoco6">Autistas não verbais são severamente mentalmente prejudicados</a></li>
-            <li><a href="#equivoco5">Autistas não podem ser gênios</a></li>
-            <li><a href="#equivoco4">Temos uma boa compreensão do autismo</a></li>
-            <li><a href="#equivoco3">Autistas querem ser curados</a></li>
-            <li><a href="#equivoco2">Pessoas com Autismo são iguais</a></li>
-            <li><a href="#equivoco1">Autistas são representados por organizações sem fins lucrativos como Autism Speaks e Cure
+1. [Autismo é uma epidemia](#equivoco10)
+2. [A maioria dos autistas são "de baixa funcionalidade"](#equivoco9)
+3. [O autismo pode ser tratado por ________ (insira aqui um tratamento não aprovado)](#equivoco8)
+4. [O autismo é causado pelo mercúrio](#equivoco7)
+5. [Autistas não verbais são severamente mentalmente prejudicados](#equivoco6)
+6. [Autistas não podem ser gênios](#equivoco5)
+7. [Temos uma boa compreensão do autismo](#equivoco4)
+8. [Autistas querem ser curados](#equivoco3)
+9. [Pessoas com autismo são iguais](#equivoco2)
+10. [Autistas são representados por organizações como Autism Speaks e Cure Autism Now](#equivoco1)
+
+---
+
+## 10. Autismo é uma epidemia {#equivoco10}
+
+Organizações como *Autism Speaks* rotulam o autismo como uma "epidemia", embora cientistas tenham demonstrado o contrário.
+
+O **Dr. Roy Grinker**, antropólogo da GWU, financiado ironicamente pela Autism Speaks, publicou *Unstrange Minds*, desmentindo a suposta "epidemia do autismo". Sua pesquisa é apenas uma das várias que refutam essa ideia.
+
+---
+
+## 9. A maioria dos autistas são "de baixa funcionalidade" {#equivoco9}
+
+Muitas organizações sem fins lucrativos preferem focar em casos de **"baixa funcionalidade"**, pois isso aumenta a arrecadação de doações.
+
+Porém, **pesquisas mostram que menos da metade dos autistas são considerados de "baixa funcionalidade"**. Além disso, a **Síndrome de Asperger** foi historicamente subdiagnosticada, sugerindo que há ainda mais autistas "de alta funcionalidade" do que se pensava.
+
+---
+
+## 8. O autismo pode ser tratado por ________ (insira aqui um tratamento não aprovado) {#equivoco8}
+
+Essa é uma das crenças mais perigosas, pois muitos pais desesperados acabam sendo enganados por falsos tratamentos.
+
+**Charlatões exploram a falta de uma "cura" científica** para vender terapias ineficazes ou perigosas. Essas falsas curas apenas exploram famílias vulneráveis sem oferecer nenhum benefício real.
+
+---
+
+## 7. O autismo é causado pelo mercúrio {#equivoco7}
+
+Esse mito é popular nos EUA, onde se propagou a ideia de que vacinas contendo mercúrio causariam autismo.
+
+Porém, **estudos demonstram consistentemente que não há qualquer relação entre autismo e vacinas**. O pânico em torno dessa ideia já resultou na **queda na taxa de vacinação e no ressurgimento de doenças erradicadas**.
+
+---
+
+## 6. Autistas não verbais são severamente mentalmente prejudicados {#equivoco6}
+
+Muitas pessoas assumem que autistas não verbais têm deficiência intelectual severa, o que **não é verdade**.
+
+Dificuldades de comunicação **não refletem capacidade cognitiva**. Existem autistas não verbais que são extremamente inteligentes e apenas precisam de meios alternativos para se expressar.
+
+---
+
+## 5. Autistas não podem ser gênios {#equivoco5}
+
+Muitos gênios históricos são suspeitos de ter tido autismo, como **Albert Einstein** e **Thomas Jefferson**.
+
+Hoje, há exemplos vivos, como o economista vencedor do **Prêmio Nobel Vernon Smith** e o ator **Dan Aykroyd**, que confirmaram seus diagnósticos públicos de autismo.
+
+---
+
+## 4. Temos uma boa compreensão do autismo {#equivoco4}
+
+A ciência ainda sabe **muito pouco sobre o autismo**.
+
+Pesquisadores fazem novas descobertas constantemente, mas ainda estamos longe de compreender completamente como funciona o cérebro autista.
+
+---
+
+## 3. Autistas querem ser curados {#equivoco3}
+
+A grande maioria dos autistas **não deseja ser "curada"**, pois aceitam o autismo como parte de sua identidade.
+
+Essa perspectiva pode parecer estranha para quem não é autista, mas o mesmo aconteceu no passado com a **homossexualidade**, que já foi considerada um "distúrbio" antes de ser reconhecida como uma variação natural da diversidade humana.
+
+---
+
+## 2. Pessoas com autismo são iguais {#equivoco2}
+
+Autistas diferem entre si **tanto quanto pessoas neurotípicas**.
+
+O autismo é um **espectro**, e cada indivíduo tem experiências únicas, diferentes habilidades e preferências pessoais.
+
+Por exemplo, quando criamos o *Wrong Planet*, ficamos surpresos com a diversidade de nossos membros. Nenhum autista é exatamente igual ao outro.
+
+---
+
+## 1. Autistas são representados por organizações como Autism Speaks e Cure Autism Now {#equivoco1}
+
+Na verdade, **a maioria dos autistas discorda dessas organizações**.
+
+O *Autism Speaks*, a maior organização sobre autismo do mundo, **não tem autistas em seu conselho** e não permite que autistas falem em suas conferências, alegando que "não seria apropriado".
+
+Essas organizações também investem **pesado em pesquisas para triagem pré-natal**, com o objetivo de detectar o autismo antes do nascimento. Isso levanta preocupações éticas sobre a busca pela **eliminação de autistas antes mesmo de nascerem**.
+
+Em contraste, existem organizações **lideradas por autistas**, como:
+
+- **[Wrong Planet](https://wrongplanet.net/)**  
+- **[Autistic Self Advocacy Network (ASAN)](https://autisticadvocacy.org/)**  
+
+A **ASAN** recentemente conseguiu pressionar o *New York University Child Study Center* a cancelar a polêmica *Ransom Notes Campaign*, que retratava autistas de maneira desumanizante.
+
+---
+
+## Conclusão
+
+A desinformação sobre o autismo continua a ser um grande problema. Organizações lucram com estereótipos e ideias ultrapassadas, enquanto autistas são excluídos de discussões sobre suas próprias vidas.
+
+A melhor maneira de combater esses mitos é **amplificar as vozes autistas e buscar informações de fontes confiáveis**.
+
+Se você deseja apoiar a comunidade autista, considere seguir e apoiar grupos liderados por autistas, como o **Wrong Planet** e a **ASAN**.
+
+[Voltar ao topo](#top)
