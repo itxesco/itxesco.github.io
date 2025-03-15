@@ -1,7 +1,5 @@
 
-# Menu de Navegação
 
-## Navegação
 
 - [O que é o TEA](/pages/autismo/autismo.html)
 - [Diagnóstico Tardio](/pages/autismo/teadultos.html)

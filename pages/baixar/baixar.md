@@ -1,6 +1,4 @@
 
-# Arquivos e Artigos Úteis
-
 ### Minhas Notas de Aula
 
 - [Introdução ao Cálculo](https://itxesco.github.io/pages/notas/introcalculo/index.html)

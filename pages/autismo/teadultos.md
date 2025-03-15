@@ -1,8 +1,6 @@
 
 # TEA em Adultos
 
-## Menu de Navegação
-
 - [O que é o TEA](/pages/autismo/autismo.html)
 - [Diagnóstico Tardio](/pages/autismo/teadultos.html)
 - [Simbologia e Representação](/pages/autismo/identificadao.html)
