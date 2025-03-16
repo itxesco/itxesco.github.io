@@ -13,19 +13,14 @@ Minha jornada acadêmica inclui uma trajetória marcante na [Universidade de Sã
 
 Sou um entusiasta do **diálogo entre ciência e cultura pop**, especialmente as **histórias em quadrinhos de super-heróis, filmes, séries, jogos de RPG e videogames**. Meu interesse se concentra nas interseções dessas mídias com questões de **gênero e raça**, em seu diálogo com a educação.
 
-### Perfis Acadêmicos
+#### Perfis Acadêmicos
 
 |------------------|--------------|--------------|--------------|--------------|--------------|
-| [![Lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/1942359141745184) | X |
-| [![SigaA](https://itxesco.github.io/imagens/icones/icons16/ufsb-icon.jpg)](https://sig.ufsb.edu.br/sigaa/public/docente/portal.jsf?siape=1085938) | X |
-| [![ResearchGate](https://itxesco.github.io/imagens/icones/icons16/researchgate-icon.png)](https://www.researchgate.net/profile/Francisco_Nascimento24) | [![Twitch](https://itxesco.github.io/imagens/icones/icons16/twitch-icon.png)](https://twitch.tv/itxesco) |
-| [![Academia.edu](https://itxesco.github.io/imagens/icones/icons16/academia-edu-icon.png)](https://ufsb.academia.edu/FranciscoNascimento) | X |
-| [![Google Acadêmico](https://itxesco.github.io/imagens/icones/icons16/google-scholar-icon.png)](https://scholar.google.com.br/citations?user=H8peemwAAAAJ&hl=en) | X |
-| [![ORCID](https://itxesco.github.io/imagens/icones/icons16/orcid-icon.png)](https://orcid.org/0000-0003-0587-8392) |  |
+| [![Lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/1942359141745184) | [![SigaA](https://itxesco.github.io/imagens/icones/icons16/ufsb-icon.jpg)](https://sig.ufsb.edu.br/sigaa/public/docente/portal.jsf?siape=1085938) | [![ResearchGate](https://itxesco.github.io/imagens/icones/icons16/researchgate-icon.png)](https://www.researchgate.net/profile/Francisco_Nascimento24) | [![Academia.edu](https://itxesco.github.io/imagens/icones/icons16/academia-edu-icon.png)](https://ufsb.academia.edu/FranciscoNascimento) | [![Google Acadêmico](https://itxesco.github.io/imagens/icones/icons16/google-scholar-icon.png)](https://scholar.google.com.br/citations?user=H8peemwAAAAJ&hl=en) | [![ORCID](https://itxesco.github.io/imagens/icones/icons16/orcid-icon.png)](https://orcid.org/0000-0003-0587-8392) |  |
 
-### Redes Sociais
-|------------------|--------------|--------------|--------------|--------------|
-| [![Instagram](https://itxesco.github.io/imagens/icones/icons16/instagram-icon.png)](https://www.instagram.com/gtf.nascimento) |  [![Goodreads](https://itxesco.github.io/imagens/icones/icons16/goodreads-icon.png)](https://www.goodreads.com/user/show/51497119-francisco-nascimento) |  [![YouTube](https://itxesco.github.io/imagens/icones/icons16/youtube-icon.png)](https://www.youtube.com/channel/UCqWEN6uuwiohJY8qv9e7Ddg) | [![BlueSky](https://itxesco.github.io/imagens/icones/icons16/twitter-icon.png)](https://web-cdn.bsky.app/profile/itxesco.bsky.social)
+#### Redes Sociais
+
+| [![Instagram](https://itxesco.github.io/imagens/icones/icons16/instagram-icon.png)](https://www.instagram.com/gtf.nascimento) |  [![Goodreads](https://itxesco.github.io/imagens/icones/icons16/goodreads-icon.png)](https://www.goodreads.com/user/show/51497119-francisco-nascimento) |  [![YouTube](https://itxesco.github.io/imagens/icones/icons16/youtube-icon.png)](https://www.youtube.com/channel/UCqWEN6uuwiohJY8qv9e7Ddg) | [![BlueSky](https://itxesco.github.io/imagens/icones/icons16/twitter-icon.png)](https://web-cdn.bsky.app/profile/itxesco.bsky.social) | [![Twitch](https://itxesco.github.io/imagens/icones/icons16/twitch-icon.png)](https://twitch.tv/itxesco) |
 
 ## Contato
 
@@ -36,5 +31,5 @@ S/n Rodovia BR-367 Km 10 Zona Rural
 Porto Seguro - BA, 45810-000  
 Brasil  
 
-### Telefone  
+##### Telefone  
 📞 (73) 3288-8400 (Secretaria Executiva do IHAC - CSC)

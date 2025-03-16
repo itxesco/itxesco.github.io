@@ -1,178 +1,131 @@
 
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <title>Síndrome de <del>Asperger</del></title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-        }
-        h1, h2 {
-            text-align: center;
-        }
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        li {
-            margin: 5px 0;
-        }
-        a {
-            color: #007BFF;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
-</head>
-<body>
-<div class="navbar">
-  <div class="navbar-inner">
-      <ul class="nav">
-      <li><a href= "/pages/autismo/autismo.html">O que é o TEA</a></li>
-      <li><a href= "/pages/autismo/teadultos.html">Diagnóstico Tardio</a></li>
-        <li><a href= "/pages/autismo/identificadao.html">simbologia e representaçao</a></li>
-        <li><a href= "/pages/autismo/asperger.html"> <del>Asperger</del></a></li>
-        <li><a href= "/pages/autismo/direitos.html">Direitos e Documentação</a></li>
-        <li><a href= "/pages/autismo/habilidades.html">Altas Habilidades e Superdotação</a></li>
-        <li><a href= "/pages/autismo/mitos.html">Mitos</a></li>
-          <li><a href= "/pages/autismo/namidia.html">TEA na cultura pop</a></li>
-      </ul>
-  </div>
-</div>
-<p>
-<h3>Índice (clique para ir para as seções)</h3>
-<ul>
-    <li><a href="#what-is-asperger-syndrome">O que era a síndrome de <del>Asperger</del>?</a></li>
-    <li><a href="#why-is-it-called-asperger-syndrome">Por que era chamada de síndrome de <del>Asperger</del>?</a></li>
-    <li><a href="#common-signs-or-symptoms">Quais são alguns sinais ou sintomas comuns?</a></li>
-    <li><a href="#causes">O que causa a SA? É genético?</a></li>
-    <li><a href="#diagnosis">Como é diagnosticada?</a></li>
-    <li><a href="#treatments">Existem tratamentos disponíveis?</a></li>
-    <li><a href="#prognosis">As crianças com SA melhoram? O que acontece quando se tornam adultos?</a></li>
-    <li><a href="#research">Que pesquisas estão sendo feitas?</a></li>
-    <li><a href="#more-information">Onde posso obter mais informações?</a></li>
-</ul>
-<p>
-    <h3>Síndrome de <del>Asperger</del></h3>
-    <p>
-    A síndrome de <del>Asperger</del> é um transtorno do espectro autista, um grupo de condições que inclui o autismo e outros transtornos com sintomas semelhantes, como problemas de linguagem e comunicação, e padrões repetitivos ou restritos de pensamentos e comportamento.</p>
-    <p>Pessoas com síndrome de <del>Asperger</del> têm problemas semelhantes ao autismo em áreas de interação social e comunicação, mas possuem inteligência e habilidades verbais normais. A síndrome de <del>Asperger</del> é geralmente considerada a forma mais branda dos transtornos do espectro autista.</p>
+---
+title: Síndrome de ~~Asperger~~
+description: Entenda por que a Síndrome de Asperger foi removida dos manuais diagnósticos e incorporada ao Transtorno do Espectro Autista (TEA).
+---
 
-    <p>
-    <p>
-    <p>
+# 🧩 Síndrome de ~~Asperger~~
 
-    <h3 id="what-is-asperger-syndrome">O que era a síndrome de <del>Asperger</del>?</h3>
-    <p>A síndrome de <del>Asperger</del> (SA) é um transtorno do desenvolvimento caracterizado por:</p>
-    <ul>
-        <li>Interesses limitados ou uma preocupação incomum com um assunto particular, excluindo outras atividades</li>
-        <li>Rotinas ou rituais repetitivos</li>
-        <li>Peculiaridades na fala e na linguagem, como falar de maneira excessivamente formal ou monótona, ou interpretar expressões figurativas literalmente</li>
-        <li>Comportamento social e emocionalmente inadequado e a incapacidade de interagir com sucesso com colegas</li>
-        <li>Problemas com a comunicação não verbal, incluindo o uso restrito de gestos, expressões faciais limitadas ou inadequadas, ou um olhar peculiar e rígido</li>
-        <li>Movimentos motores desajeitados e descoordenados</li>
-    </ul>
-    <p>
-    A SA é um transtorno do espectro autista (TEA), um grupo distinto de condições neurológicas caracterizadas por graus variados de comprometimento nas habilidades de linguagem e comunicação, bem como padrões repetitivos ou restritos de pensamento e comportamento. Outros TEAs incluem: autismo clássico, síndrome de Rett, transtorno desintegrativo da infância e transtorno invasivo do desenvolvimento sem outra especificação (geralmente referido como PDD-NOS).</p>
-    <p>
-    Os pais geralmente percebem algo incomum em uma criança com SA por volta do seu terceiro aniversário, e alguns sintomas podem se manifestar ainda na infância. Ao contrário das crianças com autismo, crianças com SA mantêm suas habilidades linguísticas iniciais. Atrasos no desenvolvimento motor – como engatinhar ou andar tarde, desajeitamento – são às vezes o primeiro indicador do transtorno.</p>
-    <p>
-    A incidência de SA não está bem estabelecida, mas especialistas em estudos populacionais estimam que dois em cada 10.000 crianças têm o transtorno. Meninos têm três a quatro vezes mais chances do que meninas de ter SA.</p>
-    <p>
-    Estudos de crianças com SA sugerem que seus problemas de socialização e comunicação continuam na vida adulta. Algumas dessas crianças desenvolvem sintomas psiquiátricos adicionais e transtornos na adolescência e na idade adulta.</p>
-    <p>
-    Embora diagnosticada principalmente em crianças, a SA está sendo cada vez mais diagnosticada em adultos que procuram ajuda médica para condições de saúde mental como depressão, transtorno obsessivo-compulsivo (TOC) e transtorno de déficit de atenção e hiperatividade (TDAH). Nenhum estudo foi ainda conduzido para determinar a incidência de SA em populações adultas.</p>
-    <p>
-    <a href="#top">topo</a></p>
+A **Síndrome de ~~Asperger~~** era considerada um transtorno do espectro autista caracterizado por dificuldades na interação social e comunicação, mas com inteligência e habilidades verbais preservadas. Frequentemente descrita como uma forma "leve" de autismo, foi incorporada ao **Transtorno do Espectro Autista (TEA)** no DSM-5.
 
-    <h3 id="why-is-it-called-asperger-syndrome">Por que é chamada de síndrome de <del>Asperger</del>?</h3>
-    <p>
-    Em 1944, um pediatra austríaco chamado Hans <del>Asperger</del> observou quatro crianças em sua prática que tinham dificuldade em se integrar socialmente. Embora sua inteligência parecesse normal, as crianças careciam de habilidades de comunicação não verbal, não demonstravam empatia com seus colegas e eram fisicamente desajeitadas. Sua maneira de falar era desconexa ou excessivamente formal, e seu interesse absorvente em um único tópico dominava suas conversas. O Dr. <del>Asperger</del> chamou a condição de “psicopatia autística” e a descreveu como um transtorno de personalidade marcado principalmente pelo isolamento social.</p>
-    <p>
-    As observações de <del>Asperger</del>, publicadas em alemão, não foram amplamente conhecidas até 1981, quando uma médica inglesa chamada Lorna Wing publicou uma série de estudos de caso de crianças mostrando sintomas semelhantes, que ela chamou de síndrome de Asperger. Os escritos de Wing foram amplamente publicados e popularizados. A SA tornou-se uma doença e diagnóstico distintos em 1992, quando foi incluída na décima edição publicada do manual de diagnóstico da Organização Mundial da Saúde, a Classificação Internacional de Doenças (CID-10), e em 1995 foi adicionada ao Manual Diagnóstico e Estatístico de Transtornos Mentais (DSM-IV), o livro de referência diagnóstica da Associação Psiquiátrica Americana.</p>
-    <p>
-    <a href="#top">topo</a></p>
+---
 
-    <h3 id="common-signs-or-symptoms">Quais são alguns sinais ou sintomas comuns?</h3>
-    <p>
-    O sintoma mais distintivo da SA é o interesse obsessivo de uma criança por um único objeto ou tópico, excluindo qualquer outro. Algumas crianças com SA tornam-se especialistas em aspiradores de pó, marcas e modelos de carros, até mesmo objetos tão estranhos quanto fritadeiras. Crianças com SA querem saber tudo sobre seu tópico de interesse e suas conversas com os outros serão sobre quase nada além disso. Sua expertise, alto nível de vocabulário e padrões de fala formais fazem com que pareçam pequenos professores.</p>
-    <p>
-    Crianças com SA reunirão enormes quantidades de informações factuais sobre seu assunto favorito e falarão incessantemente sobre ele, mas a conversa pode parecer uma coleção aleatória de fatos ou estatísticas, sem ponto ou conclusão.</p>
-    <p>
-    Sua fala pode ser marcada por falta de ritmo, uma inflexão estranha ou um tom monótono. Crianças com SA muitas vezes não conseguem modular o volume da voz para combinar com o ambiente. Por exemplo, elas terão que ser lembradas de falar suavemente toda vez que entrarem em uma biblioteca ou em um cinema.</p>
-    <p>
-    Ao contrário da retração severa do resto do mundo, característica do autismo, crianças com SA são isoladas por causa de suas pobres habilidades sociais e interesses estreitos. Na verdade, elas podem se aproximar de outras pessoas, mas tornam a conversa normal impossível devido ao comportamento inadequado ou excêntrico, ou por quererem falar apenas sobre seu interesse singular.</p>
-    <p>
-    Crianças com SA geralmente têm um histórico de atrasos no desenvolvimento motor, como pedalar uma bicicleta, pegar uma bola ou escalar equipamentos de playground. Elas são frequentemente desajeitadas e mal coordenadas, com uma caminhada que pode parecer rígida ou saltitante.</p>
-    <p>
-    Muitas crianças com SA são altamente ativas na infância, e depois desenvolvem ansiedade ou depressão na juventude. Outras condições que frequentemente coexistem com a SA são TDAH, transtornos de tiques (como a síndrome de Tourette), depressão, transtornos de ansiedade e TOC.</p>
-    <p>
-    <a href="#top">topo</a></p>
+## 📌 Índice  
 
-    <h3 id="causes">O que causa a SA? É genético?</h3>
-    <p>
-    Estudos com gêmeos e famílias sugerem que há uma vulnerabilidade genética à SA e outros TEAs, mas um gene específico para a SA ainda não foi identificado. É provável que múltiplos genes causem a SA, já que os sintomas e a gravidade dos sintomas variam amplamente entre os indivíduos.</p>
-    <p>
-    Pesquisadores recentemente identificaram uma associação entre certos traços comportamentais (a insistência em rotinas estritas e comportamento repetitivo) em um grupo de crianças com autismo e um gene específico – GABRB3. Outro estudo descobriu uma forte associação entre o autismo e a mutação de um gene que os pesquisadores chamam de ENGRAILED 2. Outras evidências da ligação entre mutações genéticas hereditárias e SA são vistas na maior incidência de familiares de crianças com um TEA que apresentam sintomas comportamentais semelhantes, mas de forma mais limitada. Por exemplo, eles podem ter problemas leves de socialização, linguagem ou leitura.</p>
-    <p>Pesquisas atuais apontam para anomalias estruturais no cérebro como causa da SA. Essas anomalias impactam circuitos neurais que controlam o pensamento e o comportamento. Os pesquisadores acham que interações gene/ambiente fazem com que alguns genes sejam ativados ou desativados, ou ativados demais ou de menos nos lugares errados, interferindo na migração normal e na conexão das células cerebrais embrionárias durante o desenvolvimento inicial.</p>
-    <p>
-    Pesquisadores da Universidade da Califórnia, apoiados em parte pelos Institutos Nacionais de Saúde, propuseram que o transtorno resulta de mudanças anormais que ocorrem durante estágios críticos do desenvolvimento fetal. Defeitos nos genes que controlam e regulam o crescimento normal do cérebro criam padrões de crescimento anormais, que causam crescimento excessivo em algumas estruturas cerebrais e crescimento reduzido, ou perda excessiva de células, em outras.</p>
-    <p>
-    Usando técnicas avançadas de imagem cerebral, cientistas revelaram diferenças estruturais e funcionais em regiões específicas do cérebro entre os cérebros de crianças normais e crianças com SA. Um estudo encontrou falta de atividade no lobo frontal de crianças com SA quando solicitadas a responder a tarefas que exigiam que usassem seu julgamento. Outro encontrou diferenças na atividade cerebral quando as crianças foram solicitadas a responder a expressões faciais. Outros métodos de investigação da função cerebral revelaram níveis anormais de proteínas específicas nos cérebros de adultos com SA, que se correlacionam com comportamentos obsessivos e repetitivos.</p>
-    <p>
-    <a href="#top">topo</a></p>
+- [O que era a síndrome de ~~Asperger~~?](#o-que-era-a-sindrome-de-asperger)  
+- [Por que era chamada de síndrome de ~~Asperger~~?](#por-que-era-chamada-de-sindrome-de-asperger)  
+- [Quais são alguns sinais ou sintomas comuns?](#quais-sao-alguns-sinais-ou-sintomas-comuns)  
+- [O que causa a SA? É genético?](#o-que-causa-a-sa-e-genetico)  
+- [Como é diagnosticada?](#como-e-diagnosticada)  
+- [Existem tratamentos disponíveis?](#existem-tratamentos-disponiveis)  
+- [As crianças com SA melhoram? O que acontece quando se tornam adultos?](#as-criancas-com-sa-melhoram-o-que-acontece-quando-se-tornam-adultos)  
+- [Que pesquisas estão sendo feitas?](#que-pesquisas-estao-sendo-feitas)  
+- [Onde posso obter mais informações?](#onde-posso-obter-mais-informacoes)  
 
-    <h3 id="diagnosis">Como é diagnosticada?</h3>
-    <p>
-    O diagnóstico de SA é complicado pela falta de uma triagem ou cronograma diagnóstico padronizado. Na verdade, como existem vários instrumentos de triagem em uso atualmente, cada um com critérios diferentes, a mesma criança poderia receber diferentes diagnósticos, dependendo da ferramenta de triagem que o médico usar.</p>
-    <p>Para complicar ainda mais a questão, alguns médicos acreditam que a SA não é um transtorno separado e distinto. Em vez disso, eles a chamam de autismo de alto funcionamento (AAF) e a veem como estando na extremidade leve do espectro TEA, com sintomas que diferem — apenas em grau — do autismo clássico. Alguns clínicos usam os dois diagnósticos, SA ou AAF, de forma intercambiável. Isso dificulta a coleta de dados sobre a incidência de SA, pois algumas crianças serão diagnosticadas com AAF em vez de SA, e vice-versa.</p>
-    <p>
-    A maioria dos médicos confia na presença de um grupo central de comportamentos para alertá-los sobre a possibilidade de um diagnóstico de SA. Estes são:</p>
-    <ul>
-        <li>Contato visual anormal</li>
-        <li>Distanciamento</li>
-        <li>A falha em virar quando chamado pelo nome</li>
-        <li>A falha em usar gestos para apontar ou mostrar</li>
-        <li>Falta de brincadeira interativa</li>
-        <li>Falta de interesse pelos colegas</li>
-    </ul>
-    <p>
-    Alguns desses comportamentos podem ser aparentes nos primeiros meses de vida da criança, ou podem aparecer mais tarde. Problemas em pelo menos uma das áreas de comunicação e socialização ou comportamento repetitivo e restrito devem estar presentes antes dos 3 anos de idade.</p>
-    <p>
-    O diagnóstico de SA é um processo em duas etapas. A primeira etapa começa com a triagem do desenvolvimento durante um “check-up” de criança saudável com um médico de família ou pediatra. A segunda etapa é uma avaliação abrangente por uma equipe para confirmar ou descartar a SA. Esta equipe geralmente inclui um psicólogo, neurologista, psiquiatra, terapeuta da fala e outros profissionais com expertise em diagnosticar crianças com SA.</p>
-    <p>
-    A avaliação abrangente inclui avaliação neurológica e genética, com testes cognitivos e de linguagem aprofundados para estabelecer o QI e avaliar a função psicomotora, pontos fortes e fracos verbais e não verbais, estilo de aprendizado e habilidades de vida independente. Uma avaliação dos pontos fortes e fracos da comunicação inclui a avaliação das formas não verbais de comunicação (olhares e gestos); o uso de linguagem não literal (metáforas, ironias, absurdos e humor); padrões de inflexão, modulação de estresse e volume; pragmática (turnos de fala e sensibilidade às pistas verbais); e o conteúdo, clareza e coerência da conversa. O médico analisará os resultados dos testes e os combinará com a história do desenvolvimento e os sintomas atuais da criança para fazer um diagnóstico.</p>
-    <p>
-    <a href="#top">topo</a></p>
+---
 
-    <h3 id="treatments">Existem tratamentos disponíveis?</h3>
-    <p>
-    O tratamento ideal para a SA coordena terapias que abordam os três principais sintomas do transtorno: habilidades de comunicação deficientes, rotinas obsessivas ou repetitivas e desajeitamento físico. Não há um pacote de tratamento único que seja melhor para todas as crianças com SA, mas a maioria dos profissionais concorda que quanto mais cedo a intervenção, melhor.</p>
-    <p>
-    Um programa de tratamento eficaz se baseia nos interesses da criança, oferece uma programação previsível, ensina tarefas como uma série de passos simples, envolve ativamente a atenção da criança em atividades altamente estruturadas e fornece reforço regular do comportamento. Este tipo de programa geralmente inclui:</p>
-    <ul>
-        <li>Treinamento de habilidades sociais, uma forma de terapia em grupo que ensina crianças com SA as habilidades necessárias para interagir com mais sucesso com outras crianças</li>
-        <li>Terapia cognitivo-comportamental, um tipo de “terapia da fala” que pode ajudar as crianças mais explosivas ou ansiosas a gerenciar melhor suas emoções e reduzir interesses obsessivos e rotinas repetitivas</li>
-        <li>Medicação, para condições coexistentes como depressão e ansiedade</li>
-        <li>Terapia ocupacional ou física, para crianças com problemas de integração sensorial ou má coordenação motora</li>
-        <li>Terapia especializada de fala/linguagem, para ajudar crianças que têm problemas com a pragmática da fala – o dar e receber de uma conversa normal</li>
-        <li>Treinamento e suporte aos pais, para ensinar técnicas comportamentais para usar em casa</li>
-    </ul>
-    <p>
-  <a href="#top">topo</a></p>
+## 🏷️ O que era a síndrome de ~~Asperger~~?  
 
-    <h3 id="prognosis">As crianças com SA melhoram? O que acontece quando se tornam adultos?</h3>
-    <p>
-    Com tratamento eficaz, crianças com SA podem aprender a lidar com suas deficiências, mas ainda podem encontrar situações sociais e relacionamentos pessoais desafiadores. Muitos adultos com SA conseguem trabalhar com sucesso em empregos convencionais, embora possam continuar precisando de encorajamento e apoio moral para manter uma vida independente.</p>
-    <p>
-    <a href="#top">topo</a></p>
+A **Síndrome de ~~Asperger~~ (SA)** era um transtorno do desenvolvimento caracterizado por:
 
-    <h3 id="research">Que pesquisas estão sendo feitas?</h3>
-    <p>
-    O Instituto Nacional de Distúrbios Neurológicos e Derrame (NINDS) é um dos principais apoiadores do governo federal para pesquisas biomédicas sobre transtornos do cérebro e do sistema nervoso. O NINDS realiza pesquisas em seus laboratórios nos Institutos Nacionais de Saúde em Bethesda, Maryland, e também concede bolsas para apoiar pesquisas em universidades e outras instituições.</p>
-    <p>
-    Muitos dos Institutos do NIH, incluindo o NINDS, estão patrocinando pesquisas para entender o que causa a SA e como ela pode ser tratada de forma eficaz. Um estudo está usando a ressonância magnética funcional (fMRI) para mostrar como anomalias em áreas específicas do cérebro causam mudanças na função cerebral que resultam nos sintomas de SA e outros TEAs. Um estudo em grande escala está comparando avaliações neuropsicológicas e psiquiátricas de crianças com possíveis diagnósticos de SA ou AAF às de seus pais e irmãos para ver se existem padrões de sintomas que ligam a SA e a AAF a perfis neuropsicológicos específicos. Um ensaio clínico está testando a eficácia de um antidepressivo em indivíduos com SA e AAF que exibem altos níveis de comportamento obsessivo/ritualístico. Outros investigadores estão conduzindo um estudo de longo prazo para coletar e analisar amostras de DNA de um grande grupo de crianças com SA e AAF e suas famílias para identificar genes e interações genéticas que estão ligadas à SA e AAF.</p>
-    <p>
-    <a href="#top">topo</a></p>
+- Interesses intensos e específicos em certos temas.  
+- Rotinas ou rituais repetitivos.  
+- Dificuldades na comunicação e interação social.  
+- Problemas com comunicação não verbal.  
+- Desenvolvimento motor desajeitado.  
+
+A SA fazia parte do **Transtorno do Espectro Autista (TEA)**, um conjunto de condições neurológicas que afetam habilidades de comunicação e comportamento.  
+
+Os sintomas podem ser percebidos na infância, geralmente por volta dos **3 anos de idade**, mas algumas crianças são diagnosticadas tardiamente.  
+
+---
+
+## 🔍 Por que era chamada de síndrome de ~~Asperger~~?  
+
+O termo foi criado com base nos estudos do pediatra austríaco **Hans ~~Asperger~~**, que em 1944 descreveu crianças com dificuldades sociais, mas inteligência normal.  
+
+A condição foi reconhecida oficialmente nos anos 1990, mas o termo foi removido do **DSM-5 (Manual Diagnóstico e Estatístico de Transtornos Mentais)** em **2013**, sendo incluída no diagnóstico de **Transtorno do Espectro Autista (TEA)**.
+
+---
+
+## ⚠️ Quais são alguns sinais ou sintomas comuns?  
+
+O sintoma mais característico da SA era um **interesse obsessivo por um único tópico**. Outros sinais incluem:
+
+- Discurso formal e repetitivo.  
+- Dificuldade em interações sociais.  
+- Falta de modulação no tom de voz.  
+- Atrasos no desenvolvimento motor.  
+- Tendência ao isolamento social.  
+
+---
+
+## 🧬 O que causa a SA? É genético?  
+
+Pesquisas sugerem que a SA tem uma **base genética**, mas não há um único gene identificado. Estudos apontam **anomalias cerebrais** que afetam áreas responsáveis pelo pensamento e comportamento.
+
+---
+
+## 🩺 Como é diagnosticada?  
+
+O diagnóstico de SA era feito com base em avaliações clínicas, sem exames laboratoriais específicos.  
+Alguns sinais de alerta incluem:
+
+- Contato visual anormal.  
+- Falta de interação social.  
+- Dificuldade em expressar emoções.  
+- Interesses obsessivos.  
+- Comportamentos repetitivos.  
+
+Atualmente, o **Transtorno do Espectro Autista (TEA)** é diagnosticado com base nos critérios atualizados do **DSM-5-TR**.
+
+---
+
+## 💊 Existem tratamentos disponíveis?  
+
+Embora não exista cura, intervenções precoces ajudam no desenvolvimento de habilidades. Os tratamentos incluem:
+
+- **Treinamento de habilidades sociais** 🗣️ – Ensina interação social.  
+- **Terapia cognitivo-comportamental** 💡 – Ajuda no controle de emoções e obsessões.  
+- **Medicação** 💊 – Para tratar ansiedade e depressão associadas.  
+- **Terapia ocupacional** 🤲 – Para melhorar a coordenação motora.  
+- **Terapia da fala** 🗨️ – Para melhorar habilidades comunicativas.  
+- **Treinamento para pais** 🏡 – Ensina estratégias para lidar com desafios diários.  
+
+Quanto mais cedo a intervenção, melhores os resultados.
+
+---
+
+## 🔄 As crianças com SA melhoram? O que acontece quando se tornam adultos?  
+
+Com suporte adequado, muitas pessoas diagnosticadas com SA levam vidas independentes, mas podem continuar enfrentando desafios sociais e emocionais. O suporte no ambiente acadêmico e profissional é essencial para a qualidade de vida.
+
+---
+
+## 🔬 Que pesquisas estão sendo feitas?  
+
+Instituições como o **NIH (National Institutes of Health)** estudam:
+
+- Causas genéticas e neurológicas do TEA.  
+- Tratamentos eficazes para dificuldades sociais e sensoriais.  
+- Impacto do autismo na vida adulta.  
+
+Pesquisas utilizam neuroimagem para entender diferenças cerebrais e testar novos tratamentos.
+
+---
+
+## 💙 Onde posso obter mais informações?  
+
+A Síndrome de ~~Asperger~~ foi removida dos manuais diagnósticos e hoje faz parte do **Transtorno do Espectro Autista (TEA)**. Com suporte adequado, pessoas autistas podem desenvolver suas habilidades e levar vidas produtivas.
+
+Para saber mais, acesse:
+
+- 🔹 [O que é o TEA](/pages/autismo/autismo.html)  
+- 🔹 [Diagnóstico Tardio](/pages/autismo/diagnosticotardio.html)  
+- 🔹 [Simbologia e Representação](/pages/autismo/identificadao.html)  
+- 🔹 [Direitos e Documentação](/pages/autismo/direitos.html)  
+- 🔹 [Altas Habilidades e Superdotação](/pages/autismo/habilidades.html)  
+- 🔹 [Mitos sobre o TEA](/pages/autismo/mitos.html)  
+- 🔹 [TEA na Cultura Pop](/pages/autismo/namidia.html)  
+
+[🔝 Voltar ao topo](#síndrome-de-asperger)

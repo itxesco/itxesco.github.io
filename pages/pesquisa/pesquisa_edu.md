@@ -1,74 +1,68 @@
+
 ---
 layout: page
-title: pesquisa
-description: Prof. Dr. Francisco Nascimento - pesquisa em relações étnico-raciais e afrofuturismo ensino de ciências e educação Histórias em Quadrinhos de Super-Heróis e Impacto Cultural no Ensino de Ciências no Ensino de Física Jogos de RPG e Educação e Ensino de Ciências e Ensino de Física
+title: Pesquisa
+description: Prof. Dr. Francisco Nascimento - Pesquisa em relações étnico-raciais, afrofuturismo, ensino de ciências, educação antirracista, histórias em quadrinhos, jogos e ensino de física.
 ---
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Menu de Navegação</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-        }
-        .menu {
-            background-color: #333;
-            overflow: hidden;
-        }
-        .menu a {
-            float: left;
-            display: block;
-            color: white;
-            text-align: center;
-            padding: 14px 16px;
-            text-decoration: none;
-        }
-        .menu a:hover {
-            background-color: #ddd;
-            color: black;
-        }
-        .content {
-            padding: 20px;
-        }
-    </style>
-</head>
-<body>
 
-<div class="navbar">
-  <div class="navbar-inner">
-      <ul class="nav">
-          <li><a href= "/pages/pesquisa/pesquisa_afro.html">afrofuturismo</a></li>
-          <li><a href= "/pages/pesquisa/pesquisa_edu.html">educação antiracista</a></li>
-          <li><a href= "/pages/pesquisa/pesquisa_hq.html">historias em quadrinhos e educação</a></li>
-            <li><a href= "/pages/pesquisa/pesquisa_jogos.html">jogos e educação</a></li>
-      </ul>
-  </div>
-</div>
-<p>
-<p>
+# Menu de Navegação
+
+- [Afrofuturismo](/pages/pesquisa/pesquisa_afro.html)
+- [Educação Antirracista](/pages/pesquisa/pesquisa_edu.html)
+- [Histórias em Quadrinhos e Educação](/pages/pesquisa/pesquisa_hq.html)
+- [Jogos e Educação](/pages/pesquisa/pesquisa_jogos.html)
 
 ---
-<p>
-    <div class="content">
-    <h3 id="antiracista">Educação Antiracista</h3>
-</div>
-<p>
-<p style="text-align: justify;">
 
-Pesquisar a educação antirracista sob uma ótica freireana consiste em buscar caminhos para sua prática no cotidiando da escola básica. Trata-se de algo crucial, pois  como Paulo Freire, é preciso que nós professores também enfatizemos a conscientização e a emancipação dos indivíduos através da educação. Freire defendia uma pedagogia que valorizasse o diálogo, o respeito mútuo e a consciência crítica, princípios essenciais para combater o racismo. <br />
-Esta abordagem propõe uma educação que não apenas reconheça as injustiças, mas também capacite as pessoas educandas a questionar e transformar a realidade opressiva.<br /> Integrar a perspectiva freireana na educação antirracista permite a construção de um ambiente educacional onde todos os alunos, independentemente de sua raça, podem desenvolver-se plenamente e contribuir para uma sociedade mais justa e equitativa.<br />
-<p>
-<p style="text-align: justify;">
-Meus trabalhos partem deste principio, buscando sua intersecção com os trabalhos de Georges Snyders, que exploram a alegria na educação, para complementar o caminho que  aponta que o processo educacional deve ser não apenas emancipador, mas também prazeroso e motivador.<br /> Snyders argumenta que a alegria no aprendizado é fundamental para o desenvolvimento integral dos estudantes, e quando aplicada ao contexto da educação antirracista, essa ideia promove um ambiente onde os alunos se sentem valorizados e respeitados.<br />
- A combinação das ideias de Freire e Snyders pode criar uma pedagogia que seja ao mesmo tempo crítica e humanizadora, capaz de abordar as complexidades do racismo de maneira holística e transformadora.<br />
-<p>
-<p style="text-align: justify;">
-Além disso, a integração dessas duas perspectivas pode proporcionar uma compreensão mais rica e profunda das dinâmicas sociais e educacionais. Freire e Snyders, cada um a seu modo, desafiam as estruturas tradicionais de ensino que frequentemente perpetuam desigualdades raciais. <br />
-Freire, com sua crítica à educação bancária, e Snyders, com sua ênfase na alegria e na experiência positiva do aprendizado, oferecem um modelo educativo que combate o racismo não apenas no conteúdo, mas também na forma como a educação é vivenciada. Este modelo educativo holístico é essencial para construir uma sociedade onde a diversidade é celebrada e as desigualdades são ativamente combatidas.<br />
-<p>
-<p style="text-align: justify;">
- Essa abordagem promove uma educação que é ao mesmo tempo crítica e afirmativa, desafiando os preconceitos e promovendo a igualdade racial. Ao unir a conscientização crítica de Freire com a "alegria na escola" de Snyders, é possível criar ambientes de aprendizagem mais inclusivos, acolhedores e justos, capacitando todos os alunos a se tornarem agentes de mudança em suas comunidades.
- <p>
- </p>
+# Educação Antirracista {#antiracista}
+
+Pesquisar a **educação antirracista** sob uma ótica **freireana** consiste em buscar caminhos para sua prática no cotidiano da escola básica. Essa abordagem é crucial porque, como **Paulo Freire**, é preciso que nós, professores, enfatizemos a **conscientização** e a **emancipação** dos indivíduos através da educação.
+
+Freire defendia uma pedagogia baseada em:
+- **Diálogo**
+- **Respeito mútuo**
+- **Consciência crítica**
+
+Esses princípios são essenciais para combater o racismo, pois propõem uma educação que não apenas reconheça as injustiças, mas também capacite os alunos a **questionar e transformar** a realidade opressiva.
+
+Integrar a perspectiva freireana na educação antirracista permite construir um ambiente educacional no qual todos os alunos, independentemente de sua raça, possam **se desenvolver plenamente** e contribuir para uma sociedade mais **justa e equitativa**.
+
 ---
+
+## Intersecção com Georges Snyders
+
+Meus trabalhos partem desse princípio e buscam sua **intersecção com os trabalhos de Georges Snyders**, que exploram a **alegria na educação**. Isso complementa a ideia de que o processo educacional deve ser **não apenas emancipador, mas também prazeroso e motivador**.
+
+Snyders argumenta que a **alegria no aprendizado** é fundamental para o desenvolvimento integral dos estudantes. Quando aplicada ao contexto da **educação antirracista**, essa perspectiva:
+- **Promove um ambiente onde os alunos se sentem valorizados e respeitados.**
+- **Estimula o prazer de aprender como ferramenta de empoderamento.**
+
+A combinação das ideias de **Freire e Snyders** pode criar uma pedagogia **crítica e humanizadora**, capaz de abordar as complexidades do racismo de maneira **holística e transformadora**.
+
+---
+
+## Educação como Ferramenta de Transformação Social
+
+A integração dessas duas perspectivas oferece uma **compreensão mais profunda** das dinâmicas sociais e educacionais. Tanto Freire quanto Snyders **desafiam** as estruturas tradicionais de ensino que perpetuam desigualdades raciais:
+
+- **Freire** critica a **educação bancária**, que trata os estudantes como meros receptores de conhecimento, sem autonomia ou reflexão.
+- **Snyders** enfatiza a **alegria e a experiência positiva do aprendizado**, o que fortalece a autoestima dos alunos e promove maior engajamento.
+
+Dessa forma, o **modelo educativo resultante combate o racismo não apenas no conteúdo, mas também na forma como a educação é vivenciada**.
+
+---
+
+## Construindo um Ensino Antirracista
+
+Essa abordagem promove uma educação que é, ao mesmo tempo:
+- **Crítica e afirmativa**, desafiando preconceitos e promovendo a igualdade racial.
+- **Inclusiva e acolhedora**, criando espaços de aprendizagem que valorizam a diversidade.
+
+Ao unir a **conscientização crítica de Freire** com a **"alegria na escola" de Snyders**, é possível:
+- Criar ambientes de aprendizagem **mais justos e acolhedores**.
+- Capacitar os alunos a se tornarem **agentes de mudança** em suas comunidades.
+
+A educação **antirracista** é uma **ferramenta essencial para transformar a sociedade** e garantir que **todas as vozes sejam ouvidas e respeitadas**.
+
+---
+📢 **Acompanhe mais sobre essa pesquisa e suas aplicações na prática educacional!**

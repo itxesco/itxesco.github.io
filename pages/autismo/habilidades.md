@@ -1,67 +1,114 @@
+# 🧠 Altas Habilidades no Autismo  
 
-# Não fale ~~Asperger~~
+## O que são  Altas Habilidades?  
 
-## Navegação
+O termo "Altas habilidades" no autismo se refere a um conjunto de **capacidades cognitivas, artísticas ou criativas excepcionais** que algumas pessoas autistas apresentam. Essas habilidades podem se manifestar em diferentes áreas, como matemática, música, desenho, memória e linguagem, por exemplo.  
 
-- [O que é o TEA](/pages/autismo/autismo.html)
-- [Diagnóstico Tardio](/pages/autismo/teadultos.html)
-- [Simbologia e Representação](/pages/autismo/identificadao.html)
-- [~~Asperger~~](/pages/autismo/asperger.html)
-- [Direitos e Documentação](/pages/autismo/direitos.html)
-- [Altas Habilidades e Superdotação](/pages/autismo/habilidades.html)
-- [Mitos](/pages/autismo/mitos.html)
-- [TEA na Cultura Pop](/pages/autismo/namidia.html)
+Nem todas as pessoas autistas possuem altas habilidades e nem todas as pessoas autistas com altas habilidades possuem **superdotação**, pois podem ser muito talentosas em assuntos específicos, enquanto que em outras áreas poderão enfrentar desafios significativos.  
 
 ---
 
-## O quê? A maioria dos autistas não é de alta funcionalidade?
+## 🔍 Características das Altas Habilidades no TEA  
 
-Recentemente, li uma crítica de **David Kirby** sobre *Autism: The Musical*, publicada no **Huffington Post**. Provavelmente você nunca ouviu falar dele, mas Kirby é autor de um livro factualmente duvidoso que tenta ligar o mercúrio, que uma vez esteve presente em vacinas, a um aumento percebido nos diagnósticos de autismo. Embora **Kirby não seja médico**, ele se apresenta como especialista e tem o hábito de escrever artigos incrivelmente enganosos sobre autismo, comprometendo qualquer resquício de integridade jornalística que já teve.
+Embora variem de pessoa para pessoa, algumas características comuns incluem:  
 
-Normalmente, não responderia a alguém como ele. No entanto, em sua crítica sobre *Autism: The Musical*, Kirby expressa preocupação de que o filme possa transmitir a **falsa impressão** de que a maioria das crianças autistas são "altamente funcionais, brilhantes e carismáticas". Ele então faz a afirmação de que **a maioria dos indivíduos autistas não é "de alta funcionalidade"**.
+- **Memória excepcional** 🧠 – Grande capacidade de lembrar detalhes específicos, como datas, mapas e informações factuais.  
+- **Habilidades matemáticas avançadas** ➗ – Facilidade para cálculos complexos e compreensão de conceitos abstratos.  
+- **Talento artístico e musical** 🎨🎼 – Criatividade acima da média em pintura, escultura ou música.  
+- **Domínio avançado da linguagem** 🗣️ – Interesse por línguas, gramática e escrita, além de vocabulário extenso.  
+- **Hiperfoco** 🎯 – Intensa dedicação a um tema específico, levando a um conhecimento profundo no assunto.  
 
-A questão que eu gostaria de levantar é: **"sério?"**
+💡 **Lembrando que nem todo autista com altas habilidades tem QI elevado ou superdotação global. Algumas de suas habilidades podem ser extremamente especializadas.**  
+
+---
+## 🌟 Superdotação no TEA
+
+Ela ocorre quando uma pessoa autista apresenta habilidades cognitivas significativamente acima da média, geralmente com um **QI acima de 130**. No entanto, a superdotação em autistas pode ser **desigual**, com habilidades excepcionais em algumas áreas e desafios em outras.
+
+Nem toda pessoa autista com altas habilidades é considerada superdotada, pois a superdotação envolve não apenas um talento específico, mas também **pensamento criativo, alta motivação e desempenho acima da média** em várias áreas.
 
 ---
 
-## A realidade sobre a funcionalidade no autismo
+## 🔍 Diferença entre Superdotação e Altas Habilidades no TEA
 
-Os estudos mais recentes sobre autismo contradizem completamente a afirmação de Kirby. Pesquisas ao longo das últimas duas décadas mostram que **a maioria dos autistas não se encaixa na ideia de "baixa funcionalidade"**.
+Embora os dois termos sejam frequentemente confundidos, há diferenças importantes:
 
-- Um **estudo realizado na Inglaterra nos anos 90** mostrou que **1 em cada 300 pessoas** já havia sido diagnosticada com a Síndrome de ~~Asperger~~.
-- Um estudo mais recente da **Suécia** indicou que a taxa de diagnósticos da Síndrome de ~~Asperger~~ subiu para **1 em 250**.
-- Segundo o **CDC**, **1 em 150 pessoas** tem autismo.
+| Característica               | Superdotação Tradicional    | Altas Habilidades no Autismo |
+|------------------------------|-----------------------------|------------------------------|
+| **QI**                       | Geralmente acima de 130     | Pode variar                  |
+| **Áreas de Habilidade**      | Diversas                    | Foco intenso em uma área     |
+| **Habilidades Sociais**      | Geralmente boas             | Podem apresentar dificuldades|
+| **Flexibilidade Cognitiva**  | Alta                        | Pode ser mais rígida         |
+| **Aprendizado**              | Rápido e autodidata         | Aprendizado intenso, mas seletivo |
 
-Se esses números forem precisos, **os autistas com diagnóstico de Asperger representariam mais da metade de todos os casos de TEA**.
+*Fontes:*
 
-Além disso, há muitas pessoas com **autismo clássico** que ainda se enquadram na categoria de "alta funcionalidade". O problema é que muitos estudos não abordam essa questão diretamente.
+- Mundo Kids ABA. "Autismo x Superdotação: Diferenças e Características Sobrepostas." Disponível em:  [oai_citation_attribution:0‡mundokidsaba.com.br](https://www.mundokidsaba.com.br/ver/autismo-x-superdotacao-diferencas-e-caracteristicas-sobrepostas?utm_source=chatgpt.com)
+- Gisele Neuropsicóloga. "Semelhanças e Diferenças entre Superdotação e Autismo Leve." Disponível em:  [oai_citation_attribution:1‡giseleneuropsicologa.com](https://www.giseleneuropsicologa.com/post/semelhan%C3%A7as-entre-superdota%C3%A7%C3%A3o-e-autismo-leve?utm_source=chatgpt.com)
 
-### Por que as pessoas acreditam que autistas altamente funcionais são minoria?
-
-Se mais da metade dos diagnósticos são de TEA de alta funcionalidade, **por que a mídia e a sociedade continuam reforçando a ideia de que autistas altamente funcionais são minoria?**
-
-A resposta é simples: **interesses financeiros e manipulação da percepção pública**.
-
-Organizações como **Autism Speaks** se beneficiam da imagem do autismo como uma condição severa. Ao equiparar **autismo a doenças graves como câncer ou pólio**, essas organizações:
-
-- Atraem mais atenção do público.
-- **Arrecadam mais dinheiro** em doações.
-- Criam uma narrativa de "autistas que precisam ser salvos", marginalizando a própria voz dos autistas.
-
-Essa manipulação da percepção pública **prejudica diretamente os autistas**. O estigma negativo gerado leva à criação de uma cultura onde **pais que cometem violência contra crianças autistas são vistos com simpatia**, e não como abusadores.
+💡 **Vale repetir:nem toda pessoa autista com altas habilidades é superdotada, pois a superdotação requer um desempenho elevado em diversas áreas e não apenas um talento isolado.**
 
 ---
 
-## Precisamos ser ouvidos!
+## 🏷️ Tipos de Superdotação no TEA
 
-Por que essa desinformação é tolerada? Eu realmente não sei. Isso me intriga tanto quanto o próprio autismo intriga pais que esperavam que seus filhos se comportassem de uma maneira "normal".
+1️⃣ **Superdotação Intelectual** – Habilidades avançadas em várias áreas cognitivas, como matemática, ciências e lógica.
 
-Infelizmente, **as vozes dos próprios autistas são frequentemente ignoradas**, enquanto a atenção se volta para as experiências dos pais e suas dificuldades.
+2️⃣ **Superdotação Criativa** – Grande talento para artes, música, escrita ou invenção de novas ideias.
 
-Isso precisa mudar.
+3️⃣ **Superdotação Motora** – Coordenação excepcional em esportes, dança ou habilidades motoras finas.
 
-Precisamos aumentar nosso volume, nos unir e **fazer mais barulho** para que **nossa própria voz** seja finalmente ouvida.
+4️⃣ **Superdotação Emocional** – Alto nível de empatia, compreensão emocional e percepção social.
 
 ---
 
-[Voltar ao topo](#top)
+## 🔄 Diferença entre Superdotação e Autismo com Altas Habilidades  
+
+Embora muitas pessoas confundam os termos, existem diferenças importantes:  
+
+- **Superdotação tradicional** → Normalmente envolve **QI acima de 130**, desempenho excepcional em múltiplas áreas e facilidade de aprendizagem.  
+- **Altas Habilidades no Autismo** → Podem ser mais especializadas, com grande talento em um campo específico, mas acompanhadas por dificuldades sociais e emocionais.  
+
+### 🏷️ Três perfis principais:  
+
+1️⃣ **Dupla Excepcionalidade (2E)** → Pessoas autistas que também são superdotadas.  
+2️⃣ **Savantismo** → Casos raros de habilidades extraordinárias, como tocar uma música complexa após ouvi-la apenas uma vez.  
+3️⃣ **Altas Habilidades Específicas** → Grandes talentos em áreas isoladas, sem superdotação global.  
+
+---
+
+## 🎭 Desafios e Necessidades Educacionais de Autistas com Altas Habilidades  
+
+Apesar das altas habilidades, essas pessoas podem enfrentar dificuldades em:  
+
+- **Interação social** 🤝 – Dificuldade em entender normas sociais e comunicação não verbal.  
+- **Regulação emocional** ⚡ – Podem apresentar crises quando frustradas ou sobrecarregadas.  
+- **Flexibilidade cognitiva** 🔄 – Desafios para lidar com mudanças inesperadas.  
+- **Estímulo adequado** 🎓 – Muitos sistemas educacionais não reconhecem ou atendem suas necessidades.  
+
+💡 **Soluções possíveis:** Adaptações curriculares, estratégias pedagógicas inclusivas e apoio psicológico para desenvolvimento emocional e social.  
+
+---
+
+## 🏆 Como Apoiar Autistas com Altas Habilidades?  
+
+✅ **Estimule seus interesses** – Proporcione materiais e oportunidades dentro de seus focos de interesse.  
+✅ **Ensine habilidades sociais** – Trabalhe comunicação e interação interpessoal.  
+✅ **Forneça suporte emocional** – Respeite suas dificuldades sensoriais e emocionais.  
+✅ **Evite expectativas irreais** – Nem todo autista com altas habilidades quer ou precisa ser um "gênio".  
+
+---
+
+## 📚 Saiba Mais  
+
+- 🔹 [O que é o TEA?](/pages/autismo/autismo.html)  
+- 🔹 [o Diagnóstico Tardio](/pages/autismo/diagnosticotardio.html)
+- 🔹 [Direitos e Documentação](/pages/autismo/direitos.html)
+- 🔹 [a Simbologia e Representação](/pages/autismo/identificadao.html)
+- 🔹 [o que era ~~Asperger~~](/pages/autismo/asperger.html)
+- 🔹 [Mitos sobre o TEA](/pages/autismo/mitos.html)  
+- 🔹 [TEA na Cultura Pop](/pages/autismo/namidia.html)  
+
+
+
+🔝 [**Voltar ao topo**](#🧠-altas-habilidades-no-autismo)

@@ -1,17 +1,5 @@
 
 # Síndrome de ~~Asperger~~
-
-## Navegação
-
-- [O que é o TEA](/pages/autismo/autismo.html)
-- [Diagnóstico Tardio](/pages/autismo/teadultos.html)
-- [Simbologia e Representação](/pages/autismo/identificadao.html)
-- [~~Asperger~~](/pages/autismo/asperger.html)
-- [Direitos e Documentação](/pages/autismo/direitos.html)
-- [Altas Habilidades e Superdotação](/pages/autismo/habilidades.html)
-- [Mitos](/pages/autismo/mitos.html)
-- [TEA na Cultura Pop](/pages/autismo/namidia.html)
-
 ---
 
 ## Índice (clique para ir para as seções)
@@ -124,8 +112,16 @@ Estudos utilizam neuroimagem para entender diferenças cerebrais e testar novos 
 
 ---
 
-## Conclusão
-
 A Síndrome de ~~Asperger~~ foi removida dos manuais diagnósticos e hoje faz parte do Transtorno do Espectro Autista (TEA). Com suporte adequado, pessoas com essa condição podem desenvolver suas habilidades e levar vidas produtivas.
+
+## 💙 Para saber mais sobre:
+
+- [O que é o TEA](/pages/autismo/autismo.html)
+- [Diagnóstico Tardio](/pages/autismo/diagnosticotardio.html)
+- [Simbologia e Representação](/pages/autismo/identificadao.html)
+- [Direitos e Documentação](/pages/autismo/direitos.html)
+- [Altas Habilidades e Superdotação](/pages/autismo/habilidades.html)
+- [Mitos](/pages/autismo/mitos.html)
+- [TEA na Cultura Pop](/pages/autismo/namidia.html)
 
 [Voltar ao topo](#top)
