@@ -1,6 +1,6 @@
-# 🧠 Altas Habilidades no Autismo  
+## 🧠 Altas Habilidades no Autismo  
 
-## O que são  Altas Habilidades?  
+### O que são  Altas Habilidades?  
 
 O termo "Altas habilidades" no autismo se refere a um conjunto de **capacidades cognitivas, artísticas ou criativas excepcionais** que algumas pessoas autistas apresentam. Essas habilidades podem se manifestar em diferentes áreas, como matemática, música, desenho, memória e linguagem, por exemplo.  
 
@@ -8,7 +8,7 @@ Nem todas as pessoas autistas possuem altas habilidades e nem todas as pessoas a
 
 ---
 
-## 🔍 Características das Altas Habilidades no TEA  
+### 🔍 Características das Altas Habilidades no TEA  
 
 Embora variem de pessoa para pessoa, algumas características comuns incluem:  
 
@@ -21,7 +21,7 @@ Embora variem de pessoa para pessoa, algumas características comuns incluem:
 💡 **Lembrando que nem todo autista com altas habilidades tem QI elevado ou superdotação global. Algumas de suas habilidades podem ser extremamente especializadas.**  
 
 ---
-## 🌟 Superdotação no TEA
+### 🌟 Superdotação no TEA
 
 Ela ocorre quando uma pessoa autista apresenta habilidades cognitivas significativamente acima da média, geralmente com um **QI acima de 130**. No entanto, a superdotação em autistas pode ser **desigual**, com habilidades excepcionais em algumas áreas e desafios em outras.
 
@@ -29,7 +29,7 @@ Nem toda pessoa autista com altas habilidades é considerada superdotada, pois a
 
 ---
 
-## 🔍 Diferença entre Superdotação e Altas Habilidades no TEA
+### 🔍 Diferença entre Superdotação e Altas Habilidades no TEA
 
 Embora os dois termos sejam frequentemente confundidos, há diferenças importantes:
 
@@ -50,7 +50,7 @@ Embora os dois termos sejam frequentemente confundidos, há diferenças importan
 
 ---
 
-## 🏷️ Tipos de Superdotação no TEA
+### 🏷️ Tipos de Superdotação no TEA
 
 1️⃣ **Superdotação Intelectual** – Habilidades avançadas em várias áreas cognitivas, como matemática, ciências e lógica.
 
@@ -62,7 +62,7 @@ Embora os dois termos sejam frequentemente confundidos, há diferenças importan
 
 ---
 
-## 🔄 Diferença entre Superdotação e Autismo com Altas Habilidades  
+### 🔄 Diferença entre Superdotação e Autismo com Altas Habilidades  
 
 Embora muitas pessoas confundam os termos, existem diferenças importantes:  
 
@@ -77,7 +77,7 @@ Embora muitas pessoas confundam os termos, existem diferenças importantes:
 
 ---
 
-## 🎭 Desafios e Necessidades Educacionais de Autistas com Altas Habilidades  
+### 🎭 Desafios e Necessidades Educacionais de Autistas com Altas Habilidades  
 
 Apesar das altas habilidades, essas pessoas podem enfrentar dificuldades em:  
 
@@ -90,7 +90,7 @@ Apesar das altas habilidades, essas pessoas podem enfrentar dificuldades em:
 
 ---
 
-## 🏆 Como Apoiar Autistas com Altas Habilidades?  
+### 🏆 Como Apoiar Autistas com Altas Habilidades?  
 
 ✅ **Estimule seus interesses** – Proporcione materiais e oportunidades dentro de seus focos de interesse.  
 ✅ **Ensine habilidades sociais** – Trabalhe comunicação e interação interpessoal.  
@@ -99,7 +99,7 @@ Apesar das altas habilidades, essas pessoas podem enfrentar dificuldades em:
 
 ---
 
-## 📚 Saiba Mais  
+### 📚 Saiba Mais  
 
 - 🔹 [O que é o TEA?](/pages/autismo/autismo.html)  
 - 🔹 [o Diagnóstico Tardio](/pages/autismo/diagnosticotardio.html)
