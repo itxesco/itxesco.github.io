@@ -12,7 +12,7 @@
 
 ---
 
-## O que é o TEA? {#TEA}
+### O que é o TEA? {#TEA}
 
 O autismo é uma diferença no funcionamento neurológico caracterizada por dificuldades de comunicação social, sensibilidades sensoriais e interesses especiais intensos. Os sintomas específicos e sua gravidade variam muito de pessoa para pessoa; por isso, o autismo é considerado um espectro.
 
@@ -20,7 +20,7 @@ Por um tempo, a Síndrome de ~~Asperger~~ foi usada como um diagnóstico especí
 
 Uma em cada 68 crianças nos EUA é diagnosticada com alguma forma de TEA. O aumento dos diagnósticos deve-se principalmente à maior conscientização e compreensão. Muitos adultos autistas passaram a vida sem um diagnóstico adequado ou eram apenas vistos como "estranhos".
 
-### Definições de TEA
+#### Algumas Definições para o TEA
 
 - A [**Biblioteca Virtual em Saúde (BVS)**](https://bvsms.saude.gov.br/transtorno-do-espectro-autista-tea-autismo/#:~:text=Tem%20como%20características%20a%20dificuldade,ou%20três%20anos%20de%20idade.) do Ministério da Saúde define TEA como:
 
@@ -36,7 +36,7 @@ Uma em cada 68 crianças nos EUA é diagnosticada com alguma forma de TEA. O aum
 
 ---
 
-### Histórico do TEA
+#### Histórico do TEA
 
 A ciência ainda não encontrou causas definitivas para o TEA. As investigações sobre o transtorno começaram em 1943 com o psiquiatra **Leo Kanner**, em seu livro *Distúrbios Autísticos do Contato Afetivo*. Algumas mudanças no diagnóstico ao longo do tempo:
 
@@ -45,7 +45,7 @@ A ciência ainda não encontrou causas definitivas para o TEA. As investigaçõe
 
 ---
 
-## Apoio e Tratamento {#apoio}
+### Apoio e Tratamento {#apoio}
 
 - **Terapia Cognitivo-Comportamental (TCC)**: Auxilia no desenvolvimento de habilidades sociais e no controle da ansiedade.
 - **Treinamento de Habilidades Sociais**: Programas para melhorar a interação social.

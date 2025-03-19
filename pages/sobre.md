@@ -1,15 +1,16 @@
 
-![Imagem de perfil](https://itxesco.github.io/imagens/perfil/perfil_3.jpeg)
-  
-  
----  
-  
+![Imagem de perfil](https://itxesco.github.io/imagens/perfil/perfil_3.jpeg)  
 
-Olá, sou **Francisco de Assis Nascimento Junior**, ([TEA](https://bvsms.saude.gov.br/transtorno-do-espectro-autista-tea-autismo/)|[AH/SD](https://evoluirdesenvolvimento.com.br/superdotacao-e-autismo/) | [TDAH](https://www.msdmanuals.com/pt-br/casa/problemas-de-sa%C3%BAde-infantil/dist%C3%BArbios-de-aprendizagem-e-do-desenvolvimento/transtorno-do-d%C3%A9ficit-de-aten%C3%A7%C3%A3o-com-hiperatividade-tdah)), [autista nível 2 de suporte](https://autismoerealidade.org.br/2024/02/08/o-que-sao-niveis-de-suporte-no-tea-e-como-eles-podem-auxiliar-no-diagnostico/), Decano (2022-2026) do [Instituto de Humanidades, Artes e Ciências](https://www.ufsb.edu.br/ihac/) no Campus Sosígenes Costa (CSC) da [Universidade Federal do Sul da Bahia](https://ufsb.edu.br/) (UFSB), onde sou **Professor Adjunto** e atuo na formação inicial e continuada de professores.
+
+
+---  
+
+
+
+
+Olá, sou o professor **Francisco de Assis Nascimento Junior**, ([TEA](https://bvsms.saude.gov.br/transtorno-do-espectro-autista-tea-autismo/)|[AH/SD](https://evoluirdesenvolvimento.com.br/superdotacao-e-autismo/) | [TDAH](https://www.msdmanuals.com/pt-br/casa/problemas-de-sa%C3%BAde-infantil/dist%C3%BArbios-de-aprendizagem-e-do-desenvolvimento/transtorno-do-d%C3%A9ficit-de-aten%C3%A7%C3%A3o-com-hiperatividade-tdah)), [autista nível 2 de suporte](https://autismoerealidade.org.br/2024/02/08/o-que-sao-niveis-de-suporte-no-tea-e-como-eles-podem-auxiliar-no-diagnostico/), Decano (Diretor) do [Instituto de Humanidades, Artes e Ciências](https://www.ufsb.edu.br/ihac/) no Campus Sosígenes Costa (CSC) da [Universidade Federal do Sul da Bahia](https://ufsb.edu.br/) (UFSB), onde sou **Professor Adjunto** e atuo na formação inicial e continuada de professores.
 
 Meu trabalho é apaixonante: atuo na formação de professores (inicial e continuada) e pesquiso questões envolvendo o ensino e as relações étnico-raciais.
-
-Além de minhas responsabilidades acadêmicas, sou o atual **Diretor (Decano)** do Instituto de Humanidades, Artes e Ciências, um papel que desempenho com dedicação e comprometimento.
 
 Minha jornada acadêmica inclui uma trajetória marcante na [Universidade de São Paulo (USP)](https://www5.usp.br/), onde obtive meu **doutorado em Educação** na [Faculdade de Educação (FEUSP)](https://www4.fe.usp.br/), além do [mestrado em Ensino de Ciências (modalidade Física)](https://portal.if.usp.br/piec/) e a [Licenciatura em Física](https://portal.if.usp.br/cg/licenciatura-em-fisica), ambos pelo [IFUSP](https://portal.if.usp.br/ifusp/).
 

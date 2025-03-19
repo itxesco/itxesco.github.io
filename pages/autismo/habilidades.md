@@ -1,6 +1,5 @@
-## 🧠 Altas Habilidades no Autismo  
 
-### O que são  Altas Habilidades?  
+### 🧠 O que são  Altas Habilidades?  
 
 O termo "Altas habilidades" no autismo se refere a um conjunto de **capacidades cognitivas, artísticas ou criativas excepcionais** que algumas pessoas autistas apresentam. Essas habilidades podem se manifestar em diferentes áreas, como matemática, música, desenho, memória e linguagem, por exemplo.  
 

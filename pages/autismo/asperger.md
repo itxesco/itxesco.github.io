@@ -1,16 +1,13 @@
 
 ---
-title: Síndrome de ~~Asperger~~
-description: Entenda por que a Síndrome de Asperger foi removida dos manuais diagnósticos e incorporada ao Transtorno do Espectro Autista (TEA).
----
 
-# 🧩 Síndrome de ~~Asperger~~
+### 🧩 Síndrome de ~~Asperger~~
 
 A **Síndrome de ~~Asperger~~** era considerada um transtorno do espectro autista caracterizado por dificuldades na interação social e comunicação, mas com inteligência e habilidades verbais preservadas. Frequentemente descrita como uma forma "leve" de autismo, foi incorporada ao **Transtorno do Espectro Autista (TEA)** no DSM-5.
 
 ---
 
-## 📌 Índice  
+### 📌 Índice  
 
 - [O que era a síndrome de ~~Asperger~~?](#o-que-era-a-sindrome-de-asperger)  
 - [Por que era chamada de síndrome de ~~Asperger~~?](#por-que-era-chamada-de-sindrome-de-asperger)  
@@ -24,7 +21,7 @@ A **Síndrome de ~~Asperger~~** era considerada um transtorno do espectro autist
 
 ---
 
-## 🏷️ O que era a síndrome de ~~Asperger~~?  
+### 🏷️ O que era a síndrome de ~~Asperger~~?  
 
 A **Síndrome de ~~Asperger~~ (SA)** era um transtorno do desenvolvimento caracterizado por:
 
@@ -40,7 +37,7 @@ Os sintomas podem ser percebidos na infância, geralmente por volta dos **3 anos
 
 ---
 
-## 🔍 Por que era chamada de síndrome de ~~Asperger~~?  
+### 🔍 Por que era chamada de síndrome de ~~Asperger~~?  
 
 O termo foi criado com base nos estudos do pediatra austríaco **Hans ~~Asperger~~**, que em 1944 descreveu crianças com dificuldades sociais, mas inteligência normal.  
 
@@ -48,7 +45,7 @@ A condição foi reconhecida oficialmente nos anos 1990, mas o termo foi removid
 
 ---
 
-## ⚠️ Quais são alguns sinais ou sintomas comuns?  
+### ⚠️ Quais são alguns sinais ou sintomas comuns?  
 
 O sintoma mais característico da SA era um **interesse obsessivo por um único tópico**. Outros sinais incluem:
 
@@ -60,13 +57,13 @@ O sintoma mais característico da SA era um **interesse obsessivo por um único 
 
 ---
 
-## 🧬 O que causa a SA? É genético?  
+### 🧬 O que causa a SA? É genético?  
 
 Pesquisas sugerem que a SA tem uma **base genética**, mas não há um único gene identificado. Estudos apontam **anomalias cerebrais** que afetam áreas responsáveis pelo pensamento e comportamento.
 
 ---
 
-## 🩺 Como é diagnosticada?  
+### 🩺 Como é diagnosticada?  
 
 O diagnóstico de SA era feito com base em avaliações clínicas, sem exames laboratoriais específicos.  
 Alguns sinais de alerta incluem:
@@ -81,7 +78,7 @@ Atualmente, o **Transtorno do Espectro Autista (TEA)** é diagnosticado com base
 
 ---
 
-## 💊 Existem tratamentos disponíveis?  
+### 💊 Existem tratamentos disponíveis?  
 
 Embora não exista cura, intervenções precoces ajudam no desenvolvimento de habilidades. Os tratamentos incluem:
 
@@ -96,13 +93,13 @@ Quanto mais cedo a intervenção, melhores os resultados.
 
 ---
 
-## 🔄 As crianças com SA melhoram? O que acontece quando se tornam adultos?  
+### 🔄 As crianças com SA melhoram? O que acontece quando se tornam adultos?  
 
 Com suporte adequado, muitas pessoas diagnosticadas com SA levam vidas independentes, mas podem continuar enfrentando desafios sociais e emocionais. O suporte no ambiente acadêmico e profissional é essencial para a qualidade de vida.
 
 ---
 
-## 🔬 Que pesquisas estão sendo feitas?  
+### 🔬 Que pesquisas estão sendo feitas?  
 
 Instituições como o **NIH (National Institutes of Health)** estudam:
 
@@ -114,7 +111,7 @@ Pesquisas utilizam neuroimagem para entender diferenças cerebrais e testar novo
 
 ---
 
-## 💙 Onde posso obter mais informações?  
+### 💙 Onde posso obter mais informações?  
 
 A Síndrome de ~~Asperger~~ foi removida dos manuais diagnósticos e hoje faz parte do **Transtorno do Espectro Autista (TEA)**. Com suporte adequado, pessoas autistas podem desenvolver suas habilidades e levar vidas produtivas.
 

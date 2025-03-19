@@ -1,7 +1,7 @@
 
 ---
 
-## Menu de Navegação
+### Menu de Navegação
 
 - [Oca da Ciência na Escola](/pages/extensao/extensao_oca.html)
 - [Sarau Odara](/pages/extensao/extensao_sarau.html)
@@ -12,28 +12,28 @@
 
 ---
 
-## Extensão Universitária
+### Extensão Universitária
 
 A extensão universitária é uma das três funções essenciais das universidades, ao lado do ensino e da pesquisa. Ela se refere a atividades que promovem a interação entre a universidade e a sociedade, proporcionando benefícios mútuos, buscando aplicar o conhecimento acadêmico em práticas que possam contribuir para o desenvolvimento social, cultural, econômico e tecnológico da comunidade externa à universidade.
 
-### Atividades de Extensão Universitária
+#### Atividades de Extensão Universitária
 
-### 1. Projetos Comunitários
+#### 1. Projetos Comunitários
 Programas que visam resolver problemas sociais locais, como ações de saúde pública, educação, assistência social, entre outros.
 
-### 2. Cursos e Oficinas
+#### 2. Cursos e Oficinas
 Cursos de curta duração, oficinas, palestras e seminários abertos ao público sobre diversos temas.
 
-### 3. Consultoria e Assessoria
+#### 3. Consultoria e Assessoria
 Serviços prestados por professores e estudantes para empresas, organizações não governamentais e órgãos públicos.
 
-### 4. Eventos Culturais
+#### 4. Eventos Culturais
 Exposições, mostras de arte, apresentações teatrais e musicais, entre outros eventos culturais que envolvem a comunidade.
 
-### 5. Iniciativas de Empreendedorismo e Inovação
+#### 5. Iniciativas de Empreendedorismo e Inovação
 Programas que incentivam o empreendedorismo e a inovação tecnológica, muitas vezes em parceria com o setor empresarial.
 
-### Objetivos da Extensão Universitária
+#### Objetivos da Extensão Universitária
 
 - **Disseminar o conhecimento produzido na universidade:** Tornando-o acessível e aplicável à sociedade.
 - **Promover a formação integral dos estudantes:** Complementando a formação acadêmica com experiências práticas e comunitárias.

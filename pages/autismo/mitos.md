@@ -1,7 +1,5 @@
 
-# 10 Equívocos Comuns Sobre o Autismo
-
-## Navegação
+### Navegação
 
 - [O que é o TEA](/pages/autismo/autismo.html)
 - [Diagnóstico Tardio](/pages/autismo/teadultos.html)
@@ -14,7 +12,7 @@
 
 ---
 
-## Introdução
+### Introdução
 
 Muitas concepções errôneas sobre o **Autismo** continuam a circular, resultando em falta de diagnósticos, incompreensão e financiamento de organizações que não representam verdadeiramente os autistas.
 
@@ -22,7 +20,7 @@ A mídia frequentemente dá mais espaço para narrativas contadas por pessoas qu
 
 ---
 
-## Índice
+### Índice
 
 1. [Autismo é uma epidemia](#equivoco10)
 2. [A maioria dos autistas são "de baixa funcionalidade"](#equivoco9)
@@ -37,7 +35,7 @@ A mídia frequentemente dá mais espaço para narrativas contadas por pessoas qu
 
 ---
 
-## 10. Autismo é uma epidemia {#equivoco10}
+### 10. Autismo é uma epidemia {#equivoco10}
 
 Organizações como *Autism Speaks* rotulam o autismo como uma "epidemia", embora cientistas tenham demonstrado o contrário.
 
@@ -45,7 +43,7 @@ O **Dr. Roy Grinker**, antropólogo da GWU, financiado ironicamente pela Autism 
 
 ---
 
-## 9. A maioria dos autistas são "de baixa funcionalidade" {#equivoco9}
+### 9. A maioria dos autistas são "de baixa funcionalidade" {#equivoco9}
 
 Muitas organizações sem fins lucrativos preferem focar em casos de **"baixa funcionalidade"**, pois isso aumenta a arrecadação de doações.
 
@@ -53,7 +51,7 @@ Porém, **pesquisas mostram que menos da metade dos autistas são considerados d
 
 ---
 
-## 8. O autismo pode ser tratado por ________ (insira aqui um tratamento não aprovado) {#equivoco8}
+### 8. O autismo pode ser tratado por ________ (insira aqui um tratamento não aprovado) {#equivoco8}
 
 Essa é uma das crenças mais perigosas, pois muitos pais desesperados acabam sendo enganados por falsos tratamentos.
 
@@ -61,7 +59,7 @@ Essa é uma das crenças mais perigosas, pois muitos pais desesperados acabam se
 
 ---
 
-## 7. O autismo é causado pelo mercúrio {#equivoco7}
+### 7. O autismo é causado pelo mercúrio {#equivoco7}
 
 Esse mito é popular nos EUA, onde se propagou a ideia de que vacinas contendo mercúrio causariam autismo.
 
@@ -69,7 +67,7 @@ Porém, **estudos demonstram consistentemente que não há qualquer relação en
 
 ---
 
-## 6. Autistas não verbais são severamente mentalmente prejudicados {#equivoco6}
+### 6. Autistas não verbais são severamente mentalmente prejudicados {#equivoco6}
 
 Muitas pessoas assumem que autistas não verbais têm deficiência intelectual severa, o que **não é verdade**.
 
@@ -77,7 +75,7 @@ Dificuldades de comunicação **não refletem capacidade cognitiva**. Existem au
 
 ---
 
-## 5. Autistas não podem ser gênios {#equivoco5}
+### 5. Autistas não podem ser gênios {#equivoco5}
 
 Muitos gênios históricos são suspeitos de ter tido autismo, como **Albert Einstein** e **Thomas Jefferson**.
 
@@ -85,7 +83,7 @@ Hoje, há exemplos vivos, como o economista vencedor do **Prêmio Nobel Vernon S
 
 ---
 
-## 4. Temos uma boa compreensão do autismo {#equivoco4}
+### 4. Temos uma boa compreensão do autismo {#equivoco4}
 
 A ciência ainda sabe **muito pouco sobre o autismo**.
 
@@ -93,7 +91,7 @@ Pesquisadores fazem novas descobertas constantemente, mas ainda estamos longe de
 
 ---
 
-## 3. Autistas querem ser curados {#equivoco3}
+### 3. Autistas querem ser curados {#equivoco3}
 
 A grande maioria dos autistas **não deseja ser "curada"**, pois aceitam o autismo como parte de sua identidade.
 
@@ -101,7 +99,7 @@ Essa perspectiva pode parecer estranha para quem não é autista, mas o mesmo ac
 
 ---
 
-## 2. Pessoas com autismo são iguais {#equivoco2}
+### 2. Pessoas com autismo são iguais {#equivoco2}
 
 Autistas diferem entre si **tanto quanto pessoas neurotípicas**.
 
@@ -111,7 +109,7 @@ Por exemplo, quando criamos o *Wrong Planet*, ficamos surpresos com a diversidad
 
 ---
 
-## 1. Autistas são representados por organizações como Autism Speaks e Cure Autism Now {#equivoco1}
+### 1. Autistas são representados por organizações como Autism Speaks e Cure Autism Now {#equivoco1}
 
 Na verdade, **a maioria dos autistas discorda dessas organizações**.
 
@@ -128,7 +126,7 @@ A **ASAN** recentemente conseguiu pressionar o *New York University Child Study 
 
 ---
 
-## Conclusão
+### Conclusão
 
 A desinformação sobre o autismo continua a ser um grande problema. Organizações lucram com estereótipos e ideias ultrapassadas, enquanto autistas são excluídos de discussões sobre suas próprias vidas.
 

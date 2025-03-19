@@ -7,7 +7,7 @@ Nesta página você pode ter acesso fácil às minhas publicações e colaboraç
 
 🔗 Clique sobre o ícone ![PDF](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png) para acessar diretamente os arquivos.
 
-### 📌 Índice
+#### 📌 Índice
 
 1. [Minha dissertação de mestrado](#mestrado)  
 2. [Minha tese de doutorado](#doutorado)  
@@ -15,7 +15,7 @@ Nesta página você pode ter acesso fácil às minhas publicações e colaboraç
 
 ---
 
-### 📅 2023
+#### 📅 2023
 
 1. **JUNIOR, Francisco de Assis Nascimento**; CARNEIRO, Ericka Santana ; JESUS, Milena Santos.  
    **Literatura Negro-Brasileira: Significando sentidos para o corpo negro no processo de ensino-aprendizado**.  
@@ -36,7 +36,7 @@ Nesta página você pode ter acesso fácil às minhas publicações e colaboraç
 
 ---
 
-### 📅 2022
+#### 📅 2022
 
 1. **NASCIMENTO, Francisco.**  
    **Uma análise das implicações das representações de gênero nas histórias em quadrinhos de super-heróis para o ensino/aprendizagem de ciências**.  
@@ -57,7 +57,7 @@ Nesta página você pode ter acesso fácil às minhas publicações e colaboraç
 
 ---
 
-### 🎓 **Minha Tese de Doutorado** {#doutorado}
+#### 🎓 **Minha Tese de Doutorado** {#doutorado}
 
 - **NASCIMENTO JUNIOR, F. A.**  
   **Crise de identidade: gênero e ciência nos quadrinhos de super-heróis**.  
@@ -69,7 +69,7 @@ Nesta página você pode ter acesso fácil às minhas publicações e colaboraç
 
 ---
 
-### 📖 **Minha Dissertação de Mestrado** {#mestrado}
+#### 📖 **Minha Dissertação de Mestrado** {#mestrado}
 
 - **NASCIMENTO JUNIOR, F. A.**  
   **Quarteto Fantástico: Histórias em Quadrinhos, Ficção Científica e Satisfação Cultural no Ensino de Ciências**.  
@@ -81,7 +81,7 @@ Nesta página você pode ter acesso fácil às minhas publicações e colaboraç
 
 ---
 
-### 🎓 **Orientações de Mestrado** {#orientacoes}
+#### 🎓 **Orientações de Mestrado** {#orientacoes}
 
 1. **Valtiângeli Rodrigues da Silva Moitinho**  
    **O Ensino de Matemática: Uma Reflexão de Aprendizado dentro de uma Perspectiva Decolonial** | 2021  

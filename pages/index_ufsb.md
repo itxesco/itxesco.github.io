@@ -1,9 +1,9 @@
 
 ---
 
-# A Universidade Federal do Sul da Bahia
+### A Universidade Federal do Sul da Bahia
 
-## Sumário
+#### Sumário
 1. [O IHAC-CSC](#ihac)
 2. [Licenciaturas Interdisciplinares?](#lis)
 3. [O que é um Decano?](#decano)
@@ -12,7 +12,7 @@
 
 ---
 
-## 1. O IHAC-CSC {#ihac}
+#### 1. O IHAC-CSC {#ihac}
 
 O [IHAC-CSC](https://ufsb.edu.br/ihac-csc/), está localizado em Porto Seguro (BA) e iniciou suas atividades em 08/09/2014. A [UFSB](https://ufsb.edu.br/) conta com um IHAC em cada um de seus campi: o [IHAC-CJA](https://ufsb.edu.br/ihac-cja/), o [IHAC-CPF](https://ufsb.edu.br/ihac-cpf/) e o [IHAC-CSC](https://ufsb.edu.br/ihac-csc/).
 
@@ -40,7 +40,7 @@ Nosso compromisso é atuar com **Ensino, Pesquisa e Extensão**, sempre buscando
 
 ---
 
-## 2. Licenciaturas Interdisciplinares? {#lis}
+#### 2. Licenciaturas Interdisciplinares? {#lis}
 
 ![I Encontro dos Ingressantes nas LIs do IHAC-CSC em 2023](https://itxesco.github.io/assets/figuras/decanato/encontro_lis.png)
 
@@ -63,7 +63,7 @@ As LIs permitem três saídas para seus egressos:
 
 ---
 
-## 3. O que é um Decano? {#decano}
+#### 3. O que é um Decano? {#decano}
 
 Tradicionalmente, "Decano" é um título honorífico concedido ao membro mais antigo de uma unidade acadêmica, responsável pelo "voto de qualidade" nas reuniões e pela substituição do Diretor quando necessário.
 
@@ -75,7 +75,7 @@ Atualmente, sou Decano do [IHAC-CSC](https://ufsb.edu.br/ihac-csc/) desde julho 
 
 ---
 
-## 4. A gestão 2022-2026 {#gestao}
+#### 4. A gestão 2022-2026 {#gestao}
 
 ![Propostas da chapa para o decanato do IHAC-CSC](https://itxesco.github.io/assets/figuras/decanato/programa_chapa_2.jpg)
 
@@ -96,7 +96,7 @@ Nosso objetivo é enfrentar esses desafios ao longo dos próximos dois anos.
 
 ---
 
-## 5. O PPGER {#ppger}
+#### 5. O PPGER {#ppger}
 
 Em breve, mais informações sobre o Programa de Pós-Graduação em Ensino e Relações Étnico-Raciais (PPGER).
 

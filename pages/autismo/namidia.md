@@ -1,7 +1,5 @@
 
-# Autismo e Cultura Pop
-
-## Menu de Navegação
+### Menu de Navegação
 
 - [O que é o TEA](/pages/autismo/autismo.html)
 - [Diagnóstico Tardio](/pages/autismo/teadultos.html)
@@ -14,7 +12,7 @@
 
 ---
 
-## Índice
+### Índice
 
 1. [Toda história tem um começo](#inicio)
 2. [Rain Man e além](#rain_man)
@@ -24,7 +22,7 @@
 
 ---
 
-## Introdução
+### Introdução
 
 A mídia exerce uma influência poderosa sobre nossas vidas. **Tudo o que fazemos, pensamos e sentimos é moldado pelas histórias que consumimos**. O autismo, sendo um tema relativamente novo no debate público, é fortemente impactado por sua representação na cultura pop.
 
@@ -38,7 +36,7 @@ A mudança virá quando as histórias forem contadas **por e para autistas**, of
 
 ---
 
-## 1. Toda história tem um começo {#inicio}
+### 1. Toda história tem um começo {#inicio}
 
 Minha relação com o autismo e a cultura pop começou de forma inusitada.
 
@@ -56,7 +54,7 @@ E, o mais preocupante: **afeta como os autistas se veem**.
 
 ---
 
-## 2. Rain Man e Além {#rain_man}
+### 2. Rain Man e Além {#rain_man}
 
 ![Cartaz do filme Rain Man](https://itxesco.github.io/assets/figuras/autismo/rain_man_capa.jpg)
 
@@ -72,7 +70,7 @@ Hoje, o autismo não é mais um segredo. Mas a forma como a mídia nos represent
 
 ---
 
-## 3. Parenthood {#parenthood}
+### 3. Parenthood {#parenthood}
 
 ![Cartaz da série Parenthood](https://itxesco.github.io/assets/figuras/autismo/parenthood_capa.jpg)
 
@@ -88,7 +86,7 @@ A representação do autismo **ainda é um desafio na cultura pop**, mas séries
 
 ---
 
-## 4. Community (seis temporadas e um filme!) {#comunity}
+### 4. Community (seis temporadas e um filme!) {#comunity}
 
 ![Cartaz da série Community](https://itxesco.github.io/assets/figuras/autismo/Community_S1_DVD_capa.jpg)
 
@@ -104,7 +102,7 @@ Enquanto *Community* trata seu personagem com **empatia**, *TBBT* reforça a ide
 
 ---
 
-## 5. O Problema com *The Big Bang Theory*
+### 5. O Problema com *The Big Bang Theory*
 
 ![Cartaz da série The Big Bang Theory](https://itxesco.github.io/assets/figuras/autismo/tbbt_capa.jpg)
 
@@ -118,7 +116,7 @@ A cultura pop precisa aprender a **rir com os autistas, e não dos autistas**.
 
 ---
 
-## Conclusão
+### Conclusão
 
 A relação entre autismo e cultura pop **é complexa**. Alguns personagens nos humanizam, enquanto outros reforçam estereótipos prejudiciais.
 

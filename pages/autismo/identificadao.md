@@ -1,7 +1,5 @@
 
-# Menu de Navegação
-
-## Navegação
+### Navegação
 
 - [O que é o TEA](/pages/autismo/autismo.html)
 - [Diagnóstico Tardio](/pages/autismo/teadultos.html)
@@ -14,9 +12,9 @@
 
 ---
 
-## Símbolos do Autismo {#identificacao}
+### Símbolos do Autismo {#identificacao}
 
-### O arco-íris em infinito
+#### O arco-íris em infinito
 
 ![Símbolo do infinito com as cores do arco-íris](https://itxesco.github.io/assets/figuras/autismo/infinito.jpg)
 
@@ -38,7 +36,7 @@ Esse símbolo é uma alternativa ao **quebra-cabeça**, que historicamente foi u
 
 ---
 
-### O cordão de girassol
+#### O cordão de girassol
 
 ![Cordão com estampa de girassol](https://itxesco.github.io/assets/figuras/autismo/tea_adulto.jpg)
 
@@ -55,7 +53,7 @@ Embora não seja exclusivamente associado ao autismo, **o girassol** tem sido ad
 
 ---
 
-## E por que não o Quebra-Cabeças?
+### E por que não o Quebra-Cabeças?
 
 ![Imagem de um quebra-cabeças](https://itxesco.github.io/assets/figuras/autismo/quebra.jpg)
 
