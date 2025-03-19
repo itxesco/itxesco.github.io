@@ -1,7 +1,7 @@
 
-# Direitos da Pessoa Adulta Autista
+## Direitos da Pessoa Adulta Autista
 
-## 📌 Índice (clique para ir direto)
+### 📌 Índice (clique para ir direto)
 
 - [Obtenha a CIPTEA](#ciptea)
 - [Faça constar o TEA na segunda via do seu RG](#rg)
@@ -14,7 +14,7 @@
 
 ---
 
-## 🏛 Direitos da Pessoa Autista no Brasil
+### 🏛 no Brasil
 
 A pessoa autista é reconhecida como **Pessoa com Deficiência (PCD)** para todos os efeitos legais no Brasil desde 2012, com a promulgação da [Lei Berenice Piana](https://presrepublica.jusbrasil.com.br/legislacao/1033668/lei-12764-12).
 
@@ -28,7 +28,7 @@ O direito se fortaleceu com a [Lei 13.977/2020](https://www.planalto.gov.br/cciv
 
 ---
 
-## 📝 É muito importante regularizar sua documentação
+### 📝 É muito importante regularizar sua documentação
 
 Receber um diagnóstico tardio pode ser desafiador. Além das questões emocionais, há a necessidade de **garantir que seus direitos sejam reconhecidos formalmente**. Muitos autistas adultos relatam **questionamentos e dificuldades no acesso a benefícios**, especialmente quando são considerados "altamente funcionais".
 
@@ -40,7 +40,7 @@ Cada estado possui **regras específicas**, então vale a pena pesquisar qual lo
 
 ---
 
-## 1️⃣ **Obtenha a CIPTEA** {#ciptea}
+### 1️⃣ **Obtenha a CIPTEA** {#ciptea}
 
 A **Carteira de Identificação da Pessoa com Transtorno do Espectro Autista (CIPTEA)** garante **atendimento prioritário e evita a necessidade de apresentar laudos médicos repetidamente**.
 
@@ -62,7 +62,7 @@ A **Carteira de Identificação da Pessoa com Transtorno do Espectro Autista (CI
 
 ---
 
-## 2️⃣ **Faça constar o TEA na segunda via do seu RG** {#rg}
+### 2️⃣ **Faça constar o TEA na segunda via do seu RG** {#rg}
 
 No Brasil, é possível incluir **o TEA no RG**, garantindo reconhecimento imediato da condição.
 
@@ -79,7 +79,7 @@ No Brasil, é possível incluir **o TEA no RG**, garantindo reconhecimento imedi
 
 ---
 
-## 3️⃣ **Identifique seu veículo como PCD** {#pcd}
+### 3️⃣ **Identifique seu veículo como PCD** {#pcd}
 
 Para usar vagas de estacionamento reservadas para PCD, é necessário ter um **Cartão de Estacionamento PCD**.
 
@@ -95,7 +95,7 @@ Para usar vagas de estacionamento reservadas para PCD, é necessário ter um **C
 
 ---
 
-## 4️⃣ **Obtenha a isenção do IPVA** {#ipva}
+### 4️⃣ **Obtenha a isenção do IPVA** {#ipva}
 
 🔹 Como solicitar a **isenção do IPVA** (São Paulo):  
 1. **Acesse o portal do SIVEI** ([clique aqui](https://www3.fazenda.sp.gov.br/SIVEI/)) e faça o requerimento.  
@@ -108,7 +108,7 @@ Para usar vagas de estacionamento reservadas para PCD, é necessário ter um **C
 
 ---
 
-## 5️⃣ **Altere sua CNH para PCD** {#cnh}
+### 5️⃣ **Altere sua CNH para PCD** {#cnh}
 
 🔹 Como solicitar a **CNH PCD** (São Paulo):  
 1. **Agende a renovação da CNH pelo DETRAN-SP** ([clique aqui](https://www.detran.sp.gov.br/)).  
@@ -122,7 +122,7 @@ Para usar vagas de estacionamento reservadas para PCD, é necessário ter um **C
 
 ---
 
-## 6️⃣ **Acesse a gratuidade no transporte público** {#transporte}
+### 6️⃣ **Acesse a gratuidade no transporte público** {#transporte}
 
 🔹 **Ainda a preencher**  
 
@@ -130,7 +130,7 @@ Para usar vagas de estacionamento reservadas para PCD, é necessário ter um **C
 
 ---
 
-## 7️⃣ **Acesse o desconto na passagem aérea para acompanhantes** {#passagens}
+### 7️⃣ **Acesse o desconto na passagem aérea para acompanhantes** {#passagens}
 
 🔹 **Ainda a preencher**  
 
@@ -138,7 +138,7 @@ Para usar vagas de estacionamento reservadas para PCD, é necessário ter um **C
 
 ---
 
-## 8️⃣ **Acesse o desconto para compra de veículos** {#veiculos}
+### 8️⃣ **Acesse o desconto para compra de veículos** {#veiculos}
 
 🔹 **Passos para solicitar a isenção de impostos na compra de veículos**:  
 1. **Solicitar a isenção de IPI e IOF na Receita Federal**.  
@@ -152,7 +152,7 @@ Para usar vagas de estacionamento reservadas para PCD, é necessário ter um **C
 
 ---
 
-Garantir os **direitos da pessoa autista** pode ser burocrático, mas com as informações corretas, o processo se torna mais acessível. **Regularizar sua documentação garante acesso a benefícios e evita dificuldades**.
+Garantir seus **direitos como pessoa autista** pode ser burocrático, mas com as informações corretas, o processo se torna mais acessível. **Regularizar sua documentação garante o acesso a seus direitos e evita dificuldades**.
 
 
 - [o Diagnóstico Tardio](/pages/autismo/diagnosticotardio.html)
