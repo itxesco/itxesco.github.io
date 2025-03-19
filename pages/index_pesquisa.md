@@ -1,11 +1,6 @@
-
----
-layout: page
-title: Pesquisa
-description: Prof. Dr. Francisco Nascimento - Pesquisa em relações étnico-raciais, afrofuturismo, ensino de ciências, educação, histórias em quadrinhos, jogos de RPG e física.
 ---
 
-# Menu de Navegação
+## Menu de Navegação
 
 - [Afrofuturismo](/pages/pesquisa/pesquisa_afro.html)
 - [Educação Antirracista](/pages/pesquisa/pesquisa_edu.html)
@@ -14,7 +9,7 @@ description: Prof. Dr. Francisco Nascimento - Pesquisa em relações étnico-rac
 
 ---
 
-# Pesquisa em Cultura de Super-Heróis e Ensino de Ciências
+## Pesquisa em Cultura de Super-Heróis e Ensino de Ciências
 
 Meu principal campo de estudo investiga os **reflexos do consumo de produtos midiáticos** relacionados à **Cultura de Super-Heróis** (histórias em quadrinhos, filmes, livros, animações, jogos) nas **práticas de ensino/aprendizagem de Física/Ciências** e a influência desse discurso na formação da **identidade do sujeito**.
 
@@ -31,9 +26,9 @@ Desenvolvo minha pesquisa no **[PPGER](https://ufsb.edu.br/ppger/)** do **[IHAC-
 
 ---
 
-# Orientações de Mestrado {#orientador}
+## Orientações de Mestrado {#orientador}
 
-## 📌 Em Andamento  
+### 📌 Em Andamento  
 
 - ![Lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png) [**Priscila Bono Pagliuca Rodrigues**](http://lattes.cnpq.br/3929221160338872)  
 - ![Lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png) [**Reinan Mota Costa**](http://lattes.cnpq.br/)  
@@ -42,7 +37,7 @@ Desenvolvo minha pesquisa no **[PPGER](https://ufsb.edu.br/ppger/)** do **[IHAC-
 
 ---
 
-## 🏆 Concluídas  
+### 🏆 Concluídas  
 
 - ![Lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png) [**Sheila Katrini Ferrari Visconde**](http://lattes.cnpq.br/8317287394228958)  
 - ![Lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png) [**Valtiângeli Rodrigues da Silva Moitinho**](http://lattes.cnpq.br/0265292324050570)  
