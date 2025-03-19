@@ -1,5 +1,5 @@
 
-# TEA em Adultos
+## TEA em Adultos
 
 - [O que é o TEA](/pages/autismo/autismo.html)
 - [Diagnóstico Tardio](/pages/autismo/teadultos.html)
@@ -12,7 +12,7 @@
 
 ---
 
-## Índice
+### Índice
 
 1. [TEA em Adultos](#adultos)
 2. [Algumas Características em Adultos no TEA](#caracteristicas)
@@ -20,7 +20,7 @@
 
 ---
 
-## 1. TEA em Adultos {#adultos}
+### 1. TEA em Adultos {#adultos}
 
 O autismo, ou Transtorno do Espectro do Autismo (TEA), é uma condição neurológica e de desenvolvimento que afeta a forma como uma pessoa percebe e socializa com os outros, resultando em dificuldades na comunicação e na interação social. O TEA inclui uma ampla gama de características e sintomas, que variam significativamente de pessoa para pessoa. Para entender melhor, veja a imagem abaixo:
 
@@ -32,7 +32,7 @@ A imagem apresenta a estrutura do espectro eletromagnético, separando as ondas 
 
 ---
 
-## 2. Algumas Características em Adultos no TEA {#caracteristicas}
+### 2. Algumas Características em Adultos no TEA {#caracteristicas}
 
 É importante entender que o TEA **não tem um conjunto fixo de características**, pois cada indivíduo pode apresentar traços diferentes. No entanto, algumas características comuns entre adultos no espectro incluem:
 
@@ -60,7 +60,7 @@ A imagem apresenta a estrutura do espectro eletromagnético, separando as ondas 
 
 ---
 
-## 3. A Vida no TEA {#vida}
+### 3. A Vida no TEA {#vida}
 
 A vida adulta para pessoas com TEA pode variar bastante, dependendo do nível de suporte necessário. Aqui estão algumas áreas-chave da vida no espectro:
 
