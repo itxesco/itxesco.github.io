@@ -1,7 +1,7 @@
 
 
 
-- [Adultos no TEA](/pages/autismo/teaadultos_old.html)
+- [Adultos no TEA](/pages/autismo/teadultos_old.html)
 - [Diagnóstico Tardio](/pages/autismo/teadultos.html)
 - [Simbologia e Representação](/pages/autismo/identificadao.html)
 - [~~Asperger~~](/pages/autismo/asperger.html)
