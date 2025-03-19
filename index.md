@@ -5,4 +5,4 @@
 
 | [![Moby Dick](imagens/index_pics/Moby.jpg "Meus Hiperfocos")](pages/index_hiperfoco.html) | [![Autismo em Adultos](imagens/index_pics/tea_adultos.jpg "Autismo em Adultos")](pages/index_tea.html) | [![Jogos de RPG e Educação](imagens/index_pics/tbbt_jogos.jpg "Jogos de RPG e Educação")](pages/pesquisa/pesquisa_jogos.html) |
 |:--:|:--:|:--:|
-| **[Moby Dick](pages/hiperfocos/moby_dick.html)** | **[sobre o TEA](pages/autismo/autismo.html)** | **[Jogos e Educação](pages/pesquisa/pesquisa_jogos.html)** |
+| **[Hiperfocos](pages/hiperfocos/moby_dick.html)** | **[sobre o TEA](pages/autismo/autismo.html)** | **[Jogos e Educação](pages/pesquisa/pesquisa_jogos.html)** |
