@@ -1,16 +1,13 @@
 
 ---
-title: Diagnóstico Tardio no TEA
-description: Entenda o que é o diagnóstico tardio no Transtorno do Espectro Autista (TEA), seus desafios e benefícios.
----
 
-# 🧩 O que é Diagnóstico Tardio no TEA?
+## 🧩 O que é Diagnóstico Tardio no TEA?
 
 O **diagnóstico tardio no Transtorno do Espectro Autista (TEA)** ocorre quando uma pessoa autista recebe seu diagnóstico na **adolescência, idade adulta ou até na terceira idade**, em vez da infância, que é o período mais comum para identificação do transtorno.
 
 ---
 
-## 🔹 **Por que o diagnóstico pode ser tardio?**
+### 🔹 **Por que o diagnóstico pode ser tardio?**
 
 Diversos fatores podem levar ao diagnóstico tardio do TEA, incluindo:
 
@@ -31,7 +28,7 @@ Diversos fatores podem levar ao diagnóstico tardio do TEA, incluindo:
 
 ---
 
-## 🔹 **Sinais de TEA em pessoas diagnosticadas tardiamente**
+### 🔹 **Sinais de TEA em pessoas diagnosticadas tardiamente**
 
 Muitos adultos autistas relatam ter enfrentado dificuldades durante a vida sem entender exatamente o motivo. Alguns sinais comuns incluem:
 
@@ -45,7 +42,7 @@ Muitos adultos autistas relatam ter enfrentado dificuldades durante a vida sem e
 
 ---
 
-## 🔹 **Benefícios do Diagnóstico Tardio**
+### 🔹 **Benefícios do Diagnóstico Tardio**
 
 Embora algumas pessoas temam um diagnóstico tardio, ele pode trazer muitos benefícios, como:
 
@@ -56,7 +53,7 @@ Embora algumas pessoas temam um diagnóstico tardio, ele pode trazer muitos bene
 
 ---
 
-## 🔹 **O diagnóstico muda a vida, mas não a pessoa**
+### 🔹 **O diagnóstico muda a vida, mas não a pessoa**
 
 O TEA **sempre esteve presente na trajetória do indivíduo** – o diagnóstico apenas dá um nome e uma explicação para vivências que, muitas vezes, foram marcadas por dificuldades sem compreensão.  
 
