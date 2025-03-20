@@ -10,7 +10,7 @@
       <a href="pages/index_pesquisa_hq.html">
         <img src="imagens/index_pics/pesquisa.jpeg" alt="Interesses de Pesquisa" title="Interesses de Pesquisa" height="300px">
       </a><br>
-      <strong><a href="pages/pesquisa/pesquisa_hq.html">Pesquisa</a></strong>
+      <strong><a href="pages/index_pesquisa.html">Pesquisa</a></strong>
     </td>
     <td align="center">
       <a href="pages/index_extensao.html">
