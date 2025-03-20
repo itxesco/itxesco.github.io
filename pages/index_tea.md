@@ -1,57 +1,113 @@
+---
+layout: page
+title: Transtorno do Espectro Autista (TEA)
+description: Informações sobre autismo, diagnóstico e apoio para adultos autistas.
+---
 
+### 🧩 Transtorno do Espectro Autista (TEA)
 
-
-- [Adultos no TEA](/pages/autismo/teadultos_old.html)
-- [Diagnóstico Tardio](/pages/autismo/teadultos.html)
-- [Simbologia e Representação](/pages/autismo/identificadao.html)
-- [~~Asperger~~](/pages/autismo/asperger.html)
-- [Direitos e Documentação](/pages/autismo/direitos.html)
-- [Altas Habilidades e Superdotação](/pages/autismo/habilidades.html)
-- [Mitos](/pages/autismo/mitos.html)
-- [TEA na Cultura Pop](/pages/autismo/namidia.html)
+#### 📌 Navegue pelos tópicos:
+📖 [O que é o TEA?](#o-que-e-o-tea)  
+📜 [História e evolução do diagnóstico](#historico-do-tea)  
+🛠️ [Apoio e tratamento](#apoio-e-tratamento)  
+🌐 [TEA na cultura pop](#tea-na-cultura-pop)  
+📚 [Direitos e documentação](#direitos-e-documentacao)  
 
 ---
 
-### O que é o TEA? {#TEA}
+### 🏷️ O que é o TEA? {#o-que-e-o-tea}
 
-O autismo é uma diferença no funcionamento neurológico caracterizada por dificuldades de comunicação social, sensibilidades sensoriais e interesses especiais intensos. Os sintomas específicos e sua gravidade variam muito de pessoa para pessoa; por isso, o autismo é considerado um espectro.
+O **Transtorno do Espectro Autista (TEA)** é uma variação no funcionamento neurológico que afeta a forma como a pessoa percebe e interage com o mundo. Suas principais características incluem:
 
-Por um tempo, a Síndrome de ~~Asperger~~ foi usada como um diagnóstico específico para pessoas autistas que não tinham deficiências cognitivas ou relacionadas à linguagem. No entanto, os psicólogos decidiram que a distinção entre Asperger e "autismo de alto funcionamento" é muito vaga. Atualmente, a síndrome de ~~Asperger~~ faz parte do diagnóstico mais amplo de Transtorno do Espectro do Autismo (TEA).
+✔️ Diferenças na comunicação social  
+✔️ Sensibilidades sensoriais  
+✔️ Interesses intensos e focados  
 
-Uma em cada 68 crianças nos EUA é diagnosticada com alguma forma de TEA. O aumento dos diagnósticos deve-se principalmente à maior conscientização e compreensão. Muitos adultos autistas passaram a vida sem um diagnóstico adequado ou eram apenas vistos como "estranhos".
+O autismo é um **espectro**, ou seja, cada pessoa autista tem uma experiência única, com diferentes níveis de suporte necessários.  
 
-#### Algumas Definições para o TEA
+Antigamente, a **Síndrome de ~~Asperger~~** era usada como um diagnóstico separado para autistas sem comprometimento cognitivo ou de linguagem. No entanto, essa distinção foi considerada vaga, e, desde 2013, o termo foi incorporado ao diagnóstico geral de **TEA** pelo DSM-5.
 
-- A [**Biblioteca Virtual em Saúde (BVS)**](https://bvsms.saude.gov.br/transtorno-do-espectro-autista-tea-autismo/#:~:text=Tem%20como%20características%20a%20dificuldade,ou%20três%20anos%20de%20idade.) do Ministério da Saúde define TEA como:
+📌 **Dados sobre o autismo**  
+- A cada **68 crianças** nos EUA, uma recebe o diagnóstico de TEA.  
+- O aumento dos diagnósticos está relacionado à **maior conscientização** e não necessariamente a um crescimento real de casos.  
+- Muitos **adultos autistas** passaram a vida sem um diagnóstico, sendo apenas considerados "diferentes" ou "excêntricos".  
 
-  > *"Um problema no desenvolvimento neurológico que prejudica a organização de pensamentos, sentimentos e emoções, caracterizado por dificuldades na comunicação, socialização e comportamentos repetitivos."*
+#### 🏛 Definições sobre o TEA  
 
-- Segundo o [**Governo do Estado do Paraná**](https://www.saude.pr.gov.br/Pagina/Transtorno-do-Espectro-Autista-TEA):
+🔹 **Biblioteca Virtual em Saúde (BVS) - Ministério da Saúde**  
+*"O TEA é um problema no desenvolvimento neurológico que afeta a organização de pensamentos, sentimentos e emoções, caracterizado por dificuldades na comunicação, socialização e comportamentos repetitivos."*  
 
-  > *"Um distúrbio do neurodesenvolvimento caracterizado por desenvolvimento atípico, déficits na comunicação e interação social, padrões de comportamento repetitivos e interesses restritos."*
+🔹 **Governo do Estado do Paraná**  
+*"Transtorno do neurodesenvolvimento caracterizado por déficits na comunicação e interação social, padrões de comportamento repetitivos e interesses restritos."*  
 
-- De acordo com o **DSM-5** (Manual Diagnóstico e Estatístico de Transtornos Mentais):
-
-  > *"Pessoas dentro do espectro podem apresentar dificuldades na comunicação social (linguagem verbal e não verbal), padrões repetitivos de comportamento e hipersensibilidade a estímulos sensoriais. Apesar de ser chamado de autismo infantil, o transtorno acompanha a pessoa por toda a vida."*
-
----
-
-#### Histórico do TEA
-
-A ciência ainda não encontrou causas definitivas para o TEA. As investigações sobre o transtorno começaram em 1943 com o psiquiatra **Leo Kanner**, em seu livro *Distúrbios Autísticos do Contato Afetivo*. Algumas mudanças no diagnóstico ao longo do tempo:
-
-- **1952**: O DSM-1 classificava os sintomas de autismo como um subgrupo da esquizofrenia infantil.
-- **1980**: O DSM-3 reconheceu o autismo como um transtorno distinto dentro da categoria de Transtornos Invasivos do Desenvolvimento (TID).
+🔹 **DSM-5 (Manual Diagnóstico e Estatístico de Transtornos Mentais)**  
+*"O espectro autista engloba desafios na comunicação social, padrões repetitivos de comportamento e hipersensibilidade a estímulos sensoriais. Apesar do nome 'autismo infantil', o transtorno acompanha a pessoa ao longo da vida."*  
 
 ---
 
-### Apoio e Tratamento {#apoio}
+### 📜 Histórico do TEA {#historico-do-tea}
 
-- **Terapia Cognitivo-Comportamental (TCC)**: Auxilia no desenvolvimento de habilidades sociais e no controle da ansiedade.
-- **Treinamento de Habilidades Sociais**: Programas para melhorar a interação social.
-- **Suporte Vocacional**: Ajuda na busca e manutenção de um emprego adequado.
-- **Grupos de Apoio**: Permite que adultos autistas compartilhem experiências e estratégias.
+As pesquisas sobre o autismo começaram na década de 1940 com o psiquiatra **Leo Kanner**, que descreveu crianças com padrões de comportamento atípicos em seu livro *Distúrbios Autísticos do Contato Afetivo*.  
 
-Com suporte adequado e um ambiente compreensivo, adultos com TEA podem levar uma vida plena e satisfatória, aproveitando suas habilidades e interesses únicos.
+📌 **Evolução do diagnóstico**  
+📅 **1952** – O DSM-1 classificava o autismo como um subtipo da **esquizofrenia infantil**.  
+📅 **1980** – O DSM-3 passou a reconhecer o autismo como um transtorno distinto dentro da categoria **Transtornos Invasivos do Desenvolvimento (TID)**.  
+📅 **2013** – O DSM-5 consolidou todas as variações do diagnóstico sob o termo **Transtorno do Espectro Autista (TEA)**.  
 
-[Voltar ao topo](#top)
+---
+
+### 🛠️ Apoio e Tratamento {#apoio-e-tratamento}
+
+Não existe uma "cura" para o TEA, pois ele **não é uma doença**, mas sim uma forma diferente de funcionamento neurológico. No entanto, existem estratégias e apoios que podem melhorar a qualidade de vida das pessoas autistas.  
+
+#### 🏆 Principais abordagens:  
+- **🧠 Terapia Cognitivo-Comportamental (TCC)** – Ajuda a desenvolver habilidades sociais e a lidar com a ansiedade.  
+- **👥 Treinamento de Habilidades Sociais** – Programas que ensinam interação social de maneira estruturada.  
+- **🏢 Suporte Vocacional** – Auxílio na busca e adaptação ao mercado de trabalho.  
+- **🤝 Grupos de Apoio** – Espaços seguros para compartilhar experiências e estratégias.  
+
+📌 **Com apoio adequado e um ambiente inclusivo, adultos autistas podem levar uma vida plena, aproveitando suas habilidades únicas.**
+
+---
+
+### 🎭 TEA na Cultura Pop {#tea-na-cultura-pop}
+
+A representatividade do autismo em filmes, séries e livros tem aumentado nos últimos anos. Embora algumas representações ainda reforcem estereótipos, há personagens que ajudam a ampliar a compreensão sobre o espectro.
+
+🔹 **Séries e Filmes**  
+🎥 *Atypical* – Netflix  
+🎥 *O Contador* – Filme com Ben Affleck  
+🎥 *Rain Man* – Clássico estrelado por Dustin Hoffman  
+🎥 *As Perks of Being a Wallflower* – Personagem Charlie apresenta traços autistas  
+
+🔹 **Personagens dos Quadrinhos**  
+📖 *Luna Maximoff* (Marvel Comics)  
+📖 *Billy Cranston (Ranger Azul)* – Power Rangers  
+📖 *Reed Richards (Sr. Fantástico)* – Alguns fãs interpretam suas características como autistas  
+
+📌 Para mais detalhes sobre TEA e cultura pop, acesse:  
+👉 [TEA na Cultura Pop](/pages/autismo/namidia.html)  
+
+---
+
+### 📚 Direitos e Documentação {#direitos-e-documentacao}
+
+No Brasil, pessoas autistas têm direitos garantidos por leis específicas, como:  
+
+- **Lei Berenice Piana (Lei 12.764/2012)** – Reconhece o autismo como uma deficiência para efeitos legais.  
+- **Lei Romeo Mion (Lei 13.977/2020)** – Garante a emissão da Carteira de Identificação da Pessoa com Transtorno do Espectro Autista (CIPTEA).  
+
+📌 Para saber mais sobre direitos e como obter documentação oficial:  
+👉 [Direitos e Documentação](/pages/autismo/direitos.html)  
+
+---
+
+### 🔎 Mais conteúdos sobre TEA  
+
+🧩 **Autismo em adultos** → [Acesse aqui](/pages/autismo/teadultos.html)  
+📌 **Diagnóstico tardio** → [Saiba mais](/pages/autismo/teadultos_old.html)  
+🎨 **Simbologia e representação do autismo** → [Leia aqui](/pages/autismo/identificadao.html)  
+❌ **Mitos sobre o autismo** → [Quebrando preconceitos](/pages/autismo/mitos.html)  
+🌟 **Altas habilidades e superdotação** → [Explorar](/pages/autismo/habilidades.html)  
+
+📌 [🔼 Voltar ao topo](#top)

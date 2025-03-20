@@ -7,7 +7,7 @@
       <strong><a href="pages/ensino/ensino.html">Ensino</a></strong>
     </td>
     <td align="center">
-      <a href="pages/index_pesquisa_hq.html">
+      <a href="pages/index_pesquisa.html">
         <img src="imagens/index_pics/pesquisa.jpeg" alt="Interesses de Pesquisa" title="Interesses de Pesquisa" height="300px">
       </a><br>
       <strong><a href="pages/index_pesquisa.html">Pesquisa</a></strong>

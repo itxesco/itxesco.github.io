@@ -1,116 +1,105 @@
 ---
 layout: page
-title: aulas
-description: aulas de Francisco de Assis Nascimento Junior
+title: Ensino
+description: Aulas de Francisco de Assis Nascimento Junior
 ---
 
+##### <a name="misc"></a> Experiência Didática no Ensino Básico  
 
-A Universidade Federal do Sul da Bahia adotou o regime quadrimestral [multiciclos](https://ufsb.edu.br/ensino/graduacao) desde seu início, mas passou para o sistema semestral a partir de janeiro de 2024.
-O quadrimestre letivo 2023.3 foi o último da Universidade. Mais informações estão disponíveis no [calendário acadêmico de 2024](https://ufsb.edu.br/images/Calendário_Acadêmico/Calendário_2024.pdf).
+Atuo como docente desde 2004. Iniciei minha carreira como professor de Ciências para os anos finais do Ensino Fundamental (6º ao 9º ano) e, posteriormente, como professor de Física no Ensino Médio (regular e técnico). Também trabalhei como professor de Física em cursinhos pré-vestibulares e no Ensino de Jovens e Adultos (EJA), atuando tanto na rede pública quanto na rede particular de São Paulo.  
+A última vez que ministrei aulas na Educação Básica foi no primeiro semestre de 2018.
 
-Na [graduação](https://ufsb.edu.br/ensino/graduacao) leciono Componentes Curriculares (CCs)  pertencentes ao chamado "Eixo da Educação" (obrigatórias para todas as Licenciaturas Interdisciplinares) e  nas CCs específicas de Física/Ensino de Física  e estágio supervisionado para a  [Licenciatura Interdisciplinar em Ciências da Natureza e suas tecnologias](https://ufsb.edu.br/component/content/article/1907-licenciatura-interdisciplinar-em-ciencias-da-natureza-csc). Também integro o NDE e o Colegiado desse Curso.
+##### Ensino Fundamental (2004 - 2016)
+
+Atuei em escolas das redes pública e particular de São Paulo (SP), lecionando:
+
+- Laboratório de Ciências
+- Ciências  
 
 ---
-#### <a name="current"></a> ![UFSB](https://itxesco.github.io/imagens/icones/icons16/ufsb-icon.jpg)  Componentes Curriculares  sendo ministradas no semestre atual (2024.2):  
+##### Ensino Médio (2006 - 2016)
+
+Atuei em turmas do Ensino Médio regular, técnico e EJA das redes pública e particular de São Paulo (SP), lecionando:
+
+- Laboratório de Física Experimental
+- Física
+
+---
+Iniciei minha atuação no Ensino Superior em 2010, como professor de Física para cursos de Engenharia e professor de Metodologia de Ensino de Ciências para a Licenciatura em Pedagogia na FAC-FITO.  
+Também trabalhei por dois anos como professor substituto de Física no Ensino Médio técnico integrado e na Licenciatura em Física, Arquitetura e Engenharias no IFSP – Campus SPO.  
+Posteriormente, atuei por três anos na Universidade Anhembi-Morumbi como professor de Física e Matemática no ciclo básico das Engenharias.
+
+##### <a name="misc"></a> Experiência Didática em Outras Instituições de Ensino Superior
+
+---
+
+##### ![UAM](https://itxesco.github.io/imagens/icones/icons16/uam-icon.ico) [Universidade Anhembi-Morumbi](https://portal.anhembi.br/escolas/engenharia-e-tecnologia/) (2016 - 2018)
+
+| Disciplinas | Disciplinas |  
+|--- |--- |  
+| Estatística Aplicada | Álgebra Linear e Vetores |  
+| Métodos Numéricos | Matemática Básica |  
+| Cálculo III | Equações Diferenciais |  
+| Cálculo IV | Mecânica Geral |  
+| Cálculo Diferencial | Cálculo Integral |  
+| Física Geral | Fundamentos de Ciências Exatas |  
+
+---
+
+##### ![IFSP](https://itxesco.github.io/imagens/icones/icons16/ifsp-icon.ico) [Instituto Federal de São Paulo (IFSP)](https://spo.ifsp.edu.br) (2014 - 2016)  
+
+| Disciplinas | Disciplinas |  
+|--- |--- |  
+| Física Teórica (EM integrado) | Física Experimental (EM integrado) |  
+| Escola e Sociedade | Introdução ao Ensino e Divulgação Científica |  
+| Física Nuclear e de Partículas | Gravitação e Leis de Conservação |  
+| Mecânica dos Sólidos e Fluidos | Política e Estrutura de Ensino no Brasil |  
+| Oficinas de Projeto de Ensino I | Fundamentos da Física para Estruturas |  
+
+---
+
+##### ![FAC-FITO](https://itxesco.github.io/imagens/icones/icons16/fac_fito-icon.ico) [Faculdade de Ciências da FITO (FAC-FITO)](http://fito.edu.br) (2012 - 2014)
+
+| | |  
+|--- |--- |  
+| Laboratório de Física Experimental 1 | Conteúdos e Práticas de Ciências I |  
+| Laboratório de Física Experimental 2 | Conteúdos e Práticas de Ciências II |  
+| Laboratório de Física Experimental 3 | Educação, Saúde e Meio Ambiente I |  
+| Laboratório de Física Experimental 4 | Educação, Saúde e Meio Ambiente II |  
+
+---
+
+Em outubro de 2018, assumi o cargo de docente efetivo do magistério superior na Universidade Federal do Sul da Bahia, no Campus Sosígenes Costa, em Porto Seguro. Desde então, atuo como professor de Física e orientador de estágios supervisionados na Licenciatura em Ciências da Natureza e suas Tecnologias.  
+Ao longo dos anos, passei a ministrar componentes curriculares para todas as cinco Licenciaturas Interdisciplinares do IHAC-CSC e a atuar no Programa de Pós-Graduação em Ensino e Relações Étnico-Raciais (PPGER).  
+
+A UFSB adotou, desde sua fundação, o regime quadrimestral [multiciclos](https://ufsb.edu.br/ensino/graduacao), mas, a partir de janeiro de 2024, passou para o sistema semestral. O quadrimestre letivo 2023.3 foi o último da universidade nesse modelo. Mais informações estão disponíveis no [calendário acadêmico de 2024](https://ufsb.edu.br/images/Calendário_Acadêmico/Calendário_2024.pdf).  
+
+Na [graduação](https://ufsb.edu.br/ensino/graduacao), leciono Componentes Curriculares (CCs) pertencentes ao "Eixo da Educação" (obrigatórias para todas as Licenciaturas Interdisciplinares) e CCs específicas de Física/Ensino de Física, além de estágio supervisionado para a [Licenciatura Interdisciplinar em Ciências da Natureza e suas Tecnologias](https://ufsb.edu.br/component/content/article/1907-licenciatura-interdisciplinar-em-ciencias-da-natureza-csc).  
+Também integro o NDE e o Colegiado desse curso.
+
+---
+#### <a name="current"></a> ![UFSB](https://itxesco.github.io/imagens/icones/icons16/ufsb-icon.jpg) Componentes Curriculares ministradas no semestre atual (2024.2):  
 
 **ISC0752** - [Fundamentos de Mecânica Clássica](https://itxesco.github.io/pages/aulas/ISC0752_index.html)  
-**ISC0813** - [ESTÁGIO SUPERVISIONADO IV DAS CIÊNCIAS](https://itxesco.github.io/pages/aulas/ISC0813_index.html)    
-
-**ISC0788** - [EXTENSÃO UNIVERSITÁRIA NA FORMAÇÃO DE PROFESSORES/AS - CCEX](https://itxesco.github.io/pages/aulas/ISC0788_index.html)  
-
-**ISC0787** - [PRÁTICAS DECOLONIAIS E PEDAGOGIA FREIRIANA NO ENSINO DE CIÊNCIAS](https://itxesco.github.io/pages/aulas/ISC0787_index.html)  
+**ISC0813** - [Estágio Supervisionado IV das Ciências](https://itxesco.github.io/pages/aulas/ISC0813_index.html)  
+**ISC0788** - [Extensão Universitária na Formação de Professores/as - CCEX](https://itxesco.github.io/pages/aulas/ISC0788_index.html)  
+**ISC0787** - [Práticas Decoloniais e Pedagogia Freireana no Ensino de Ciências](https://itxesco.github.io/pages/aulas/ISC0787_index.html)  
 
 ---
-##### <a name="current"></a> ![UFSB](https://itxesco.github.io/imagens/icones/icons16/ufsb-icon.jpg)  Componentes Curriculares  ministradas durante o regime quadrimestral:
-
----
+##### <a name="current"></a> ![UFSB](https://itxesco.github.io/imagens/icones/icons16/ufsb-icon.jpg) Componentes Curriculares ministradas durante o regime quadrimestral:
 
 | Ensino | Física Básica |
 |--- |--- |
 | **ISC0180** - [Estágio Supervisionado I](https://itxesco.github.io/aulas/ISC0180/index.html) | **ISC0213** - [Cálculo Univariado - Funções e Variações](https://itxesco.github.io/aulas/ISC0213/index.html) |  
 | **ISC0204** - [Estágio Supervisionado II](https://itxesco.github.io/aulas/ISC0204/index.html) | **ISC0528** - [Cálculo Multivariado: Funções e Variações](https://itxesco.github.io/aulas/ISC0221/index.html)|  
-| **ISC0313** - [Estágio Supervisionado III](https://itxesco.github.io/aulas/ISC0313/index.html) | **ISC0302** - [Movimento e Geometria](https://itxesco.github.io/aulas/ISC0302/index.html) |  
-| **ISC0332** - [Estágio Supervisionado IV](https://itxesco.github.io/aulas/ISC0332/index.html) | **ISC0222** - [Dinâmica Clássica e Tecnologia](https://itxesco.github.io/aulas/ISC0222/index.html) |  
-|  **ISC0390** - [Estágio Supervisionado V](https://itxesco.github.io/aulas/ISC0390/index.html) | **ISC0462** - [Sociedade Tecnológica e Matrizes Energéticas](https://itxesco.github.io/aulas/ISC0462/index.html) |  
-| **ISC0468** - [Estágio Supervisionado VI](https://itxesco.github.io/aulas/ISC0468/index.html) | **ISC0070** - [Matemática e Espaço](https://itxesco.github.io/aulas/ISC0070/index.html) |  
-| **ISC0528** - [Pesquisa em Ensino de Ciências](https://itxesco.github.io/aulas/ISC0528/index.html) | **CAM0172** - [Campo das Ciências - Saberes e Práticas](https://itxesco.github.io/aulas/CAM0172/index.html) |  
-| **ISC0312** - [Educação e Relações Étnico-Raciais](https://itxesco.github.io/aulas/ISC0312/index.html) | **ISC0467** - [Práticas Laboratoriais Interdisciplinares em Ciências da Natureza](https://itxesco.github.io/aulas/ISC0467/index.html) |
-| **ISC0787** - [Práticas Decoloniais e Pedagogia Freireana no Ensino de Ciências](https://itxesco.github.io/pages/aulas/ISC0787_index.html) | **ISC0752** - [Fundamentos de Mecânica Clássica](https://itxesco.github.io/pages/aulas/ISC0752_index.html) |
-
 
 ---
 
-##### <a name="shortcourses"></a> ![UFSB](https://itxesco.github.io/imagens/icones/icons16/ufsb-icon.jpg)[ Componentes Curriculares  ministradas para a pós graduação (PPGER)](https://ufsb.edu.br/ppger)  
+##### <a name="shortcourses"></a> ![UFSB](https://itxesco.github.io/imagens/icones/icons16/ufsb-icon.jpg) [Componentes Curriculares ministradas para a pós-graduação (PPGER)](https://ufsb.edu.br/ppger)  
 ---
 
- **PPGER0034** - [Educação Científica, Cultura e Sociedade: Implicações para o Ensino de Ciências e Humanidades](https://itxesco.github.io/pages/aulas/ppger0034.html)
+**PPGER0034** - [Educação Científica, Cultura e Sociedade: Implicações para o Ensino de Ciências e Humanidades](https://itxesco.github.io/pages/aulas/ppger0034.html)  
 
- **PPGER0000** - [Seminários Processuais I](https://itxesco.github.io/aulas/PPGER0000/index.html)  
- **PPGER0000** - [Seminários Processuais II](https://itxesco.github.io/aulas/PPGER0000/index.html)  
- **PPGER0000** - [Orientação e Práticas de Pesquisa I](https://itxesco.github.io/aulas/PPGER0000/index.html)  
- **PPGER0000** - [Orientação e Práticas de Pesquisa II](https://itxesco.github.io/aulas/PPGER0000/index.html)  
- **PPGER0000** - [Orientação e Práticas de Pesquisa III](https://itxesco.github.io/aulas/PPGER0000/index.html)  
- **PPGER0035** - [Orientação e Prática em Pesquisa IV](https://itxesco.github.io/aulas/PPGER0035/index.html)   
-
+**PPGER0035** - [Orientação e Prática em Pesquisa IV](https://itxesco.github.io/aulas/PPGER0035/index.html)    
 
 ---
-
-##### <a name="misc"></a> Experiência didática em outras Instituições de Ensino Superior
-
----
-
-##### ![UAM](https://itxesco.github.io/imagens/icones/icons16/uam-icon.ico)[ Universidade Anhembi-Morumbi](https://portal.anhembi.br/escolas/engenharia-e-tecnologia/) (2016 - 2018)
-
-| Disciplinas| Disciplinas|  
-|--- |--- |  
-| Estatística Aplicada | Algebra Linear e Vetores|  
-| Métodos Numéricos | Matemática Básica|  
-| Cálculo III | Equações Diferenciais|  
-| Cálculo IV | Mecânica Geral|  
-| Cálculo Diferencial | Cálculo Integral|  
-| Física Geral | Fundamentos de Ciências Exatas|  
-
----  
-
-##### ![IFSP](https://itxesco.github.io/imagens/icones/icons16/ifsp-icon.ico)[ Instituto Federal de São Paulo (IFSP)](https://spo.ifsp.edu.br) (2014 - 2016)  
-
-| Disciplinas| Disciplinas|  
-|--- |--- |  
-| Física Teórica (EM integrado) |  Física Experimental (EM integrado)|  
-| Escola e Sociedade | Introdução ao Ensino e Divulgação Científica|  
-| Física Nuclear e de Partículas | Gravitação e Leis de Conservação|  
-| Mecânica dos Sólidos e Fluídos | Política e Estrutura de Ensino no Brasil|  
-| Oficinas de Projeto de Ensino I |Fundamentos da Física para Estruturas|  
-
----  
-
-
-##### ![FAC-FITO](https://itxesco.github.io/imagens/icones/icons16/fac_fito-icon.ico)[ Faculdade de Ciências da FITO (FAC-FITO)](http://fito.edu.br) (2012-2014)
-
-| | |  
-|--- |--- |  
-| Laboratório de Física Experimental 1 | Conteúdos e Práticas de Ciências I|  
-| Laboratório de Física Experimental 2 | Conteúdos e Práticas de Ciências II|  
-| Laboratório de Física Experimental 3 | Educação, Saúde e Meio Ambiente I|  
-| Laboratório de Física Experimental 4 | Educação, Saúde e Meio Ambiente II|  
-
-
----
-
-##### <a name="misc"></a>  Experiência Didática no Ensino Básico
-
----
-##### Ensino Médio (2006 - 2016)
-
-Para turmas de ensino médio regular, técnico e EJA das redes pública e particular de São Paulo (SP):
-
-- Laboratório de Física Experimental
-- Física
-
-
-##### Ensino Fundamental (2004 - 2016)
-
-Para escolas das redes pública e particular de São Paulo (SP):
-
-- Laboratório de Ciências
-- Ciências  

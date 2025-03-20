@@ -4,41 +4,42 @@ O **hiperfoco** é uma característica comum em pessoas autistas, definida como 
 
 ---
 
-#### 🔍 Características do hiperfoco
+### 🔍 Características do hiperfoco  
 
 - **Atenção extrema:** Concentração profunda em um assunto ou atividade específica.  
 - **Persistência:** Pode durar horas, dias ou até anos.  
 - **Desconexão do ambiente:** Dificuldade em alternar para outras atividades.  
-- **Sensação de prazer e domínio:** O hiperfoco pode trazer satisfação e aprofundamento em áreas de interesse.  
-- **Dificuldade em interromper:** Pode ser difícil parar a atividade e atender a outras demandas.  
+- **Sensação de prazer e domínio:** O hiperfoco pode proporcionar satisfação e aprofundamento em áreas de interesse.  
+- **Dificuldade em interromper:** Pode ser desafiador parar a atividade e atender a outras demandas.  
 
 ---
 
-#### 🎯 Meus hiperfocos  
+### 🎯 Meus hiperfocos  
 
-Em mim, o hiperfoco  se manifesta em diferentes áreas:  
+Em mim, o hiperfoco se manifesta em diferentes áreas:  
 
 - **Histórias em Quadrinhos de Super-Heróis** 📖🎨   
 - **Educação** 🎓📚  
-- **História e cultura** 🏛️🌍
+- **História e Cultura** 🏛️🌍  
 - **Jogos de RPG** 🎮🎲  
-- **Documentação** 🗂️📄
-- **Moby Dick** 🐋📚
-- **"The Rocky Horror Picture Show"** 🎭
+- **Documentação** 🗂️📄  
+- **Moby Dick** 🐋📚  
+- **"The Rocky Horror Picture Show"** 🎭  
 
-
-O **hiperfoco** pode ser altamente produtivo e contribuir para carreiras acadêmicas e profissionais de sucesso, mas não deve ser confundido com o **gosto pessoal**. Eles podem até  parecer semelhantes, já que envolvem o interesse por um determinado assunto, no entanto, existem diferenças importantes entre eles, especialmente no contexto do Transtorno do Espectro Autista (TEA)🧐.
+O **hiperfoco** pode ser altamente produtivo e contribuir para carreiras acadêmicas e profissionais de sucesso, mas não deve ser confundido com o **gosto pessoal**. Embora possam parecer semelhantes, pois envolvem o interesse por um determinado assunto, há diferenças importantes entre eles, especialmente no contexto do Transtorno do Espectro Autista (TEA) 🧐.  
 
 ---
 
-O **gosto pessoal** se refere a preferências e interesses individuais, como filmes favoritos, estilos musicais ou hobbies. Ele pode até ser intenso, mas nunca no nível do hiperfoco, e, geralmente:
+### 🔎 Hiperfoco vs. Gosto Pessoal  
 
-- **É flexível** – A pessoa pode ter vários interesses ao mesmo tempo.  
-- **Não domina a rotina** – Aprecia-se algo sem comprometer outras atividades.  
+O **gosto pessoal** refere-se a preferências e interesses individuais, como filmes favoritos, estilos musicais ou hobbies. Ele pode ser intenso, mas nunca no nível do hiperfoco. Geralmente:  
+
+- **É flexível** – A pessoa pode ter vários interesses simultaneamente.  
+- **Não domina a rotina** – O interesse não compromete outras atividades.  
 - **É fácil de interromper** – A pessoa pode pausar o interesse sem dificuldades.  
 - **Tem duração variada** – Pode ser passageiro ou duradouro.  
 
-Exemplos de alguns dos meus gostos pessoais:  
+#### 🎭 Exemplos de alguns dos meus gostos pessoais:  
 
 - 🔭 **Astronomia**  
 - ⚛️ **Física**  
@@ -47,14 +48,13 @@ Exemplos de alguns dos meus gostos pessoais:
 - 📺 **Desenhos Animados**  
 - 📖 **Literatura**  
 - 🚀 **Ficção Científica**  
-- 🌍 **Afrofuturismo**
-
+- 🌍 **Afrofuturismo**  
 
 Nenhum deles está entre meus **hiperfocos**.
 
 ---
 
-#### 🔄 Ter um Hiperfoco é bom ou ruim?  
+### 🔄 Ter um hiperfoco é algo bom ou ruim?  
 
 | 🟢 **Benefícios** | 🔴 **Desafios** |
 |------------------|------------------|
@@ -69,11 +69,11 @@ Com estratégias adequadas, é possível equilibrar o hiperfoco para aproveitar 
 
 O hiperfoco pode ser **uma ferramenta poderosa de aprendizado e realização**, desde que seja bem gerenciado. Ao reconhecer e equilibrar essa característica, é possível transformar paixões em talentos e contribuir positivamente para a vida pessoal e profissional.
 
-🔹 **Quer conhecer mais sobre meus Hiperfocos?** Confira:  
+🔹 **Saiba mais sobre meus hiperfocos!** Confira:  
 - [Moby Dick](/pages/hiperfocos/autismo.html)  
 - [Histórias em Quadrinhos de Super-Heróis](/pages/hiperfocos/diagnosticotardio.html)  
 - [The Rocky Horror Picture Show](/pages/hiperfocos/habilidades.html)  
-- [Jogos de RPG](/pages/hiperfocos/namidia.html)
-- [Educação](/pages/hiperfocos/namidia.html)   
+- [Jogos de RPG](/pages/hiperfocos/namidia.html)  
+- [Educação](/pages/hiperfocos/namidia.html)  
 
-[🔼 Voltar ao topo](#) 🚀
+[🔼 Voltar ao topo](#) 🚀  
