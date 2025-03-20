@@ -15,7 +15,7 @@ description: Informações sobre autismo, diagnóstico e apoio para adultos auti
 
 ---
 
-### 🏷️ O que é o TEA? {#o-que-e-o-tea}
+### 🏷️ O que é o TEA? Uma resposta muito rápida! {#o-que-e-o-tea}
 
 O **Transtorno do Espectro Autista (TEA)** é uma variação no funcionamento neurológico que afeta a forma como a pessoa percebe e interage com o mundo. Suas principais características incluem:
 
@@ -25,14 +25,38 @@ O **Transtorno do Espectro Autista (TEA)** é uma variação no funcionamento ne
 
 O autismo é um **espectro**, ou seja, cada pessoa autista tem uma experiência única, com diferentes níveis de suporte necessários.  
 
-Antigamente, a **Síndrome de ~~Asperger~~** era usada como um diagnóstico separado para autistas sem comprometimento cognitivo ou de linguagem. No entanto, essa distinção foi considerada vaga, e, desde 2013, o termo foi incorporado ao diagnóstico geral de **TEA** pelo DSM-5.
+Antigamente, o nome **Síndrome de ~~Asperger~~** era usado como um diagnóstico separado para autistas sem comprometimento cognitivo ou de linguagem. No entanto, essa distinção foi considerada vaga, finalmente se entendeu que o nome homenageava um criminoso da Segunda Guerra Mundial e, desde 2013, o termo caiu em desuso e seu diagnóstico foi incorporado ao diagnóstico geral de **TEA** pelo DSM-5.
 
-📌 **Dados sobre o autismo**  
-- A cada **68 crianças** nos EUA, uma recebe o diagnóstico de TEA.  
+📌 **Dados sobre o TEA**  
+### 📊 Estatísticas sobre Crianças com Autismo no Brasil  
+
+Atualmente, o Brasil não possui dados oficiais precisos sobre a prevalência do Transtorno do Espectro Autista (TEA) em crianças. No entanto, algumas estimativas e indicadores fornecem uma visão geral da situação:  
+
+#### 📌 Estimativas Gerais  
+
+- De acordo com a **Organização Mundial da Saúde (OMS)**, estima-se que aproximadamente **1% da população mundial** seja autista. Aplicando essa estimativa ao Brasil, com cerca de **213 milhões de habitantes**, o país teria aproximadamente **2 milhões de indivíduos com TEA**.  
+  🔗 [Fonte: FCEE-SC](https://www.fcee.sc.gov.br/portal-do-autismo/8-categoria-institucional/9999-dados?utm_source=chatgpt.com)  
+
+#### 🏫 Matrículas Escolares  
+
+- O **Censo Escolar de 2023** registrou **636 mil alunos com TEA matriculados** em escolas públicas e particulares no Brasil. Esse número representa um aumento de **48%** em relação a 2022, quando foram contabilizados **429 mil alunos autistas**.  
+  🔗 [Fonte: UOL](https://www.uol.com.br/vivabem/noticias/redacao/2024/04/02/numero-de-alunos-com-autismo-matriculados-nas-escolas-do-brasil-cresceu-48.htm?utm_source=chatgpt.com)  
+
+#### 🌎 Dados Regionais  
+
+- Em **Santa Catarina**, desde o lançamento da **Carteira de Identificação do Autista** em fevereiro de 2020 até março de 2025, **31 mil pessoas** com TEA foram beneficiadas com o documento.  
+  🔗 [Fonte: FCEE-SC](https://www.fcee.sc.gov.br/portal-do-autismo/8-categoria-institucional/9999-dados?utm_source=chatgpt.com)  
+
+#### 🏛️ Inclusão no Censo  
+
+- Em **2019**, foi sancionada a **Lei 13.861**, que determinou a **inclusão de informações sobre pessoas com TEA no Censo Demográfico** do **Instituto Brasileiro de Geografia e Estatística (IBGE)**.  
+  Espera-se que os resultados desse censo forneçam dados mais precisos sobre a prevalência do autismo no Brasil.  
+  🔗 [Fonte: FCEE-SC](https://www.fcee.sc.gov.br/portal-do-autismo/8-categoria-institucional/9999-dados?utm_source=chatgpt.com)  
+
 - O aumento dos diagnósticos está relacionado à **maior conscientização** e não necessariamente a um crescimento real de casos.  
 - Muitos **adultos autistas** passaram a vida sem um diagnóstico, sendo apenas considerados "diferentes" ou "excêntricos".  
 
-#### 🏛 Definições sobre o TEA  
+#### 🏛 Algumas Definições do TEA  
 
 🔹 **Biblioteca Virtual em Saúde (BVS) - Ministério da Saúde**  
 *"O TEA é um problema no desenvolvimento neurológico que afeta a organização de pensamentos, sentimentos e emoções, caracterizado por dificuldades na comunicação, socialização e comportamentos repetitivos."*  
