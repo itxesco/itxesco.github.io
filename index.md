@@ -22,9 +22,9 @@
   <tr>
     <td align="center">
       <a href="pages/index_hiperfoco.html">
-        <img src="imagens/index_pics/hiperfocos.png" alt="Sobre Hiperfocos" title="Sobre Hiperfocos" height="300px">
+        <img src="imagens/index_pics/hiperfocos.png" alt="Sobre Hiperfocos" title="Hiperfocos" height="300px">
       </a><br>
-      <strong><a href="pages/index_hiperfoco.html">Sobre Hiperfocos</a></strong>
+      <strong><a href="pages/index_hiperfoco.html"> Hiperfocos</a></strong>
     </td>
     <td align="center">
       <a href="pages/index_tea.html">
