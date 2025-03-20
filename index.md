@@ -8,7 +8,7 @@
     </td>
     <td align="center">
       <a href="pages/index_pesquisa_hq.html">
-        <img src="imagens/index_pics/pesquisa.png" alt="Interesses de Pesquisa" title="Interesses de Pesquisa" height="300px">
+        <img src="imagens/index_pics/pesquisa.jpeg" alt="Interesses de Pesquisa" title="Interesses de Pesquisa" height="300px">
       </a><br>
       <strong><a href="pages/pesquisa/pesquisa_hq.html">Pesquisa</a></strong>
     </td>
@@ -34,7 +34,7 @@
     </td>
     <td align="center">
       <a href="pages/index_rpg.html">
-        <img src="imagens/index_pics/dragond20.png" alt="Jogos de RPG e Educação" title="Jogos de RPG" height="300px">
+        <img src="imagens/index_pics/dragaod20.jpeg" alt="Jogos de RPG e Educação" title="Jogos de RPG" height="300px">
       </a><br>
       <strong><a href="pages/index_rpg.html">Jogos de RPG</a></strong>
     </td>
