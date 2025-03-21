@@ -2,7 +2,7 @@
 
 
 layout: page
-title: Transtorno do Espectro Autista (TEA)
+title: O que é o Transtorno do Espectro Autista (TEA)
 description: Informações sobre autismo, diagnóstico e apoio para adultos autistas.
 ---
 
@@ -15,7 +15,7 @@ description: Informações sobre autismo, diagnóstico e apoio para adultos auti
 
 ---
 
-### 🧩 O que é o TEA? Uma resposta muito rápida! {#o-que-e-o-tea}
+### 🧩 Uma resposta muito breve: {#o-que-e-o-tea}
 
 
 O **Transtorno do Espectro Autista (TEA)** é um transtorno do neurodesenvolvimento que afeta a organização de pensamentos, sentimentos e emoções, caracterizando-se por déficits persistentes na comunicação e na interação social, padrões repetitivos de comportamento, interesses restritos e, frequentemente, hipersensibilidade a estímulos sensoriais.  
@@ -94,8 +94,6 @@ As pesquisas sobre o autismo começaram na década de 1940 com o psiquiatra **Le
 As mudanças na nomenclatura e na classificação do autismo, especialmente a adoção do conceito de espectro, tiveram impactos significativos no campo clínico, educacional e nas políticas públicas. Ao reconhecer a diversidade de manifestações e níveis de suporte necessários, o diagnóstico tornou-se mais inclusivo e menos restritivo. Isso permitiu uma compreensão mais ampla do autismo, reduzindo estigmas e favorecendo práticas mais individualizadas e interdisciplinares. Além disso, a unificação dos subtipos contribuiu para a elaboração de políticas públicas mais eficazes, centradas na funcionalidade e nos direitos das pessoas autistas ao longo de toda a vida.
 
 ---
-
-### 🛠️ Apoio e Tratamento {#apoio-e-tratamento}
 
 Não existe uma "cura" para o TEA, pois ele **não é uma doença**, mas sim uma forma diferente de funcionamento neurológico. No entanto, existem estratégias e apoios que podem melhorar a qualidade de vida das pessoas autistas.   
 ---
