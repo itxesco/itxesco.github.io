@@ -5,7 +5,6 @@ title: "A Universidade Federal do Sul da Bahia"
 layout: page
 permalink: /index_ufsb/
 ---
-### A Universidade Federal do Sul da Bahia
 
 #### Sumário
 1. [O IHAC-CSC](#ihac)  
@@ -20,7 +19,7 @@ permalink: /index_ufsb/
 
 O [IHAC-CSC](https://ufsb.edu.br/ihac-csc/) está localizado em Porto Seguro (BA) e iniciou suas atividades em 08/09/2014. A [UFSB](https://ufsb.edu.br/) conta com um IHAC em cada um de seus campi: o [IHAC-CJA](https://ufsb.edu.br/ihac-cja/), o [IHAC-CPF](https://ufsb.edu.br/ihac-cpf/) e o [IHAC-CSC](https://ufsb.edu.br/ihac-csc/).
 
-Originalmente, o IHAC-CSC foi concebido para abrigar todos os cursos de 1º ciclo do regime de formação da UFSB, incluindo os Bacharelados Interdisciplinares (BIs) e as Licenciaturas Interdisciplinares (LIs). Em 2019, com a readequação administrativa da universidade, os BIs foram transferidos para os respectivos Centros de Formação, e o IHAC-CSC passou a atuar exclusivamente na área da Educação, oferecendo cinco LIs:
+Em sua origem, o IHAC-CSC foi concebido para abrigar todos os cursos de 1º ciclo do regime de formação da UFSB, incluindo os Bacharelados Interdisciplinares (BIs) e as Licenciaturas Interdisciplinares (LIs). Em 2019, com a readequação administrativa da universidade, os BIs foram transferidos para os respectivos Centros de Formação, e o IHAC-CSC passou a atuar exclusivamente na área da Educação, oferecendo cinco LIs:
 
 - [Ciências da Natureza e suas Tecnologias](https://www.instagram.com/li.ciencias.natureza.csc)
 - [Ciências Humanas e Sociais e suas Tecnologias](https://www.instagram.com/lichs.ufsb.csc)
