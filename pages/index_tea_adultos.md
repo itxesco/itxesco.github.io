@@ -4,6 +4,7 @@ layout: page
 ---  
 
 #### 📌 Tópicos desta página:  
+
 📈 [Por que não foram diagnosticados na infância?](#infancia)  
 🔍 [Características do Autismo em Adultos](#caracteristicas)  
 🎭  [O que é o mascaramento?](#mascara)  
@@ -87,3 +88,17 @@ A comunidade autista, especialmente nos espaços online, tem sido um lugar de ac
 Mais do que isso, a convivência com outros autistas permite trocar experiências, conhecer estratégias de autocuidado, questionar estigmas e construir um senso de orgulho. Orgulho de ser autista, de sentir intensamente, de ver o mundo por outro ângulo. Porque ninguém deveria ter que mudar quem é para ser amado ou respeitado.
 
 ---  
+
+
+### 🔎 Continue Lendo sobre o TEA:  
+
+🧩 **O que é o TEA** → [Acesse aqui](/pages/index_tea.html)  
+🌟 **O que é o Espectro Autista** → [Explorar](/pages/autismo/espectro.html)
+📌 **Diagnóstico tardio** → [Saiba mais](/pages/autismo/diagnosticotardio.html)  
+🌟 **Altas habilidades e superdotação** → [Explorar](/pages/autismo/habilidades.html)
+🎨 **Simbologia e representação do autismo** → [Leia aqui](/pages/autismo/identificadao.html)  
+❌ **Mitos e Estereótipos** → [Quebrando preconceitos](/pages/autismo/mitos.html)  
+
+
+
+📌 [🔼 Voltar ao topo](#top)

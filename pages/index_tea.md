@@ -8,7 +8,7 @@ description: Informações sobre autismo, diagnóstico e apoio para adultos auti
 
 #### 📌 Tópicos desta página:
 📖 [O que é o TEA?](#o-que-e-o-tea)  
-📜 [História e evolução do diagnóstico](#historico-do-tea)  
+📜 [Breve histórico](#historico-do-tea)  
 🛠️ [Apoio e tratamento](#apoio-e-tratamento)  
 🌐 [TEA na cultura pop](#tea-na-cultura-pop)  
 📚 [Direitos es documentação](#direitos-e-documentacao)  
@@ -31,9 +31,6 @@ Isso acontece porque **o TEA não é uma doença**, mas uma condição. Trata-se
 O autismo é um **espectro**, ou seja, cada pessoa autista tem uma experiência única, com diferentes níveis de suporte necessários. Muita gente tem dificuldades em entender esse ponto, então se esse for  o seu caso, não se preocupe: eu explico direitinho o que é o espectro autista [nesta página.](/pages/autismo/espectro.html)
 
 Até pouco tempo, o nome [Síndrome de ~~Asperger~~](/pages/autismo/espectro.html)foi usado como um diagnóstico separado para autistas sem comprometimento cognitivo ou de linguagem. No entanto, essa distinção acabou sendo considerada vaga e acompanhada de uma reflexão histórica: finalmente se entendeu que o nome homenageava um criminoso da Segunda Guerra Mundial. Desde 2013, o termo caiu em desuso e incorporado ao diagnóstico geral de **TEA** pelo DSM-5.
-
-
-📌 **Alguns Dados sobre TEA no Brasil**
 
 
 #### 🌎 Quantos Autistas há no Brasil?
@@ -76,7 +73,7 @@ Fica aí a reflexão. Compare a previsão estatística de **2 milhões de pessoa
 
 ---
 
-### 📜 Histórico do TEA {#historico-do-tea}
+### 📜 Breve Histórico {#historico-do-tea}
 
 As pesquisas sobre o autismo começaram na década de 1940 com o psiquiatra **Leo Kanner**, que descreveu crianças com padrões de comportamento atípicos em seu artigo *Distúrbios Autísticos do Contato Afetivo*. No mesmo período, o pediatra austríaco **Hans Asperger** descreveu crianças com dificuldades sociais, mas com linguagem preservada, originando o que mais tarde seria chamado de **Síndrome de Asperger**.  
 
@@ -93,7 +90,9 @@ As pesquisas sobre o autismo começaram na década de 1940 com o psiquiatra **Le
 📌 **Impactos das mudanças no diagnóstico**  
 As mudanças na nomenclatura e na classificação do autismo, especialmente a adoção do conceito de espectro, tiveram impactos significativos no campo clínico, educacional e nas políticas públicas. Ao reconhecer a diversidade de manifestações e níveis de suporte necessários, o diagnóstico tornou-se mais inclusivo e menos restritivo. Isso permitiu uma compreensão mais ampla do autismo, reduzindo estigmas e favorecendo práticas mais individualizadas e interdisciplinares. Além disso, a unificação dos subtipos contribuiu para a elaboração de políticas públicas mais eficazes, centradas na funcionalidade e nos direitos das pessoas autistas ao longo de toda a vida.
 
-Não existe uma "cura" para o TEA, pois ele **não é uma doença**, mas sim uma forma diferente de funcionamento neurológico. No entanto, existem estratégias e apoios que podem melhorar a qualidade de vida das pessoas autistas.   
+Não existe uma "cura" para o TEA, pois ele **não é uma doença**, mas sim uma forma diferente de funcionamento neurológico. No entanto, existem estratégias e apoios que podem melhorar a qualidade de vida das pessoas autistas.
+
+
 ---
 
 ### 🎭 TEA na Cultura Pop {#tea-na-cultura-pop}
