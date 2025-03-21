@@ -11,7 +11,7 @@ description: Informações sobre autismo, diagnóstico e apoio para adultos auti
 📜 [História e evolução do diagnóstico](#historico-do-tea)  
 🛠️ [Apoio e tratamento](#apoio-e-tratamento)  
 🌐 [TEA na cultura pop](#tea-na-cultura-pop)  
-📚 [Direitos e documentação](#direitos-e-documentacao)  
+📚 [Direitos es documentação](#direitos-e-documentacao)  
 
 ---
 
