@@ -50,6 +50,6 @@ Desenvolvo minha pesquisa no **[PPGER](https://ufsb.edu.br/ppger/)** do **[IHAC-
 - ![Lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png) [**Marideise Silva Presende**](http://lattes.cnpq.br/0937458579414776)  
 - ![Lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png) [**Lenilson de Oliveira Silva**](http://lattes.cnpq.br/3523225974376488)  
 
----
+---  
 
-📖 **Minha pesquisa busca compreender a interseção entre cultura pop, ensino de ciências e relações étnico-raciais, promovendo um ensino crítico e transformador.**
+📌 [🔼 Voltar ao topo](#top)
