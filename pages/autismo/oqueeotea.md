@@ -1,5 +1,6 @@
 ---
 
+
 layout: page
 title: O Que é Autismo?
 description: Uma visão detalhada sobre o espectro autista, inteligência, comunicação e identidade.

@@ -1,3 +1,8 @@
+---
+title: "Abaleia"
+layout: page
+---
+
 Racista? Anti-escravocrata? Queer? Entenda como 'Moby Dick' divide estudiosos
 Clássico de Herman Melville entrou em pauta após 'problematização' de Felipe Neto
 

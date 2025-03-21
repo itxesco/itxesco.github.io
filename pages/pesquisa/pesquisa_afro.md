@@ -1,3 +1,8 @@
+---
+title: "Pesquisa Afro"
+layout: page
+---
+
 
 ---
 title: Afrofuturismo

@@ -1,3 +1,8 @@
+---
+title: "Hush"
+layout: page
+---
+
 “Batman: Hush” Humanized the Dark Knight for a New Millennium
 BY: Jules Chin Greene
 Tuesday, March 11th, 2025

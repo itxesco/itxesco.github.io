@@ -1,3 +1,8 @@
+---
+title: "Pesquisa Afro"
+layout: page
+---
+
 
 <html lang="pt-BR">
 <head>

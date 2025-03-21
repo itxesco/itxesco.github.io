@@ -1,3 +1,8 @@
+---
+title: "Warworld"
+layout: page
+---
+
 Pull up a chair, friends, because this is a story I’ve been wanting to write about for ages now. When it comes to must-read Superman stories, you have your usual suspects like All-Star Superman, Superman: Birthright, Whatever Happened to the Man of Tomorrow?, and Superman For All Seasons, but it’s time we recognize Superman: The Warworld Saga as among the Man of Steel’s finest stories. It also doesn’t hurt that the Warworld Saga is vastly different from your typical Superman story. Whether it’s your first Superman story, or your fiftieth, be prepared to have your mind blown.
 
 

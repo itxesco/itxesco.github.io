@@ -1,3 +1,8 @@
+---
+title: "Index Pesquisa"
+layout: page
+---
+
 ### Pesquisa
 
 - [Afrofuturismo](/pages/pesquisa/pesquisa_afro.html)

@@ -1,3 +1,8 @@
+---
+title: "Superman2"
+layout: page
+---
+
 Swiping Left on “Superman II’s” Relationship Advice
 BY: Tim Beedle
 Wednesday, February 19th, 2025

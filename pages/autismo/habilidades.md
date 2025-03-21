@@ -1,3 +1,8 @@
+---
+title: "Habilidades"
+layout: page
+---
+
 
 ### 🧠 O que são  Altas Habilidades?  
 

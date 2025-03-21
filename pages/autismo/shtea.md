@@ -1,3 +1,8 @@
+---
+title: "Shtea"
+layout: page
+---
+
 
 # Super-heróis Autistas e o TEA nos Quadrinhos
 

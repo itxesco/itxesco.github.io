@@ -1,3 +1,8 @@
+---
+title: "Direitos"
+layout: page
+---
+
 
 #### 📌 Índice (clique para ir direto)
 

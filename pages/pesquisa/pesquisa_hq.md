@@ -1,3 +1,8 @@
+---
+title: "Pesquisa Hq"
+layout: page
+---
+
 
 ---
 title: Histórias em Quadrinhos e Educação

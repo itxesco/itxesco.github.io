@@ -1,5 +1,6 @@
 ---
 
+
 layout: page
 title: Conflict of Commitment policies
 description: Compare conflict of commitment policies among Big-10 universities

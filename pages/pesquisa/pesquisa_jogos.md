@@ -1,3 +1,8 @@
+---
+title: "Pesquisa Jogos"
+layout: page
+---
+
 
 ---
 layout: page

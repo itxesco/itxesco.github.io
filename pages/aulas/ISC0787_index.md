@@ -1,5 +1,6 @@
 ---
 
+
 layout: page
 title: ISC0787 - PRÁTICAS DECOLONIAIS E PEDAGOGIA FREIRIANA NO ENSINO DE CIÊNCIAS
 description: Francisco de Assis Nascimento Junior é Professor Adjunto no Campus Sosígenes Costa da Universidade Federal do Sul da Bahia, em Porto Seguro (BA); onde atua na formação de professores e pesquisa as relações entre identidade de gênero/relações étnico-raciais no Ensino de Ciências através das Histórias em Quadrinhos de Super-Heróis

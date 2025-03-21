@@ -1,3 +1,8 @@
+---
+title: "Superman3"
+layout: page
+---
+
 É um ótimo momento para os fãs do Superman, com o Homem de Aço brilhando no cinema, na TV, na animação e nos quadrinhos. Para nos ajudar a acompanhar tudo isso, o escritor Tim Beedle compartilha o que chamou sua atenção e por quê, nesta coluna mensal da Super-Família.
 
 ⸻

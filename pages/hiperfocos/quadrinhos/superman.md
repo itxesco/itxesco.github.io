@@ -1,3 +1,8 @@
+---
+title: "Superman"
+layout: page
+---
+
 A New Look at Christopher Reeve’s “Superman”
 BY: Tim Beedle
 Wednesday, January 15th, 2025

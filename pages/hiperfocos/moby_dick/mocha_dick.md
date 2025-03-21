@@ -1,3 +1,8 @@
+---
+title: "Mocha Dick"
+layout: page
+---
+
 Por que a baleia Moby Dick sempre foi chamada de assassina?
 
 Talvez você nunca tenha ouvido falar na Baleia Moby Dick, isso porque o livro é de 1851. E sabemos que não é todo mundo que vai atrás de obras antigas, não é mesmo? Mas, com esse remake, de Ron Howard – mesmo diretor dos Filmes: Uma mente brilhante e Código Da Vinci – você vai querer ler o livro inteiro.

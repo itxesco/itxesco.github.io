@@ -1,3 +1,8 @@
+---
+title: "Index Baixar"
+layout: page
+---
+
 - [Introdução ao Cálculo](https://itxesco.github.io/pages/notas/introcalculo/index.html)
 - [Sociedades Tecnológicas e Matrizes Energéticas](https://itxesco.github.io/pages/notas/ISC0462.html)
 - [Física Geral](https://itxesco.github.io/pages/notas/fisicageral/index.html)  

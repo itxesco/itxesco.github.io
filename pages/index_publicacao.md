@@ -1,5 +1,6 @@
 ---
 
+
 title: "Trabalhos Publicados"
 layout: page
 permalink: /index_publicacao/

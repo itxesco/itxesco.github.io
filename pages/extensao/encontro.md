@@ -1,3 +1,8 @@
+---
+title: "Encontro"
+layout: page
+---
+
  O **ENCONTRO COM EDUCADORES** é um projeto de formação continuada para professores da rede pública estadual de Porto Seguro (BA). Faz parte das ações executadas pela Coordenação de Práticas Pedagógicas da UFSB/CSC junto ao Complexo Integrado de Educação de Porto Seguro (CIEPS).
 
  A formação é dividida em três ciclos, cada um divido em 3 encontros. Cada ciclo se dedica a apresentar,  introduzir e explorar o pensamento de um autor a partir da leitura de uma obra selecionada:

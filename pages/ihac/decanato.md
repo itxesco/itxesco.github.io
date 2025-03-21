@@ -1,3 +1,8 @@
+---
+title: "Decanato"
+layout: page
+---
+
 
 ---
 

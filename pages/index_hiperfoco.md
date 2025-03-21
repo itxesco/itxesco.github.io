@@ -1,3 +1,8 @@
+---
+title: "Index Hiperfoco"
+layout: page
+---
+
 ### 🧠 O que é o hiperfoco em autistas?
 
 O **hiperfoco** é uma característica comum em pessoas autistas, definida como um **estado intenso de concentração** e envolvimento em um interesse específico. Durante o hiperfoco, a pessoa pode se dedicar por horas a um único tema, atividade ou hobby, muitas vezes sem perceber a passagem do tempo e ignorando distrações externas.
