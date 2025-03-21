@@ -1,43 +1,64 @@
 ---
-title: "Index Hiperfoco"
+title: "🧠 O que é o hiperfoco em autistas?"
 layout: page
 ---
 
-### 🧠 O que é o hiperfoco em autistas?
+O **hiperfoco** é um aspecto  comum em pessoas autistas e pode ser definido como um **estado intenso de concentração** e envolvimento em um interesse específico. É o que faz a pessoa autista se dedicar por horas a um único tema, atividade ou hobby, muitas vezes sem perceber a passagem do tempo e ignorando distrações externas.
+---  
 
-O **hiperfoco** é uma característica comum em pessoas autistas, definida como um **estado intenso de concentração** e envolvimento em um interesse específico. Durante o hiperfoco, a pessoa pode se dedicar por horas a um único tema, atividade ou hobby, muitas vezes sem perceber a passagem do tempo e ignorando distrações externas.
+#### 📌 Tópicos desta página:
+
+1. [Características de um hiperfoco](#caracteristicas)
+2. [Ter um hiperfoco é algo bom ou ruim?](#bomouruim)
+3. [Conheça meus hiperfocos](#meus)
+4. [Hiperfoco ou Gosto Pessoal?](#gostos)  
 
 ---
 
-### 🔍 Características do hiperfoco  
+#### 🔍 Características {#caracteristicas}
 
 - **Atenção extrema:** Concentração profunda em um assunto ou atividade específica.  
-- **Persistência:** Pode durar horas, dias ou até anos.  
+- **Persistência:** Pode durar horas, dias ou até anos. Alguns hiperfocos eu tenho desde que aprendi a ler, outros foram muito intensos em determinadas fases da vida e por lá ficaram  
 - **Desconexão do ambiente:** Dificuldade em alternar para outras atividades.  
 - **Sensação de prazer e domínio:** O hiperfoco pode proporcionar satisfação e aprofundamento em áreas de interesse.  
 - **Dificuldade em interromper:** Pode ser desafiador parar a atividade e atender a outras demandas.  
 
 ---
+Um hiperfoco pode ser **uma ferramenta poderosa de aprendizado e realização** para uma pessoa autista, principalmente se for bem gerenciado. Ao reconhecer e equilibrar essa capacidade, é possível transformar paixões em talentos e contribuir positivamente para a vida pessoal e profissional.  
+Eu tenho um hiperfoco em educação e me tornei professor, por exemplo. O campeão mundial de motociclismo, Jorge Martin, é um autista com hiperfoco em... motociclismo.
 
-### 🎯 Meus hiperfocos  
+#### 🔄 Ter um hiperfoco é algo bom ou ruim?  {#bomouruim}
 
-Em mim, o hiperfoco se manifesta em diferentes áreas:  
+| 🟢 **Benefícios** | 🔴 **Desafios** |
+|------------------|------------------|
+| Desenvolvimento de habilidades excepcionais 💡 | Dificuldade em alternar tarefas ou atender obrigações 📅 |
+| Aprendizado aprofundado 📚 | Exaustão mental ou física 😓 |
+| Produtividade elevada 🚀 | Pode gerar isolamento social 🤝❌ |
+| Criatividade intensa 🎨 | Desregulação de sono e alimentação 🛌🍽️ |
 
-- **Histórias em Quadrinhos de Super-Heróis** 📖🎨   
-- **Educação** 🎓📚  
-- **História e Cultura** 🏛️🌍  
-- **Jogos de RPG** 🎮🎲  
+Com estratégias adequadas, é possível equilibrar o hiperfoco para aproveitar seus benefícios sem comprometer o bem-estar.
+
+---  
+
+#### 🎯 Meus hiperfocos {#meus}
+
+Meus hiperfocos se manifestam em diferentes áreas, que por sorte, você também irá achar muito interessantes e é só clicar nos links abaixo para saber um pouco mais sobre cada um:  
+
+- [Histórias em Quadrinhos de Super-Heróis](/pages/hiperfocos/quadrinhos/index_sh.html) 📖🎨   
+- [Educação](/pages/hiperfocos/educacao/index_educacao.html) 🎓📚  
+- [Mitologia Grega](/pages/hiperfocos/grecia/index_grecia.html) 🏛️🌍  
+- [Jogos de RPG](/pages/hiperfocos/rpg/index_rpg.html) 🎮🎲  
 - **Documentação** 🗂️📄  
-- **Moby Dick** 🐋📚  
-- **"The Rocky Horror Picture Show"** 🎭  
+- [Moby Dick](/pages/hiperfocos/moby_dick/index_moby.html) 🐋📚  
+- [The Rocky Horror Picture Show](/pages/hiperfocos/rockyhorror/index_rockyhorror.html) 🎭
 
-O **hiperfoco** pode ser altamente produtivo e contribuir para carreiras acadêmicas e profissionais de sucesso, mas não deve ser confundido com o **gosto pessoal**. Embora possam parecer semelhantes, pois envolvem o interesse por um determinado assunto, há diferenças importantes entre eles, especialmente no contexto do Transtorno do Espectro Autista (TEA) 🧐.  
+Como já disse, um **hiperfoco** pode ser algo altamente produtivo e contribuir para que a pessoa autista construa uma carreira de sucesso, mas não deve ser confundido com o seu **gosto pessoal**. Embora possam parecer semelhantes, pois envolvem o interesse por um determinado assunto e o prazer em dominá-lo, há diferenças importantes entre eles, especialmente no contexto do Transtorno do Espectro Autista (TEA) 🧐.  
 
 ---
 
-### 🔎 Hiperfoco vs. Gosto Pessoal  
+### 🔎 Hiperfoco vs. Gosto Pessoal {#gostos}
 
-O **gosto pessoal** refere-se a preferências e interesses individuais, como filmes favoritos, estilos musicais ou hobbies. Ele pode ser intenso, mas nunca no nível do hiperfoco. Geralmente:  
+O **gosto pessoal** refere-se a preferências e interesses individuais, como filmes favoritos, estilos musicais ou hobbies. Ele pode ser intenso, mas nunca no nível do hiperfoco. Geralmente, ele:  
 
 - **É flexível** – A pessoa pode ter vários interesses simultaneamente.  
 - **Não domina a rotina** – O interesse não compromete outras atividades.  
@@ -53,32 +74,11 @@ O **gosto pessoal** refere-se a preferências e interesses individuais, como fil
 - 📺 **Desenhos Animados**  
 - 📖 **Literatura**  
 - 🚀 **Ficção Científica**  
-- 🌍 **Afrofuturismo**  
+- 🌍 **Afrofuturismo**
+- 🎮 **Videogames**
 
-Nenhum deles está entre meus **hiperfocos**.
-
----
-
-### 🔄 Ter um hiperfoco é algo bom ou ruim?  
-
-| 🟢 **Benefícios** | 🔴 **Desafios** |
-|------------------|------------------|
-| Desenvolvimento de habilidades excepcionais 💡 | Dificuldade em alternar tarefas ou atender obrigações 📅 |
-| Aprendizado aprofundado 📚 | Exaustão mental ou física 😓 |
-| Produtividade elevada 🚀 | Pode gerar isolamento social 🤝❌ |
-| Criatividade intensa 🎨 | Desregulação de sono e alimentação 🛌🍽️ |
-
-Com estratégias adequadas, é possível equilibrar o hiperfoco para aproveitar seus benefícios sem comprometer o bem-estar.
+São todos muito bacanas, mas nenhum deles é um **hiperfoco**.
 
 ---
-
-O hiperfoco pode ser **uma ferramenta poderosa de aprendizado e realização**, desde que seja bem gerenciado. Ao reconhecer e equilibrar essa característica, é possível transformar paixões em talentos e contribuir positivamente para a vida pessoal e profissional.
-
-🔹 **Saiba mais sobre meus hiperfocos!** Confira:  
-- [Moby Dick](/pages/hiperfocos/autismo.html)  
-- [Histórias em Quadrinhos de Super-Heróis](/pages/hiperfocos/diagnosticotardio.html)  
-- [The Rocky Horror Picture Show](/pages/hiperfocos/habilidades.html)  
-- [Jogos de RPG](/pages/hiperfocos/namidia.html)  
-- [Educação](/pages/hiperfocos/namidia.html)  
 
 [🔼 Voltar ao topo](#) 🚀  
