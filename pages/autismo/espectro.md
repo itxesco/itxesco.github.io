@@ -6,12 +6,6 @@ layout: page
 
 ---
 
-##  🧩 O que é o TEA?
-
-O **TEA (Transtorno do Espectro Autista)** é um transtorno do **neurodesenvolvimento** que afeta a **comunicação, interação social e comportamento**. Ele se manifesta de formas diferentes em cada pessoa, variando em intensidade e necessidades de suporte.
-
----
-
 ## 🔹 O Autismo é um Espectro
 
 É mais fácil entender  o conceito de espectro a partir de uma analogia com a seguinte imagem:
