@@ -1,21 +1,18 @@
 ---
 
 
-title: "A Universidade Federal do Sul da Bahia"
+title: "o Instituto de Humanidades, Artes e Ciências (IHAC-CSC)"
 layout: page
 permalink: /index_ufsb/
 ---
 
-#### Sumário
-1. [O IHAC-CSC](#ihac)  
-2. [Licenciaturas Interdisciplinares](#lis)  
-3. [O que é um Decano?](#decano)  
-4. [A gestão 2022-2026](#gestao)  
-5. [O PPGER](#ppger)  
+#### Sumário   
+1. [Licenciaturas Interdisciplinares](#lis)  
+2. [O que é um Decano?](#decano)  
+3. [A gestão 2022-2026](#gestao)  
+4. [O PPGER](#ppger)  
 
 ---
-
-#### 1. O IHAC-CSC {#ihac}
 
 O [IHAC-CSC](https://ufsb.edu.br/ihac-csc/) está localizado em Porto Seguro (BA) e iniciou suas atividades em 08/09/2014. A [UFSB](https://ufsb.edu.br/) conta com um IHAC em cada um de seus campi: o [IHAC-CJA](https://ufsb.edu.br/ihac-cja/), o [IHAC-CPF](https://ufsb.edu.br/ihac-cpf/) e o [IHAC-CSC](https://ufsb.edu.br/ihac-csc/).
 
