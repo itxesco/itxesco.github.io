@@ -9,7 +9,7 @@ layout: page
 🔍 [Características do Autismo em Adultos](#caracteristicas)  
 🎭  [O que é o mascaramento?](#mascara)  
 🎭  [O que o mascaramento pode causar?](#consequencias)  
-📚 [Diagnóstico tardio: libertador e confuso](#tardio)
+📚 [Diagnóstico tardio: libertador e confuso](#tardio)  
 🤝 [Comunidade importa](#uniao)  
 
 ---
