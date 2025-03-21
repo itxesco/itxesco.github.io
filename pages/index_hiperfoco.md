@@ -44,13 +44,13 @@ Com estratégias adequadas, é possível equilibrar o hiperfoco para aproveitar 
 
 Meus hiperfocos se manifestam em diferentes áreas, que por sorte, você também irá achar muito interessantes e é só clicar nos links abaixo para saber um pouco mais sobre cada um:  
 
-- [Histórias em Quadrinhos de Super-Heróis](/pages/hiperfocos/quadrinhos/index_sh.html) 📖🎨   
-- [Educação](/pages/hiperfocos/educacao/index_educacao.html) 🎓📚  
-- [Mitologia Grega](/pages/hiperfocos/grecia/index_grecia.html) 🏛️🌍  
-- [Jogos de RPG](/pages/hiperfocos/rpg/index_rpg.html) 🎮🎲  
-- **Documentação** 🗂️📄  
-- [Moby Dick](/pages/hiperfocos/moby_dick/index_moby.html) 🐋📚  
-- [The Rocky Horror Picture Show](/pages/hiperfocos/rockyhorror/index_rockyhorror.html) 🎭
+
+| ![HQs](https://upload.wikimedia.org/wikipedia/en/3/35/Watchmen-cover.png){height=300} | ![Educação](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Education_icon.svg/512px-Education_icon.svg.png){height=300} | ![Mitologia Grega](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Minerva_Ludovisi_-_Museo_Nazionale_Romano_Palazzo_Altemps.jpg/640px-Minerva_Ludovisi_-_Museo_Nazionale_Romano_Palazzo_Altemps.jpg){height=300} |
+|:--:|:--:|:--:|
+| [HQs de Super-Heróis](/pages/hiperfocos/quadrinhos/index_sh.html) | [Educação](/pages/hiperfocos/educacao/index_educacao.html) | [Mitologia Grega](/pages/hiperfocos/grecia/index_grecia.html) |
+
+| ![RPG](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Dice_%28typical_role_playing_game_dice%29.jpg/640px-Dice_%28typical_role_playing_game_dice%29.jpg){height=300} | ![Moby Dick](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Moby-Dick_FE_title_page.jpg/640px-Moby-Dick_FE_title_page.jpg){height=300} | ![Rocky Horror](https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Rocky_Horror_Picture_Show_poster.jpg/640px-Rocky_Horror_Picture_Show_poster.jpg){height=300} |
+| [Jogos de RPG](/pages/hiperfocos/rpg/index_rpg.html) | [Moby Dick](/pages/hiperfocos/moby_dick/index_moby.html) | [The Rocky Horror Picture Show](/pages/hiperfocos/rockyhorror/index_rockyhorror.html) |
 
 Como já disse, um **hiperfoco** pode ser algo altamente produtivo e contribuir para que a pessoa autista construa uma carreira de sucesso, mas não deve ser confundido com o seu **gosto pessoal**. Embora possam parecer semelhantes, pois envolvem o interesse por um determinado assunto e o prazer em dominá-lo, há diferenças importantes entre eles, especialmente no contexto do Transtorno do Espectro Autista (TEA) 🧐.  
 
