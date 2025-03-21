@@ -77,8 +77,6 @@ Mesmo assim, **o autismo ainda não é nomeado**, o que mantém o padrão de amb
 
 ---
 
-## Conclusão
-
 **Sheldon Cooper é uma das figuras mais conhecidas com traços compatíveis com o espectro autista — e também uma das mais controversas.**  
 Ele representa, ao mesmo tempo, uma porta de entrada para o debate e um espelho distorcido das vivências autistas reais.
 

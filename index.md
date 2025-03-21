@@ -27,7 +27,7 @@
       <strong><a href="pages/index_hiperfoco.html"> Hiperfocos</a></strong>
     </td>
     <td align="center">
-      <a href="pages/index_tea.html">
+      <a href="pages/index_tea_adultos.html">
         <img src="imagens/index_pics/cyclope_tea.png" alt="Autismo em Adultos" title="Autismo em Adultos" height="300px">
       </a><br>
       <strong><a href="index_tea.html">Autismo em Adultos</a></strong>
