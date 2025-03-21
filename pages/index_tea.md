@@ -93,8 +93,6 @@ As pesquisas sobre o autismo começaram na década de 1940 com o psiquiatra **Le
 📌 **Impactos das mudanças no diagnóstico**  
 As mudanças na nomenclatura e na classificação do autismo, especialmente a adoção do conceito de espectro, tiveram impactos significativos no campo clínico, educacional e nas políticas públicas. Ao reconhecer a diversidade de manifestações e níveis de suporte necessários, o diagnóstico tornou-se mais inclusivo e menos restritivo. Isso permitiu uma compreensão mais ampla do autismo, reduzindo estigmas e favorecendo práticas mais individualizadas e interdisciplinares. Além disso, a unificação dos subtipos contribuiu para a elaboração de políticas públicas mais eficazes, centradas na funcionalidade e nos direitos das pessoas autistas ao longo de toda a vida.
 
----
-
 Não existe uma "cura" para o TEA, pois ele **não é uma doença**, mas sim uma forma diferente de funcionamento neurológico. No entanto, existem estratégias e apoios que podem melhorar a qualidade de vida das pessoas autistas.   
 ---
 
