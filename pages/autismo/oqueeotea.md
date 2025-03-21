@@ -1,9 +1,9 @@
 ---
+
 layout: page
 title: O Que é Autismo?
 description: Uma visão detalhada sobre o espectro autista, inteligência, comunicação e identidade.
 ---
-
 ### 🧩 O Que é o TEA?
 
 TEA significa Transtorno do Espectro Autista e se você chegou até aqui, provavelmente já viu diversas listas de características, falando sobre contato visual, movimentos repetitivos e até mesmo uma suposta falta de empatia. **Não vou perder seu tempo repetindo essa narrativa.**  

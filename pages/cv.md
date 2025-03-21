@@ -1,15 +1,12 @@
 ---
+
 layout: page
 title: "Formação"
 permalink: /cv/
 author_profile: true
-redirect_from:
+redirect_from: 
   - /resume
 ---
-
-
-
-
 * Doutorado em Educação, Faculdade de Educação da USP, 2017
 * Mestrado em Ensino de Ciências (modalidade Física), Instituto de Física da USP, 2013
 * Licenciatura em Física, Instituto de Física da USP, 2009

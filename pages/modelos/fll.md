@@ -1,8 +1,8 @@
 ---
+
 layout: page
 title: FIRST Lego League
 ---
-
 - [Slides](https://docs.google.com/presentation/d/1YNfqxVOo-hJ8g2j-gOzqryhK1mLG3aVS_JGAtBgtC78/edit#slide=id.p4)
   from coach training
 

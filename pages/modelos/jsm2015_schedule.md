@@ -1,8 +1,8 @@
 ---
+
 layout: page
 title: My JSM 2015 schedule
 ---
-
 ### Sunday 2:05pm - 3:45pm
 
 **9** \[*CC-4C4*\] [Computational/statistical methods for intergrative -omics](http://www.amstat.org/meetings/JSM/2015/onlineprogram/ActivityDetails.cfm?SessionID=211105)

@@ -1,11 +1,9 @@
 ---
+
 layout: page
 title: ISC0788 - EXTENSÃO UNIVERSITÁRIA NA FORMAÇÃO DE PROFESSORES/AS - CCEX
 description: Francisco de Assis Nascimento Junior é Professor Adjunto no Campus Sosígenes Costa da Universidade Federal do Sul da Bahia, em Porto Seguro (BA); onde atua na formação de professores e pesquisa as relações entre identidade de gênero/relações étnico-raciais no Ensino de Ciências através das Histórias em Quadrinhos de Super-Heróis
 ---
-
-
-
 O objetivo desta Componente Curricular é contribuir para a formação geral discente por meio de uma abordagem interdisciplinar, apresentando a matemática como construto humano desenvolvido em distintas realidades socioculturais e possuidora de uma estreita relação com a arte.
 
 Os encontros se pautam no protagonismo do processo de ensino-aprendizagem para compreender e construir o conhecimento,  revelando ao estudante sua condição continuada como investigador. No decorrer dos encontros serão realizadas oficinas, experimentos com materiais manuseáveis, construção e análise de artefatos, produção de obras de natureza artística, participação crítica em debate, leitura e análise da realidade vivida, busca individual e coletiva de solução para situações-problema e organização de evento (mostra artística dos trabalhos desenvolvidos durante a realização da Componente), valorizando o trabalho colaborativo.

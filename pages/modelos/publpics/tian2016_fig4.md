@@ -1,8 +1,8 @@
 ---
+
 layout: frontpage
 title: Tian et al. (2016) Fig 4
 ---
-
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">

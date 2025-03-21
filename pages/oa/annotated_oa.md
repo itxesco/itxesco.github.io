@@ -1,8 +1,8 @@
 ---
+
 layout: page
 title: Open Access policies, annotated
 ---
-
 In order to have a better sense of what an Open Access policy for
 UW-Madison might look like, I looked at the formal policies for several
 universities and provide the main components below, with quotes from

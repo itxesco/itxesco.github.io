@@ -1,8 +1,8 @@
 ---
+
 layout: page
 title: Job opportunities in biomedical data science
 ---
-
 The
 [Department of Biostatistics and Medical Informatics](https://www.biostat.wisc.edu)
 at UW-Madison is developing a proposal for a new PhD program in

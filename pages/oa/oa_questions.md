@@ -1,8 +1,8 @@
 ---
+
 layout: page
 title: "Open Access Policy: Anticipated questions"
 ---
-
 The
 [University Library Committee](https://www.library.wisc.edu/about/university-library-committee/)
 at the [University of Wisconsin&ndash;Madison](http://www.wisc.edu)

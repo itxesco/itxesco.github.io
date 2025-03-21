@@ -1,9 +1,9 @@
 ---
+
 layout: page
 title: videos
-description: Karl Broman's recorded talks
+description: "Karl Broman's recorded talks"
 ---
-
 ### 2021
 
 Data organization in spreadsheets

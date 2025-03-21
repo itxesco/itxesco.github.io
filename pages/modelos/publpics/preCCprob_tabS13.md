@@ -1,8 +1,8 @@
 ---
+
 layout: frontpage
 title: Broman (2012) Table S13
 ---
-
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">

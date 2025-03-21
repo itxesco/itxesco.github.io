@@ -1,8 +1,8 @@
 ---
+
 layout: page
 title: data science programs and departments
 ---
-
 - [UW-Madison](https://wisc.edu)
   - [Statistics](http://stat.wisc.edu)
     - [MS in Statistics with Data Science option](http://www.stat.wisc.edu/ms-degree-data-science-option-ms-ds)

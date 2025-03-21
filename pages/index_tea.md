@@ -1,9 +1,9 @@
 ---
+
 layout: page
 title: Transtorno do Espectro Autista (TEA)
 description: Informações sobre autismo, diagnóstico e apoio para adultos autistas.
 ---
-
 ### 🧩 Transtorno do Espectro Autista (TEA)
 
 #### 📌 Navegue pelos tópicos:

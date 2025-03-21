@@ -1,9 +1,9 @@
 ---
+
 layout: page
 title: Interesses de Pesquisa
 description: Prof. Dr. Francisco Nascimento - pesquisa em relações étnico-raciais e afrofuturismo ensino de ciências e educação Histórias em Quadrinhos de Super-Heróis e Impacto Cultural no Ensino de Ciências no Ensino de Física Jogos de RPG e Educação e Ensino de Ciências e Ensino de Física
 ---
-
 Sherlock Holmes pode ser brilhante, solitário, abrasivo, boêmio, caprichoso, corajoso, triste, manipulador, neurótico, vaidoso, desarrumado, meticuloso, artístico, cortês, rude, um gênio polímata. Personagens femininas podem ser Fortes.
 
 

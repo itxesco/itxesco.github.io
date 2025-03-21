@@ -1,9 +1,9 @@
 ---
+
 layout: page
 title: pesquisa
 description: Prof. Dr. Francisco Nascimento - pesquisa em relações étnico-raciais e afrofuturismo ensino de ciências e educação Histórias em Quadrinhos de Super-Heróis e Impacto Cultural no Ensino de Ciências no Ensino de Física Jogos de RPG e Educação e Ensino de Ciências e Ensino de Física
 ---
-
 Meu principal interesse de pesquisa está nos reflexos do consumo de produtos midiáticos relativos a Cultura de Super-Heróis (histórias em quadrinhos, filmes, livros, animações, jogos) nas práticas de ensino/aprendizagem de Física / Ciências, e a influência de seu discurso na formação da identidade do sujeito.
 
 Do ponto de vista cultural, constitui um exemplo típico  de convergência transmídia: tem sua origem nos [Penny Dreadfuls](https://en.wikipedia.org/wiki/Penny_dreadful) Ingleses do Século XIX e surge do entrelaçamento entre as tirinhas em quadrinhos dos jornais e a [literatura Pulp](https://en.wikipedia.org/wiki/Pulp_magazine) do início do Século XX. Trata-se de  leitura para o entretenimento descompromissado,  fortemente conectada ao contexto histórico, político e econômico da sociedade de sua produção.

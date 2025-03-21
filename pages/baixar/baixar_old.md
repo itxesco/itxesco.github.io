@@ -1,10 +1,10 @@
 ---
+
 layout: page
 title: arquivos e artigos úteis
 description: notas de aulas do prof. dr. Francisco de Assis Nascimento Junior da UFSB
 ---
-
- <h4>minhas notas de aula</h4>
+<h4>minhas notas de aula</h4>
 
 - [introdução ao cálculo](https://itxesco.github.io/pages/notas/introcalculo/index.html)
 - [sociedades tecnológicas e matrizes energéticas](https://itxesco.github.io/pages/notas/ISC0462.html)

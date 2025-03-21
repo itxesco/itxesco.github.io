@@ -1,6 +1,7 @@
 ---
+
 layout: page
-title: ISC0787  
+title: ISC0787
 
 ---
 #### Práticas Decoloniais e Pedagogia Freireana no Ensino de Ciências -  Agenda, slides e notas de aula  

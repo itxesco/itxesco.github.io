@@ -1,8 +1,8 @@
 ---
+
 layout: frontpage
 title: Broman and Weber (2000) Fig 1
 ---
-
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">

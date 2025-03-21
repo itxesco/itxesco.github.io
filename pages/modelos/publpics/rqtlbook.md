@@ -1,8 +1,8 @@
 ---
+
 layout: frontpage
 title: Broman and Sen (2009)
 ---
-
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">

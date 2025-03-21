@@ -1,9 +1,9 @@
 ---
+
 layout: page
 title: ISC0204 - Estágio Supervisionado 02 para LICNT
 description: Francisco de Assis Nascimento Junior é Professor Adjunto no Campus Sosígenes Costa da Universidade Federal do Sul da Bahia, em Porto Seguro (BA); onde atua na formação de professores e pesquisa as relações entre identidade de gênero/relações étnico-raciais no Ensino de Ciências através das Histórias em Quadrinhos de Super-Heróis
 ---
-
 Os objetivos desta Componente Curricular são:
 - 1. Integração da/o estagiária/o ao contexto de trabalho das escolas da rede pública, em especial, aos Colégios Universitários e/ou Complexos Integrados de Educação;
 - 2. Vivência e compartilhamento de saberes/práticas frente às situações reais vivenciadas no contexto da escola;

@@ -1,9 +1,9 @@
 ---
+
 layout: page
 title: teaching
-description: Karl Broman's teaching
+description: "Karl Broman's teaching"
 ---
-
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">

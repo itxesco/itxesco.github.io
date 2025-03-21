@@ -1,10 +1,9 @@
 ---
+
 layout: page
 title: histórias em quadrinhos
 description: pesquisa sobre Histórias em Quadrinhos
 ---
-
-
 As Histórias em Quadrinhos apresentam um retrato do mundo e da sociedade em que foram geradas, pertencendo ao contexto histórico-Cultural de sua produção. Não são, portanto, geradas de forma isolada de influência por seus autores (VERGUEIRO, 2006). MAs, o que é uma História em Quadrinhos?
 
 Trata-se de uma forma de contar histórias a partir de uma ideia simples: posicionar uma imagem ao lado da outra, ilustrando a passagem do tempo.

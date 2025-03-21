@@ -1,9 +1,9 @@
 ---
+
 layout: page
 title: Autismo e Representação nos X-Men
 description: Uma análise sobre a representação do autismo nos X-Men e na cultura pop.
 ---
-
 # 🧩 Autismo e Representação nos X-Men
 
 ## Personagens Autistas nos X-Men

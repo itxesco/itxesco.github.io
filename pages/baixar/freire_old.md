@@ -1,9 +1,9 @@
 ---
+
 layout: page
-title:
+title: 
 description: aulas de Francisco de Assis Nascimento Junior
 ---
-
 [Conscientização]("biblioteca/paulo_freire/Livro - Conscientização - Paulo Freire.pdf")
 [Paulo Freire para Educadores](Livro - Paulo Freire para educadores -Vera Barreto.pdf)
 [Caderno de Formação - Como alfabetizar com Paulo Freire]("biblioteca/paulo_freire/Caderno-de-Formacao---Como-Alfabetizar-com-Paulo-Freire.pdf")

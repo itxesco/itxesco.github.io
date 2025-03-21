@@ -1,8 +1,8 @@
 ---
+
 layout: frontpage
 title: Lobo et al. (2021) Fig 3
 ---
-
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">

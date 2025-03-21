@@ -1,8 +1,8 @@
 ---
+
 layout: frontpage
 title: Broman et al. (2012) Fig 2
 ---
-
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">

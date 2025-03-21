@@ -1,9 +1,9 @@
 ---
+
 layout: page
 title: talks
-description: Karl Broman's talks
+description: "Karl Broman's talks"
 ---
-
 ### 2021
 
 R/qtl2: high-dimensional data and multi-parent populations

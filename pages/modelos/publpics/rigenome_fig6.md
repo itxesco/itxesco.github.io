@@ -1,8 +1,8 @@
 ---
+
 layout: frontpage
 title: Broman (2005) Fig 6
 ---
-
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">

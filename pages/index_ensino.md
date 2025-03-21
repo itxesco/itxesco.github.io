@@ -1,9 +1,9 @@
 ---
+
 layout: page
 title: Ensino
 description: Aulas de Francisco de Assis Nascimento Junior
 ---
-
 ##### <a name="misc"></a> Experiência Didática no Ensino Básico  
 
 Atuo como docente desde 2004. Iniciei minha carreira como professor de Ciências para os anos finais do Ensino Fundamental (6º ao 9º ano) e, posteriormente, como professor de Física no Ensino Médio (regular e técnico). Também trabalhei como professor de Física em cursinhos pré-vestibulares e no Ensino de Jovens e Adultos (EJA), atuando tanto na rede pública quanto na rede particular de São Paulo.  

@@ -1,9 +1,9 @@
 ---
+
 layout: page
 title: Conflict of Commitment policies
 description: Compare conflict of commitment policies among Big-10 universities
 ---
-
 - University of Wisconsin-Madison
 
   _Special definition of outside professional work; to go above quota of two days

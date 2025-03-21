@@ -1,9 +1,9 @@
 ---
+
 layout: page
 title: software
-description: Karl Broman's software
+description: "Karl Broman's software"
 ---
-
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
