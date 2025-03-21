@@ -1,13 +1,17 @@
 ---
+title: "A Universidade Federal do Sul da Bahia"
+layout: page
+permalink: /index_ufsb/
+---
 
 ### A Universidade Federal do Sul da Bahia
 
 #### Sumário
-1. [O IHAC-CSC](#ihac)
-2. [Licenciaturas Interdisciplinares](#lis)
-3. [O que é um Decano?](#decano)
-4. [A gestão 2022-2026](#gestao)
-5. [O PPGER](#ppger)
+1. [O IHAC-CSC](#ihac)  
+2. [Licenciaturas Interdisciplinares](#lis)  
+3. [O que é um Decano?](#decano)  
+4. [A gestão 2022-2026](#gestao)  
+5. [O PPGER](#ppger)  
 
 ---
 
