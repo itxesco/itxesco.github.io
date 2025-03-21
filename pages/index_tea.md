@@ -6,7 +6,7 @@ title: O que é o Transtorno do Espectro Autista (TEA)
 description: Informações sobre autismo, diagnóstico e apoio para adultos autistas.
 ---
 
-#### 📌 Navegue pelos tópicos:
+#### 📌 Tópicos desta página:
 📖 [O que é o TEA?](#o-que-e-o-tea)  
 📜 [História e evolução do diagnóstico](#historico-do-tea)  
 🛠️ [Apoio e tratamento](#apoio-e-tratamento)  
@@ -119,12 +119,12 @@ No Brasil, pessoas autistas têm direitos garantidos por leis específicas, como
 
 ---
 
-### 🔎 Mais conteúdos sobre TEA  
+### 🔎 Continue Lendo sobre o TEA:  
 
 🧩 **Autismo em adultos** → [Acesse aqui](/pages/autismo/teadultos.html)  
-📌 **Diagnóstico tardio** → [Saiba mais](/pages/autismo/teadultos_old.html)  
+📌 **Diagnóstico tardio** → [Saiba mais](/pages/autismo/diagnosticotardio.html)  
 🎨 **Simbologia e representação do autismo** → [Leia aqui](/pages/autismo/identificadao.html)  
-❌ **Mitos sobre o autismo** → [Quebrando preconceitos](/pages/autismo/mitos.html)  
+❌ **Mitos e Estereótipos** → [Quebrando preconceitos](/pages/autismo/mitos.html)  
 🌟 **Altas habilidades e superdotação** → [Explorar](/pages/autismo/habilidades.html)  
 🌟 **O que é o Espectro Autista** → [Explorar](/pages/autismo/espectro.html)
 
