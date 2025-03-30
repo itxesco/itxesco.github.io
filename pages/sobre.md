@@ -3,7 +3,7 @@ title: "Sobre"
 layout: page
 ---
 
-![Imagem de perfil](https://itxesco.github.io/imagens/perfil/perfil_3.jpeg){width=563 height=750}  
+![Imagem de perfil](https://itxesco.github.io/imagens/perfil/perfil_3.jpeg){width=281 height=375}  
 
 
 ---  
