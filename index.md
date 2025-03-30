@@ -36,7 +36,7 @@
       <a href="pages/index_rpg.html">
         <img src="imagens/index_pics/dragaod20.jpeg" alt="Jogos de RPG e Educação" title="Jogos de RPG" height="300px">
       </a><br>
-      <strong><a href="pages/index_rpg.html">Jogos de RPG</a></strong>
+      <strong><a href="pages/index_rpg.html">RPG</a></strong>
     </td>
   </tr>
 </table>
