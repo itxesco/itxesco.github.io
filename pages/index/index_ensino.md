@@ -1,7 +1,7 @@
 ---
 title: Ensino
 layout: page
-permalink: /pages/index/index_ensino/
+permalink: /pages/index/index_ensino.html/
 ---
 ##### <a name="misc"></a> Experiência Didática no Ensino Básico  
 
