@@ -21,19 +21,38 @@ Sou um entusiasta do **diálogo entre ciência e cultura pop**, especialmente as
 <br><br>  
 
 
-#### Perfis Acadêmicos  
+<div style="display: flex; gap: 2rem; justify-content: center; flex-wrap: wrap;">
 
-|------------------|--------------|--------------|--------------|--------------|--------------|
-| [![Lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/1942359141745184) | [![SigaA](https://itxesco.github.io/imagens/icones/icons16/ufsb-icon.jpg)](https://sig.ufsb.edu.br/sigaa/public/docente/portal.jsf?siape=1085938) | [![ResearchGate](https://itxesco.github.io/imagens/icones/icons16/researchgate-icon.png)](https://www.researchgate.net/profile/Francisco_Nascimento24) | [![Academia.edu](https://itxesco.github.io/imagens/icones/icons16/academia-edu-icon.png)](https://ufsb.academia.edu/FranciscoNascimento) | [![Google Acadêmico](https://itxesco.github.io/imagens/icones/icons16/google-scholar-icon.png)](https://scholar.google.com.br/citations?user=H8peemwAAAAJ&hl=en) | [![ORCID](https://itxesco.github.io/imagens/icones/icons16/orcid-icon.png)](https://orcid.org/0000-0003-0587-8392) |  |  
+  <!-- Perfis Acadêmicos -->
+  <div>
+    <h4>Perfis Acadêmicos</h4>
+    <table>
+      <tr>
+        <td><a href="http://lattes.cnpq.br/1942359141745184"><img src="https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png" alt="Lattes"></a></td>
+        <td><a href="https://sig.ufsb.edu.br/sigaa/public/docente/portal.jsf?siape=1085938"><img src="https://itxesco.github.io/imagens/icones/icons16/ufsb-icon.jpg" alt="SIGAA"></a></td>
+        <td><a href="https://www.researchgate.net/profile/Francisco_Nascimento24"><img src="https://itxesco.github.io/imagens/icones/icons16/researchgate-icon.png" alt="ResearchGate"></a></td>
+        <td><a href="https://ufsb.academia.edu/FranciscoNascimento"><img src="https://itxesco.github.io/imagens/icones/icons16/academia-edu-icon.png" alt="Academia.edu"></a></td>
+        <td><a href="https://scholar.google.com.br/citations?user=H8peemwAAAAJ&hl=en"><img src="https://itxesco.github.io/imagens/icones/icons16/google-scholar-icon.png" alt="Google Acadêmico"></a></td>
+        <td><a href="https://orcid.org/0000-0003-0587-8392"><img src="https://itxesco.github.io/imagens/icones/icons16/orcid-icon.png" alt="ORCID"></a></td>
+      </tr>
+    </table>
+  </div>
 
+  <!-- Redes Sociais -->
+  <div>
+    <h4>Redes Sociais</h4>
+    <table>
+      <tr>
+        <td><a href="https://www.instagram.com/gtf.nascimento"><img src="https://itxesco.github.io/imagens/icones/icons16/instagram-icon.png" alt="Instagram"></a></td>
+        <td><a href="https://www.goodreads.com/user/show/51497119-francisco-nascimento"><img src="https://itxesco.github.io/imagens/icones/icons16/goodreads-icon.png" alt="Goodreads"></a></td>
+        <td><a href="https://www.youtube.com/channel/UCqWEN6uuwiohJY8qv9e7Ddg"><img src="https://itxesco.github.io/imagens/icones/icons16/youtube-icon.png" alt="YouTube"></a></td>
+        <td><a href="https://web-cdn.bsky.app/profile/itxesco.bsky.social"><img src="https://itxesco.github.io/imagens/icones/icons16/twitter-icon.png" alt="BlueSky"></a></td>
+        <td><a href="https://twitch.tv/itxesco"><img src="https://itxesco.github.io/imagens/icones/icons16/twitch-icon.png" alt="Twitch"></a></td>
+      </tr>
+    </table>
+  </div>
 
-<br><br>  
-
-
-#### Redes Sociais  
-
-| [![Instagram](https://itxesco.github.io/imagens/icones/icons16/instagram-icon.png)](https://www.instagram.com/gtf.nascimento) |  [![Goodreads](https://itxesco.github.io/imagens/icones/icons16/goodreads-icon.png)](https://www.goodreads.com/user/show/51497119-francisco-nascimento) |  [![YouTube](https://itxesco.github.io/imagens/icones/icons16/youtube-icon.png)](https://www.youtube.com/channel/UCqWEN6uuwiohJY8qv9e7Ddg) | [![BlueSky](https://itxesco.github.io/imagens/icones/icons16/twitter-icon.png)](https://web-cdn.bsky.app/profile/itxesco.bsky.social) | [![Twitch](https://itxesco.github.io/imagens/icones/icons16/twitch-icon.png)](https://twitch.tv/itxesco) |  
-
+</div>
 
 <br><br><br>  
 
