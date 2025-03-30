@@ -54,7 +54,7 @@ Meus hiperfocos se manifestam em diferentes áreas, que por sorte, você também
 | <img src="../../imagens/hiperfocos/indice/rpg.png" style="height:300px; object-fit:cover;"> | <img src="../../imagens/hiperfocos/indice/moby_dick.png" style="height:300px; object-fit:cover;"> | <img src="../../imagens/hiperfocos/indice/rocky_horror.png" style="height:300px; object-fit:cover;"> |
 | [Jogos de RPG](/pages/hiperfocos/rpg/index_rpg.html) | [Moby Dick](/pages/hiperfocos/moby_dick/index_moby.html) | [The Rocky Horror Picture Show](/pages/hiperfocos/rockyhorror/index_rockyhorror.html) |
 
-Como já disse, um **hiperfoco** pode ser algo altamente produtivo e contribuir para que a pessoa autista construa uma carreira de sucesso, mas não deve ser confundido com o seu **gosto pessoal**. Embora possam parecer semelhantes, pois envolvem o interesse por um determinado assunto e o prazer em dominá-lo, há diferenças importantes entre eles, especialmente no contexto do Transtorno do Espectro Autista (TEA) 🤮.  
+Como já disse, um **hiperfoco** pode ser algo altamente produtivo e contribuir para que a pessoa autista construa uma carreira de sucesso, mas não deve ser confundido com o seu **gosto pessoal**. Embora possam parecer semelhantes, pois envolvem o interesse por um determinado assunto e o prazer em dominá-lo, há diferenças importantes entre eles, especialmente no contexto do Transtorno do Espectro Autista (TEA).  
 
 ---
 
