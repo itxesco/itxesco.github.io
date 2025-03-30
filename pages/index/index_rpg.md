@@ -1,85 +1,96 @@
 ---
-title: RPG
+title: "Introdução aos Jogos de RPG"
 layout: page
 permalink: /pages/index/index_rpg/
 ---
 
+## 🎲 O que é RPG?
 
-# Menu de Navegação
+![Jogadores de RPG reunidos](imagens/rpg/jogadores_rpg.jpg)
 
-- [Afrofuturismo](/pages/pesquisa/pesquisa_afro.html)
-- [Educação Antirracista](/pages/pesquisa/pesquisa_edu.html)
-- [Histórias em Quadrinhos e Educação](/pages/pesquisa/pesquisa_hq.html)
-- [Jogos e Educação](/pages/pesquisa/pesquisa_jogos.html)
+*Grupo de jogadores participando de uma sessão de RPG.*
 
----
-
-# Jogos e Educação {#jogos}
-
-Pesquisar o uso de **jogos na educação**, especialmente no ensino de **ciências e matemática**, é essencial devido ao **potencial transformador** dessa abordagem. Jogos de tabuleiro, cartas ou interpretação de papéis proporcionam um ambiente **interativo e dinâmico**, incentivando os alunos a explorar conceitos complexos de forma **lúdica e prática**.
-
-No ensino de **ciências**, jogos podem **simular experimentos** e fenômenos naturais, possibilitando a **observação e interação** com processos que seriam difíceis de reproduzir em uma sala de aula tradicional.  
-
-Além disso, os jogos promovem:
-- **Aprendizagem ativa**: Os alunos não são apenas receptores passivos de informação, mas participantes ativos no processo educativo.
-- **Pensamento crítico e resolução de problemas**: Especialmente no ensino de matemática, onde essas habilidades são fundamentais.
-- **Personalização do aprendizado**: Jogos podem ser adaptados ao ritmo e nível de habilidade de cada aluno, tornando a educação mais inclusiva.
-- **Feedback imediato**: Permite que os alunos **identifiquem e corrijam erros rapidamente**.
-- **Habilidades sociais e colaborativas**: Muitos jogos são projetados para serem jogados em grupo, incentivando a comunicação e o trabalho em equipe.
+O **Role-Playing Game (RPG)**, ou **Jogo de Interpretação de Papéis**, é uma forma de jogo onde os participantes assumem os papéis de personagens em um mundo fictício. Guiados por um narrador ou mestre, os jogadores colaboram para criar histórias interativas, tomando decisões que afetam o desenrolar da trama. Essa dinâmica promove criatividade, trabalho em equipe e desenvolvimento de habilidades narrativas.
 
 ---
 
-## O RPG na Educação
+## 📜 História dos Jogos de RPG
 
-O **Role-Playing Game (RPG)** tem uma característica essencialmente **cooperativa**: os jogadores devem trabalhar juntos para vencer o jogo, promovendo **colaboração e interação social**.  
+![Capa do Dungeons & Dragons original](imagens/rpg/dnd_original.jpg)
 
-No Brasil, o primeiro a destacar seu **potencial educativo** foi o psicólogo **Alfeu Marcatto**, em seu livro *Saindo do Quadro*. Desde então, o **RPG tem sido cada vez mais utilizado por professores** como uma ferramenta pedagógica poderosa.
+*Capa da edição original do Dungeons & Dragons.*
 
-Algumas **competências desenvolvidas** pelo uso do RPG na educação incluem:
-- 🧩 **Resolução de situações-problema**
-- 🔬 **Aplicação de conceitos em situações práticas**
-- 📚 **Interdisciplinaridade**
-- 🗣️ **Expressão oral**
-- 🤝 **Empatia**
-- 🌎 **Respeito às diferenças**
-
-### A História do RPG na Educação no Brasil
-
-Após a chegada do **RPG ao Brasil em larga escala**, por volta de **1993**, muitos jogadores se tornaram professores e começaram a **utilizar o jogo como estratégia de ensino**. Esse movimento culminou na realização do **1º Simpósio de RPG e Educação** em **maio de 2002**, organizado pela ONG educativa **[Ludus Culturalis](www.rpgeducacao.com.br)**.
-
-![Jornal do Campus](https://itxesco.github.io/assets/figuras/rpg/einstein.jpg)
-
-Cada vez mais, **professores em todo o Brasil têm adotado o RPG como ferramenta pedagógica**. A seguir, algumas **referências essenciais** nos estudos sobre essa prática:
+Os RPGs surgiram nos Estados Unidos na década de 1970. Em 1974, **Gary Gygax** e **Dave Arneson** lançaram o **Dungeons & Dragons (D&D)**, considerado o primeiro RPG comercial. Inspirado em jogos de guerra e literatura fantástica, o D&D estabeleceu as bases para inúmeros sistemas que se seguiram. No Brasil, o RPG ganhou popularidade nos anos 1980 e 1990, com a tradução de títulos internacionais e o desenvolvimento de sistemas nacionais. [oai_citation_attribution:0‡Brasil Escola](https://brasilescola.uol.com.br/curiosidades/rpg.htm?utm_source=chatgpt.com) [oai_citation_attribution:1‡crisordemparanormal.com](https://crisordemparanormal.com/blog/historia-do-rpg-uma-viagem-pela-evolucao-do-genero?utm_source=chatgpt.com)
 
 ---
 
-## Referências e Leituras Complementares
+## 🎲 Principais Sistemas de RPG
 
-📖 **BITTENCOURT, João Ricardo; GIRAFFA, Lucia Maria.**  
-*[Role-playing games, educação e jogos computadorizados na cibercultura](https://d1wqtxts1xzle7.cloudfront.net/49291500/historiapaper03.pdf?1475417856=&response-content-disposition=inline%3B+filename%3DRole_Playing_Games_Educacao_e_Jogos_Comp.pdf&Expires=1607975730&Signature=CPwz~-sLxvf1hF41gTd0tpJQqQeX2CFYOo-H59GY05AGokUzXKZDjYJzc5nmgo9G1-UNGauCJxb-NmFzU1efebdgbXeGfcbivbHDLyMAlpboign4DO5roW-p2-mkQJKi5ClTA3D1fAVo3EU6cnT3bgUG2u6Nbo3KIUwtIKhKmcVa4u~9LBRlWVuG6zIZfqQjHWhc5jtoXbtY0HIHFYGZhMT3YeppBEH8Y7t6pqqH3Si5kXdsRw3Iag2h6828lH8u6FJzThXiXWlBXEv181spkmUC3Wv9B-ipPu0WZFqixFb1bVTTZQDPMt2wCmC4zIW~SyEpKw5CGTv98zL6kx9~4w__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA) 📥  
+![Livros de RPG variados](imagens/rpg/livros_rpg.jpg)
 
-📖 **CABALERO, S. X.; MATTA, Alfredo Eurico Rodrigues.**  
-*[O jogo RPG visto como uma comunidade de aprendizagem](http://www.comunidadesvirtuais.pro.br/seminario2/trabalhos/suelixavier_alfredoeurico.pdf) 📥  
+*Diversos livros de sistemas de RPG.*
 
-📖 **FREITAS, Leandro Carlos Lima; SITKO, Camila Maria; DAS CHAGAS, Maria Liduína.**  
-*[Panorama do RPG (Role-Playing Game) no Ensino de Física no período de 2015-2019](http://periodicos.unespar.edu.br/index.php/ensinoepesquisa/article/view/3693) 📥  
+Existem diversos sistemas de RPG, cada um com suas mecânicas e ambientações únicas. Alguns dos mais notáveis incluem:
 
-📖 **GRANDO, Anita; TAROUCO, Liane Margarida Rockenbach.**  
-*[O uso de jogos educacionais do tipo RPG na educação](https://www.seer.ufrgs.br/renote/article/viewFile/14403/8308) 📥  
+- **Dungeons & Dragons (D&D):** O pioneiro dos RPGs, ambientado em mundos de fantasia medieval. [oai_citation_attribution:2‡Brasil Escola](https://brasilescola.uol.com.br/curiosidades/rpg.htm?utm_source=chatgpt.com)
 
-📖 **JÚNIOR, Francisco de Assis Nascimento; PIETROCOLA, Maurício.**  
-*[O papel do RPG no ensino de Física](https://sites.usp.br/nupic/wp-content/uploads/sites/293/2016/05/Francisco_de_Assis_Nascimento_Junior_O_PAPEL_DO_RPG.pdf) 📥  
+- **GURPS:** Sistema genérico e universal que permite aventuras em qualquer cenário ou gênero.
 
-📖 **NASCIMENTO, F.; PIASSI, L. P. C.**  
-*[Role-Playing Games nas Aulas de Física](https://itxesco.github.io/assets/articles/Role-Playing_Games_nas_Aulas_de_Fsica.pdf) 📥  
+- **Tormenta:** O maior cenário de RPG brasileiro, situado no mundo de Arton, repleto de fantasia épica.
 
-📖 **VASQUES, Rafael Carneiro.**  
-*[As potencialidades do RPG (Role Playing Game) na educação escolar](https://repositorio.unesp.br/handle/11449/90316) 📥  
+- **Mundo das Trevas:** Foca em narrativas de horror pessoal, com jogos como **Vampiro: A Máscara** e **Lobisomem: O Apocalipse**.
 
 ---
 
-🎲 **O RPG se mostra uma poderosa ferramenta de aprendizado, promovendo não apenas o ensino de conteúdos acadêmicos, mas também habilidades sociais e emocionais. Seu impacto no ensino de ciências e matemática já é amplamente estudado, e seu uso na educação continua a crescer!**
+## 📚 Publicações de RPG no Brasil e Seus Cenários
 
+![Mapa de Arton, cenário de Tormenta](imagens/rpg/mapa_tormenta.jpg)
 
+*Mapa do mundo de Arton, cenário do RPG Tormenta.*
 
-⸻
+O Brasil possui uma rica tradição de publicações de RPG, tanto traduções de sistemas internacionais quanto criações originais. Além de **D&D** e **GURPS**, que tiveram edições brasileiras, destacam-se:
+
+- **Tormenta:** Iniciado como um suplemento na revista **Dragão Brasil**, tornou-se o cenário nacional mais popular, com romances, quadrinhos e um sistema próprio. [oai_citation_attribution:3‡Wikipédia, a enciclopédia livre](https://pt.wikipedia.org/wiki/Role-playing_game_no_Brasil?utm_source=chatgpt.com)
+
+- **3D&T:** Sistema leve e acessível, ideal para iniciantes, amplamente utilizado em adaptações de animes e games.
+
+- **Desafio dos Bandeirantes:** RPG nacional ambientado no Brasil colonial, mesclando história e fantasia.
+
+- **Tagmar:** Considerado o primeiro RPG brasileiro, lançado nos anos 1990, com um cenário de fantasia medieval.
+
+---
+
+## 🎲 Os Diferentes Dados Utilizados no RPG
+
+![Conjunto de dados de RPG](imagens/rpg/dados_rpg.jpg)
+
+*Conjunto típico de dados poliédricos usados em RPGs.*
+
+Os RPGs utilizam diversos tipos de dados poliédricos para resolver ações e determinar resultados. Os principais são:
+
+- **d4:** Dado de quatro faces. Probabilidade de 25% para cada resultado (1 a 4).
+
+- **d6:** Dado de seis faces, comum em muitos jogos. Probabilidade de aproximadamente 16,67% por face.
+
+- **d8:** Dado de oito faces. Cada face tem 12,5% de chance de ser sorteada. [oai_citation_attribution:4‡Wikipedia](https://en.wikipedia.org/wiki/History_of_role-playing_games?utm_source=chatgpt.com)
+
+- **d10:** Dado de dez faces. Usado frequentemente para porcentagens (d100). Probabilidade de 10% por número.
+
+- **d12:** Dado de doze faces. Cada resultado tem cerca de 8,33% de chance.
+
+- **d20:** Dado de vinte faces, icônico em sistemas como D&D. Probabilidade de 5% para cada número.
+
+A escolha do dado e o número de dados lançados dependem das regras específicas de cada sistema e da ação realizada pelo personagem.
+
+---
+
+## 🔗 Links para Sistemas Específicos
+
+Para aprofundar-se em sistemas específicos de RPG, visite as páginas dedicadas:
+
+- [GURPS](/pages/index/index_gurps/)
+- [Dungeons & Dragons (D&D)](/pages/index/index_dnd/)
+- [Tormenta](/pages/index/index_tormenta/)
+- [Mundo das Trevas](/pages/index/index_mdt/)
+
+---
