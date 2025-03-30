@@ -1,7 +1,7 @@
 ---
 title: Pesquisa
 layout: page
-permalink: /pages/index/index_pesquisa/
+permalink: /pages/index/index_pesquisa.html/
 ---
 
 ### Pesquisa

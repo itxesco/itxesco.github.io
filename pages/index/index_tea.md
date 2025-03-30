@@ -1,7 +1,7 @@
 ---
 title: O que é o Transtorno do Espectro Autista (TEA)
 layout: page
-permalink: /pages/index/index_tea/
+permalink: /pages/index/index_tea.html/
 ---
 
 #### 📌 Tópicos desta página:

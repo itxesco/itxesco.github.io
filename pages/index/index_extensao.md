@@ -1,7 +1,7 @@
 ---
 title: Extensão
 layout: page
-permalink: /pages/index/index_extensao/
+permalink: /pages/index/index_extensao.html/
 ---
 
 ### Extensão Universitária

@@ -1,7 +1,7 @@
 ---
 title: "📝 Trabalhos Publicados"
 layout: page
-permalink: /pages/index/index_publica/
+permalink: /pages/index/index_publica.html/
 ---
 
 Nesta página, você pode acessar facilmente minhas publicações e colaborações, organizadas em ordem cronológica decrescente, sejam de minha autoria ou realizadas sob minha orientação.  

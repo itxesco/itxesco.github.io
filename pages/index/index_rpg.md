@@ -1,7 +1,7 @@
 ---
 title: "Jogos de RPG"
 layout: page
-permalink: /pages/index/index_rpg/
+permalink: /pages/index/index_rpg.html/
 ---
 
 ## 🎲 O que é RPG?
