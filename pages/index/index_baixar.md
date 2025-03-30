@@ -1,5 +1,5 @@
 ---
-title: "Index Baixar"
+title: "Baixar"
 layout: page
 permalink: /pages/index/index_baixar/
 ---

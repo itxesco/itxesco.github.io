@@ -1,7 +1,5 @@
 ---
-
-
-title: "o Instituto de Humanidades, Artes e Ciências (IHAC-CSC)"
+title: "O Instituto de Humanidades, Artes e Ciências (IHAC-CSC)"
 layout: page
 permalink: /pages/index/index_ihac/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Introdução aos Jogos de RPG"
+title: "Jogos de RPG"
 layout: page
 permalink: /pages/index/index_rpg/
 ---
