@@ -4,7 +4,9 @@ layout: page
 permalink: /pages/index/index_hiperfoco.html
 ---
 
-O **hiperfoco** é um aspecto  comum em pessoas autistas e pode ser definido como um **estado intenso de concentração** e envolvimento em um interesse específico. É o que faz a pessoa autista se dedicar por horas a um único tema, atividade ou hobby, muitas vezes sem perceber a passagem do tempo e ignorando distrações externas.
+O **hiperfoco** é um aspecto  comum em pessoas autistas e pode ser definido como um **estado intenso de concentração** e envolvimento em um interesse específico. É o que faz a pessoa autista se dedicar por horas a um único tema, atividade ou hobby, muitas vezes sem perceber a passagem do tempo e ignorando distrações externas.  
+
+  
 ---  
 
 #### 📌 Tópicos desta página:
@@ -28,11 +30,11 @@ O **hiperfoco** é um aspecto  comum em pessoas autistas e pode ser definido com
 Um hiperfoco pode ser **uma ferramenta poderosa de aprendizado e realização** para uma pessoa autista, principalmente se for bem gerenciado. Ao reconhecer e equilibrar essa capacidade, é possível transformar paixões em talentos e contribuir positivamente para a vida pessoal e profissional.  
 Eu tenho um hiperfoco em educação e me tornei professor, por exemplo. O campeão mundial de motociclismo, Jorge Martin, é um autista com hiperfoco em... motociclismo.
 
-#### 🔄 Ter um hiperfoco é algo bom ou ruim?  {#bomouruim}
+#### ↺ Ter um hiperfoco é algo bom ou ruim?  {#bomouruim}
 
 | 🟢 **Benefícios** | 🔴 **Desafios** |
 |------------------|------------------|
-| Desenvolvimento de habilidades excepcionais 💡 | Dificuldade em alternar tarefas ou atender obrigações 📅 |
+| Desenvolvimento de habilidades excepcionais 💡 | Dificuldade em alternar tarefas ou atender obrigações 🗕️ |
 | Aprendizado aprofundado 📚 | Exaustão mental ou física 😓 |
 | Produtividade elevada 🚀 | Pode gerar isolamento social 🤝❌ |
 | Criatividade intensa 🎨 | Desregulação de sono e alimentação 🛌🍽️ |
@@ -45,14 +47,14 @@ Com estratégias adequadas, é possível equilibrar o hiperfoco para aproveitar 
 
 Meus hiperfocos se manifestam em diferentes áreas, que por sorte, você também irá achar muito interessantes e é só clicar nos links abaixo para saber um pouco mais sobre cada um:  
 
-| ![HQs](../../imagens/hiperfocos/indice/hqs.png){height=300} | ![Educação](../../imagens/hiperfocos/indice/educacao.png){height=300} | ![Mitologia Grega](../../imagens/hiperfocos/indice/mitologia.png){height=300} |
+| <img src="../../imagens/hiperfocos/indice/hqs.png" style="height:300px; object-fit:cover;"> | <img src="../../imagens/hiperfocos/indice/educacao.png" style="height:300px; object-fit:cover;"> | <img src="../../imagens/hiperfocos/indice/mitologia.png" style="height:300px; object-fit:cover;"> |
 |:--:|:--:|:--:|
 | [HQs de Super-Heróis](/pages/hiperfocos/quadrinhos/index_sh.html) | [Educação](/pages/hiperfocos/educacao/index_educacao.html) | [Mitologia Grega](/pages/hiperfocos/grecia/index_grecia.html) |
 
-| ![RPG](../../imagens/hiperfocos/indice/rpg.png){height=300} | ![Moby Dick](../../imagens/hiperfocos/indice/moby_dick.png){height=300} | ![Rocky Horror](../../imagens/hiperfocos/indice/rocky_horror.png){height=300} |
+| <img src="../../imagens/hiperfocos/indice/rpg.png" style="height:300px; object-fit:cover;"> | <img src="../../imagens/hiperfocos/indice/moby_dick.png" style="height:300px; object-fit:cover;"> | <img src="../../imagens/hiperfocos/indice/rocky_horror.png" style="height:300px; object-fit:cover;"> |
 | [Jogos de RPG](/pages/hiperfocos/rpg/index_rpg.html) | [Moby Dick](/pages/hiperfocos/moby_dick/index_moby.html) | [The Rocky Horror Picture Show](/pages/hiperfocos/rockyhorror/index_rockyhorror.html) |
 
-Como já disse, um **hiperfoco** pode ser algo altamente produtivo e contribuir para que a pessoa autista construa uma carreira de sucesso, mas não deve ser confundido com o seu **gosto pessoal**. Embora possam parecer semelhantes, pois envolvem o interesse por um determinado assunto e o prazer em dominá-lo, há diferenças importantes entre eles, especialmente no contexto do Transtorno do Espectro Autista (TEA) 🧐.  
+Como já disse, um **hiperfoco** pode ser algo altamente produtivo e contribuir para que a pessoa autista construa uma carreira de sucesso, mas não deve ser confundido com o seu **gosto pessoal**. Embora possam parecer semelhantes, pois envolvem o interesse por um determinado assunto e o prazer em dominá-lo, há diferenças importantes entre eles, especialmente no contexto do Transtorno do Espectro Autista (TEA) 🤮.  
 
 ---
 
@@ -70,7 +72,7 @@ O **gosto pessoal** refere-se a preferências e interesses individuais, como fil
 - 🔭 **Astronomia**  
 - ⚛️ **Física**  
 - 🎲 **Jogos de Tabuleiro**  
-- 🛹 **Andar de Skate**  
+- 🍹 **Andar de Skate**  
 - 📺 **Desenhos Animados**  
 - 📖 **Literatura**  
 - 🚀 **Ficção Científica**  
@@ -81,4 +83,4 @@ São todos muito bacanas, mas nenhum deles é um **hiperfoco**.
 
 ---
 
-[🔼 Voltar ao topo](#) 🚀  
+[🔼 Voltar ao topo](#) 🚀
