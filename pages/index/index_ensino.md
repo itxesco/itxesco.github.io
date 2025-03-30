@@ -1,9 +1,7 @@
 ---
-
-
-layout: page
 title: Ensino
-description: Aulas de Francisco de Assis Nascimento Junior
+layout: page
+permalink: /pages/index/index_ensino/
 ---
 ##### <a name="misc"></a> Experiência Didática no Ensino Básico  
 

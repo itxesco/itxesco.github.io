@@ -1,6 +1,7 @@
 ---
-title: "Index Pesquisa"
+title: Pesquisa
 layout: page
+permalink: /pages/index/index_pesquisa/
 ---
 
 ### Pesquisa

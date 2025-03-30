@@ -1,14 +1,9 @@
 ---
-title: "Index Rpg"
+title: RPG
 layout: page
+permalink: /pages/index/index_rpg/
 ---
 
-
----
-layout: page
-title: RPG & Educação
-description: Pesquisa sobre RPG e seu impacto na educação.
----
 
 # Menu de Navegação
 

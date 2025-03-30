@@ -3,7 +3,7 @@
 
 title: "o Instituto de Humanidades, Artes e Ciências (IHAC-CSC)"
 layout: page
-permalink: /index_ufsb/
+permalink: /pages/index/index_ihac/
 ---
 
 #### Sumário   

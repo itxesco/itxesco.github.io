@@ -1,7 +1,8 @@
 ---
 title: "🧠 o autismo em adultos"
 layout: page
----  
+permalink: /pages/index/index_tea_adultos/
+---
 
 #### 📌 Tópicos desta página:  
 

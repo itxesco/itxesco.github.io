@@ -1,9 +1,7 @@
 ---
-
-
-layout: page
 title: O que é o Transtorno do Espectro Autista (TEA)
-description: Informações sobre autismo, diagnóstico e apoio para adultos autistas.
+layout: page
+permalink: /pages/index/index_tea/
 ---
 
 #### 📌 Tópicos desta página:

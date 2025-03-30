@@ -1,6 +1,7 @@
 ---
 title: "Index Baixar"
 layout: page
+permalink: /pages/index/index_baixar/
 ---
 
 - [Introdução ao Cálculo](https://itxesco.github.io/pages/notas/introcalculo/index.html)
