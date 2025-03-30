@@ -16,7 +16,7 @@
       <a href="pages/index/index_extensao.html">
         <img src="imagens/index_pics/extensao.jpeg" alt="Atividades de Extensão" title="Atividades de Extensão Universitária" height="300px">
       </a><br>
-      <strong><a href="pages/index/index_extensao.html">Extensão Universitária"</a></strong>
+      <strong><a href="pages/index/index_extensao.html">Extensão Universitária</a></strong>
     </td>
   </tr>
   <tr>
