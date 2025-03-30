@@ -6,7 +6,7 @@ permalink: /pages/index/index_hiperfoco.html
 
 O **hiperfoco** é um aspecto  comum em pessoas autistas e pode ser definido como um **estado intenso de concentração** e envolvimento em um interesse específico. É o que faz a pessoa autista se dedicar por horas a um único tema, atividade ou hobby, muitas vezes sem perceber a passagem do tempo e ignorando distrações externas.  
 
-  
+
 ---  
 
 #### 📌 Tópicos desta página:
@@ -58,7 +58,7 @@ Como já disse, um **hiperfoco** pode ser algo altamente produtivo e contribuir 
 
 ---
 
-### 🔎 Hiperfoco vs. Gosto Pessoal {#gostos}
+### 🔎 Hiperfoco ou Gosto Pessoal? {#gostos}
 
 O **gosto pessoal** refere-se a preferências e interesses individuais, como filmes favoritos, estilos musicais ou hobbies. Ele pode ser intenso, mas nunca no nível do hiperfoco. Geralmente, ele:  
 
