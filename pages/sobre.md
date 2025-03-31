@@ -1,5 +1,5 @@
 ---
-title: "Sobre"
+title: "sobre mim"
 layout: page
 permalink: /pages/sobre.html/
 ---

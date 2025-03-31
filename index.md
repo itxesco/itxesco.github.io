@@ -24,7 +24,7 @@
       <a href="pages/index/index_hiperfoco.html">
         <img src="imagens/index_pics/hiperfocos.png" alt="Sobre Hiperfocos" title="Hiperfocos" height="300px">
       </a><br>
-      <strong><a href="pages/index/index_hiperfoco.html">Hiperfocos</a></strong>
+      <strong><a href="pages/index/index_hq.html">Quadrinhos</a></strong>
     </td>
     <td align="center">
       <a href="pages/index/index_tea_adultos.html">
