@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
   <head>
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
@@ -7,58 +7,49 @@
     {% if page.keywords %}<meta name="keywords" content="{{ page.keywords }}">{% endif %}
     <meta name="author" content="{{ site.author.name }}">
 
-    <!-- Enable responsive viewport -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
-    <!--[if lt IE 9]>
-      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-
-    <!-- Le styles -->
-    <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap.2.2.2.min.css" rel="stylesheet">
-    <link href="{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
-    <link href="{{ ASSET_PATH }}/css/kbroman.css" rel="stylesheet" type="text/css" media="all">
-
-    <!-- Le fav and touch icons -->
-    <link rel="SHORTCUT ICON" href="{{ BASE_PATH }}/imagens/icones/me_gl.ico"/>
-
-    <!-- atom & rss feed -->
-   <!-- <link href="{{ BASE_PATH }}{{ site.JB.atom_path }}" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed"> -->
-    <!-- <link href="{{ BASE_PATH }}{{ site.JB.rss_path }}" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed"> -->
-
+    <!-- Tailwind CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            fontFamily: {
+              sans: ['Inter', 'sans-serif'],
+            },
+          },
+        },
+      }
+    </script>
+    <link rel="shortcut icon" href="{{ BASE_PATH }}/imagens/icones/me_gl.ico"/>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
   </head>
 
-  <body>
-    <div class="navbar">
-      <div class="navbar-inner">
-        <div class="container-narrow">
-          <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
-          <ul class="nav">
-            <li><a href="https://itxesco.github.io/">home</a></li>
-              <li><a href="/pages/sobre.html">sobre</a></li>
-  <!--               <li><a href="/pages/index_ensino.html">ensino</a></li>
-              <li><a href="/pages/index_pesquisa.html">pesquisa</a></li>
-              <li><a href="/pages/index_extensao.html">extensão</a></li>  -->
-              <li><a href= "/pages/index/index_publica.html">publicações</a></li>
-  <!--              <li><a href= "/pages/index_tea.html">TEA</a></li>  -->
-              <li><a href= "/pages/index/index_ihac.html">IHAC-CSC</a></li>
-  <!--            <li><a href="/talks.html">talks</a></li> -->
-              <li><a href="/pages/index/index_baixar.html">arquivos</a></li>
-          </ul>
-        </div>
+  <body class="bg-white text-gray-800 font-sans">
+    <!-- Header -->
+    <header class="bg-gray-100 shadow sticky top-0 z-50">
+      <div class="max-w-6xl mx-auto px-4 py-4 flex justify-between items-center">
+        <a href="{{ HOME_PATH }}" class="text-xl font-bold text-blue-800">{{ site.title }}</a>
+        <nav class="space-x-4">
+          <a href="https://itxesco.github.io/" class="text-gray-700 hover:text-blue-600">Home</a>
+          <a href="/pages/sobre.html" class="text-gray-700 hover:text-blue-600">Sobre</a>
+          <a href="/pages/index/index_publica.html" class="text-gray-700 hover:text-blue-600">Publicações</a>
+          <a href="/pages/index/index_ihac.html" class="text-gray-700 hover:text-blue-600">IHAC-CSC</a>
+          <a href="/pages/index/index_baixar.html" class="text-gray-700 hover:text-blue-600">Arquivos</a>
+        </nav>
       </div>
-    </div>
+    </header>
 
-    <div class="container-narrow">
+    <!-- Conteúdo principal -->
+    <main class="max-w-6xl mx-auto px-4 py-8">
+      {{ content }}
+    </main>
 
-      <div class="content">
-        {{ content }}
-      </div>
-
-      <hr>
-
-    </div>
+    <!-- Footer -->
+    <footer class="bg-gray-800 text-gray-300 py-6 text-center">
+      <p>&copy; {{ 'now' | date: '%Y' }} {{ site.author.name }}. Todos os direitos reservados.</p>
+    </footer>
 
     {% include JB/analytics %}
   </body>
