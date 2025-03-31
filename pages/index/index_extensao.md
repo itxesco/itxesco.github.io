@@ -1,6 +1,7 @@
 ---
-title: Extensão
-layout: page
+layout: default
+title: Extensão Universitária
+description: Projetos e ações que promovem o vínculo entre universidade e sociedade.
 permalink: /pages/index/index_extensao.html/
 ---
 
@@ -14,6 +15,7 @@ permalink: /pages/index/index_extensao.html/
 - [Encontro com Educadores](/pages/extensao/extensao_encontro.html)
 
 ---
+
 A extensão universitária é uma das três funções essenciais das universidades, ao lado do ensino e da pesquisa. Ela compreende atividades que promovem a interação entre a universidade e a sociedade, proporcionando benefícios mútuos e aplicando o conhecimento acadêmico em práticas que contribuem para o desenvolvimento social, cultural, econômico e tecnológico da comunidade externa à universidade.
 
 ### Atividades de Extensão Universitária

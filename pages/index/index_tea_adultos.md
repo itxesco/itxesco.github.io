@@ -1,6 +1,7 @@
 ---
+layout: default
 title: "🧠 o autismo em adultos"
-layout: page
+description: Informações sobre diagnóstico tardio, características, mascaramento e a importância da comunidade autista.
 permalink: /pages/index/index_tea_adultos.html/
 ---
 
@@ -8,18 +9,18 @@ permalink: /pages/index/index_tea_adultos.html/
 
 📈 [Por que não foram diagnosticados na infância?](#infancia)  
 🔍 [Características do Autismo em Adultos](#caracteristicas)  
-🎭  [O que é o mascaramento?](#mascara)  
-🎭  [O que o mascaramento pode causar?](#consequencias)  
+🎭 [O que é o mascaramento?](#mascara)  
+🎭 [O que o mascaramento pode causar?](#consequencias)  
 📚 [Diagnóstico tardio: libertador e confuso](#tardio)  
 🤝 [Comunidade importa](#uniao)  
 
 ---
+
 O **autismo em adultos** se refere a pessoas que fazem parte do **Transtorno do Espectro Autista (TEA)**, mas que só foram diagnosticadas tardiamente ou ainda não receberam um diagnóstico formal. Em muitos casos, essas pessoas passaram a vida inteira se sentindo diferentes, deslocadas ou incompreendidas, sem saber exatamente o motivo.
 
 Durante décadas, o autismo foi identificado principalmente em crianças, com foco em sinais como atraso na fala, comportamentos repetitivos ou dificuldade de interação social. Mas hoje sabemos que o espectro autista é muito mais amplo e diverso. Adultos autistas podem ter desenvolvido estratégias de adaptação, aprendido a mascarar seus traços ou simplesmente não terem sido reconhecidos por não se encaixarem nos estereótipos tradicionais.  
 
 - O autismo em adultos existe, importa e precisa ser reconhecido, porque nem todo autista é diagnosticado na infância.  
-
 
 ---
 
@@ -88,18 +89,15 @@ A comunidade autista, especialmente nos espaços online, tem sido um lugar de ac
 
 Mais do que isso, a convivência com outros autistas permite trocar experiências, conhecer estratégias de autocuidado, questionar estigmas e construir um senso de orgulho. Orgulho de ser autista, de sentir intensamente, de ver o mundo por outro ângulo. Porque ninguém deveria ter que mudar quem é para ser amado ou respeitado.
 
----  
-
+---
 
 ### 🔎 Continue Lendo sobre o TEA:  
 
 🧩 **O que é o TEA** → [Acesse aqui](/pages/index_tea.html)  
-🌟 **O que é o Espectro Autista** → [Explorar](/pages/autismo/espectro.html)
+🌟 **O que é o Espectro Autista** → [Explorar](/pages/autismo/espectro.html)  
 📌 **Diagnóstico tardio** → [Saiba mais](/pages/autismo/diagnosticotardio.html)  
-🌟 **Altas habilidades e superdotação** → [Explorar](/pages/autismo/habilidades.html)
+🌟 **Altas habilidades e superdotação** → [Explorar](/pages/autismo/habilidades.html)  
 🎨 **Simbologia e representação do autismo** → [Leia aqui](/pages/autismo/identificadao.html)  
 ❌ **Mitos e Estereótipos** → [Quebrando preconceitos](/pages/autismo/mitos.html)  
-
-
 
 📌 [🔼 Voltar ao topo](#top)

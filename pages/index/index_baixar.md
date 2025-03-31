@@ -1,6 +1,7 @@
 ---
-title: "Baixar"
-layout: page
+layout: default
+title: "Arquivos para Baixar"
+description: Links para materiais de aula, artigos e recursos sobre autismo e ensino.
 permalink: /pages/index/index_baixar.html/
 ---
 
@@ -54,5 +55,7 @@ permalink: /pages/index/index_baixar.html/
   *Uma ementa semelhante à da antiga Física 0 do bacharelado no IFUSP.*
 
 - [Introdução à Mecânica Clássica](https://itxesco.github.io/pages/aulas/ISC0752_files/listas.html)  
+
+---
 
 Se algum link estiver quebrado, por gentileza, entre em contato comigo durante o horário de aula.

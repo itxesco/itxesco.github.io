@@ -1,19 +1,19 @@
 ---
+layout: default
 title: "🧠 O que é o hiperfoco em autistas?"
-layout: page
+description: Explicações, exemplos e reflexões sobre o hiperfoco no contexto do autismo.
 permalink: /pages/index/index_hiperfoco.html
 ---
 
-O **hiperfoco** é um aspecto  comum em pessoas autistas e pode ser definido como um **estado intenso de concentração** e envolvimento em um interesse específico. É o que faz a pessoa autista se dedicar por horas a um único tema, atividade ou hobby, muitas vezes sem perceber a passagem do tempo e ignorando distrações externas.  
-
+O **hiperfoco** é um aspecto comum em pessoas autistas e pode ser definido como um **estado intenso de concentração** e envolvimento em um interesse específico. É o que faz a pessoa autista se dedicar por horas a um único tema, atividade ou hobby, muitas vezes sem perceber a passagem do tempo e ignorando distrações externas.  
 
 ---  
 
 #### 📌 Tópicos desta página:
 
-1. [Características de um hiperfoco](#caracteristicas)
-2. [Ter um hiperfoco é algo bom ou ruim?](#bomouruim)
-3. [Conheça meus hiperfocos](#meus)
+1. [Características de um hiperfoco](#caracteristicas)  
+2. [Ter um hiperfoco é algo bom ou ruim?](#bomouruim)  
+3. [Conheça meus hiperfocos](#meus)  
 4. [Hiperfoco ou Gosto Pessoal?](#gostos)  
 
 ---
@@ -21,16 +21,17 @@ O **hiperfoco** é um aspecto  comum em pessoas autistas e pode ser definido com
 #### 🔍 Características {#caracteristicas}
 
 - **Atenção extrema:** Concentração profunda em um assunto ou atividade específica.  
-- **Persistência:** Pode durar horas, dias ou até anos. Alguns hiperfocos eu tenho desde que aprendi a ler, outros foram muito intensos em determinadas fases da vida e por lá ficaram  
+- **Persistência:** Pode durar horas, dias ou até anos. Alguns hiperfocos eu tenho desde que aprendi a ler, outros foram muito intensos em determinadas fases da vida e por lá ficaram.  
 - **Desconexão do ambiente:** Dificuldade em alternar para outras atividades.  
 - **Sensação de prazer e domínio:** O hiperfoco pode proporcionar satisfação e aprofundamento em áreas de interesse.  
 - **Dificuldade em interromper:** Pode ser desafiador parar a atividade e atender a outras demandas.  
 
 ---
+
 Um hiperfoco pode ser **uma ferramenta poderosa de aprendizado e realização** para uma pessoa autista, principalmente se for bem gerenciado. Ao reconhecer e equilibrar essa capacidade, é possível transformar paixões em talentos e contribuir positivamente para a vida pessoal e profissional.  
 Eu tenho um hiperfoco em educação e me tornei professor, por exemplo. O campeão mundial de motociclismo, Jorge Martin, é um autista com hiperfoco em... motociclismo.
 
-#### ↺ Ter um hiperfoco é algo bom ou ruim?  {#bomouruim}
+#### ↺ Ter um hiperfoco é algo bom ou ruim? {#bomouruim}
 
 | 🟢 **Benefícios** | 🔴 **Desafios** |
 |------------------|------------------|
@@ -41,7 +42,7 @@ Eu tenho um hiperfoco em educação e me tornei professor, por exemplo. O campe�
 
 Com estratégias adequadas, é possível equilibrar o hiperfoco para aproveitar seus benefícios sem comprometer o bem-estar.
 
----  
+---
 
 #### 🎯 Meus hiperfocos {#meus}
 

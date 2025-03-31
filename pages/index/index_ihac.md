@@ -1,6 +1,7 @@
 ---
+layout: default
 title: "O Instituto de Humanidades, Artes e Ciências (IHAC-CSC)"
-layout: page
+description: Conheça a estrutura, os cursos, a gestão e os projetos do IHAC-CSC da UFSB.
 permalink: /pages/index/index_ihac.html/
 ---
 
@@ -28,7 +29,7 @@ Esse cenário impactou o modelo original das Licenciaturas Interdisciplinares, q
 
 Na Pós-Graduação, o IHAC-CSC conta com:
 - O mestrado profissional do **Programa de Pós-Graduação em Ensino e Relações Étnico-Raciais (PPGER - Conceito CAPES 04)**
-- O recém-criado programa **Lato Sensu Educação para a Equidade em Ciências e Matemática**.
+- O recém-criado programa **Lato Sensu Educação para a Equidade em Ciências e Matemática**
 
 O IHAC-CSC conta com **36 docentes**, sendo 90% doutores e os outros 10% em processo de doutoramento. A unidade tem como missão promover a formação interdisciplinar inicial e continuada de professoras e professores, contribuindo para a construção de uma educação pública antirracista, gratuita e de qualidade, articulando a relação entre a universidade e as redes de ensino público.
 
@@ -73,7 +74,7 @@ Atualmente, sou Decano do [IHAC-CSC](https://ufsb.edu.br/ihac-csc/) desde julho 
 
 ---
 
-#### 4. A gestão 2022-2026 {#gestao}
+#### 4. A gestão 2022–2026 {#gestao}
 
 ![Propostas da chapa para o decanato do IHAC-CSC](https://itxesco.github.io/assets/figuras/decanato/programa_chapa_2.jpg)
 
@@ -99,5 +100,3 @@ Nosso objetivo é enfrentar esses desafios ao longo dos próximos dois anos.
 Em breve, mais informações sobre o Programa de Pós-Graduação em Ensino e Relações Étnico-Raciais (PPGER).
 
 [🔝 Voltar ao topo](#top)
-
----

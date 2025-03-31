@@ -1,6 +1,7 @@
 ---
+layout: default
 title: Pesquisa
-layout: page
+description: Projetos, orientações e investigações sobre cultura pop, ensino de ciências e relações étnico-raciais.
 permalink: /pages/index/index_pesquisa.html/
 ---
 
@@ -24,7 +25,7 @@ Do ponto de vista cultural, essa cultura **transmídia** teve origem nos **Penny
 - **Quais são os efeitos do consumo da cultura de super-heróis na construção da identidade racial e de gênero dos leitores?**  
 - **Qual é o impacto desse consumo na relação dos alunos com a escola e com a aprendizagem de Física/Ciências?**
 
-Desenvolvo minha pesquisa no **[PPGER](https://ufsb.edu.br/ppger/)** do **[IHAC-CSC](https://ufsb.edu.br/ihac-csc)** da **UFSB**, atuando na linha de pesquisa:
+Desenvolvo minha pesquisa no **[PPGER](https://ufsb.edu.br/ppger/)** do **[IHAC-CSC](https://ufsb.edu.br/ihac-csc/)** da **UFSB**, atuando na linha de pesquisa:
 
 > **Relações étnico-raciais, interculturalidades e processos de ensino-aprendizagem**.
 
@@ -51,6 +52,6 @@ Desenvolvo minha pesquisa no **[PPGER](https://ufsb.edu.br/ppger/)** do **[IHAC-
 - ![Lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png) [**Marideise Silva Presende**](http://lattes.cnpq.br/0937458579414776)  
 - ![Lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png) [**Lenilson de Oliveira Silva**](http://lattes.cnpq.br/3523225974376488)  
 
----  
+---
 
 📌 [🔼 Voltar ao topo](#top)

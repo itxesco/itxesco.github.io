@@ -1,8 +1,10 @@
 ---
+layout: default
 title: Ensino
-layout: page
+description: Atuação docente na Educação Básica e Superior, com foco em Física e formação de professores.
 permalink: /pages/index/index_ensino.html/
 ---
+
 ##### <a name="misc"></a> Experiência Didática no Ensino Básico  
 
 Atuo como docente desde 2004. Iniciei minha carreira como professor de Ciências para os anos finais do Ensino Fundamental (6º ao 9º ano) e, posteriormente, como professor de Física no Ensino Médio (regular e técnico). Também trabalhei como professor de Física em cursinhos pré-vestibulares e no Ensino de Jovens e Adultos (EJA), atuando tanto na rede pública quanto na rede particular de São Paulo.  
@@ -16,6 +18,7 @@ Atuei em escolas das redes pública e particular de São Paulo (SP), lecionando:
 - Ciências  
 
 ---
+
 ##### Ensino Médio (2006 - 2016)
 
 Atuei em turmas do Ensino Médio regular, técnico e EJA das redes pública e particular de São Paulo (SP), lecionando:
@@ -24,6 +27,7 @@ Atuei em turmas do Ensino Médio regular, técnico e EJA das redes pública e pa
 - Física
 
 ---
+
 Iniciei minha atuação no Ensino Superior em 2010, como professor de Física para cursos de Engenharia e professor de Metodologia de Ensino de Ciências para a Licenciatura em Pedagogia na FAC-FITO.  
 Também trabalhei por dois anos como professor substituto de Física no Ensino Médio técnico integrado e na Licenciatura em Física, Arquitetura e Engenharias no IFSP – Campus SPO.  
 Posteriormente, atuei por três anos na Universidade Anhembi-Morumbi como professor de Física e Matemática no ciclo básico das Engenharias.
@@ -77,6 +81,7 @@ Na [graduação](https://ufsb.edu.br/ensino/graduacao), leciono Componentes Curr
 Também integro o NDE e o Colegiado desse curso.
 
 ---
+
 #### <a name="current"></a> ![UFSB](https://itxesco.github.io/imagens/icones/icons16/ufsb-icon.jpg) Componentes Curriculares ministradas no semestre atual (2024.2):  
 
 **ISC0752** - [Fundamentos de Mecânica Clássica](https://itxesco.github.io/pages/aulas/ISC0752_index.html)  
@@ -85,6 +90,7 @@ Também integro o NDE e o Colegiado desse curso.
 **ISC0787** - [Práticas Decoloniais e Pedagogia Freireana no Ensino de Ciências](https://itxesco.github.io/pages/aulas/ISC0787_index.html)  
 
 ---
+
 ##### <a name="current"></a> ![UFSB](https://itxesco.github.io/imagens/icones/icons16/ufsb-icon.jpg) Componentes Curriculares ministradas durante o regime quadrimestral:
 
 | Ensino | Física Básica |
@@ -95,10 +101,7 @@ Também integro o NDE e o Colegiado desse curso.
 ---
 
 ##### <a name="shortcourses"></a> ![UFSB](https://itxesco.github.io/imagens/icones/icons16/ufsb-icon.jpg) [Componentes Curriculares ministradas para a pós-graduação (PPGER)](https://ufsb.edu.br/ppger)  
----
 
 **PPGER0034** - [Educação Científica, Cultura e Sociedade: Implicações para o Ensino de Ciências e Humanidades](https://itxesco.github.io/pages/aulas/ppger0034.html)  
 
 **PPGER0035** - [Orientação e Prática em Pesquisa IV](https://itxesco.github.io/aulas/PPGER0035/index.html)    
-
----
