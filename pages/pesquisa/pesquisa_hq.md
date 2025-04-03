@@ -1,30 +1,13 @@
 ---
-title: "Pesquisa Hq"
+title: Histórias em Quadrinhos
 layout: page
 ---
 
+Meu interesse por essa área mídia vem de um vínculo muito pessoal: aprendi a ler aos **5 anos de idade** com uma revista em quadrinhos do **Homem-Aranha**, publicada pela antiga editora **EBAL**, na sala da casa dos meus avós. Desde então, nunca mais parei de ler histórias em quadrinhos em todas suas variantes, mas meu gênero favorito são os super-heróis.
 
----
-title: Histórias em Quadrinhos e Educação
-description: A importância das Histórias em Quadrinhos no ensino e na cultura, sua evolução e impacto educacional.
----
+Hoje, sei que as **Histórias em Quadrinhos (HQs)** são um reflexo do **mundo e da sociedade** em que são criadas, pertencendo ao **contexto histórico-cultural** de sua produção. Não são meramente entretenimento, mas  formas de expressão da realidade, influenciadas pela visão de mundo de seus autores **(VERGUEIRO, 2006)**.
 
-# Menu de Navegação
-
-- [Afrofuturismo](/pages/pesquisa/pesquisa_afro.html)
-- [Educação Antirracista](/pages/pesquisa/pesquisa_edu.html)
-- [Histórias em Quadrinhos e Educação](/pages/pesquisa/pesquisa_hq.html)
-- [Jogos e Educação](/pages/pesquisa/pesquisa_jogos.html)
-
----
-
-# Por que investigar as Histórias em Quadrinhos? {#hq}
-
-O interesse por essa área de pesquisa surge de um vínculo muito pessoal: aprendi a ler aos **5 anos de idade** com uma revista em quadrinhos do **Homem-Aranha**, publicada pela antiga editora **EBAL**, na sala da casa dos meus avós. Desde então, nunca mais parei de ler.
-
-As **Histórias em Quadrinhos (HQs)** são um reflexo do **mundo e da sociedade** em que foram criadas, pertencendo ao **contexto histórico-cultural** de sua produção. Não são meramente entretenimento, mas também formas de expressão influenciadas por seus autores **(VERGUEIRO, 2006)**.
-
-## O que é uma História em Quadrinhos?
+### O que é uma História em Quadrinhos?
 
 As HQs são uma forma de **contar histórias visualmente**, baseada em uma ideia simples: **posicionar imagens lado a lado para ilustrar a passagem do tempo**.
 
@@ -32,7 +15,7 @@ As HQs são uma forma de **contar histórias visualmente**, baseada em uma ideia
 
 ---
 
-## A Lenda do Menino Amarelo
+### A Lenda do Menino Amarelo
 
 No dia **17 de fevereiro de 1895**, o jornal *New York World* publicou a que muitos pesquisadores consideram a **primeira tirinha em quadrinhos**, criada por **Richard F. Outcault**: *The Circus Down Hogan’s Alley*. Embora ainda não contivesse **balões de fala ou pensamento**, a tirinha introduzia o protagonista **The Yellow Kid** (*O Menino Amarelo*), que vestia uma camisola onde sua "fala" aparecia escrita.
 
@@ -59,7 +42,7 @@ Além disso, existem **elementos de narrativa gráfica** em outras formas de art
 
 ---
 
-## A Revolução Industrial e o Surgimento dos "Penny Dreadful"
+### A Revolução Industrial e o Surgimento dos "Penny Dreadful"
 
 O **boom industrial da década de 1830**, na Inglaterra, proporcionou mudanças sociais que aumentaram a **alfabetização da classe operária**. Como consequência, surgiram revistas populares como os **Penny Dreadful**, publicações de **baixo custo** com histórias seriadas de suspense e horror.
 
@@ -71,7 +54,7 @@ Em **junho de 1938**, surgiu o **primeiro super-herói** nas páginas da *Action
 
 ---
 
-## A Evolução das Eras dos Quadrinhos
+### A Evolução das Eras dos Quadrinhos
 
 - **1938-1954 - Era de Ouro**: Popularização dos **Super-Heróis**.
 - **1954 - Seduction of the Innocent**: O livro de **Fredric Wertham** levou à **censura dos quadrinhos** e à criação do *Comics Code Authority*.
@@ -83,7 +66,7 @@ O escritor **Grant Morrison**, em seu livro *Supergods*, argumenta que **1970** 
 
 ---
 
-## Referências e Leituras Complementares
+### Referências e Leituras Recomendadas
 
 - **DORFMAN, Ariel; MATTELART, Armand; DE MOYA, Álvaro.** *Para ler o Pato Donald: comunicação de massa e colonialismo*. 2002.
 - **JÚNIOR, Gonçalo.** *A guerra dos gibis: a formação do mercado editorial brasileiro e a censura aos quadrinhos, 1933-1964*. Editora Companhia das Letras, 2004.
@@ -94,5 +77,3 @@ O escritor **Grant Morrison**, em seu livro *Supergods*, argumenta que **1970** 
 - **DANTON, Gian.** *A divulgação científica nos quadrinhos: análise do caso Watchmen*. [Disponível aqui](http://watchmencaos.blogspot.com/2014/).
 
 ---
-
-📖 **As Histórias em Quadrinhos continuam sendo uma poderosa ferramenta educacional e cultural, oferecendo novas perspectivas para o ensino e a comunicação.**

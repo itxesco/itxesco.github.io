@@ -30,16 +30,16 @@ description: Página inicial do site de Itxesco - Ensino, Pesquisa, Extensão e 
       <img src="imagens/index_pics/extensao.jpeg" alt="Atividades de Extensão" title="Atividades de Extensão Universitária"
         class="w-full max-w-xs h-[300px] object-cover rounded shadow-md hover:scale-105 transition-transform duration-300">
     </a><br>
-    <strong><a href="pages/index/index_extensao.html" class="text-blue-700 hover:underline">Extensão Universitária</a></strong>
+    <strong><a href="pages/index/index_extensao.html" class="text-blue-700 hover:underline">Extensão</a></strong>
   </div>
 
   <!-- Hiperfocos / Quadrinhos -->
   <div class="text-center">
-    <a href="pages/index/index_hiperfoco.html">
-      <img src="imagens/index_pics/hiperfocos.png" alt="Sobre Hiperfocos" title="Hiperfocos"
+    <a href="pages/index/index_hq.html">
+      <img src="imagens/index_pics/hiperfocos.png" alt="Sobre Histórias em Quadrinhos" title="Hiperfocos"
         class="w-full max-w-xs h-[300px] object-cover rounded shadow-md hover:scale-105 transition-transform duration-300">
     </a><br>
-    <strong><a href="pages/index/index_hq.html" class="text-blue-700 hover:underline">Quadrinhos</a></strong>
+    <strong><a href="pages/index/index_hq.html" class="text-blue-700 hover:underline">Histórias em Quadrinhos</a></strong>
   </div>
 
   <!-- Autismo -->

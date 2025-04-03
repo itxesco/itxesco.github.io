@@ -1,91 +1,94 @@
 ---
-layout: default
-title: histórias em quadrinhos
-description: História, origem e importância das HQs como arte sequencial e instrumento cultural e educacional.
-permalink: /pages/index/index_hq.html/
+title: Histórias em Quadrinhos
+layout: page
 ---
 
-As Histórias em Quadrinhos apresentam um retrato do mundo e da sociedade em que foram geradas, pertencendo ao contexto histórico-cultural de sua produção. Não são, portanto, geradas de forma isolada de influência por seus autores (VERGUEIRO, 2006). Mas, o que é uma História em Quadrinhos?
+Meu interesse por essa mídia vem de um vínculo muito pessoal: aprendi a ler aos **5 anos de idade** com uma revista em quadrinhos do **Homem-Aranha**, publicada pela antiga editora **EBAL**, na sala da casa dos meus avós. Desde então, nunca mais parei de ler HQs em todas suas variantes — mas meu gênero favorito são os **super-heróis**.
 
-Trata-se de uma forma de contar histórias a partir de uma ideia simples: posicionar uma imagem ao lado da outra, ilustrando a passagem do tempo.
-
-![Quadrinhos][calvin_1]
-
-### A lenda do menino amarelo  
-
-[![o_menino_amarelo][yellow]][link_trailer_bp]  
-
-Em 17 de fevereiro de 1895, o jornal “New York World” publicou aquela que é considerada por muitos pesquisadores como a primeira tirinha em quadrinhos, de autoria de Richard F. Outcault, *The Circus Down Hogan’s Alley*. Não havia ainda os balões de fala ou pensamento, mas a tirinha contava com um protagonista, *the yellow kid* ou "o menino amarelo", que vestia uma camisola onde sua "fala" aparecia escrita.
-
-Entretanto, em 30 de janeiro de 1869, nas páginas do jornal “Vida Fluminense”, o italiano radicado no Brasil, Ângelo Agostini, publicou sua tira intitulada “As aventuras de Nhô Quim, ou impressões de uma viagem à corte".
-
-A tira carioca retratava a *viagem de um caipira para conhecer a vida na corte do Rio de Janeiro*, enquanto a estadunidense satirizava a vida dos imigrantes nos cortiços de uma Nova York na virada do século XIX para o XX. À parte da disputa, é correto afirmar que ambas expressavam o contexto social histórico em que foram produzidas.
+Hoje, sei que as **Histórias em Quadrinhos (HQs)** são um reflexo do **mundo e da sociedade** em que são criadas, pertencendo ao seu **contexto histórico-cultural**. Não são meramente entretenimento, mas formas de expressão da realidade, influenciadas pela visão de mundo de seus autores (**VERGUEIRO, 2006**).
 
 ---
 
-Por outro lado, essa disputa pela *primeira história em quadrinhos* deve levar em consideração a participação de outros atores, como:
+## O que é uma História em Quadrinhos?
 
-- Rodolphe Töpffer (1799–1846), com seu livro *Histoire de Mr. Jabot*, publicado em 1833  
-- Katsushika Hokusai, que em 1814 traz o termo *mangá*  
-- Os vitrais que contam a via-sacra nas igrejas católicas — arte sequencial sem balões ou texto narrativo  
+As HQs são uma forma de **contar histórias visualmente**, baseada em uma ideia simples: **posicionar imagens lado a lado para ilustrar a passagem do tempo**.
 
-![Quadrinhos?][via_sacra]
-
-Também há a famosa Tapeçaria de Bayeux:
-
-[![tapeçaria_baieux][baieux]][link_trailer_bp]
-
-Com 70 metros de comprimento e 50 cm de altura, é um bordado em linho feito para comemorar a conquista normanda da Inglaterra (1066). Ela representa uma narrativa visual riquíssima sobre guerras, trajes, arquitetura, alimentação etc. Não seria uma forma de HQ medieval?
+![Calvin e Haroldo](https://itxesco.github.io/assets/figuras/hq/calvin.jpg)
 
 ---
 
-Podemos regredir no tempo à vontade: dos vasos gregos às pinturas egípcias e rupestres.
+## A Lenda do Menino Amarelo
 
-[![pintura_rupestre][rupestre]][link_sh_milestone]
+No dia **17 de fevereiro de 1895**, o jornal *New York World* publicou aquela que muitos consideram a **primeira tirinha em quadrinhos**, criada por **Richard F. Outcault**: *The Circus Down Hogan’s Alley*. Embora ainda não contivesse **balões de fala ou pensamento**, a tirinha introduzia o protagonista **The Yellow Kid** (*O Menino Amarelo*), cuja fala era escrita em sua camisola.
 
-A ideia é simples e poderosa: contar histórias com imagens em sequência.
+![The Yellow Kid](https://itxesco.github.io/assets/figuras/hq/yellow_kid.jpg)
 
----
+Entretanto, **30 anos antes**, em **1869**, o jornal brasileiro *Vida Fluminense* já publicava uma tira intitulada *As Aventuras de Nhô Quim, ou Impressões de uma Viagem à Corte*, criada pelo italiano **Ângelo Agostini**. A narrativa acompanhava um **caipira que viajava ao Rio de Janeiro**, enquanto *The Yellow Kid* satirizava a vida dos imigrantes em **Nova York**.
 
-### A ascensão da HQ como mídia de massa
+A disputa sobre a **primeira história em quadrinhos** inclui ainda outros nomes importantes:
 
-A revolução industrial dos anos 1830, a alfabetização crescente e a prensa móvel criaram um novo público consumidor: surgem os *Penny Dreadfuls*, revistas baratas de terror e aventura no Reino Unido, e, em 1896, as *Pulp Magazines* nos EUA — impressos sem ilustrações, mas recheados de ficção popular.
+- **Rodolphe Töpffer (1799–1846)** – *Histoire de Mr. Jabot* (1833)
+- **Katsushika Hokusai (1760–1849)** – uso do termo *mangá* em 1814
 
-A ficção científica e a fantasia moderna florescem nessas revistas, publicando autores como Asimov, Verne, H.G. Wells, Lovecraft, entre outros.
+Além disso, elementos de narrativa gráfica aparecem em outras expressões artísticas:
 
-Em 1928, Tarzan ganha versão em quadrinhos, fundindo as tirinhas (*comics*) com a ficção pulp. Buck Rogers (1929), Flash Gordon (1934) e O Fantasma (1936) impulsionam o gênero.
+- **Vitrais de igrejas**, contando a **Via Sacra** sem palavras:
 
-Em 1938, surge o primeiro super-herói: Superman, em *Action Comics #1*.
+  ![Vitrais](https://itxesco.github.io/assets/figuras/hq/vitrais.jpg)
 
-Começa a *Era de Ouro* dos quadrinhos, com mais de 85% dos jovens dos EUA lendo revistas em quadrinhos (JONES, 2005).
+- **Tapeçaria de Bayeux** (1070–1080), sobre a conquista normanda da Inglaterra:
 
----
+  ![Tapeçaria de Bayeux](https://itxesco.github.io/assets/figuras/hq/tapecaria.jpg)
 
-### Censura e reinvenção
+- **Arte rupestre**, com cenas do cotidiano humano:
 
-- **1954:** *Seduction of the Innocent*, de Fredric Wertham, inicia a perseguição aos quadrinhos nos EUA → Comics Code Authority  
-- **1956:** *Showcase #4* lança o novo Flash → começa a *Era de Prata*  
-- **1970–1985:** “Era de Bronze” → quadrinhos mais sombrios, politizados e realistas  
-- **1985–hoje:** “Era Moderna” ou “Era Sombria” (segundo Grant Morrison)
+  ![Arte Rupestre](https://itxesco.github.io/assets/figuras/hq/caverna.jpg)
 
 ---
 
-> Cada vez mais, os estudos sobre Histórias em Quadrinhos vêm conquistando espaço no campo de pesquisas em educação. Algumas referências básicas podem ser consideradas:
+## A Revolução Industrial e os "Penny Dreadful"
 
-> DORFMAN, Ariel; MATTELART, Armand; DE MOYA, Álvaro. **Para ler o Pato Donald: comunicação de massa e colonialismo**. 2002.  
-> JÚNIOR, Gonçalo. **A guerra dos gibis**. Companhia das Letras, 2004.  
-> RAMOS, Paulo; VERGUEIRO, Waldomiro. **Quadrinhos na educação**. Editora Contexto, 2013.  
-> EISNER, Will. **Narrativas gráficas**. Devir, 2005.  
-> MCLOUD, Scott. **Desvendando os quadrinhos**. 2ª ed. 2005.  
-> DANTON, Gian. **Ciência e quadrinhos**. João Pessoa: Marca de Fantasia, 2005.  
-> DANTON, Gian. **Watchmen e divulgação científica**. [Tese/Mestrado](http://watchmencaos.blogspot.com/2014/).
+O **boom industrial da década de 1830**, na Inglaterra, promoveu mudanças sociais que aumentaram a **alfabetização da classe operária**. Com isso, surgiram revistas populares como os **Penny Dreadful**, publicações de **baixo custo** com histórias seriadas de suspense e horror.
+
+Em **1896**, os Penny Dreadful deram origem às primeiras revistas **Pulp Fiction**, em papel barato, com histórias de **ficção científica e fantasia**, revelando autores como **H.G. Wells, Edgar Rice Burroughs, Isaac Asimov e H.P. Lovecraft**.
+
+Nos EUA, os quadrinhos evoluíram das tirinhas de jornal para revistas independentes — surgindo os **comic books**.
+
+Em **junho de 1938**, nas páginas da *Action Comics*, surgiu o **primeiro super-herói**: **Superman**, inaugurando a **Era de Ouro** das HQs.
 
 ---
 
-[calvin_1]: https://itxesco.github.io/assets/figuras/hq/calvin.jpg  
-[link_trailer_bp]: https://www.youtube.com/watch?v=wL4a4MafSjQ "trailer do filme Pantera Negra"  
-[yellow]: https://itxesco.github.io/assets/figuras/hq/yellow_kid.jpg  
-[via_sacra]: https://itxesco.github.io/assets/figuras/hq/vitrais.jpg  
-[baieux]: https://itxesco.github.io/assets/figuras/hq/tapecaria.jpg  
-[rupestre]: https://itxesco.github.io/assets/figuras/hq/caverna.jpg  
-[link_sh_milestone]: https://www.ladonegrodaforca.com.br/os-herois-da-milestone-media/
+## A Evolução das Eras dos Quadrinhos
+
+- **1938–1954 — Era de Ouro**  
+  Popularização dos **super-heróis**.
+
+- **1954 — Seduction of the Innocent**  
+  O livro de **Fredric Wertham** levou à **censura dos quadrinhos** e à criação do *Comics Code Authority*.
+
+- **1956–1970 — Era de Prata**  
+  Reintrodução de heróis icônicos, como **Flash** e **Lanterna Verde**.
+
+- **1970–1985 — Era de Bronze**  
+  As HQs passam a abordar **temas sociais e políticos**, com roteiros mais realistas.
+
+- **A partir de 1985 — Era Moderna**  
+  Histórias **mais sombrias e complexas**, como *O Cavaleiro das Trevas* e *Watchmen*.
+
+O escritor **Grant Morrison**, em *Supergods*, propõe que **1970** marca não apenas a “Era de Bronze”, mas o início de uma **"Era Sombria"**, onde os quadrinhos refletem **tensões sociais profundas**.
+
+---
+
+## Referências e Leituras Recomendadas
+
+- DORFMAN, Ariel; MATTELART, Armand; DE MOYA, Álvaro. *Para ler o Pato Donald: comunicação de massa e colonialismo*. 2002.
+- JÚNIOR, Gonçalo. *A guerra dos gibis: a formação do mercado editorial brasileiro e a censura aos quadrinhos, 1933–1964*. Companhia das Letras, 2004.
+- RAMOS, Paulo; VERGUEIRO, Waldomiro. *Quadrinhos na educação*. Contexto, 2013.
+- EISNER, Will. *Narrativas gráficas*. São Paulo: Devir, 2005.
+- MCLOUD, Scott. *Desvendando os quadrinhos*. 2ª ed., 2005.
+- DANTON, Gian. *Ciência e quadrinhos*. João Pessoa: Marca de Fantasia, 2005.
+- DANTON, Gian. *A divulgação científica nos quadrinhos: análise do caso Watchmen*. [Disponível aqui](http://watchmencaos.blogspot.com/2014/)
+
+---
+
+[🔝 Voltar ao topo](#histórias-em-quadrinhos)
