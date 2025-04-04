@@ -1,7 +1,7 @@
 ---
 title: Histórias em Quadrinhos
 layout: page
-permalink: /pages/hq/
+permalink: /pages/index/index_hq.html
 ---
 
 <a id="histórias-em-quadrinhos"></a>

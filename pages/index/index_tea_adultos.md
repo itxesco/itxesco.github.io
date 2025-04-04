@@ -1,7 +1,7 @@
 ---
 title: TEA em Adultos
 layout: page
-permalink: /pages/tea-em-adultos/
+permalink: /pages/index/index_tea_adultos.html
 ---
 
 <a id="tea-em-adultos"></a>
