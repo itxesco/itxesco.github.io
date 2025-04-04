@@ -1,6 +1,7 @@
 ---
 title: Histórias em Quadrinhos
 layout: page
+permalink: /pages/index/index_hq.html
 ---
 
 Meu interesse por essa mídia vem de um vínculo muito pessoal: aprendi a ler aos **5 anos de idade** com uma revista em quadrinhos do **Homem-Aranha**, publicada pela antiga editora **EBAL**, na sala da casa dos meus avós. Desde então, nunca mais parei de ler HQs em todas suas variantes — mas meu gênero favorito são os **super-heróis**.
