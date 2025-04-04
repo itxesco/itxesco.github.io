@@ -47,18 +47,18 @@ Outros marcos importantes:
 
 <div class="grid grid-cols-1 md:grid-cols-3 gap-6 my-6">
 
-  <div class="text-center">
-    <img src="https://itxesco.github.io/assets/figuras/hq/vitrais.jpg" alt="Vitrais" class="rounded-lg shadow-md mb-2 w-full">
+  <div class="flex flex-col justify-center h-full text-center aspect-[3/4]">
+    <img src="https://itxesco.github.io/assets/figuras/hq/vitrais.jpg" alt="Vitrais" class="rounded-lg shadow-md mb-2 w-full h-auto">
     <p class="text-sm text-gray-700">Vitrais de igrejas: narrativa visual da Via Sacra</p>
   </div>
 
-  <div class="text-center">
-    <img src="https://itxesco.github.io/assets/figuras/hq/tapecaria.jpg" alt="Tapeçaria de Bayeux" class="rounded-lg shadow-md mb-2 w-full">
+  <div class="flex flex-col justify-center h-full text-center aspect-[3/4]">
+    <img src="https://itxesco.github.io/assets/figuras/hq/tapecaria.jpg" alt="Tapeçaria de Bayeux" class="rounded-lg shadow-md mb-2 w-full h-auto">
     <p class="text-sm text-gray-700">Tapeçaria de Bayeux: conquista normanda (séc. XI)</p>
   </div>
 
-  <div class="text-center">
-    <img src="https://itxesco.github.io/assets/figuras/hq/caverna.jpg" alt="Arte Rupestre" class="rounded-lg shadow-md mb-2 w-full">
+  <div class="flex flex-col justify-center h-full text-center aspect-[3/4]">
+    <img src="https://itxesco.github.io/assets/figuras/hq/caverna.jpg" alt="Arte Rupestre" class="rounded-lg shadow-md mb-2 w-full h-auto">
     <p class="text-sm text-gray-700">Arte rupestre: cenas do cotidiano humano</p>
   </div>
 

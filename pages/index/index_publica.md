@@ -2,7 +2,7 @@
 layout: default
 title: "📝 Trabalhos Publicados"
 description: Acesse artigos, dissertações, teses e orientações acadêmicas organizadas por ano.
-permalink: /pages/index/index_publica.html/
+permalink: /pages/index/index_publica.html
 ---
 
 <style>
@@ -10,24 +10,30 @@ permalink: /pages/index/index_publica.html/
     @apply grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mt-8;
   }
   .publica-card {
-    @apply bg-white shadow-md border-l-4 border-blue-600 p-4 rounded-xl transition hover:shadow-lg hover:-translate-y-1;
+    @apply bg-white border-l-4 border-indigo-600 p-5 rounded-2xl shadow-sm hover:shadow-lg transition hover:-translate-y-1;
   }
   .publica-titulo {
-    @apply text-blue-700 font-semibold text-lg flex items-center;
+    @apply text-indigo-700 font-bold text-lg mb-1 flex items-center;
   }
   .publica-info {
-    @apply text-gray-700 text-sm mt-2;
+    @apply text-sm text-gray-700 space-y-1;
   }
   .publica-icon {
-    @apply w-4 h-4 inline-block mr-1;
+    @apply w-4 h-4 inline-block mr-1 align-text-bottom;
   }
 </style>
 
 ## 📚 Trabalhos Publicados
 
-Nesta página, você pode acessar facilmente minhas publicações e colaborações, organizadas em ordem cronológica decrescente, sejam de minha autoria ou realizadas sob minha orientação.  
+<div class="text-base leading-relaxed text-gray-800 mb-6">
+  Nesta página, você pode acessar facilmente minhas publicações e colaborações, organizadas em ordem cronológica decrescente, sejam de minha autoria ou realizadas sob minha orientação.
+</div>
 
-🔗 Clique no ícone ![PDF](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png) para acessar diretamente os arquivos.
+<div class="text-sm text-gray-600 mb-8">
+  🔗 Clique no ícone
+  <img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png" class="inline w-4 h-4 align-text-bottom"/>
+  para acessar diretamente os arquivos.
+</div>
 
 ---
 
@@ -150,7 +156,7 @@ Nesta página, você pode acessar facilmente minhas publicações e colaboraçõ
 
 ---
 
-### 🎓 Orientações de Mestrado {#orientacoes}
+### 🧑‍🏫 Orientações de Mestrado {#orientacoes}
 
 <div class="publica-grid">
   <div class="publica-card">
@@ -186,4 +192,6 @@ Nesta página, você pode acessar facilmente minhas publicações e colaboraçõ
 
 ---
 
-[🔼 Voltar ao topo](#trabalhos-publicados)
+<p class="text-right text-sm mt-8">
+  <a href="#top" class="text-blue-700 underline">🔼 Voltar ao topo</a>
+</p>
