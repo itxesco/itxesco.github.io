@@ -59,9 +59,6 @@ A imagem apresenta a estrutura do espectro eletromagnético, separando as ondas 
 - Hipersensibilidade ou hipossensibilidade a estímulos sensoriais como luz, som, textura, cheiro e sabor.
 - Comportamentos de autoconforto para lidar com sobrecargas sensoriais.
 
-[Voltar ao topo](#top)
-
----
 
 #### 3. A Vida no TEA {#vida}
 

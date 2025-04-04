@@ -1,13 +1,18 @@
 ---
+layout: default
 title: Pesquisa
-layout: page
-permalink: /pages/pesquisa/
 description: Projetos, orientações e investigações sobre cultura pop, ensino de ciências e relações étnico-raciais.
+permalink: /pages/index/index_pesquisa.html/
 ---
 
-<a id="top"></a>
+### Pesquisa
 
-## Pesquisa
+- [Afrofuturismo](/pages/pesquisa/pesquisa_afro.html)
+- [Educação Antirracista](/pages/pesquisa/pesquisa_edu.html)
+- [Histórias em Quadrinhos e Educação](/pages/pesquisa/pesquisa_hq.html)
+- [Jogos e Educação](/pages/pesquisa/pesquisa_jogos.html)
+
+---
 
 ### A Cultura de Super-Heróis e o Ensino de Ciências
 
@@ -26,45 +31,9 @@ Desenvolvo minha pesquisa no **[PPGER](https://ufsb.edu.br/ppger/)** do **[IHAC-
 
 ---
 
-Esta seção apresenta meus projetos, orientações e investigações acadêmicas relacionadas à **cultura pop**, ao **ensino de ciências** e às **relações étnico-raciais na educação**. Abaixo, você pode navegar pelos principais temas de pesquisa:
+### Orientações de Mestrado {#orientador}
 
-<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mt-6">
-
-  <div class="bg-gray-50 border-l-4 border-blue-600 p-4 rounded-xl shadow-sm hover:shadow-lg transition transform hover:-translate-y-1">
-    <a href="/pages/pesquisa/pesquisa_afro.html" class="text-blue-700 font-semibold flex items-center text-lg">
-      ✊🏾 Afrofuturismo
-    </a>
-    <p class="text-gray-700 mt-1 text-sm">Narrativas decoloniais, ficção e ancestralidade negra</p>
-  </div>
-
-  <div class="bg-gray-50 border-l-4 border-blue-600 p-4 rounded-xl shadow-sm hover:shadow-lg transition transform hover:-translate-y-1">
-    <a href="/pages/pesquisa/pesquisa_edu.html" class="text-blue-700 font-semibold flex items-center text-lg">
-      📚 Educação Antirracista
-    </a>
-    <p class="text-gray-700 mt-1 text-sm">Ensino crítico e combate às desigualdades raciais</p>
-  </div>
-
-  <div class="bg-gray-50 border-l-4 border-blue-600 p-4 rounded-xl shadow-sm hover:shadow-lg transition transform hover:-translate-y-1">
-    <a href="/pages/pesquisa/pesquisa_hq.html" class="text-blue-700 font-semibold flex items-center text-lg">
-      🦸‍♂️ Histórias em Quadrinhos e Educação
-    </a>
-    <p class="text-gray-700 mt-1 text-sm">HQs como ferramenta didática e formativa</p>
-  </div>
-
-  <div class="bg-gray-50 border-l-4 border-blue-600 p-4 rounded-xl shadow-sm hover:shadow-lg transition transform hover:-translate-y-1">
-    <a href="/pages/pesquisa/pesquisa_jogos.html" class="text-blue-700 font-semibold flex items-center text-lg">
-      🎲 Jogos e Educação
-    </a>
-    <p class="text-gray-700 mt-1 text-sm">RPGs, videogames e gamificação no ensino de ciências</p>
-  </div>
-
-</div>
-
----
-
-## Orientações de Mestrado {#orientador}
-
-### 📌 Em Andamento  
+#### 📌 Em Andamento  
 
 - ![Lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png) [**Priscila Bono Pagliuca Rodrigues**](http://lattes.cnpq.br/3929221160338872)  
 - ![Lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png) [**Reinan Mota Costa**](http://lattes.cnpq.br/)  
@@ -73,7 +42,7 @@ Esta seção apresenta meus projetos, orientações e investigações acadêmica
 
 ---
 
-### 🏆 Concluídas  
+#### 🏆 Concluídas  
 
 - ![Lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png) [**Sheila Katrini Ferrari Visconde**](http://lattes.cnpq.br/8317287394228958)  
 - ![Lattes](https://itxesco.github.io/imagens/icones/icons16/lattes-icon.png) [**Valtiângeli Rodrigues da Silva Moitinho**](http://lattes.cnpq.br/0265292324050570)  
@@ -85,4 +54,4 @@ Esta seção apresenta meus projetos, orientações e investigações acadêmica
 
 ---
 
-[🔼 Voltar ao topo](#top)
+📌 [🔼 Voltar ao topo](#top)

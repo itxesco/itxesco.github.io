@@ -7,7 +7,7 @@ permalink: /pages/index/index_rpg.html/
 
 ## 🎲 O que é RPG?
 
-![Jogadores de RPG reunidos](imagens/rpg/jogadores_rpg.jpg)
+![Jogadores de RPG reunidos](imagens/hiperfocos/rpg/rpg.png)
 
 *Grupo de jogadores participando de uma sessão de RPG.*
 
@@ -17,7 +17,7 @@ O **Role-Playing Game (RPG)**, ou **Jogo de Interpretação de Papéis**, é uma
 
 ## 📜 História dos Jogos de RPG
 
-![Capa do Dungeons & Dragons original](imagens/rpg/dnd_original.jpg)
+![Capa do Dungeons & Dragons original](imagens/hiperfocos/rpg/dragond20.png)
 
 *Capa da edição original do Dungeons & Dragons.*
 
@@ -29,7 +29,7 @@ Os RPGs surgiram nos Estados Unidos na década de 1970. Em 1974, **Gary Gygax** 
 
 ## 🎲 Principais Sistemas de RPG
 
-![Livros de RPG variados](imagens/rpg/livros_rpg.jpg)
+![Livros de RPG variados](imagens/hiperfocos/rpg/mago_feynman.png)
 
 *Diversos livros de sistemas de RPG.*
 

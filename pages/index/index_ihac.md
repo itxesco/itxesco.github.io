@@ -2,101 +2,121 @@
 layout: default
 title: "O Instituto de Humanidades, Artes e Ciências (IHAC-CSC)"
 description: Conheça a estrutura, os cursos, a gestão e os projetos do IHAC-CSC da UFSB.
-permalink: /pages/index/index_ihac.html/
+permalink: /pages/ihac/
 ---
 
-#### Sumário   
+<a id="top"></a>
+
+## 🏛️ O Instituto de Humanidades, Artes e Ciências (IHAC-CSC)
+
+<div class="bg-gray-50 p-6 rounded-xl shadow-sm space-y-4">
+
+O [IHAC-CSC](https://ufsb.edu.br/ihac-csc/) está localizado em **Porto Seguro (BA)** e iniciou suas atividades em 08/09/2014. A [UFSB](https://ufsb.edu.br/) conta com um IHAC em cada campus: o [IHAC-CJA](https://ufsb.edu.br/ihac-cja/), o [IHAC-CPF](https://ufsb.edu.br/ihac-cpf/) e o [IHAC-CSC](https://ufsb.edu.br/ihac-csc/).
+
+Inicialmente, o IHAC-CSC abrigava todos os cursos de 1º ciclo da UFSB, incluindo os Bacharelados Interdisciplinares (BIs) e as Licenciaturas Interdisciplinares (LIs). Após a reorganização administrativa em 2019, os BIs foram transferidos para os Centros de Formação, e o IHAC-CSC passou a oferecer **exclusivamente cursos na área da Educação**.
+
+Hoje, o IHAC-CSC é responsável por cinco Licenciaturas Interdisciplinares:
+
+- 🎓 [Ciências da Natureza e suas Tecnologias](https://www.instagram.com/li.ciencias.natureza.csc)  
+- 🌍 [Ciências Humanas e Sociais e suas Tecnologias](https://www.instagram.com/lichs.ufsb.csc)  
+- 🎨 [Artes e suas Tecnologias](https://www.instagram.com/licenciatura_em_artes_ufsb)  
+- 🧮 [Matemática e Computação e suas Tecnologias](https://www.instagram.com/li.matcom.csc)  
+- 🗣️ [Linguagens e suas Tecnologias](https://www.instagram.com/linguagens.csc)
+
+A unidade também conta com:
+
+- 📚 O mestrado profissional **PPGER – Ensino e Relações Étnico-Raciais**  
+- 📘 A pós-graduação Lato Sensu **Educação para a Equidade em Ciências e Matemática**
+
+O IHAC-CSC possui **36 docentes**, sendo 90% doutores/as e os demais em processo de doutoramento. Nossa missão é **formar professoras/es com base interdisciplinar**, comprometidos com uma educação pública **gratuita, antirracista e de qualidade**.
+
+</div>
+
+---
+
+## 📌 Sumário
+
 1. [Licenciaturas Interdisciplinares](#lis)  
 2. [O que é um Decano?](#decano)  
-3. [A gestão 2022-2026](#gestao)  
-4. [O PPGER](#ppger)  
+3. [A gestão 2022–2026](#gestao)  
+4. [O PPGER](#ppger)
 
 ---
 
-O [IHAC-CSC](https://ufsb.edu.br/ihac-csc/) está localizado em Porto Seguro (BA) e iniciou suas atividades em 08/09/2014. A [UFSB](https://ufsb.edu.br/) conta com um IHAC em cada um de seus campi: o [IHAC-CJA](https://ufsb.edu.br/ihac-cja/), o [IHAC-CPF](https://ufsb.edu.br/ihac-cpf/) e o [IHAC-CSC](https://ufsb.edu.br/ihac-csc/).
+## 1. 🎓 Licenciaturas Interdisciplinares {#lis}
 
-Em sua origem, o IHAC-CSC foi concebido para abrigar todos os cursos de 1º ciclo do regime de formação da UFSB, incluindo os Bacharelados Interdisciplinares (BIs) e as Licenciaturas Interdisciplinares (LIs). Em 2019, com a readequação administrativa da universidade, os BIs foram transferidos para os respectivos Centros de Formação, e o IHAC-CSC passou a atuar exclusivamente na área da Educação, oferecendo cinco LIs:
-
-- [Ciências da Natureza e suas Tecnologias](https://www.instagram.com/li.ciencias.natureza.csc)
-- [Ciências Humanas e Sociais e suas Tecnologias](https://www.instagram.com/lichs.ufsb.csc)
-- [Artes e suas Tecnologias](https://www.instagram.com/licenciatura_em_artes_ufsb)
-- [Matemática e Computação e suas Tecnologias](https://www.instagram.com/li.matcom.csc)
-- [Linguagens e suas Tecnologias](https://www.instagram.com/linguagens.csc)
-
-A resolução do Conselho Nacional de Educação (CNE) estabeleceu a Base Nacional Comum para a Formação Inicial de Professores da Educação Básica e as Diretrizes Curriculares Nacionais para os docentes, determinando um tempo mínimo de duração de quatro anos e uma carga horária de 3.200 horas para os cursos de Licenciatura.
-
-Esse cenário impactou o modelo original das Licenciaturas Interdisciplinares, que passaram a ser compreendidas como cursos únicos, unificando características dos cursos de 1º e 2º ciclos.
-
-Na Pós-Graduação, o IHAC-CSC conta com:
-- O mestrado profissional do **Programa de Pós-Graduação em Ensino e Relações Étnico-Raciais (PPGER - Conceito CAPES 04)**
-- O recém-criado programa **Lato Sensu Educação para a Equidade em Ciências e Matemática**
-
-O IHAC-CSC conta com **36 docentes**, sendo 90% doutores e os outros 10% em processo de doutoramento. A unidade tem como missão promover a formação interdisciplinar inicial e continuada de professoras e professores, contribuindo para a construção de uma educação pública antirracista, gratuita e de qualidade, articulando a relação entre a universidade e as redes de ensino público.
-
-Nosso compromisso é atuar com **Ensino, Pesquisa e Extensão**, sempre buscando contribuir para a melhoria da educação na região da "Costa do Descobrimento", no litoral sul da Bahia.
-
-[🔝 Voltar ao topo](#top)
-
----
-
-#### 2. Licenciaturas Interdisciplinares {#lis}
+<div class="bg-white p-6 rounded-xl shadow-sm space-y-4">
 
 ![I Encontro dos Ingressantes nas LIs do IHAC-CSC em 2023](https://itxesco.github.io/assets/figuras/decanato/encontro_lis.png)
 
-As Licenciaturas Interdisciplinares (LIs) da UFSB são cursos de graduação que formam docentes para atuar no ensino básico nas grandes áreas do conhecimento, correspondentes aos Parâmetros Curriculares Nacionais do Ensino Médio:
+As **Licenciaturas Interdisciplinares (LIs)** formam docentes para o ensino básico em cinco grandes áreas do conhecimento, conforme os Parâmetros Curriculares Nacionais do Ensino Médio:
 
-- **Artes e suas Tecnologias**
-- **Ciências Humanas e Sociais e suas Tecnologias**
-- **Ciências da Natureza e suas Tecnologias**
-- **Linguagens e suas Tecnologias**
-- **Matemática e Computação e suas Tecnologias**
+- Artes e suas Tecnologias  
+- Ciências Humanas e Sociais  
+- Ciências da Natureza  
+- Linguagens  
+- Matemática e Computação
 
-Todos os cursos possuem uma base comum de formação geral e um eixo obrigatório no campo da Educação. Após essa fase, inicia-se a Formação Específica, preparando o estudante para atuar no ensino básico.
+Todas as LIs têm uma base comum de formação geral, com forte presença das Ciências da Educação, e depois se ramificam na **formação específica**.
 
-As LIs oferecem três possibilidades aos seus egressos:
-1. Atuação imediata como docente em escolas públicas ou privadas;
-2. Continuação dos estudos nos cursos de 2º ciclo da UFSB;
-3. Ingresso em programas de Pós-Graduação na UFSB ou em outras instituições.
+**Três caminhos para os egressos:**
+1. Atuar como docente na educação básica  
+2. Ingressar em cursos de 2º ciclo da UFSB  
+3. Seguir para a pós-graduação
 
-[🔝 Voltar ao topo](#top)
-
----
-
-#### 3. O que é um Decano? {#decano}
-
-Tradicionalmente, "Decano" é um título honorífico concedido ao membro mais antigo de uma unidade acadêmica, responsável pelo "voto de qualidade" nas reuniões e pela substituição do Diretor quando necessário.
-
-Como a UFSB foi criada "do zero", sem se desmembrar de outra universidade, decidiu-se unir o título honorífico ao cargo de direção das unidades acadêmicas. Assim, o cargo de Diretor das unidades acadêmicas passou a ser denominado **Decano ou Decana**.
-
-Atualmente, sou Decano do [IHAC-CSC](https://ufsb.edu.br/ihac-csc/) desde julho de 2022.
+</div>
 
 [🔝 Voltar ao topo](#top)
 
 ---
 
-#### 4. A gestão 2022–2026 {#gestao}
+## 2. 🧑‍🏫 O que é um Decano? {#decano}
+
+<div class="bg-white p-6 rounded-xl shadow-sm space-y-4">
+
+Tradicionalmente, o termo "Decano" refere-se ao membro mais antigo de uma instituição acadêmica. Na UFSB, o termo foi ressignificado: o Decano ou a Decana é o **Diretor/a de unidade acadêmica**, responsável por representar, administrar e desenvolver projetos institucionais.
+
+Atualmente, exerço o cargo de **Decano do IHAC-CSC**, desde julho de 2022.
+
+</div>
+
+[🔝 Voltar ao topo](#top)
+
+---
+
+## 3. 📊 A gestão 2022–2026 {#gestao}
+
+<div class="bg-white p-6 rounded-xl shadow-sm space-y-4">
 
 ![Propostas da chapa para o decanato do IHAC-CSC](https://itxesco.github.io/assets/figuras/decanato/programa_chapa_2.jpg)
 
-Após a reestruturação administrativa da UFSB e os impactos da pandemia da COVID-19, os desafios do IHAC-CSC mudaram. Nossa chapa propôs soluções para essas questões, direcionando o IHAC-CSC para sua verdadeira vocação: **se tornar o Centro de Educação da UFSB**.
+Com a reestruturação da universidade e os desafios pós-pandemia, nosso plano de gestão buscou afirmar a vocação do IHAC-CSC como **Centro de Educação da UFSB**.
 
-Até julho de 2024, quase todas as propostas foram implementadas, mas novos desafios surgiram:
-- Falta de infraestrutura do campus;
-- Problemas com transporte estudantil;
-- Carga horária docente;
-- Reconhecimento do IHAC-CSC como um **Centro de Educação** dentro da UFSB.
+**Desafios enfrentados:**
+- Infraestrutura do campus  
+- Transporte estudantil  
+- Reconhecimento institucional  
+- Carga horária docente
 
-Nosso objetivo é enfrentar esses desafios ao longo dos próximos dois anos.
+📄 Acesse nossa apresentação completa ao CONSUNI:  
+<a href="https://itxesco.github.io/biblioteca/ihac/plano_gestao_ihac.pdf" class="inline-flex items-center text-blue-700 font-medium hover:text-blue-900 transition">
+  Baixar PDF <img src="https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png" alt="PDF" class="ml-2">
+</a>
 
-📥 Você pode baixar nossa **apresentação ao CONSUNI** com o plano estratégico de gestão até 2026:  
-[Baixar PDF](https://itxesco.github.io/biblioteca/ihac/plano_gestao_ihac.pdf) ![PDF](https://itxesco.github.io/imagens/icones/icons16/pdf-icon.png)
+</div>
 
 [🔝 Voltar ao topo](#top)
 
 ---
 
-#### 5. O PPGER {#ppger}
+## 4. 🧬 O PPGER {#ppger}
 
-Em breve, mais informações sobre o Programa de Pós-Graduação em Ensino e Relações Étnico-Raciais (PPGER).
+<div class="bg-white p-6 rounded-xl shadow-sm space-y-4">
+
+O **Programa de Pós-Graduação em Ensino e Relações Étnico-Raciais (PPGER)** é um mestrado profissional interinstitucional voltado para a formação de professores/as e pesquisadores/as com foco em práticas pedagógicas transformadoras, antirracistas e decoloniais.
+
+🎓 Mais informações em breve!
+
+</div>
 
 [🔝 Voltar ao topo](#top)
