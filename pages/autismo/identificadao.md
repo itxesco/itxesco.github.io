@@ -1,6 +1,7 @@
 ---
 title: "Identificadao"
 layout: page
+permalink: /pages/autismo/identificacao.html
 ---
 
 

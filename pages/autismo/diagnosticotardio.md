@@ -1,6 +1,7 @@
 ---
 title: "Diagnosticotardio"
 layout: page
+permalink: /pages/autismo/diagnosticotardio.html
 ---
 
 

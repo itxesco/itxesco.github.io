@@ -1,6 +1,7 @@
 ---
 title: "Index Tea"
 layout: page
+permalink: /pages/autismo/espectro.html
 ---
 
 

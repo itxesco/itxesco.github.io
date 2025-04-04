@@ -1,6 +1,7 @@
 ---
 title: "Mitos"
 layout: page
+permalink: /pages/autismo/mitos.html
 ---
 
 

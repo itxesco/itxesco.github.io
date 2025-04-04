@@ -1,6 +1,7 @@
 ---
 title: "Habilidades"
 layout: page
+permalink: /pages/autismo/habilidades.html
 ---
 
 
