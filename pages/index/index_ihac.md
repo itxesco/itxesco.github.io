@@ -2,7 +2,7 @@
 layout: default
 title: "O Instituto de Humanidades, Artes e Ciências (IHAC-CSC)"
 description: Conheça a estrutura, os cursos, a gestão e os projetos do IHAC-CSC da UFSB.
-permalink: /pages/ihac/
+permalink: /pages/index/index_ihac.html
 ---
 
 <a id="top"></a>
