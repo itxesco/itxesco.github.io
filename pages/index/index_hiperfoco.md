@@ -2,7 +2,7 @@
 layout: pagina
 title: "🧠 O que é um hiperfoco?"
 description: Explicações e exemplos sobre o hiperfoco no contexto do autismo.
-image: /imagens/hiperfocos/indice/xmen_hero.webp # opcional
+image: /imagens/hiperfocos/indice/x_men_hero_full_hd.jpg # opcional
 permalink: /pages/index/index_hiperfoco.html
 ---
 

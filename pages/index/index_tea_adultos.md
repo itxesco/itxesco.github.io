@@ -2,7 +2,7 @@
 title: "TEA em Adultos"
 layout: default
 description: Página sobre características do autismo na vida adulta e seus desafios.
-permalink: /pages/autismo/teadultos.html/
+permalink: /pages/autismo/index_tea_adultos.html/
 ---
 
 ### 🧭 Navegação

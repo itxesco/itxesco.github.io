@@ -1,7 +1,8 @@
 ---
-title: O que é o Transtorno do Espectro Autista (TEA)
-layout: default
-description: Saiba o que é o TEA, seu histórico, diagnóstico, direitos, estatísticas e representações na cultura pop.
+layout: pagina
+title: "🧠 O que é o Transtorno do Espectro Autista (TEA)?"
+description: Explicações sobre o o que é o TEA, seu histórico, diagnóstico, direitos, estatísticas e representações na cultura pop.
+image: /imagens/autismo/hero_autismo_final.jpg # opcional
 permalink: /pages/index/index_tea.html/
 ---
 
