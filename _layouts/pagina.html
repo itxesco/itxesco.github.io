@@ -13,10 +13,11 @@
         theme: {
           extend: {
             colors: {
-              primary: '#1a1a1a', // preto suave
-              secondary: '#e50914', // vermelho vibrante estilo DC
-              background: '#f4f4f4',
-              "text-base": '#333333',
+              primary: '#003865',     // azul UFSB
+              secondary: '#007A33',   // verde UFSB
+              accent: '#2D9CDB',      // azul claro
+              background: '#F5F5F5',  // bege claro
+              'text-base': '#4B5563', // cinza escuro
             },
             fontFamily: {
               sans: ['Inter', 'sans-serif']
@@ -26,40 +27,34 @@
       };
     </script>
 
-    <!-- Fonte moderna -->
+    <!-- Fonte Inter -->
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
   </head>
 
   <body class="bg-background text-text-base font-sans leading-relaxed min-h-screen flex flex-col">
 
-    <!-- Navbar -->
-    <header class="bg-primary text-white shadow-md sticky top-0 z-50">
-      <div class="max-w-7xl mx-auto px-4 py-4 flex justify-between items-center">
-        <h1 class="text-xl sm:text-2xl font-bold tracking-wide">Prof. Dr. Francisco Nascimento</h1>
-        <nav class="space-x-4 text-sm sm:text-base">
-          <a href="/pages/baixar.html" class="hover:underline">Publicações</a>
-          <a href="/pages/ensino.html" class="hover:underline">Aulas</a>
-          <a href="/pages/autismo/autismo.html" class="hover:underline">Autismo</a>
-          <a href="/linksuteis.html" class="hover:underline">Links Úteis</a>
-          <a href="/pages/sobre.html" class="hover:underline">Sobre</a>
-        </nav>
+    <!-- Barra de navegação fixa -->
+    <nav class="bg-primary text-white fixed top-0 left-0 w-full z-50 shadow-md">
+      <div class="max-w-7xl mx-auto px-4 py-3 flex items-center justify-between">
+        <div class="font-bold text-lg">Site Pessoal</div>
+        <div class="space-x-4 text-sm sm:text-base">
+          <a href="/" class="hover:bg-accent hover:text-white px-3 py-1 rounded transition">inicio</a>
+          <a href="/pages/sobre.html" class="hover:bg-accent hover:text-white px-3 py-1 rounded transition">sobre</a>
+          <a href="/pages/index/index_tea.html" class="hover:bg-accent hover:text-white px-3 py-1 rounded transition">TEA</a>
+          <a href="/pages/index/index_baixar.html" class="hover:bg-accent hover:text-white px-3 py-1 rounded transition">baixar</a>
+        </div>
       </div>
-    </header>
+    </nav>
 
     <!-- Conteúdo principal -->
-    <main class="flex-grow max-w-4xl mx-auto px-4 py-10">
-      {% if page.image %}
-        <img src="{{ page.image }}" alt="Imagem de destaque" class="w-full rounded-lg shadow-md mb-8">
-      {% endif %}
-      <h1 class="text-4xl font-bold text-primary mb-6">{{ page.title }}</h1>
-      {{ content }}
+    <main class="max-w-3xl mx-auto px-4 py-32 flex-grow">
+      <h1 class="text-3xl sm:text-4xl font-bold text-primary mb-6">{{ page.title }}</h1>
+      {{ content | replace: '###', '<br><br>###' }}
     </main>
 
-    <!-- Footer -->
-    <footer class="bg-primary text-white py-4 mt-12">
-      <div class="max-w-7xl mx-auto px-4 text-center text-sm">
-        <p>&copy; 2018 Francisco de Assis Nascimento Jr. | Site Pessoal</p>
-      </div>
+    <!-- Rodapé fixo -->
+    <footer class="bg-primary text-white text-sm py-4 text-center mt-auto">
+      &copy; 2018 Francisco de Assis Nascimento Jr. — Site Pessoal
     </footer>
 
   </body>
