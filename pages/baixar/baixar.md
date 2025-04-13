@@ -1,8 +1,8 @@
 ---
 title: "Baixar"
 layout: page
+permalink: /pages/baixar/baixar.html
 ---
-
 
 - [Introdução ao Cálculo](https://itxesco.github.io/pages/notas/introcalculo/index.html)
 - [Sociedades Tecnológicas e Matrizes Energéticas](https://itxesco.github.io/pages/notas/ISC0462.html)

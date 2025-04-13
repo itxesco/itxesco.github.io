@@ -1,6 +1,7 @@
 ---
+layout: default
 title: "Super-heróis Autistas e o TEA nos Quadrinhos"
-layout: page
+permalink: /pages/autismo/shtea.html
 ---
 
 <style>

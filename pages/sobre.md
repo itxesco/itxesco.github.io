@@ -1,7 +1,7 @@
 ---
 title: "Sobre mim"
-layout: page
-permalink: /pages/sobre.html/
+layout: default
+permalink: /pages/sobre.html
 description: Página pessoal do professor Francisco Nascimento com informações acadêmicas, pesquisa, formação e redes sociais.
 ---
 

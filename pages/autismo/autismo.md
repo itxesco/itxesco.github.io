@@ -1,10 +1,9 @@
 ---
+layout: default
 title: "Autismo"
-layout: page
+description: O que é o Transtorno do Espectro Autista (TEA), histórico, definições, tratamento e apoio.
+permalink: /pages/autismo/autismo.html
 ---
-
-
-
 
 - [O que é o TEA](/pages/autismo/autismo.html)
 - [Diagnóstico Tardio](/pages/autismo/teadultos.html)

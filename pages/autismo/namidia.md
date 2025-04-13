@@ -1,6 +1,8 @@
 ---
 title: "Autismo na mídia"
-layout: page
+layout: default
+permalink: /pages/autismo/namidia.html
+description: Representações do autismo na mídia e na cultura pop. Uma análise crítica de personagens autistas em filmes e séries, do Rain Man ao The Good Doctor.
 ---
 
 #### 📌 Tópicos desta página:

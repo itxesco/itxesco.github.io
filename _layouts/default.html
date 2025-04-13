@@ -1,19 +1,21 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-BR">
   <head>
-    {% include head.html %}
-    <!-- ✅ Tailwind CSS CDN -->
-    <script src="https://cdn.tailwindcss.com"></script>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{ page.title }}</title>
+    <meta name="description" content="{{ page.description }}" />
+
+    <!-- Tailwind CSS via CDN (versão mais recente) -->
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
   </head>
-  <body class="bg-white text-gray-800 font-sans">
+  <body class="bg-[#F5F5F5] text-[#4B5563] font-sans leading-relaxed min-h-screen">
 
-    {% include header.html %}
-
-    <main class="max-w-6xl mx-auto px-4 py-8">
+    <!-- Conteúdo central -->
+    <main class="max-w-prose mx-auto px-4 py-8">
+      <h1 class="text-3xl font-bold text-[#003865] mb-6">{{ page.title }}</h1>
       {{ content }}
     </main>
-
-    {% include footer.html %}
 
   </body>
 </html>

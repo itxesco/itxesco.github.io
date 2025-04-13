@@ -1,8 +1,9 @@
 ---
+layout: default
 title: "Direitos"
-layout: page
+permalink: /pages/autismo/direitos.html
+description: Guia completo sobre os direitos legais da pessoa autista adulta no Brasil e como regularizar sua documentação.
 ---
-
 
 #### 📌 Índice (clique para ir direto)
 
@@ -157,13 +158,11 @@ Para usar vagas de estacionamento reservadas para PCD, é necessário ter um **C
 
 Garantir seus **direitos como pessoa autista** pode ser burocrático, mas com as informações corretas, o processo se torna mais acessível. **Regularizar sua documentação garante o acesso a seus direitos e evita dificuldades**.
 
-
-- [o Diagnóstico Tardio](/pages/autismo/diagnosticotardio.html)
-- [a Simbologia e Representação](/pages/autismo/identificadao.html)
-- [o que era ~~Asperger~~](/pages/autismo/asperger.html)
-- [Altas Habilidades e Superdotação](/pages/autismo/habilidades.html)
-- [Mitos](/pages/autismo/mitos.html)
-- [TEA na Cultura Pop](/pages/autismo/namidia.html)
-
+- [o Diagnóstico Tardio](/pages/autismo/diagnosticotardio.html)  
+- [a Simbologia e Representação](/pages/autismo/identificadao.html)  
+- [o que era ~~Asperger~~](/pages/autismo/asperger.html)  
+- [Altas Habilidades e Superdotação](/pages/autismo/habilidades.html)  
+- [Mitos](/pages/autismo/mitos.html)  
+- [TEA na Cultura Pop](/pages/autismo/namidia.html)  
 
 [🔼 Voltar ao topo](#direitos-da-pessoa-adulta-autista)

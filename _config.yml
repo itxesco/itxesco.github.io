@@ -12,6 +12,9 @@ permalink: pretty
 markdown: kramdown
 highlighter: rouge
 
+# Layout customizado (sem tema padrão do GitHub Pages)
+theme: null
+
 # Arquivos/pastas a serem ignorados na build
 exclude:
   - .rvmrc
@@ -26,7 +29,7 @@ exclude:
   - node_modules/
   - vendor/
 
-# Desativar recursos não utilizados (comentários, analytics, compartilhamento)
+# Desativar recursos não utilizados
 comments:
   provider: false
 

@@ -1,10 +1,10 @@
 ---
-
-
-layout: page
+layout: default
 title: O Que é Autismo?
+permalink: /pages/autismo/oqueeotea.html
 description: Uma visão detalhada sobre o espectro autista, inteligência, comunicação e identidade.
 ---
+
 ### 🧩 O Que é o TEA?
 
 TEA significa Transtorno do Espectro Autista e se você chegou até aqui, provavelmente já viu diversas listas de características, falando sobre contato visual, movimentos repetitivos e até mesmo uma suposta falta de empatia. **Não vou perder seu tempo repetindo essa narrativa.**  
@@ -64,7 +64,7 @@ Autistas costumam ser descritos como tendo dificuldades na comunicação, mas is
 
 - É um erro comum considerar que  **autistas não sabem se expressar**. Eu falo muito bem, desde que superei o atraso na fala na infância, entretanto, há autistas que são considerados como **não-verbais** e outros que são apenas tímidos, mesmo.  
 
-- O fato de um autista **falar bem** é diferente de ele **conseguir se comunicar adequadamente**. As vezes o autista nem fala assim tão bem, ele só fala melhor que você, mesmo.    
+- O fato de um autista **falar bem** é diferente de ele **conseguir se comunicar adequadamente**. Às vezes o autista nem fala assim tão bem, ele só fala melhor que você, mesmo.    
 
 - Muitas pessoas autistas podem falar, mas **não conseguem em todas as situações**. Esse fenômeno, chamado **mutismo seletivo**, ocorre devido a ansiedade ou trauma.  
 
@@ -90,8 +90,8 @@ Muitas pessoas adultas estão recebendo o diagnóstico agora, porque  **não for
 ✔️ Adultos acima dos 20 anos  
 ✔️ Mulheres e pessoas não-binárias  
 ✔️ Pessoas racializadas (negras, indígenas)  
-✔️ Pessoas que conseguem manter um emprego ou imitar habilidades sociais (mascaramento ou camuflagem social)
-✔️ Classe Trabalhadora
+✔️ Pessoas que conseguem manter um emprego ou imitar habilidades sociais (mascaramento ou camuflagem social)  
+✔️ Classe Trabalhadora  
 
 🔗 **Saiba mais:**  
 - [Barreiras no Diagnóstico do Autismo](#)  

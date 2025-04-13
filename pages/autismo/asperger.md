@@ -1,8 +1,9 @@
 ---
+layout: default
 title: "Asperger"
-layout: page
+description: Página sobre a antiga classificação da Síndrome de Asperger e sua relação com o Transtorno do Espectro Autista (TEA).
+permalink: /pages/autismo/asperger.html
 ---
-
 
 ---
 

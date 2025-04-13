@@ -1,9 +1,9 @@
 ---
 title: "Habilidades"
-layout: page
+layout: default
 permalink: /pages/autismo/habilidades.html
+description: Altas Habilidades e Superdotação no TEA — diferenças, perfis, características e necessidades educacionais de autistas com talentos específicos.
 ---
-
 
 ### 🧠 O que são  Altas Habilidades?  
 
@@ -26,6 +26,7 @@ Embora variem de pessoa para pessoa, algumas características comuns incluem:
 💡 **Lembrando que nem todo autista com altas habilidades tem QI elevado ou superdotação global. Algumas de suas habilidades podem ser extremamente especializadas.**  
 
 ---
+
 ### 🌟 Superdotação no TEA
 
 Ela ocorre quando uma pessoa autista apresenta habilidades cognitivas significativamente acima da média, geralmente com um **QI acima de 130**. No entanto, a superdotação em autistas pode ser **desigual**, com habilidades excepcionais em algumas áreas e desafios em outras.
@@ -51,7 +52,7 @@ Embora os dois termos sejam frequentemente confundidos, há diferenças importan
 - Mundo Kids ABA. "Autismo x Superdotação: Diferenças e Características Sobrepostas." Disponível em:  [oai_citation_attribution:0‡mundokidsaba.com.br](https://www.mundokidsaba.com.br/ver/autismo-x-superdotacao-diferencas-e-caracteristicas-sobrepostas?utm_source=chatgpt.com)
 - Gisele Neuropsicóloga. "Semelhanças e Diferenças entre Superdotação e Autismo Leve." Disponível em:  [oai_citation_attribution:1‡giseleneuropsicologa.com](https://www.giseleneuropsicologa.com/post/semelhan%C3%A7as-entre-superdota%C3%A7%C3%A3o-e-autismo-leve?utm_source=chatgpt.com)
 
-💡 **Vale repetir:nem toda pessoa autista com altas habilidades é superdotada, pois a superdotação requer um desempenho elevado em diversas áreas e não apenas um talento isolado.**
+💡 **Vale repetir: nem toda pessoa autista com altas habilidades é superdotada, pois a superdotação requer um desempenho elevado em diversas áreas e não apenas um talento isolado.**
 
 ---
 
@@ -114,6 +115,4 @@ Apesar das altas habilidades, essas pessoas podem enfrentar dificuldades em:
 - 🔹 [Mitos sobre o TEA](/pages/autismo/mitos.html)  
 - 🔹 [TEA na Cultura Pop](/pages/autismo/namidia.html)  
 
-
-
-🔝 [**Voltar ao topo**](#🧠-altas-habilidades-no-autismo)
+🔝 [**Voltar ao topo**](#🧠-o-que-são--altas-habilidades)

@@ -1,80 +1,84 @@
 ---
-title: "Pesquisa Afro"
-layout: page
----
-
-
----
-title: Afrofuturismo
+layout: default
+title: "Afrofuturismo"
 description: O conceito de Afrofuturismo e suas manifestações culturais na ficção, arte e música.
+permalink: /pages/pesquisa/pesquisa_afro.html
 ---
 
-# Menu de Navegação
+## 🌌 Afrofuturismo
 
-- [Afrofuturismo](/pages/pesquisa/pesquisa_afro.html)
-- [Educação Antirracista](/pages/pesquisa/pesquisa_edu.html)
-- [Histórias em Quadrinhos e Educação](/pages/pesquisa/pesquisa_hq.html)
-- [Jogos e Educação](/pages/pesquisa/pesquisa_jogos.html)
+O **Afrofuturismo** é uma estética, uma prática cultural e uma forma de imaginar o futuro a partir das experiências da diáspora africana. O termo foi usado pela primeira vez em 1994 pelo crítico cultural **Mark Dery**, que o definiu como:
 
----
-
-# Afrofuturismo {#afrofuturismo}
+> "Ficção especulativa de assuntos afro-americanos, que diz respeito às preocupações afro-americanas no contexto da tecnocultura do século XX e, de um modo mais geral, à resignificação afro-americana das imagens de tecnologia e aprimoramentos protéticos futurísticas."  
+> — [(Dery, 1994)](https://www.jstor.org/stable/20719430?seq=1)
 
 ![Afrofuturismo](https://itxesco.github.io/assets/figuras/afro/afro_revolt.jpg)
 
-Em 1993, o filme **[Flame Wars: The Discourse of Cyberculture](https://www.wired.com/1995/01/flame-wars/)**, do crítico cultural **[Mark Dery](https://en.wikipedia.org/wiki/Mark_Dery)**, apresentou o termo **Afrofuturismo** ao se referir a:
+---
 
-> "Ficção especulativa de assuntos afro-americanos, que diz respeito às preocupações afro-americanas no contexto da tecnocultura do século XX e, de um modo mais geral, à resignificação afro-americana das imagens de tecnologia e aprimorações protéticas futurísticas."  
-> [(DERY, 1994, pg. 136)](https://www.jstor.org/stable/20719430?seq=1)
+### 📚 O que é o Afrofuturismo?
 
-Segundo **[Lisa Yaszek](https://www.iac.gatech.edu/people/faculty/yaszek)**, essa definição deve ser interpretada em duas partes:
+Segundo a pesquisadora **Lisa Yaszek**, o Afrofuturismo:
 
-> "Em sua relação com a ficção científica como gênero estético, o **Afrofuturismo** não deve ser pensado como um simples gênero de ficção científica."
+> "Não deve ser pensado como um simples gênero de ficção científica."  
+> — [(Yaszek, 2006)](https://itxesco.github.io/assets/afrofuturismo/Afrofuturism_science_fiction_and_the_his.pdf)
 
-O **Afrofuturismo** representa um modo estético abrangente, reunindo diferentes artistas e seus trabalhos em diversas mídias, unidos pelo interesse comum de projetar um **futuro negro** a partir de experiências diaspóricas [(YASZEK, 2006)](https://itxesco.github.io/assets/afrofuturismo/Afrofuturism_science_fiction_and_the_his.pdf).  
+Ele é uma **plataforma estética ampla** que envolve múltiplas linguagens: música, literatura, cinema, artes visuais, moda e tecnologia — tudo com a missão de projetar um **futuro negro**, ancorado em memórias históricas e experiências contemporâneas.
+
+---
+
+### 🧠 Definições Importantes
+
+Segundo **Ytasha Womack**:
+
+> "Uma intersecção entre a imaginação, a tecnologia, o futuro e a libertação."  
+> — [(Womack, 2013)](https://itxesco.github.io/assets/afrofuturismo/The_Languages_of_Afrofuturism.pdf)
+
+![Capa do livro Afrofuturismo](https://itxesco.github.io/assets/figuras/afro/capa_afrofuturismo.jpg)
+
+Para **Adriano Elia**:
+
+> "Um movimento cultural transdisciplinar, baseado na incomum conexão entre a marginalidade dos supostamente 'primitivos' povos da diáspora africana e a tecnologia 'moderna' e a ficção científica."  
+> — [(Elia, 2014)](https://itxesco.github.io/assets/afrofuturismo/The_Languages_of_Afrofuturism.pdf)
+
+---
+
+### 🎨 Influências e Referências
+
+O Afrofuturismo se manifesta em diversos campos:
+
+- 🖌️ **Jean-Michel Basquiat** — Artes visuais  
+- 🎷 **Sun Ra** — Música e performance  
+- 📖 Escritores:  
+  - **W.E.B. Du Bois**  
+  - **Ralph Ellison**  
+  - **Octavia Butler**
 
 ![Heróis da Milestone](https://itxesco.github.io/assets/figuras/afro/milestone.jpg)
 
-## Definições do Afrofuturismo
-
-**[Ytasha Womack](https://www.chicagoreviewpress.com/afrofuturism-products-9781613747964.php)** apresenta outra definição para o **Afrofuturismo**:
-
-> "Uma intersecção entre a imaginação, a tecnologia, o futuro e a libertação." [(WOMACK, 2013, pg. 9)](https://itxesco.github.io/assets/afrofuturismo/The_Languages_of_Afrofuturism.pdf)
-
-![Capa do Livro Afrofuturismo](https://itxesco.github.io/assets/figuras/afro/capa_afrofuturismo.jpg)
-
-O **Afrofuturismo** pode ser entendido como:
-
-> "Um movimento cultural transdisciplinar, baseado na incomum conexão entre a marginalidade dos supostamente 'primitivos' povos da diáspora africana e a tecnologia 'moderna' e a ficção científica."  
-> [(ELIA, 2014)](https://itxesco.github.io/assets/afrofuturismo/The_Languages_of_Afrofuturism.pdf)
-
-## Influências e Manifestações
-
-Em seu artigo sobre a definição do **Afrofuturismo**, **[Adriano Elia](https://host.uniroma3.it/docenti/elia/)** considera suas diferentes linguagens, abordando artistas como:
-
-- A arte de **[Jean-Michel Basquiat](https://www.guiadasartes.com.br/jean-michel-basquiat/biografia)**
-- A música de **[Sun Ra](http://www.sunraarkestra.com)**
-- A literatura de:
-  - **[W.E.B. Du Bois](https://en.wikipedia.org/wiki/W._E._B._Du_Bois)**
-  - **[Ralph Ellison](https://en.wikipedia.org/wiki/Ralph_Ellison)**
-  - **[Octavia Butler](https://en.wikipedia.org/wiki/Octavia_E._Butler)**
-
 ![Pantera Negra](https://itxesco.github.io/assets/figuras/afro/blackpanther.jpg)
 
-## O Afrofuturismo como Movimento Cultural
+---
 
-O **Afrofuturismo** suscita diferentes definições, mas todas compartilham um elo em comum:  
+### 🌍 O Afrofuturismo como Movimento Cultural
 
-> **Os temas de recuperação, libertação negra, revisão do passado e previsões de um futuro através de uma lente cultural negra.**  
+O Afrofuturismo articula:
 
-Ele se apresenta como uma forma de **arte prática e metodológica**, permitindo que pessoas negras se vejam **representadas em uma visão de futuro**, apesar dos desafios históricos e sociais.  
-O movimento apela para a **estética e ideias da ficção científica** para refletir sobre a marginalização do povo africano na diáspora, cuja história de **500 anos de colonialismo, racismo e segregação** resultou em uma relação disjuntiva com o conceito de **"lar"**.
+> **Recuperação histórica, libertação negra, resgate de ancestralidades, projeções de futuro e reelaboração estética.**
 
-O **Afrofuturismo** reimagina o passado, vislumbra o futuro e inspira novas narrativas.  
-Se a **vida realmente imitar a arte**, o futuro pertencerá à **África e aos seus contadores de histórias**.
+Ele se opõe ao apagamento da memória negra, propondo **reimaginar o passado, empoderar o presente e reinventar o futuro**.  
+Por meio da ficção científica, da arte e da imaginação especulativa, o movimento dá visibilidade à experiência negra em um mundo marcado por **500 anos de colonialismo, racismo e exclusão**.
+
+> ✊🏾 Se a vida realmente imitar a arte, o futuro será negro.
 
 ---
-📖 **Referências e leituras complementares:**
-- [Afrofuturism: The World of Black Sci-Fi and Fantasy Culture - Ytasha Womack](https://www.chicagoreviewpress.com/afrofuturism-products-9781613747964.php)
-- [Lisa Yaszek - Afrofuturism, Science Fiction, and the History of the Future](https://itxesco.github.io/assets/afrofuturismo/Afrofuturism_science_fiction_and_the_his.pdf)
-- [The Languages of Afrofuturism - Adriano Elia](https://itxesco.github.io/assets/afrofuturismo/The_Languages_of_Afrofuturism.pdf)
+
+### 🔗 Leitura Complementar
+
+- [Afrofuturism: The World of Black Sci-Fi and Fantasy Culture – Ytasha Womack](https://www.chicagoreviewpress.com/afrofuturism-products-9781613747964.php)  
+- [Afrofuturism, Science Fiction, and the History of the Future – Lisa Yaszek](https://itxesco.github.io/assets/afrofuturismo/Afrofuturism_science_fiction_and_the_his.pdf)  
+- [The Languages of Afrofuturism – Adriano Elia (PDF)](https://itxesco.github.io/assets/afrofuturismo/The_Languages_of_Afrofuturism.pdf)
+
+---
+
+📌 [🔼 Voltar ao topo](#top)

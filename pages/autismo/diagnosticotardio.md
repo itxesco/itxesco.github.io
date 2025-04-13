@@ -1,9 +1,9 @@
 ---
+layout: default
 title: "Diagnosticotardio"
-layout: page
 permalink: /pages/autismo/diagnosticotardio.html
+description: Diagnóstico tardio no TEA — causas, sinais e benefícios de receber um diagnóstico na vida adulta.
 ---
-
 
 ---
 

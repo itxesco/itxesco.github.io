@@ -1,10 +1,9 @@
 ---
 title: "Autismo"
-layout: page
+layout: default
+permalink: /pages/autismo/oqueehtea.html
+description: Página introdutória explicando o que é o Transtorno do Espectro Autista (TEA), com definições oficiais, histórico e opções de apoio e tratamento.
 ---
-
-
-
 
 - [O que é o TEA](/pages/autismo/autismo.html)
 - [Diagnóstico Tardio](/pages/autismo/teadultos.html)

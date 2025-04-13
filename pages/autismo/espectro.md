@@ -1,10 +1,8 @@
 ---
 title: "Index Tea"
-layout: page
+layout: default
 permalink: /pages/autismo/espectro.html
----
-
-
+description: Explicação do conceito de espectro no autismo, níveis de suporte e características comuns do TEA.
 ---
 
 ## 🔹 O Autismo é um Espectro
@@ -39,7 +37,6 @@ O **Transtorno do Espectro Autista (TEA)** se manifesta de maneira única em cad
 ---
 
 Os **níveis de suporte** não determinam a **capacidade intelectual** ou os talentos de uma pessoa autista, mas ajudam a compreender suas necessidades individuais e garantir um suporte adequado para sua inclusão e bem-estar. 💙♾️
-
 
 ## 🔹 Principais Características do TEA
 

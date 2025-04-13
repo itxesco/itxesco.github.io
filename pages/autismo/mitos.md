@@ -1,9 +1,9 @@
 ---
 title: "Mitos"
-layout: page
+layout: default
 permalink: /pages/autismo/mitos.html
+description: Desmistificando ideias equivocadas sobre o autismo. Conheça e confronte os principais mitos sobre o TEA com base na perspectiva autista.
 ---
-
 
 ### Navegação
 
@@ -28,16 +28,16 @@ A mídia frequentemente dá mais espaço para narrativas contadas por pessoas qu
 
 ### Índice
 
-1. [Autismo é uma epidemia](#equivoco10)
-2. [A maioria dos autistas são "de baixa funcionalidade"](#equivoco9)
-3. [O autismo pode ser tratado por ________ (insira aqui um tratamento não aprovado)](#equivoco8)
-4. [O autismo é causado pelo mercúrio](#equivoco7)
-5. [Autistas não verbais são severamente mentalmente prejudicados](#equivoco6)
-6. [Autistas não podem ser gênios](#equivoco5)
-7. [Temos uma boa compreensão do autismo](#equivoco4)
-8. [Autistas querem ser curados](#equivoco3)
-9. [Pessoas com autismo são iguais](#equivoco2)
-10. [Autistas são representados por organizações como Autism Speaks e Cure Autism Now](#equivoco1)
+1. [Autismo é uma epidemia](#equivoco10)  
+2. [A maioria dos autistas são "de baixa funcionalidade"](#equivoco9)  
+3. [O autismo pode ser tratado por ________ (insira aqui um tratamento não aprovado)](#equivoco8)  
+4. [O autismo é causado pelo mercúrio](#equivoco7)  
+5. [Autistas não verbais são severamente mentalmente prejudicados](#equivoco6)  
+6. [Autistas não podem ser gênios](#equivoco5)  
+7. [Temos uma boa compreensão do autismo](#equivoco4)  
+8. [Autistas querem ser curados](#equivoco3)  
+9. [Pessoas com autismo são iguais](#equivoco2)  
+10. [Autistas são representados por organizações como Autism Speaks e Cure Autism Now](#equivoco1)  
 
 ---
 

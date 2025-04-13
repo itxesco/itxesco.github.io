@@ -21,13 +21,16 @@ O **Role-Playing Game (RPG)**, ou **Jogo de Interpretação de Papéis**, é uma
 
 *Capa da edição original do Dungeons & Dragons.*
 
-Os RPGs surgiram nos Estados Unidos na década de 1970. Em 1974, **Gary Gygax** e **Dave Arneson** lançaram o **Dungeons & Dragons (D&D)**, considerado o primeiro RPG comercial. Inspirado em jogos de guerra e literatura fantástica, o D&D estabeleceu as bases para inúmeros sistemas que se seguiram. No Brasil, o RPG ganhou popularidade nos anos 1980 e 1990, com a tradução de títulos internacionais e o desenvolvimento de sistemas nacionais.  
-[🔗 Brasil Escola](https://brasilescola.uol.com.br/curiosidades/rpg.htm?utm_source=chatgpt.com)  
-[🔗 Ordem Paranormal](https://crisordemparanormal.com/blog/historia-do-rpg-uma-viagem-pela-evolucao-do-genero?utm_source=chatgpt.com)
+Os RPGs surgiram nos Estados Unidos na década de 1970. Em 1974, **Gary Gygax** e **Dave Arneson** lançaram o **Dungeons & Dragons (D&D)**, considerado o primeiro RPG comercial. Inspirado em jogos de guerra e literatura fantástica, o D&D estabeleceu as bases para inúmeros sistemas que se seguiram.
+
+No Brasil, o RPG ganhou popularidade nos anos 1980 e 1990, com a tradução de títulos internacionais e o desenvolvimento de sistemas nacionais.
+
+🔗 [Brasil Escola](https://brasilescola.uol.com.br/curiosidades/rpg.htm?utm_source=chatgpt.com)  
+🔗 [Ordem Paranormal](https://crisordemparanormal.com/blog/historia-do-rpg-uma-viagem-pela-evolucao-do-genero?utm_source=chatgpt.com)
 
 ---
 
-## 🎲 Principais Sistemas de RPG
+## 🛠️ Principais Sistemas de RPG
 
 ![Livros de RPG variados](imagens/hiperfocos/rpg/mago_feynman.png)
 
@@ -42,7 +45,7 @@ Existem diversos sistemas de RPG, cada um com suas mecânicas e ambientações �
 
 ---
 
-## 📚 Publicações de RPG no Brasil e Seus Cenários
+## 🌍 Publicações de RPG no Brasil
 
 ![Mapa de Arton, cenário de Tormenta](imagens/rpg/mapa_tormenta.jpg)
 
@@ -53,9 +56,9 @@ O Brasil possui uma rica tradição de publicações de RPG, tanto traduções d
 - **Tormenta:** Iniciado como um suplemento na revista **Dragão Brasil**, tornou-se o cenário nacional mais popular, com romances, quadrinhos e um sistema próprio.  
 - **3D&T:** Sistema leve e acessível, ideal para iniciantes, amplamente utilizado em adaptações de animes e games.  
 - **Desafio dos Bandeirantes:** RPG nacional ambientado no Brasil colonial, mesclando história e fantasia.  
-- **Tagmar:** Considerado o primeiro RPG brasileiro, lançado nos anos 1990, com um cenário de fantasia medieval.  
+- **Tagmar:** Considerado o primeiro RPG brasileiro, lançado nos anos 1990, com um cenário de fantasia medieval.
 
-[🔗 Wikipédia – RPG no Brasil](https://pt.wikipedia.org/wiki/Role-playing_game_no_Brasil?utm_source=chatgpt.com)
+🔗 [Wikipédia – RPG no Brasil](https://pt.wikipedia.org/wiki/Role-playing_game_no_Brasil?utm_source=chatgpt.com)
 
 ---
 
@@ -76,7 +79,7 @@ Os RPGs utilizam diversos tipos de dados poliédricos para resolver ações e de
 
 A escolha do dado e o número de rolagens dependem das regras de cada sistema e da ação executada.
 
-[🔗 História dos dados e sistemas – Wikipedia](https://en.wikipedia.org/wiki/History_of_role-playing_games?utm_source=chatgpt.com)
+🔗 [História dos dados e sistemas – Wikipedia](https://en.wikipedia.org/wiki/History_of_role-playing_games?utm_source=chatgpt.com)
 
 ---
 
@@ -88,5 +91,3 @@ Para aprofundar-se em sistemas específicos de RPG, visite as páginas dedicadas
 - [Dungeons & Dragons (D&D)](/pages/index/index_dnd/)
 - [Tormenta](/pages/index/index_tormenta/)
 - [Mundo das Trevas](/pages/index/index_mdt/)
-
----

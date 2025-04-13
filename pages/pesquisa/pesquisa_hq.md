@@ -1,79 +1,98 @@
 ---
-title: Histórias em Quadrinhos
-layout: page
+layout: default
+title: "Histórias em Quadrinhos e Educação"
+description: Pesquisa sobre o uso das histórias em quadrinhos no ensino, sua história, estética e poder formativo.
+permalink: /pages/pesquisa/pesquisa_hq.html
 ---
 
-Meu interesse por essa área mídia vem de um vínculo muito pessoal: aprendi a ler aos **5 anos de idade** com uma revista em quadrinhos do **Homem-Aranha**, publicada pela antiga editora **EBAL**, na sala da casa dos meus avós. Desde então, nunca mais parei de ler histórias em quadrinhos em todas suas variantes, mas meu gênero favorito são os super-heróis.
+## 🦸‍♂️ Histórias em Quadrinhos e Educação
 
-Hoje, sei que as **Histórias em Quadrinhos (HQs)** são um reflexo do **mundo e da sociedade** em que são criadas, pertencendo ao **contexto histórico-cultural** de sua produção. Não são meramente entretenimento, mas  formas de expressão da realidade, influenciadas pela visão de mundo de seus autores **(VERGUEIRO, 2006)**.
+Minha relação com os quadrinhos é afetiva e formativa. Aprendi a ler com **HQs do Homem-Aranha** aos cinco anos de idade, na sala dos meus avós. Desde então, nunca mais parei. As HQs sempre foram mais do que lazer — são cultura, linguagem, história e identidade.
 
-### O que é uma História em Quadrinhos?
+Hoje, compreendo que as **Histórias em Quadrinhos (HQs)** são reflexos do mundo onde foram criadas, espelhos do **contexto histórico, político e social**. Não são meramente entretenimento, mas ferramentas para **formação crítica**.
 
-As HQs são uma forma de **contar histórias visualmente**, baseada em uma ideia simples: **posicionar imagens lado a lado para ilustrar a passagem do tempo**.
+---
+
+### 📚 O que é uma HQ?
+
+As HQs são uma linguagem baseada na combinação de **imagem sequencial e texto**, que constrói **narrativas visuais**.
 
 ![Calvin e Haroldo](https://itxesco.github.io/assets/figuras/hq/calvin.jpg)
 
+> Posicionar imagens lado a lado cria a ilusão de movimento e passagem do tempo — é assim que os quadrinhos contam histórias.
+
 ---
 
-### A Lenda do Menino Amarelo
+### 🟡 A Lenda do Menino Amarelo
 
-No dia **17 de fevereiro de 1895**, o jornal *New York World* publicou a que muitos pesquisadores consideram a **primeira tirinha em quadrinhos**, criada por **Richard F. Outcault**: *The Circus Down Hogan’s Alley*. Embora ainda não contivesse **balões de fala ou pensamento**, a tirinha introduzia o protagonista **The Yellow Kid** (*O Menino Amarelo*), que vestia uma camisola onde sua "fala" aparecia escrita.
+- 📅 **1895** – *The Yellow Kid*, de Richard F. Outcault, é considerado a primeira tira cômica dos EUA.
 
 ![The Yellow Kid](https://itxesco.github.io/assets/figuras/hq/yellow_kid.jpg)
 
-Entretanto, **30 anos antes**, em **1869**, o jornal brasileiro *Vida Fluminense* já publicava uma tira intitulada *As Aventuras de Nhô Quim, ou Impressões de uma Viagem à Corte*, criada pelo italiano **Ângelo Agostini**. A narrativa acompanhava um **caipira que viajava ao Rio de Janeiro**, enquanto *The Yellow Kid* satirizava a vida dos imigrantes em **Nova York**.
+- 🇧🇷 **1869** – No Brasil, Ângelo Agostini publica *Nhô Quim* no jornal *Vida Fluminense* — **30 anos antes** do Yellow Kid.
 
-A disputa sobre a **primeira história em quadrinhos** inclui outros nomes importantes, como:
-- **Rodolphe Töpffer (1799-1846)**, com seu livro *Histoire de Mr. Jabot* (1833).
-- **Katsushika Hokusai (1760-1849)**, que em 1814 utilizou o termo *mangá* para descrever suas ilustrações.
+Outros marcos da história das HQs:
 
-Além disso, existem **elementos de narrativa gráfica** em outras formas de arte, como:
-- **Vitrais de igrejas católicas**, que contam a **Via Sacra** sem necessidade de balões de fala.
-
-![Vitrais](https://itxesco.github.io/assets/figuras/hq/vitrais.jpg)
-
-- **Tapeçaria de Bayeux** (1070-1080), uma sequência de bordados narrativos sobre a conquista normanda da Inglaterra.
-
-![Tapeçaria de Bayeux](https://itxesco.github.io/assets/figuras/hq/tapecaria.jpg)
-
-- **Desenhos pré-históricos em cavernas**, que ilustram cenas do cotidiano humano.
-
-![Arte Rupestre](https://itxesco.github.io/assets/figuras/hq/caverna.jpg)
+- ✍️ **Rodolphe Töpffer (1833)** – *Histoire de Mr. Jabot*  
+- 🖌️ **Hokusai (1814)** – Primeiras menções ao termo *mangá* no Japão
 
 ---
 
-### A Revolução Industrial e o Surgimento dos "Penny Dreadful"
+### 🖼️ Narrativas Gráficas antes das HQs
 
-O **boom industrial da década de 1830**, na Inglaterra, proporcionou mudanças sociais que aumentaram a **alfabetização da classe operária**. Como consequência, surgiram revistas populares como os **Penny Dreadful**, publicações de **baixo custo** com histórias seriadas de suspense e horror.
+| | | |
+|:--:|:--:|:--:|
+| ![Vitrais](https://itxesco.github.io/assets/figuras/hq/vitrais.jpg) <br> *Vitrais medievais* | ![Tapeçaria](https://itxesco.github.io/assets/figuras/hq/tapecaria.jpg) <br> *Tapeçaria de Bayeux* | ![Arte rupestre](https://itxesco.github.io/assets/figuras/hq/caverna.jpg) <br> *Arte rupestre* |
 
-Em **1896**, os **Penny Dreadful** deram origem aos primeiros impressos **Pulp Fiction**, revistas em papel de baixa qualidade que publicavam histórias de **ficção científica e fantasia**, lançando autores como **H.G. Wells, Edgar Rice Burroughs, Isaac Asimov e H.P. Lovecraft**.
-
-Nos EUA, os quadrinhos **evoluíram das tirinhas de jornal para as revistas independentes**, surgindo o conceito de **comic books**.
-
-Em **junho de 1938**, surgiu o **primeiro super-herói** nas páginas da *Action Comics*: **Superman**, marcando o início da **Era de Ouro** das HQs.
+Essas formas de arte já usavam imagens em sequência para narrar eventos — assim como os quadrinhos modernos.
 
 ---
 
-### A Evolução das Eras dos Quadrinhos
+### ⚙️ Indústria, Pulp e Super-Heróis
 
-- **1938-1954 - Era de Ouro**: Popularização dos **Super-Heróis**.
-- **1954 - Seduction of the Innocent**: O livro de **Fredric Wertham** levou à **censura dos quadrinhos** e à criação do *Comics Code Authority*.
-- **1956-1970 - Era de Prata**: Reintrodução de heróis icônicos, como **Flash e Lanterna Verde**.
-- **1970-1985 - Era de Bronze**: HQs abordam temas **sociais e políticos**, com roteiros mais realistas.
-- **1985 - Era Moderna**: Surgem histórias **mais sombrias e complexas**, como *O Cavaleiro das Trevas* e *Watchmen*.
-
-O escritor **Grant Morrison**, em seu livro *Supergods*, argumenta que **1970** não marcou apenas a "Era de Bronze", mas sim o início de uma **"Era Sombria"**, onde quadrinhos passaram a refletir **temas sociais profundos**.
+- 🏭 **Década de 1830 (Reino Unido):** aumento da alfabetização → surgem os **Penny Dreadfuls**
+- 📖 **1896:** surgem os primeiros títulos de **Pulp Fiction** com ficção científica e fantasia
+- 💥 **1938:** nasce **Superman** na *Action Comics #1* → início da **Era de Ouro**
 
 ---
 
-### Referências e Leituras Recomendadas
+### ⏳ As Eras dos Quadrinhos
 
-- **DORFMAN, Ariel; MATTELART, Armand; DE MOYA, Álvaro.** *Para ler o Pato Donald: comunicação de massa e colonialismo*. 2002.
-- **JÚNIOR, Gonçalo.** *A guerra dos gibis: a formação do mercado editorial brasileiro e a censura aos quadrinhos, 1933-1964*. Editora Companhia das Letras, 2004.
-- **RAMOS, Paulo; VERGUEIRO, Waldomiro.** *Quadrinhos na educação*. Editora Contexto, 2013.
-- **EISNER, Will.** *Narrativas gráficas*. São Paulo: Devir, v. 168, 2005.
-- **MCLOUD, Scott.** *Desvendando os quadrinhos*. 2ª ed. 2005.
-- **DANTON, Gian.** *Ciência e quadrinhos*. João Pessoa: Marca de Fantasia, 2005.
-- **DANTON, Gian.** *A divulgação científica nos quadrinhos: análise do caso Watchmen*. [Disponível aqui](http://watchmencaos.blogspot.com/2014/).
+| Era | Características |
+|-----|-----------------|
+| 🟡 **Era de Ouro (1938–1954)** | Surgimento dos super-heróis |
+| 🛑 **1954 – Censura e Comics Code** | Após o livro *Seduction of the Innocent* |
+| ⚡ **Era de Prata (1956–1970)** | Reintrodução de heróis com tons otimistas |
+| 🧠 **Era de Bronze (1970–1985)** | Temas sociais, mais realismo |
+| 🌑 **Era Moderna (1985–hoje)** | Narrativas sombrias e complexas (*Watchmen*, *Cavaleiro das Trevas*) |
+
+> Segundo **Grant Morrison**, 1970 marca a verdadeira **"Era Sombria"** dos quadrinhos — reflexo das tensões sociais no mundo real.
 
 ---
+
+### 🎓 HQs como Ferramenta Pedagógica
+
+As HQs possibilitam:
+
+- Abordar temas **sociais, éticos e históricos**
+- Trabalhar **letramento visual**
+- Explorar **representações culturais**
+- Criar conexões com as vivências dos alunos
+
+Essa linguagem visual pode ser explorada em projetos interdisciplinares, **motivando o pensamento crítico e criativo**.
+
+---
+
+### 📖 Leituras Recomendadas
+
+- **DORFMAN, Ariel; MATTELART, Armand.** *Para ler o Pato Donald*  
+- **JÚNIOR, Gonçalo.** *A guerra dos gibis*  
+- **RAMOS, Paulo; VERGUEIRO, Waldomiro.** *Quadrinhos na educação*  
+- **EISNER, Will.** *Narrativas gráficas*  
+- **McCLOUD, Scott.** *Desvendando os quadrinhos*  
+- **DANTON, Gian.** *Ciência e quadrinhos*  
+- *A divulgação científica nos quadrinhos: o caso Watchmen* – [Leia aqui](http://watchmencaos.blogspot.com/2014/)
+
+---
+
+📌 [🔼 Voltar ao topo](#top)

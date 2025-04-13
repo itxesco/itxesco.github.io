@@ -1,9 +1,9 @@
 ---
 title: "Identificadao"
-layout: page
+layout: default
 permalink: /pages/autismo/identificacao.html
+description: Símbolos do autismo: infinito colorido, cordão de girassol, quebra-cabeça e representações na neurodiversidade.
 ---
-
 
 ### Navegação
 

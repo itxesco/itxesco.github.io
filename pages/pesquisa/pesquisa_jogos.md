@@ -1,90 +1,112 @@
 ---
-title: "Pesquisa Jogos"
-layout: page
----
-
-
----
-layout: page
-title: RPG & Educação
+layout: default
+title: "Jogos e Educação"
 description: Pesquisa sobre RPG e seu impacto na educação.
+permalink: /pages/pesquisa/pesquisa_jogos.html
 ---
 
-# Menu de Navegação
+## 🎲 Jogos e Educação
 
-- [Afrofuturismo](/pages/pesquisa/pesquisa_afro.html)
-- [Educação Antirracista](/pages/pesquisa/pesquisa_edu.html)
-- [Histórias em Quadrinhos e Educação](/pages/pesquisa/pesquisa_hq.html)
-- [Jogos e Educação](/pages/pesquisa/pesquisa_jogos.html)
+<div class="text-base leading-relaxed text-gray-800 space-y-4">
 
----
+<p>
+Pesquisar o uso de <strong>jogos na educação</strong>, especialmente no ensino de <strong>ciências e matemática</strong>, é essencial devido ao <strong>potencial transformador</strong> dessa abordagem. Jogos de tabuleiro, cartas ou interpretação de papéis proporcionam um ambiente <strong>interativo e dinâmico</strong>, incentivando os alunos a explorar conceitos complexos de forma <strong>lúdica e prática</strong>.
+</p>
 
-# Jogos e Educação {#jogos}
+<p>No ensino de ciências, jogos podem <strong>simular experimentos</strong> e fenômenos naturais, possibilitando a <strong>observação e interação</strong> com processos que seriam difíceis de reproduzir em uma sala de aula tradicional.</p>
 
-Pesquisar o uso de **jogos na educação**, especialmente no ensino de **ciências e matemática**, é essencial devido ao **potencial transformador** dessa abordagem. Jogos de tabuleiro, cartas ou interpretação de papéis proporcionam um ambiente **interativo e dinâmico**, incentivando os alunos a explorar conceitos complexos de forma **lúdica e prática**.
+<ul class="list-disc list-inside">
+  <li><strong>Aprendizagem ativa:</strong> alunos participam do processo educativo.</li>
+  <li><strong>Pensamento crítico e resolução de problemas:</strong> especialmente relevante em matemática.</li>
+  <li><strong>Personalização do aprendizado:</strong> jogos adaptáveis a diferentes níveis.</li>
+  <li><strong>Feedback imediato:</strong> permite a identificação e correção de erros.</li>
+  <li><strong>Habilidades sociais e colaborativas:</strong> incentivo ao trabalho em equipe.</li>
+</ul>
 
-No ensino de **ciências**, jogos podem **simular experimentos** e fenômenos naturais, possibilitando a **observação e interação** com processos que seriam difíceis de reproduzir em uma sala de aula tradicional.  
-
-Além disso, os jogos promovem:
-- **Aprendizagem ativa**: Os alunos não são apenas receptores passivos de informação, mas participantes ativos no processo educativo.
-- **Pensamento crítico e resolução de problemas**: Especialmente no ensino de matemática, onde essas habilidades são fundamentais.
-- **Personalização do aprendizado**: Jogos podem ser adaptados ao ritmo e nível de habilidade de cada aluno, tornando a educação mais inclusiva.
-- **Feedback imediato**: Permite que os alunos **identifiquem e corrijam erros rapidamente**.
-- **Habilidades sociais e colaborativas**: Muitos jogos são projetados para serem jogados em grupo, incentivando a comunicação e o trabalho em equipe.
-
----
-
-## O RPG na Educação
-
-O **Role-Playing Game (RPG)** tem uma característica essencialmente **cooperativa**: os jogadores devem trabalhar juntos para vencer o jogo, promovendo **colaboração e interação social**.  
-
-No Brasil, o primeiro a destacar seu **potencial educativo** foi o psicólogo **Alfeu Marcatto**, em seu livro *Saindo do Quadro*. Desde então, o **RPG tem sido cada vez mais utilizado por professores** como uma ferramenta pedagógica poderosa.
-
-Algumas **competências desenvolvidas** pelo uso do RPG na educação incluem:
-- 🧩 **Resolução de situações-problema**
-- 🔬 **Aplicação de conceitos em situações práticas**
-- 📚 **Interdisciplinaridade**
-- 🗣️ **Expressão oral**
-- 🤝 **Empatia**
-- 🌎 **Respeito às diferenças**
-
-### A História do RPG na Educação no Brasil
-
-Após a chegada do **RPG ao Brasil em larga escala**, por volta de **1993**, muitos jogadores se tornaram professores e começaram a **utilizar o jogo como estratégia de ensino**. Esse movimento culminou na realização do **1º Simpósio de RPG e Educação** em **maio de 2002**, organizado pela ONG educativa **[Ludus Culturalis](www.rpgeducacao.com.br)**.
-
-![Jornal do Campus](https://itxesco.github.io/assets/figuras/rpg/einstein.jpg)
-
-Cada vez mais, **professores em todo o Brasil têm adotado o RPG como ferramenta pedagógica**. A seguir, algumas **referências essenciais** nos estudos sobre essa prática:
+</div>
 
 ---
 
-## Referências e Leituras Complementares
+## 🧙‍♂️ O RPG na Educação
 
-📖 **BITTENCOURT, João Ricardo; GIRAFFA, Lucia Maria.**  
-*[Role-playing games, educação e jogos computadorizados na cibercultura](https://d1wqtxts1xzle7.cloudfront.net/49291500/historiapaper03.pdf?1475417856=&response-content-disposition=inline%3B+filename%3DRole_Playing_Games_Educacao_e_Jogos_Comp.pdf&Expires=1607975730&Signature=CPwz~-sLxvf1hF41gTd0tpJQqQeX2CFYOo-H59GY05AGokUzXKZDjYJzc5nmgo9G1-UNGauCJxb-NmFzU1efebdgbXeGfcbivbHDLyMAlpboign4DO5roW-p2-mkQJKi5ClTA3D1fAVo3EU6cnT3bgUG2u6Nbo3KIUwtIKhKmcVa4u~9LBRlWVuG6zIZfqQjHWhc5jtoXbtY0HIHFYGZhMT3YeppBEH8Y7t6pqqH3Si5kXdsRw3Iag2h6828lH8u6FJzThXiXWlBXEv181spkmUC3Wv9B-ipPu0WZFqixFb1bVTTZQDPMt2wCmC4zIW~SyEpKw5CGTv98zL6kx9~4w__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA) 📥  
+<div class="text-base leading-relaxed text-gray-800 space-y-4">
 
-📖 **CABALERO, S. X.; MATTA, Alfredo Eurico Rodrigues.**  
-*[O jogo RPG visto como uma comunidade de aprendizagem](http://www.comunidadesvirtuais.pro.br/seminario2/trabalhos/suelixavier_alfredoeurico.pdf) 📥  
+<p>
+O <strong>Role-Playing Game (RPG)</strong> tem uma característica essencialmente <strong>cooperativa</strong>: os jogadores devem trabalhar juntos para vencer desafios, promovendo <strong>colaboração e interação social</strong>.
+</p>
 
-📖 **FREITAS, Leandro Carlos Lima; SITKO, Camila Maria; DAS CHAGAS, Maria Liduína.**  
-*[Panorama do RPG (Role-Playing Game) no Ensino de Física no período de 2015-2019](http://periodicos.unespar.edu.br/index.php/ensinoepesquisa/article/view/3693) 📥  
+<p>
+No Brasil, o primeiro a destacar seu <strong>potencial educativo</strong> foi o psicólogo <strong>Alfeu Marcatto</strong>, com o livro <em>Saindo do Quadro</em>. Desde então, o RPG tem sido cada vez mais utilizado como <strong>ferramenta pedagógica</strong>.
+</p>
 
-📖 **GRANDO, Anita; TAROUCO, Liane Margarida Rockenbach.**  
-*[O uso de jogos educacionais do tipo RPG na educação](https://www.seer.ufrgs.br/renote/article/viewFile/14403/8308) 📥  
+<p><strong>Competências desenvolvidas com o RPG:</strong></p>
 
-📖 **JÚNIOR, Francisco de Assis Nascimento; PIETROCOLA, Maurício.**  
-*[O papel do RPG no ensino de Física](https://sites.usp.br/nupic/wp-content/uploads/sites/293/2016/05/Francisco_de_Assis_Nascimento_Junior_O_PAPEL_DO_RPG.pdf) 📥  
+<ul class="list-disc list-inside">
+  <li>🧩 Resolução de situações-problema</li>
+  <li>🔬 Aplicação de conceitos em situações práticas</li>
+  <li>📚 Interdisciplinaridade</li>
+  <li>🗣️ Expressão oral</li>
+  <li>🤝 Empatia</li>
+  <li>🌎 Respeito às diferenças</li>
+</ul>
 
-📖 **NASCIMENTO, F.; PIASSI, L. P. C.**  
-*[Role-Playing Games nas Aulas de Física](https://itxesco.github.io/assets/articles/Role-Playing_Games_nas_Aulas_de_Fsica.pdf) 📥  
-
-📖 **VASQUES, Rafael Carneiro.**  
-*[As potencialidades do RPG (Role Playing Game) na educação escolar](https://repositorio.unesp.br/handle/11449/90316) 📥  
+</div>
 
 ---
 
-🎲 **O RPG se mostra uma poderosa ferramenta de aprendizado, promovendo não apenas o ensino de conteúdos acadêmicos, mas também habilidades sociais e emocionais. Seu impacto no ensino de ciências e matemática já é amplamente estudado, e seu uso na educação continua a crescer!**
+## 📜 História do RPG Educativo no Brasil
 
+<div class="text-base leading-relaxed text-gray-800 space-y-4">
 
+<p>
+A partir de <strong>1993</strong>, com a popularização do RPG no país, muitos jogadores se tornaram professores e passaram a <strong>utilizar o jogo como recurso didático</strong>.
+</p>
 
-⸻
+<p>
+Em <strong>2002</strong>, ocorreu o <strong>1º Simpósio de RPG e Educação</strong>, promovido pela ONG <a href="http://www.rpgeducacao.com.br" class="text-blue-700 underline">Ludus Culturalis</a>, marco importante no reconhecimento do RPG como <strong>prática educativa</strong>.
+</p>
+
+<p class="text-center">
+  <img src="https://itxesco.github.io/assets/figuras/rpg/einstein.jpg" alt="Jornal do Campus com uso de RPG" class="rounded-xl shadow-md w-full max-w-2xl mx-auto">
+</p>
+
+</div>
+
+---
+
+## 📚 Referências e Leituras Complementares
+
+<div class="text-sm text-gray-700 leading-relaxed space-y-3">
+
+- <a href="https://d1wqtxts1xzle7.cloudfront.net/49291500/historiapaper03.pdf" class="text-blue-700 underline font-medium">BITTENCOURT, João Ricardo; GIRAFFA, Lucia Maria.</a> <br/>
+  <em>Role-playing games, educação e jogos computadorizados na cibercultura.</em>
+
+- <a href="http://www.comunidadesvirtuais.pro.br/seminario2/trabalhos/suelixavier_alfredoeurico.pdf" class="text-blue-700 underline font-medium">CABALERO, S. X.; MATTA, Alfredo Eurico Rodrigues.</a> <br/>
+  <em>O jogo RPG visto como uma comunidade de aprendizagem.</em>
+
+- <a href="http://periodicos.unespar.edu.br/index.php/ensinoepesquisa/article/view/3693" class="text-blue-700 underline font-medium">FREITAS, L. C. L.; SITKO, C. M.; DAS CHAGAS, M. L.</a> <br/>
+  <em>Panorama do RPG no Ensino de Física (2015-2019).</em>
+
+- <a href="https://www.seer.ufrgs.br/renote/article/viewFile/14403/8308" class="text-blue-700 underline font-medium">GRANDO, Anita; TAROUCO, L. M. R.</a> <br/>
+  <em>O uso de jogos educacionais do tipo RPG na educação.</em>
+
+- <a href="https://sites.usp.br/nupic/wp-content/uploads/sites/293/2016/05/Francisco_de_Assis_Nascimento_Junior_O_PAPEL_DO_RPG.pdf" class="text-blue-700 underline font-medium">JÚNIOR, F. A. N.; PIETROCOLA, M.</a> <br/>
+  <em>O papel do RPG no ensino de Física.</em>
+
+- <a href="https://itxesco.github.io/assets/articles/Role-Playing_Games_nas_Aulas_de_Fsica.pdf" class="text-blue-700 underline font-medium">NASCIMENTO, F.; PIASSI, L. P. C.</a> <br/>
+  <em>Role-Playing Games nas Aulas de Física.</em>
+
+- <a href="https://repositorio.unesp.br/handle/11449/90316" class="text-blue-700 underline font-medium">VASQUES, Rafael Carneiro.</a> <br/>
+  <em>As potencialidades do RPG na educação escolar.</em>
+
+</div>
+
+---
+
+<p class="mt-8 text-center text-base text-gray-800">
+🎲 O RPG se mostra uma poderosa ferramenta de aprendizado — promovendo o ensino de conteúdos acadêmicos, habilidades sociais e emocionais.
+</p>
+
+<p class="text-right text-sm mt-6">
+  <a href="#top" class="text-blue-700 underline">🔼 Voltar ao topo</a>
+</p>
