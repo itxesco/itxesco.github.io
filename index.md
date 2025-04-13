@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Início
 description: Página inicial do site de Itxesco - Ensino, Pesquisa, Extensão e mais.
 ---
