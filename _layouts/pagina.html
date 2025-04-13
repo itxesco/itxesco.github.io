@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{ page.title }}</title>
+    <meta name="description" content="{{ page.description }}" />
+
+    <!-- Tailwind CSS via CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            colors: {
+              primary: '#1a1a1a', // preto suave
+              secondary: '#e50914', // vermelho vibrante estilo DC
+              background: '#f4f4f4',
+              "text-base": '#333333',
+            },
+            fontFamily: {
+              sans: ['Inter', 'sans-serif']
+            }
+          }
+        }
+      };
+    </script>
+
+    <!-- Fonte moderna -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  </head>
+
+  <body class="bg-background text-text-base font-sans leading-relaxed min-h-screen flex flex-col">
+
+    <!-- Navbar -->
+    <header class="bg-primary text-white shadow-md sticky top-0 z-50">
+      <div class="max-w-7xl mx-auto px-4 py-4 flex justify-between items-center">
+        <h1 class="text-xl sm:text-2xl font-bold tracking-wide">Prof. Dr. Francisco Nascimento</h1>
+        <nav class="space-x-4 text-sm sm:text-base">
+          <a href="/pages/baixar.html" class="hover:underline">Publicações</a>
+          <a href="/pages/ensino.html" class="hover:underline">Aulas</a>
+          <a href="/pages/autismo/autismo.html" class="hover:underline">Autismo</a>
+          <a href="/linksuteis.html" class="hover:underline">Links Úteis</a>
+          <a href="/pages/sobre.html" class="hover:underline">Sobre</a>
+        </nav>
+      </div>
+    </header>
+
+    <!-- Conteúdo principal -->
+    <main class="flex-grow max-w-4xl mx-auto px-4 py-10">
+      {% if page.image %}
+        <img src="{{ page.image }}" alt="Imagem de destaque" class="w-full rounded-lg shadow-md mb-8">
+      {% endif %}
+      <h1 class="text-4xl font-bold text-primary mb-6">{{ page.title }}</h1>
+      {{ content }}
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-primary text-white py-4 mt-12">
+      <div class="max-w-7xl mx-auto px-4 text-center text-sm">
+        <p>&copy; 2018 Francisco de Assis Nascimento Jr. | Site Pessoal</p>
+      </div>
+    </footer>
+
+  </body>
+</html>
