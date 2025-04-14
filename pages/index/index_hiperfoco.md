@@ -2,7 +2,7 @@
 layout: pagina
 title: "🧠 O que é um hiperfoco?"
 description: Explicações e exemplos sobre o hiperfoco no contexto do autismo.
-image: /imagens/hiperfocos/indice/x_men_hero_full_hd.jpg # opcional
+image: /imagens/hiperfocos/indice/x_men_hero_full_hd.jpg
 permalink: /pages/index/index_hiperfoco.html
 ---
 
@@ -47,15 +47,63 @@ Com estratégias adequadas, é possível equilibrar o hiperfoco para aproveitar 
 
 ### 🎯 Meus hiperfocos {#meus}
 
-Meus hiperfocos se manifestam em diferentes áreas. Clique nos links para saber mais sobre cada um:
+<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 justify-items-center px-4 py-8">
 
-| ![HQs](../../imagens/hiperfocos/indice/hqs.png) | ![Educação](../../imagens/hiperfocos/indice/educacao.png) | ![Mitologia Grega](../../imagens/hiperfocos/indice/mitologia.png) |
-|:--:|:--:|:--:|
-| [HQs de Super-Heróis](/pages/hiperfocos/quadrinhos/index_sh.html) | [Educação](/pages/hiperfocos/educacao/index_educacao.html) | [Mitologia Grega](/pages/hiperfocos/grecia/index_grecia.html) |
+  <!-- HQs -->
+  <div class="text-center">
+    <a href="/pages/hiperfocos/quadrinhos/index_sh.html">
+      <img src="/imagens/hiperfocos/indice/hqs.png" alt="HQs de Super-Heróis" title="HQs de Super-Heróis"
+        class="w-full max-w-xs h-[300px] object-cover rounded shadow-md hover:scale-105 transition-transform duration-300">
+    </a><br>
+    <strong><a href="/pages/hiperfocos/quadrinhos/index_sh.html" class="text-blue-700 hover:underline">HQs de Super-Heróis</a></strong>
+  </div>
 
-| ![RPG](../../imagens/hiperfocos/indice/rpg.png) | ![Moby Dick](../../imagens/hiperfocos/indice/moby_dick.png) | ![Rocky Horror](../../imagens/hiperfocos/indice/rocky_horror.png) |
-|:--:|:--:|:--:|
-| [Jogos de RPG](/pages/hiperfocos/rpg/index_rpg.html) | [Moby Dick](/pages/hiperfocos/moby_dick/index_moby.html) | [The Rocky Horror Picture Show](/pages/hiperfocos/rockyhorror/index_rockyhorror.html) |
+  <!-- Educação -->
+  <div class="text-center">
+    <a href="/pages/hiperfocos/educacao/index_educacao.html">
+      <img src="/imagens/hiperfocos/indice/educacao.png" alt="Educação" title="Educação"
+        class="w-full max-w-xs h-[300px] object-cover rounded shadow-md hover:scale-105 transition-transform duration-300">
+    </a><br>
+    <strong><a href="/pages/hiperfocos/educacao/index_educacao.html" class="text-blue-700 hover:underline">Educação</a></strong>
+  </div>
+
+  <!-- Mitologia Grega -->
+  <div class="text-center">
+    <a href="/pages/hiperfocos/grecia/index_grecia.html">
+      <img src="/imagens/hiperfocos/indice/mitologia.png" alt="Mitologia Grega" title="Mitologia Grega"
+        class="w-full max-w-xs h-[300px] object-cover rounded shadow-md hover:scale-105 transition-transform duration-300">
+    </a><br>
+    <strong><a href="/pages/hiperfocos/grecia/index_grecia.html" class="text-blue-700 hover:underline">Mitologia Grega</a></strong>
+  </div>
+
+  <!-- RPG -->
+  <div class="text-center">
+    <a href="/pages/hiperfocos/rpg/index_rpg.html">
+      <img src="/imagens/hiperfocos/indice/rpg.png" alt="Jogos de RPG" title="Jogos de RPG"
+        class="w-full max-w-xs h-[300px] object-cover rounded shadow-md hover:scale-105 transition-transform duration-300">
+    </a><br>
+    <strong><a href="/pages/hiperfocos/rpg/index_rpg.html" class="text-blue-700 hover:underline">Jogos de RPG</a></strong>
+  </div>
+
+  <!-- Moby Dick -->
+  <div class="text-center">
+    <a href="/pages/hiperfocos/moby_dick/index_moby.html">
+      <img src="/imagens/hiperfocos/indice/moby_dick.png" alt="Moby Dick" title="Moby Dick"
+        class="w-full max-w-xs h-[300px] object-cover rounded shadow-md hover:scale-105 transition-transform duration-300">
+    </a><br>
+    <strong><a href="/pages/hiperfocos/moby_dick/index_moby.html" class="text-blue-700 hover:underline">Moby Dick</a></strong>
+  </div>
+
+  <!-- Rocky Horror -->
+  <div class="text-center">
+    <a href="/pages/hiperfocos/rockyhorror/index_rockyhorror.html">
+      <img src="/imagens/hiperfocos/indice/rocky_horror.jpeg" alt="The Rocky Horror Picture Show" title="Rocky Horror"
+        class="w-full max-w-xs h-[300px] object-cover rounded shadow-md hover:scale-105 transition-transform duration-300">
+    </a><br>
+    <strong><a href="/pages/hiperfocos/rockyhorror/index_rockyhorror.html" class="text-blue-700 hover:underline">The Rocky Horror Picture Show</a></strong>
+  </div>
+
+</div>
 
 Esses hiperfocos me ajudam a produzir, criar, planejar, estudar, ensinar e me realizar como pessoa autista. Mas atenção: **hiperfoco não é a mesma coisa que gosto pessoal**.
 
