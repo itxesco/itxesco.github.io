@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="pt-BR">
   <head>
     <meta charset="UTF-8" />
@@ -15,10 +14,9 @@
         <span class="text-lg font-semibold">Prof. Dr. Francisco Nascimento</span>
         <div class="space-x-4 text-sm">
           <a href="/" class="hover:underline">Início</a>
+          <a href="/pages/baixar/sobre.html" class="hover:underline">Sobre</a>
           <a href="/pages/baixar/ensino.html" class="hover:underline">Publicações</a>
           <a href="/pages/baixar/baixar.html" class="hover:underline">Downloads</a>
-          <a href="/pages/baixar/sobre.html" class="hover:underline">Sobre</a>
-          <a href="/pages/baixar/linksuteis.html" class="hover:underline">Links úteis</a>
         </div>
       </div>
     </nav>
@@ -56,11 +54,11 @@
 
         <!-- HQ -->
         <div class="text-center">
-          <a href="pages/index/index_hq.html">
-            <img src="imagens/index_pics/hiperfocos.png" alt="Sobre Histórias em Quadrinhos" title="Hiperfocos"
+          <a href="pages/index/index_hiperfoco.html">
+            <img src="imagens/index_pics/hiperfocos.png" alt="Saiba o que é um hiperfoco em autistas" title="Hiperfocos"
               class="w-full max-w-xs h-[300px] object-cover rounded shadow-md hover:scale-105 transition-transform duration-300">
           </a><br>
-          <strong><a href="pages/index/index_hq.html" class="text-blue-700 hover:underline">Histórias em Quadrinhos</a></strong>
+          <strong><a href="pages/index/index_hq.html" class="text-blue-700 hover:underline">Hiperfocos</a></strong>
         </div>
 
         <!-- TEA -->
