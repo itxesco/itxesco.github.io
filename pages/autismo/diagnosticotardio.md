@@ -63,4 +63,24 @@ Embora algumas pessoas temam um diagnóstico tardio, ele pode trazer muitos bene
 
 O TEA **sempre esteve presente na trajetória do indivíduo** – o diagnóstico apenas dá um nome e uma explicação para vivências que, muitas vezes, foram marcadas por dificuldades sem compreensão.  
 
-🔵 **Se você ou alguém próximo suspeita que pode estar no espectro, buscar avaliação especializada pode ser um grande passo para uma vida com mais autoconhecimento e suporte adequado.** 💙♾️
+🔵 **Se você ou alguém próximo suspeita que pode estar no espectro, buscar avaliação especializada pode ser um grande passo para uma vida com mais autoconhecimento e suporte adequado.** 💙  
+
+<h2 class="text-xl font-semibold text-[#007A33] mt-12 mb-4">🔎 Continue Lendo sobre TEA:</h2>
+
+<ul class="list-disc list-inside mb-4">
+  <li>🌻 <a href="/pages/index/index_tea_adultos.html" class="text-[#2D9CDB] underline">Autismo em adultos</a></li>
+  <li>📌 <a href="/pages/autismo/diagnosticotardio.html" class="text-[#2D9CDB] underline">Diagnóstico tardio</a></li>
+  <li>📌 <a href="/pages/autismo/direitos.html" class="text-[#2D9CDB] underline">Direitos do Adulto no Espectro</a></li>
+  <li>🌈 <a href="/pages/autismo/espectro.html" class="text-[#2D9CDB] underline">O que é o Espectro Autista</a></li>
+  <li>🌻 <a href="/pages/autismo/autismo.html" class="text-[#2D9CDB] underline">O que é o TEA?</a></li>
+  <li>🧠 <a href="/pages/autismo/habilidades.html" class="text-[#2D9CDB] underline">Superdotação e Altas Habilidades</a></li>
+  <li>🎨 <a href="/pages/autismo/identificadao.html" class="text-[#2D9CDB] underline">Símbolos e identificação</a></li>
+  <li>💀 <a href="/pages/autismo/asperger.html" class="text-[#2D9CDB] underline">Por que não se fala mais em Asperger?</a></li>
+  <li>📌 <a href="/pages/autismo/mitos.html" class="text-[#2D9CDB] underline">Mitos e Estereótipos</a></li>
+  <li>📌 <a href="/pages/autismo/shtea.html" class="text-[#2D9CDB] underline">TEA na Cultura Pop</a></li>
+</ul>  
+
+---  
+
+  
+📌 [🔼 Voltar ao topo](#top)

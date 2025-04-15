@@ -49,15 +49,6 @@ Com estratégias adequadas, é possível equilibrar o hiperfoco para aproveitar 
 
 <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 justify-items-center px-4 py-8">
 
-  <!-- HQs -->
-  <div class="text-center">
-    <a href="/pages/hiperfocos/quadrinhos/index_sh.html">
-      <img src="/imagens/hiperfocos/indice/hqs.png" alt="HQs de Super-Heróis" title="HQs de Super-Heróis"
-        class="w-full max-w-xs h-[300px] object-cover rounded shadow-md hover:scale-105 transition-transform duration-300">
-    </a><br>
-    <strong><a href="/pages/hiperfocos/quadrinhos/index_sh.html" class="text-blue-700 hover:underline">HQs de Super-Heróis</a></strong>
-  </div>
-
   <!-- Educação -->
   <div class="text-center">
     <a href="/pages/hiperfocos/educacao/index_educacao.html">
@@ -65,6 +56,15 @@ Com estratégias adequadas, é possível equilibrar o hiperfoco para aproveitar 
         class="w-full max-w-xs h-[300px] object-cover rounded shadow-md hover:scale-105 transition-transform duration-300">
     </a><br>
     <strong><a href="/pages/hiperfocos/educacao/index_educacao.html" class="text-blue-700 hover:underline">Educação</a></strong>
+  </div>
+
+  <!-- HQs -->
+  <div class="text-center">
+    <a href="/pages/hiperfocos/quadrinhos/index_sh.html">
+      <img src="/imagens/hiperfocos/indice/hqs.png" alt="HQs de Super-Heróis" title="HQs de Super-Heróis"
+        class="w-full max-w-xs h-[300px] object-cover rounded shadow-md hover:scale-105 transition-transform duration-300">
+    </a><br>
+    <strong><a href="/pages/hiperfocos/quadrinhos/index_sh.html" class="text-blue-700 hover:underline">HQs de Super-Heróis</a></strong>
   </div>
 
   <!-- Mitologia Grega -->
@@ -76,15 +76,6 @@ Com estratégias adequadas, é possível equilibrar o hiperfoco para aproveitar 
     <strong><a href="/pages/hiperfocos/grecia/index_grecia.html" class="text-blue-700 hover:underline">Mitologia Grega</a></strong>
   </div>
 
-  <!-- RPG -->
-  <div class="text-center">
-    <a href="/pages/hiperfocos/rpg/index_rpg.html">
-      <img src="/imagens/hiperfocos/indice/rpg.png" alt="Jogos de RPG" title="Jogos de RPG"
-        class="w-full max-w-xs h-[300px] object-cover rounded shadow-md hover:scale-105 transition-transform duration-300">
-    </a><br>
-    <strong><a href="/pages/hiperfocos/rpg/index_rpg.html" class="text-blue-700 hover:underline">Jogos de RPG</a></strong>
-  </div>
-
   <!-- Moby Dick -->
   <div class="text-center">
     <a href="/pages/hiperfocos/moby_dick/index_moby.html">
@@ -94,10 +85,19 @@ Com estratégias adequadas, é possível equilibrar o hiperfoco para aproveitar 
     <strong><a href="/pages/hiperfocos/moby_dick/index_moby.html" class="text-blue-700 hover:underline">Moby Dick</a></strong>
   </div>
 
+  <!-- RPG -->
+  <div class="text-center">
+    <a href="/pages/hiperfocos/rpg/index_rpg.html">
+      <img src="/imagens/hiperfocos/indice/rpg.png" alt="Jogos de RPG" title="Jogos de RPG"
+        class="w-full max-w-xs h-[300px] object-cover rounded shadow-md hover:scale-105 transition-transform duration-300">
+    </a><br>
+    <strong><a href="/pages/hiperfocos/rpg/index_rpg.html" class="text-blue-700 hover:underline">Jogos de RPG</a></strong>
+  </div>
+
   <!-- Rocky Horror -->
   <div class="text-center">
     <a href="/pages/hiperfocos/rockyhorror/index_rockyhorror.html">
-      <img src="/imagens/hiperfocos/indice/rocky_horror.jpeg" alt="The Rocky Horror Picture Show" title="Rocky Horror"
+      <img src="/imagens/hiperfocos/indice/rocky_horror.png" alt="The Rocky Horror Picture Show" title="Rocky Horror"
         class="w-full max-w-xs h-[300px] object-cover rounded shadow-md hover:scale-105 transition-transform duration-300">
     </a><br>
     <strong><a href="/pages/hiperfocos/rockyhorror/index_rockyhorror.html" class="text-blue-700 hover:underline">The Rocky Horror Picture Show</a></strong>
@@ -109,29 +109,25 @@ Esses hiperfocos me ajudam a produzir, criar, planejar, estudar, ensinar e me re
 
 ---
 
-### 🔎 Hiperfoco ou Gosto Pessoal? {#gostos}
+### 🔎 Só pessoas com autismo podem ter Hiperfocos? {#gostos}
 
-O **gosto pessoal** envolve preferências como filmes, músicas ou hobbies. Pode ser intenso, mas:
-
-- **É flexível** – Vários interesses coexistem.  
-- **Não domina a rotina** – É fácil de pausar.  
-- **Tem duração variada** – Pode ser passageiro.  
-- **Não causa desconexão** – Não impede outras tarefas.
-
-#### 🎭 Meus gostos pessoais:
-
-- 🔭 Astronomia  
-- ⚛️ Física  
-- 🎲 Jogos de Tabuleiro  
-- 🍹 Andar de Skate  
-- 📺 Desenhos Animados  
-- 📖 Literatura  
-- 🚀 Ficção Científica  
-- 🌍 Afrofuturismo  
-- 🎮 Videogames
-
-São todos incríveis, mas não são hiperfocos.
+[...]
 
 ---
+
+<h2 class="text-xl font-semibold text-[#007A33] mt-12 mb-4">🔎 Continue Lendo sobre TEA:</h2>
+
+<ul class="list-disc list-inside mb-4">
+  <li>🌻 <a href="/pages/index/index_tea_adultos.html" class="text-[#2D9CDB] underline">Autismo em adultos</a></li>
+  <li>📌 <a href="/pages/autismo/diagnosticotardio.html" class="text-[#2D9CDB] underline">Diagnóstico tardio</a></li>
+  <li>📌 <a href="/pages/autismo/direitos.html" class="text-[#2D9CDB] underline">Direitos do Adulto no Espectro</a></li>
+  <li>🌈 <a href="/pages/autismo/espectro.html" class="text-[#2D9CDB] underline">O que é o Espectro Autista</a></li>
+  <li>🌻 <a href="/pages/autismo/autismo.html" class="text-[#2D9CDB] underline">O que é o TEA?</a></li>
+  <li>🧠 <a href="/pages/autismo/habilidades.html" class="text-[#2D9CDB] underline">Superdotação e Altas Habilidades</a></li>
+  <li>🎨 <a href="/pages/autismo/identificadao.html" class="text-[#2D9CDB] underline">Símbolos e identificação</a></li>
+  <li>💀 <a href="/pages/autismo/asperger.html" class="text-[#2D9CDB] underline">Por que não se fala mais em Asperger?</a></li>
+  <li>📌 <a href="/pages/autismo/mitos.html" class="text-[#2D9CDB] underline">Mitos e Estereótipos</a></li>
+  <li>📌 <a href="/pages/autismo/shtea.html" class="text-[#2D9CDB] underline">TEA na Cultura Pop</a></li>
+</ul>
 
 📌 [🔼 Voltar ao topo](#top)

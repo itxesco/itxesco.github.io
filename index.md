@@ -14,9 +14,9 @@
         <span class="text-lg font-semibold">Prof. Dr. Francisco Nascimento</span>
         <div class="space-x-4 text-sm">
           <a href="/" class="hover:underline">Início</a>
-          <a href="/pages/baixar/sobre.html" class="hover:underline">Sobre</a>
-          <a href="/pages/baixar/ensino.html" class="hover:underline">Publicações</a>
-          <a href="/pages/baixar/baixar.html" class="hover:underline">Downloads</a>
+          <a href="/pages/sobre.html" class="hover:underline">Sobre</a>
+          <a href="/pages/index/index_publica.html" class="hover:underline">Publicações</a>
+          <a href="/pages/index/index_baixar.html" class="hover:underline">Downloads</a>
         </div>
       </div>
     </nav>
