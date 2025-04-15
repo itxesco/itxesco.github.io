@@ -7,44 +7,44 @@ permalink: /pages/index/index_hiperfoco.html
 ---
 
 O **hiperfoco** é um aspecto comum em pessoas autistas e pode ser definido como um **estado intenso de concentração** e envolvimento em um interesse específico. É o que faz a pessoa autista se dedicar por horas a um único tema, atividade ou hobby, muitas vezes sem perceber a passagem do tempo e ignorando distrações externas.
-
+<br>
 ---
-
-### 📌 Tópicos desta página
-
+<br>
+### 📌 Tópicos nesta página
+<br>
 1. [Características de um hiperfoco](#caracteristicas)  
 2. [Ter um hiperfoco é algo bom ou ruim?](#bomouruim)  
 3. [Conheça meus hiperfocos](#meus)  
 4. [Hiperfoco ou Gosto Pessoal?](#gostos)
-
+<br>
 ---
-
+<br>
 ### 🔍 Características de um hiperfoco {#caracteristicas}
-
+<br>
 - **Atenção extrema:** Concentração profunda em um assunto ou atividade específica.  
 - **Persistência:** Pode durar horas, dias ou até anos.  
 - **Desconexão do ambiente:** Dificuldade em alternar para outras atividades.  
 - **Sensação de prazer e domínio:** Proporciona satisfação e aprofundamento.  
 - **Dificuldade em interromper:** Parar a atividade pode ser desafiador.
-
+<br>
 O hiperfoco pode ser uma ferramenta poderosa de aprendizado e realização, especialmente se for bem gerenciado.  
-Exemplo: Eu tenho um hiperfoco em educação e me tornei professor. O campeão mundial de motociclismo Jorge Martin, autista, tem hiperfoco em... motociclismo.
-
+Exemplo: Eu tenho um hiperfoco em educação e me tornei professor. O campeão mundial de motociclismo Jorge Martin, autista, tem hiperfoco em motociclismo.
+<br>
 ---
-
+<br>
 ### ↺ Ter um hiperfoco é algo bom ou ruim? {#bomouruim}
-
+<br>
 | 🟢 **Benefícios**                   | 🔴 **Desafios**                                 |
 |------------------------------------|------------------------------------------------|
 | Desenvolvimento de habilidades 💡  | Dificuldade em alternar tarefas 🗕️             |
 | Aprendizado aprofundado 📚         | Exaustão mental ou física 😓                   |
 | Produtividade elevada 🚀           | Pode gerar isolamento social 🤝❌              |
 | Criatividade intensa 🎨            | Desregulação de sono e alimentação 🛌🍽️       |
-
+<br>
 Com estratégias adequadas, é possível equilibrar o hiperfoco para aproveitar seus benefícios sem comprometer o bem-estar.
-
+<br>
 ---
-
+<br>
 ### 🎯 Meus hiperfocos {#meus}
 
 <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 justify-items-center px-4 py-8">
@@ -106,13 +106,13 @@ Com estratégias adequadas, é possível equilibrar o hiperfoco para aproveitar 
 </div>
 
 Esses hiperfocos me ajudam a produzir, criar, planejar, estudar, ensinar e me realizar como pessoa autista. Mas atenção: **hiperfoco não é a mesma coisa que gosto pessoal**.
-
+<br>
 ---
-
+<br>
 ### 🔎 Só pessoas com autismo podem ter Hiperfocos? {#gostos}
 
 [...]
-
+<br>
 ---
 
 <h2 class="text-xl font-semibold text-[#007A33] mt-12 mb-4">🔎 Continue Lendo sobre TEA:</h2>
