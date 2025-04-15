@@ -110,9 +110,14 @@ Esses hiperfocos me ajudam a produzir, criar, planejar, estudar, ensinar e me re
 ---
 <br>
 ### 🔎 Só pessoas com autismo podem ter Hiperfocos? {#gostos}
-
-[...]
 <br>
+Já encontrei mais de uma resposta para esta pergunta, mas acredito que **sim**, que somente  pessoas autistas tem hiperfoco, mas isso não impede que pessoas **neurotípicas** possam ter momentos de foco intenso, daqueles em que a pessoa mergulha na atividade e nem vê o tempo passar. Isso pode acontecer com qualquer uma, em maior ou menor grau, mas não é um hiperfoco.
+<br>
+A diferença talvez esteja no fato de que, para uma pessoa *neurotípica*, esse tipo de foco seja **voluntário**, ou seja, a pessoa decide quando começar e parar, tem um controle sobre a ação. Já uma pessoa **neurodivergente** — no meu caso, o autismo — o **hiperfoco não é só concentração**, porque vem com uma intensidade muito maior, às vezes incontrolável, mesmo. A pessoa entra tão rápido e tão fundo naquela ação que encontra muita dificuldade em sair, mesmo que queira ou precise. Pode acontecer de ignorar fome, sono, dor de cabeça, tudo porque o cérebro está preso naquele assunto, naquele interesse específico que, muitas vezes, pode até um papel prático, afetivo e regulador, mas nem sempre.
+<br>
+No **TDAH** também pode acontecer algo parecido, só que de forma um pouco mais caótica: a pessoa pode ficar horas vidrada em algo sem perceber, mas não consegue replicar esse foco quando realmente precisa — como estudar ou cumprir um prazo.
+<br>
+Então, enquanto uma pessoa *neurotípica* pode viver algo parecido com um hiperfoco, a forma como isso acontece, sua frequência, e principalmente o nível de controle que ela tem sobre esse estado, são bem diferentes de quando se fala de TEA ou TDAH: **não é só gostar muito de um tema — é quase como se o cérebro fosse sequestrado por aquilo por um tempo, em qualquer oportunidade que encontre**.<br>
 ---
 
 <h2 class="text-xl font-semibold text-[#007A33] mt-12 mb-4">🔎 Continue Lendo sobre TEA:</h2>
