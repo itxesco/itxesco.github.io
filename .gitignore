@@ -1,15 +1,12 @@
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
 
-.DS_Store
-biblioteca/.DS_Store
-biblioteca/anais/.DS_Store
-biblioteca/anais/SNEF_2021_1.pdf
-biblioteca/anais/SNEF_2021_2.pdf
-biblioteca/fisica/the amazing story of quantum physics.pdf
-biblioteca/ihac/.DS_Store
-biblioteca/ihac/2_Memorial_Mano_Brown.pdf
-.DS_Store
-biblioteca/.DS_Store
-biblioteca/anais/SNEF_2021_1.pdf
-biblioteca/anais/SNEF_2021_2.pdf
-biblioteca/fisica/the amazing story of quantum physics.pdf
-biblioteca/ihac/2_Memorial_Mano_Brown.pdf
+# Pastas internas do Obsidian
+.obsidian/
+.cache/
+workspace.json
+workspace-mobile.json
+
+# Outros
+node_modules/

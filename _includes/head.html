@@ -1,35 +1,9 @@
+<!-- _includes/head.html -->
 <head>
-  <meta charset="utf-8">
-  <title>{{ page.title }} | {{ site.title }}</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-  {% if page.description %}
-    <meta name="description" content="{{ page.description }}">
-  {% endif %}
-  {% if page.keywords %}
-    <meta name="keywords" content="{{ page.keywords }}">
-  {% endif %}
-  <meta name="author" content="{{ site.author.name }}">
-
-  <!-- Favicon -->
-  <link rel="shortcut icon" href="{{ site.baseurl }}/imagens/icones/me_gl.ico" />
-
-  <!-- Google Fonts: Inter -->
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
-
-  <!-- ✅ Tailwind CSS via CDN -->
-  <script src="https://cdn.tailwindcss.com"></script>
-  <script>
-    tailwind.config = {
-      theme: {
-        extend: {
-          fontFamily: {
-            sans: ['Inter', 'sans-serif'],
-          },
-        },
-      },
-    }
-  </script>
-
-  <!-- Estilos extras podem ser adicionados aqui -->
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{ page.title }} - Meu Site</title>
+  <meta name="description" content="{{ page.description | default: 'Site pessoal sobre TEA, educação e cultura pop.' }}">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css">
+  <link rel="icon" href="/assets/favicon.ico" />
 </head>

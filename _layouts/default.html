@@ -1,43 +1,15 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>{{ page.title }}</title>
-    <meta name="description" content="{{ page.description }}" />
+  {% include head.html %}
+  <body class="bg-[#F5F5F5] text-[#4B5563] font-sans">
 
-    <!-- Tailwind CSS via CDN -->
-    <script src="https://cdn.tailwindcss.com"></script>
-    <script>
-      tailwind.config = {
-        theme: {
-          extend: {
-            colors: {
-              primary: '#003865',     // azul UFSB
-              secondary: '#007A33',   // verde UFSB
-              accent: '#2D9CDB',      // azul claro
-              background: '#F5F5F5',  // bege claro
-              'text-base': '#4B5563', // cinza escuro
-            },
-            fontFamily: {
-              sans: ['Inter', 'sans-serif']
-            }
-          }
-        }
-      };
-    </script>
+    {% include nav.html %}
 
-    <!-- Fonte opcional (melhora a leitura) -->
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
-  </head>
-
-  <body class="bg-background text-text-base font-sans leading-relaxed min-h-screen">
-
-    <!-- Conteúdo principal -->
-    <main class="max-w-3xl mx-auto px-4 py-10">
-      <h1 class="text-3xl sm:text-4xl font-bold text-primary mb-6">{{ page.title }}</h1>
+    <main class="max-w-5xl mx-auto p-6 bg-white rounded-xl shadow-md mt-8">
       {{ content }}
     </main>
+
+    {% include footer.html %}
 
   </body>
 </html>
