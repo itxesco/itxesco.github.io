@@ -20,7 +20,8 @@ theme: null
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-default-layout
+  - jekyll-default-layout  
+  - jekyll-sitemap
 
 # Define o layout padrão como 'default' para todos os arquivos
 defaults:
