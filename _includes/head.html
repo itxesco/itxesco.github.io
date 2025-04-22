@@ -1,9 +1,47 @@
-<!-- _includes/head.html -->
 <head>
-  <meta charset="UTF-8" />
+  <meta charset="utf-8" />
+  <title>{{ page.title }} | {{ site.title }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>{{ page.title }} - Meu Site</title>
-  <meta name="description" content="{{ page.description | default: 'Site pessoal sobre TEA, educação e cultura pop.' }}">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css">
-  <link rel="icon" href="/assets/favicon.ico" />
+
+  {% if page.description %}
+    <meta name="description" content="{{ page.description }}">
+  {% endif %}
+  {% if page.keywords %}
+    <meta name="keywords" content="{{ page.keywords }}">
+  {% endif %}
+
+  <!-- Autor: usa variável ou valor padrão -->
+  <meta name="author" content="{{ site.author | default: 'Francisco de Assis Nascimento Jr.' }}">
+
+  <!-- SEO automatizado -->
+  {% seo %}
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="{{ site.baseurl }}/assets/favicon.ico" type="image/x-icon" />
+
+  <!-- Google Fonts: Inter -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+
+  <!-- ✅ Tailwind CSS via CDN com tema UFSB -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            primary: '#003865',     // azul UFSB
+            secondary: '#007A33',   // verde UFSB
+            accent: '#2D9CDB',      // azul claro
+            background: '#F5F5F5',  // bege claro
+            'text-base': '#4B5563'  // cinza escuro
+          },
+          fontFamily: {
+            sans: ['Inter', 'sans-serif'],
+          },
+        },
+      },
+    };
+  </script>
+
+  <!-- Estilos extras podem ser adicionados aqui -->
 </head>

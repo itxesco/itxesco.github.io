@@ -1,48 +1,84 @@
 ---
-title: início
 layout: default
+title: Início
+description: Página inicial do site de Itxesco - Ensino, Pesquisa, Extensão e mais.
 ---
 
-<h1 class="text-4xl font-bold text-primary mb-6">Bem-vindo ao meu site</h1>
+<!-- Barra de navegação -->
+<nav class="bg-[#003865] text-white p-4 shadow-md">
+  <div class="container mx-auto flex flex-col sm:flex-row justify-between items-center gap-2">
+    <span class="text-lg font-semibold">Prof. Dr. Francisco Nascimento</span>
+    <div class="space-x-4 text-sm">
+      <a href="/" class="hover:underline">Início</a>
+      <a href="/pages/sobre" class="hover:underline">Sobre</a>
+      <a href="/pages/index_publica" class="hover:underline">Publicações</a>
+      <a href="/pages/index_baixar" class="hover:underline">Downloads</a>
+    </div>
+  </div>
+</nav>
 
-<p class="text-lg text-gray-600 mb-6">
-Este é um espaço de partilha crítica, sensível e política sobre o autismo, o ensino de ciências, a cultura pop e a construção de novos mundos possíveis. ✊🏽🌈
-</p>
+<!-- Conteúdo principal com grid de cards -->
+<main class="flex-grow">
+  <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 justify-items-center px-4 py-8">
 
-<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+    <!-- Card: Ensino -->
+    <div class="text-center">
+      <a href="/pages/index_ensino">
+        <img src="/assets/imagens/index_pics/ensino.jpeg" alt="Atividades de Ensino" title="Ensino"
+          class="w-full max-w-xs h-[300px] object-cover rounded shadow-md hover:scale-105 transition-transform duration-300">
+      </a><br>
+      <strong><a href="/pages/index_ensino" class="text-blue-700 hover:underline">Ensino</a></strong>
+    </div>
 
-  <a href="/pages/autismo/tea.html" class="block bg-white p-6 rounded-2xl shadow hover:shadow-lg border border-gray-200 transition">
-    <h2 class="text-xl font-semibold text-primary mb-2">🧠 Autismo</h2>
-    <p class="text-gray-600"> Sobre o Transtorno do Espectro Autista (TEA).</p>
-  </a>
+    <!-- Card: Pesquisa -->
+    <div class="text-center">
+      <a href="/pages/index_pesquisa">
+        <img src="/assets/imagens/index_pics/pesquisa.jpeg" alt="Atividades de Pesquisa" title="Pesquisa"
+          class="w-full max-w-xs h-[300px] object-cover rounded shadow-md hover:scale-105 transition-transform duration-300">
+      </a><br>
+      <strong><a href="/pages/index_pesquisa" class="text-blue-700 hover:underline">Pesquisa</a></strong>
+    </div>
 
-  <a href="/pages/autismo/index_hiperfoco.html" class="block bg-white p-6 rounded-2xl shadow hover:shadow-lg border border-gray-200 transition">
-    <h2 class="text-xl font-semibold text-primary mb-2">🎯 Hiperfocos</h2>
-    <p class="text-gray-600">entenda o hiperfoco em autistas</p>
-  </a>
+    <!-- Card: Extensão -->
+    <div class="text-center">
+      <a href="/pages/index_extensao">
+        <img src="/assets/imagens/index_pics/extensao.jpeg" alt="Atividades de Extensão" title="Extensão"
+          class="w-full max-w-xs h-[300px] object-cover rounded shadow-md hover:scale-105 transition-transform duration-300">
+      </a><br>
+      <strong><a href="/pages/index_extensao" class="text-blue-700 hover:underline">Extensão</a></strong>
+    </div>
 
-  <a href="/pages/index/index_ihac.html" class="block bg-white p-6 rounded-2xl shadow hover:shadow-lg border border-gray-200 transition">
-    <h2 class="text-xl font-semibold text-primary mb-2">🏛️ RPG</h2>
-    <p class="text-gray-600">Sobre diversos sistemas de RPG</p>
-  </a>
+    <!-- Card: Hiperfocos -->
+    <div class="text-center">
+      <a href="/pages/index_hiperfoco">
+        <img src="/assets/imagens/index_pics/hiperfocos.png" alt="Hiperfocos em autistas" title="Hiperfocos"
+          class="w-full max-w-xs h-[300px] object-cover rounded shadow-md hover:scale-105 transition-transform duration-300">
+      </a><br>
+      <strong><a href="/pages/index_hiperfoco" class="text-blue-700 hover:underline">Hiperfocos</a></strong>
+    </div>
 
-  <a href="/pages/index/index_pesquisa.html" class="block bg-white p-6 rounded-2xl shadow hover:shadow-lg border border-gray-200 transition">
-    <h2 class="text-xl font-semibold text-primary mb-2">📚 Pesquisa</h2>
-    <p class="text-gray-600">Ensino de física, cultura pop e relações étnico-raciais.</p>
-  </a>
+    <!-- Card: Autismo em Adultos -->
+    <div class="text-center">
+      <a href="/pages/index_tea_adultos">
+        <img src="/assets/imagens/index_pics/cyclope_tea.png" alt="Autismo em Adultos" title="Autismo em Adultos"
+          class="w-full max-w-xs h-[300px] object-cover rounded shadow-md hover:scale-105 transition-transform duration-300">
+      </a><br>
+      <strong><a href="/pages/index_tea_adultos" class="text-blue-700 hover:underline">Autismo em Adultos</a></strong>
+    </div>
 
-  <a href="/pages/index/index_extensao.html" class="block bg-white p-6 rounded-2xl shadow hover:shadow-lg border border-gray-200 transition">
-    <h2 class="text-xl font-semibold text-primary mb-2">🤝 Extensão</h2>
-    <p class="text-gray-600"> minhas ações e projetos de extensão Universitária.</p>
-  </a>
+    <!-- Card: RPG -->
+    <div class="text-center">
+      <a href="/pages/index_rpg">
+        <img src="/assets/imagens/index_pics/dragaod20.jpeg" alt="Jogos de RPG e Educação" title="Jogos de RPG"
+          class="w-full max-w-xs h-[300px] object-cover rounded shadow-md hover:scale-105 transition-transform duration-300">
+      </a><br>
+      <strong><a href="/pages/index_rpg" class="text-blue-700 hover:underline">RPG</a></strong>
+    </div>
 
-  <a href="/pages/index/index_ensino.html" class="block bg-white p-6 rounded-2xl shadow hover:shadow-lg border border-gray-200 transition">
-    <h2 class="text-xl font-semibold text-primary mb-2">👨🏽‍🏫 Ensino</h2>
-    <p class="text-gray-600">Minhas aulas.</p>
-  </a>
+  </div>
+</main>
 
-</div>
-
-<div class="mt-10 text-sm text-gray-400">
-  © {{ site.time | date: "%Y" }} – Desenvolvido por itxesco com Tailwind, Markdown e ritalina.
-</div>
+<!-- Rodapé fixo -->
+<footer class="bg-[#003865] text-white text-sm text-center py-4">
+  <p>2018 Francisco de Assis Nascimento Jr. — Site Pessoal construído com tailwind, markdown & ritalina</p>
+</footer>

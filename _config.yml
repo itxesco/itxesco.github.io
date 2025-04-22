@@ -1,13 +1,55 @@
+# Informações básicas do site
+title: Prof. Dr. Francisco Nascimento
+author: Francisco de Assis Nascimento Junior
+email: francisco.assis@gfe.ufsb.edu.br
+github_username: itxesco
+url: "https://itxesco.github.io"
+baseurl: ""  # Mantenha vazio se estiver no domínio raiz
+
+# URLs mais amigáveis
+permalink: pretty
+
+# Interpretador de Markdown e destaque de código
 markdown: kramdown
+highlighter: rouge
+
+# Layout customizado (sem tema padrão do GitHub Pages)
 theme: null
+
+# Plugins suportados pelo GitHub Pages
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-default-layout
 
+# Define o layout padrão como 'default' para todos os arquivos
 defaults:
   -
     scope:
       path: ""
     values:
       layout: default
+
+# Arquivos/pastas a serem ignorados na build
+exclude:
+  - .rvmrc
+  - .rbenv-version
+  - ReadMe.md
+  - Rakefile
+  - changelog.md
+  - License.md
+  - Makefile
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/
+
+# Desativar recursos não utilizados
+comments:
+  provider: false
+
+analytics:
+  provider: false
+
+sharing:
+  provider: false
