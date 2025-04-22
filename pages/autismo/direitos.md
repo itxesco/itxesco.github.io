@@ -9,19 +9,18 @@ Garantir seus **direitos como pessoa autista** pode ser burocrático, mas com as
 
 ---
 
-<h2 class="text-xl font-semibold text-[#007A33] mt-12 mb-4">🧭 Continue Lendo sobre TEA:</h2>
+### 🔎 Continue lendo sobre o TEA
 
-<ul class="list-disc list-inside mb-4">
-  <li>🔍 <a href="/pages/index/index_hiperfoco.html" class="text-[#2D9CDB] underline">O que é um Hiperfoco?</a></li>
-  <li>📌 <a href="/pages/autismo/diagnosticotardio.html" class="text-[#2D9CDB] underline">Diagnóstico tardio</a></li>
-  <li>⚖️ <a href="/pages/autismo/direitos.html" class="text-[#2D9CDB] underline">Direitos do Adulto no Espectro</a></li>
-  <li>🌈 <a href="/pages/autismo/espectro.html" class="text-[#2D9CDB] underline">Entenda por que o autismo é um Espectro?</a></li>
-  <li>🌻 <a href="/pages/autismo/autismo.html" class="text-[#2D9CDB] underline">O que é o TEA?</a></li>
-  <li>🧠 <a href="/pages/autismo/habilidades.html" class="text-[#2D9CDB] underline">Superdotação e Altas Habilidades</a></li>
-  <li>🎨 <a href="/pages/autismo/identificadao.html" class="text-[#2D9CDB] underline">Símbolos e identificação</a></li>
-  <li>💀 <a href="/pages/autismo/asperger.html" class="text-[#2D9CDB] underline">Por que não se fala mais em Asperger?</a></li>
-  <li>📌 <a href="/pages/autismo/mitos.html" class="text-[#2D9CDB] underline">Mitos e Estereótipos</a></li>
-  <li>🎬 <a href="/pages/autismo/shtea.html" class="text-[#2D9CDB] underline">TEA na Cultura Pop</a></li>
-</ul>
+- [Altas habilidades e superdotação](/pages/autismo/habilidades.html)  
+- [Autismo em adultos](/pages/autismo/tea_adultos.html)  
+- [Diagnóstico tardio](/pages/autismo/diag_tardio.html)  
+- [Mitos e Estereótipos](/pages/autismo/mitos.html)  
+- [O que é Hiperfoco?](/pages/autismo/index_hiperfoco.html)  
+- [O que é o TEA?](/pages/autismo/autismo.html)  
+- [Por que falamos **Espectro Autista**](/pages/autismo/espectro.html)  
+- [Simbologia e representação do autismo](/pages/autismo/simbolos.html)  
+- [TEA na Cultura Pop](/pages/autismo/representacao.html)
+
+---
 
 📌 [🔼 Voltar ao topo](#direitos-da-pessoa-adulta-autista)

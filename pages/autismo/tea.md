@@ -2,7 +2,7 @@
 layout: pagina
 title: O que é o TEA?
 description: Entenda de forma clara o que é o Transtorno do Espectro Autista (TEA), suas manifestações e como ele é diagnosticado.
-permalink: /pages/autismo/autismo
+permalink: /pages/autismo/tea
 ---
 
 ##O que é o Transtorno do Espectro Autista (TEA)?
@@ -164,15 +164,16 @@ Se levarmos em conta a [estimativa da **OMS** de que **1% da população mundial
 
 ### 🔎 Continue lendo sobre o TEA
 
-- [Altas habilidades e superdotação](/pages/autismo/habilidades.html)   
-- [Autismo em adultos](/pages/autismo/tea_adultos.html)   
+- [Altas habilidades e superdotação](/pages/autismo/habilidades.html)  
+- [Autismo em adultos](/pages/autismo/tea_adultos.html)  
 - [Diagnóstico tardio](/pages/autismo/diag_tardio.html)  
+- [Direitos e Documentação](/pages/autismo/direitos.html)  
 - [Mitos e Estereótipos](/pages/autismo/mitos.html)  
+- [O que é Hiperfoco?](/pages/autismo/index_hiperfoco.html)  
 - [Por que falamos **Espectro Autista**](/pages/autismo/espectro.html)  
-- [Simbologia e representação do autismo](/pages/autismo/simbolos.html)
-- [Direitos e Documentação](/pages/autismo/direitos.html)
+- [Simbologia e representação do autismo](/pages/autismo/simbolos.html)  
 - [TEA na Cultura Pop](/pages/autismo/representacao.html)
 
----
+---  
 
 [[↑ Voltar ao topo|#🧠 O que é o Transtorno do Espectro Autista (TEA)?]]

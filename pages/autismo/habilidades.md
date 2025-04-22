@@ -139,22 +139,18 @@ Apesar das altas habilidades, essas pessoas podem enfrentar dificuldades em:
 
 ---
 
-**📚 Saiba Mais**
+### 🔎 Continue lendo sobre o TEA
 
-• 🔹 [O que é o TEA?](/pages/autismo/tea.html)
+- [Autismo em adultos](/pages/autismo/tea_adultos.html)  
+- [Diagnóstico tardio](/pages/autismo/diag_tardio.html)  
+- [Direitos e Documentação](/pages/autismo/direitos.html)  
+- [Mitos e Estereótipos](/pages/autismo/mitos.html)  
+- [O que é Hiperfoco?](/pages/autismo/index_hiperfoco.html)  
+- [O que é o TEA?](/pages/autismo/autismo.html)  
+- [Por que falamos **Espectro Autista**](/pages/autismo/espectro.html)  
+- [Simbologia e representação do autismo](/pages/autismo/simbolos.html)  
+- [TEA na Cultura Pop](/pages/autismo/representacao.html)
 
-• 🔹 [o Diagnóstico Tardio](/pages/autismo/diagnosticotardio.html)
-
-• 🔹 [Direitos e Documentação](/pages/autismo/direitos.html)
-
-• 🔹 [a Simbologia e Representação](/pages/autismo/identificadao.html)
-
-• 🔹 [o que era Asperger](/pages/autismo/asperger.html)
-
-• 🔹 [Mitos sobre o TEA](/pages/autismo/mitos.html)
-
-• 🔹 [TEA na Cultura Pop](/pages/autismo/namidia.html)
-
-
+---
 
 🔝 [**Voltar ao topo**](#%F0%9F%A7%A0-o-que-s%C3%A3o-altas-habilidades)

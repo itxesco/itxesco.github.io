@@ -76,15 +76,18 @@ Por fim, é importante considerar a **saúde mental**. É comum que adultos com 
 
 ---
 
-### 🧭 Continue Lendo sobre o TEA:
+### 🔎 Continue lendo sobre o TEA
 
-- [Diagnóstico tardio](/pages/autismo/diagnosticotardio.html)  
+- [Altas habilidades e superdotação](/pages/autismo/habilidades.html)  
+- [Diagnóstico tardio](/pages/autismo/diag_tardio.html)  
 - [Direitos e Documentação](/pages/autismo/direitos.html)  
-- [Entenda por que o autismo é um espectro](/pages/autismo/espectro.html)  
 - [Mitos e Estereótipos](/pages/autismo/mitos.html)  
-- [O que é o TEA?](/pages/autismo/tea.html)  
-- [Por que não se fala mais em Asperger?](/pages/autismo/asperger.html)  
-- [Símbolos e representação do autismo](/pages/autismo/identificadao.html)  
-- [TEA na Cultura Pop](/pages/autismo/namidia.html)  
+- [O que é Hiperfoco?](/pages/autismo/index_hiperfoco.html)  
+- [O que é o TEA?](/pages/autismo/autismo.html)  
+- [Por que falamos **Espectro Autista**](/pages/autismo/espectro.html)  
+- [Simbologia e representação do autismo](/pages/autismo/simbolos.html)  
+- [TEA na Cultura Pop](/pages/autismo/representacao.html)
+
+--- 
 
 📌 [🔼 Voltar ao topo](#tea-em-adultos)

@@ -121,17 +121,18 @@ A cultura pop **molda a percepção do público sobre o autismo**. Se queremos u
 
 ---
 
-### 🧭 Continue Lendo sobre TEA
+### 🔎 Continue lendo sobre o TEA
 
-- 🔍 [O que é um Hiperfoco?](/pages/index/index_hiperfoco.html)  
-- 📌 [Diagnóstico tardio](/pages/autismo/diagnosticotardio.html)  
-- ⚖️ [Direitos do Adulto no Espectro](/pages/autismo/direitos.html)  
-- 🌈 [Entenda por que o autismo é um Espectro?](/pages/autismo/espectro.html)  
-- 🌻 [O que é o TEA?](/pages/autismo/autismo.html)  
-- 🧠 [Superdotação e Altas Habilidades](/pages/autismo/habilidades.html)  
-- 🎨 [Símbolos e identificação](/pages/autismo/identificadao.html)  
-- 💀 [Por que não se fala mais em Asperger?](/pages/autismo/asperger.html)  
-- 🐉 [Mitos e Estereótipos](/pages/autismo/mitos.html)  
-- 🎬 [TEA na Cultura Pop](/pages/autismo/namidia.html)
+- [Altas habilidades e superdotação](/pages/autismo/habilidades.html)  
+- [Autismo em adultos](/pages/autismo/tea_adultos.html)  
+- [Diagnóstico tardio](/pages/autismo/diag_tardio.html)  
+- [Direitos e Documentação](/pages/autismo/direitos.html)  
+- [Mitos e Estereótipos](/pages/autismo/mitos.html)  
+- [O que é Hiperfoco?](/pages/autismo/index_hiperfoco.html)  
+- [O que é o TEA?](/pages/autismo/autismo.html)  
+- [Por que falamos **Espectro Autista**](/pages/autismo/espectro.html)  
+- [Simbologia e representação do autismo](/pages/autismo/simbolos.html)
+
+---
 
 📌 [🔼 Voltar ao topo](#tópicos-desta-página)
