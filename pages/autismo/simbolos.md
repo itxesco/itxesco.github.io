@@ -3,26 +3,22 @@ layout: pagina
 title: Simbologia e Representação do Autismo
 description: Conheça os principais símbolos usados para representar o autismo e seus significados.
 permalink: /pages/autismo/simbolos
----  
+---
 
-### Navegação
+## 🔣 Simbologia e Representação do Autismo
 
-- [O que é o TEA](/pages/autismo/autismo.html)
-- [Diagnóstico Tardio](/pages/autismo/teadultos.html)
-- [Simbologia e Representação](/pages/autismo/identificadao.html)
-- [~~Asperger~~](/pages/autismo/asperger.html)
-- [Direitos e Documentação](/pages/autismo/direitos.html)
-- [Altas Habilidades e Superdotação](/pages/autismo/habilidades.html)
-- [Mitos](/pages/autismo/mitos.html)
-- [TEA na Cultura Pop](/pages/autismo/namidia.html)
+### 📌 Você vai ler nesta página:
+
+- [🔁 O arco-íris em infinito](#o-arco-íris-em-infinito)  
+- [🌻 O cordão de girassol](#o-cordão-de-girassol)  
+- [🧩 E por que não o Quebra-Cabeças?](#e-por-que-não-o-quebra-cabeças)  
+- 🔎 [Continue lendo sobre o TEA](#🔎-continue-lendo-sobre-o-tea)
 
 ---
 
-### Símbolos do Autismo {#identificacao}
+### 🔁 O arco-íris em infinito
 
-#### O arco-íris em infinito
-
-![Símbolo do infinito com as cores do arco-íris](https://itxesco.github.io/assets/figuras/autismo/infinito.jpg)
+![Símbolo do infinito com as cores do arco-íris](https://itxesco.github.io/assets/imagens/autismo/infinito.jpg)
 
 O símbolo do **infinito em forma de arco-íris** é amplamente usado para representar o autismo por várias razões:
 
@@ -42,9 +38,9 @@ Esse símbolo é uma alternativa ao **quebra-cabeça**, que historicamente foi u
 
 ---
 
-#### O cordão de girassol
+### 🌻 O cordão de girassol
 
-![Cordão com estampa de girassol](https://itxesco.github.io/assets/figuras/autismo/tea_adulto.jpg)
+![Cordão com estampa de girassol](https://itxesco.github.io/assets/imagens/autismo/tea_adulto.jpg)
 
 Embora não seja exclusivamente associado ao autismo, **o girassol** tem sido adotado como símbolo de condições invisíveis, incluindo o TEA. Seu uso permite que as pessoas indiquem que podem precisar de suporte ou compreensão adicional em ambientes públicos.
 
@@ -59,9 +55,9 @@ Embora não seja exclusivamente associado ao autismo, **o girassol** tem sido ad
 
 ---
 
-### E por que não o Quebra-Cabeças?
+### 🧩 E por que não o Quebra-Cabeças?
 
-![Imagem de um quebra-cabeças](https://itxesco.github.io/assets/figuras/autismo/quebra.jpg)
+![Imagem de um quebra-cabeças](https://itxesco.github.io/assets/imagens/autismo/quebra.jpg)
 
 Muitas pessoas autistas questionam o uso do **quebra-cabeça** como símbolo do autismo. As principais críticas incluem:
 
@@ -94,10 +90,10 @@ Minha escolha pessoal é utilizar **o girassol ou o infinito em arco-íris**, po
 - [Direitos e Documentação](/pages/autismo/direitos.html)  
 - [Mitos e Estereótipos](/pages/autismo/mitos.html)  
 - [O que é Hiperfoco?](/pages/autismo/index_hiperfoco.html)  
-- [O que é o TEA?](/pages/autismo/autismo.html)  
+- [O que é o TEA?](/pages/autismo/tea.html)  
 - [Por que falamos **Espectro Autista**](/pages/autismo/espectro.html)  
 - [TEA na Cultura Pop](/pages/autismo/representacao.html)
 
 ---
 
-📌 [🔼 Voltar ao topo](#símbolos-do-autismo)
+📌 [🔼 Voltar ao topo](#🔣-simbologia-e-representação-do-autismo)

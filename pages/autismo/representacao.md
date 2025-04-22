@@ -3,33 +3,21 @@ layout: pagina
 title: TEA na Cultura Pop
 description: Uma análise crítica das representações do autismo em filmes, séries e personagens da cultura pop.
 permalink: /pages/autismo/representacao
----  
+---
 
-#### 📌 Tópicos desta página:
+## 🎬 TEA na Cultura Pop
 
-1. [Toda história tem um começo](#inicio)  
-2. [Rain Man e além](#rain_man)  
-3. [Parenthood](#parenthood)  
-4. [Community (seis temporadas e um filme!)](#community)  
-5. [Super-heróis Autistas](https://itxesco.github.io/pages/autismo/shtea.html)
+## 📌 Você vai ler nesta página:
+
+- [Toda história tem um começo](#toda-história-tem-um-começo)  
+- [Rain Man e além](#rain-man-e-além)  
+- [Parenthood](#parenthood)  
+- [Community (seis temporadas e um filme!)](#community-seis-temporadas-e-um-filme)  
+- [O problema com The Big Bang Theory](#o-problema-com-the-big-bang-theory)
 
 ---
 
-### Introdução
-
-A mídia exerce uma influência poderosa sobre nossas vidas. **Tudo o que fazemos, pensamos e sentimos é moldado pelas histórias que consumimos**. O autismo, sendo um tema relativamente recente no debate público, é fortemente impactado por sua representação na cultura pop.
-
-Desde a infância, minha compreensão do mundo foi influenciada por filmes, séries e livros. No entanto, por muito tempo, minha única referência ao autismo foi o filme *Rain Man*.
-
-Embora o filme seja frequentemente criticado, ele foi um marco importante na conscientização sobre o autismo. Hoje, estamos em um **cenário muito mais positivo**, com séries como *The Good Doctor* e *Atypical*, que retratam personagens autistas de forma mais realista.
-
-Ainda assim, a representação do autismo na mídia continua sendo um campo complexo. **Séries como *The Big Bang Theory* são problemáticas**, pois fazem piadas à custa de personagens autistas, reforçando estereótipos prejudiciais.
-
-A mudança virá quando as histórias forem contadas **por e para autistas**, oferecendo um olhar mais honesto e empático sobre a neurodivergência.
-
----
-
-### 1. Toda história tem um começo {#inicio}
+### Toda história tem um começo {#toda-história-tem-um-começo}
 
 Minha relação com o autismo e a cultura pop começou de forma inusitada.
 
@@ -47,9 +35,9 @@ E, o mais preocupante: **afeta como os autistas se veem**.
 
 ---
 
-### 2. Rain Man e além {#rain_man}
+### Rain Man e além {#rain-man-e-além}
 
-![Cartaz do filme Rain Man](https://itxesco.github.io/assets/figuras/autismo/rain_man_capa.jpg)
+![Cartaz do filme Rain Man](https://itxesco.github.io/assets/imagens/autismo/rain_man_capa.jpg)
 
 O filme *Rain Man* (1988) foi o primeiro grande contato do público com o conceito de autismo.
 
@@ -63,9 +51,9 @@ Hoje, o autismo não é mais um segredo. Mas a forma como a mídia nos represent
 
 ---
 
-### 3. Parenthood {#parenthood}
+### Parenthood {#parenthood}
 
-![Cartaz da série Parenthood](https://itxesco.github.io/assets/figuras/autismo/parenthood_capa.jpg)
+![Cartaz da série Parenthood](https://itxesco.github.io/assets/imagens/autismo/parenthood_capa.jpg)
 
 A série *Parenthood* apresenta Max Braverman, um adolescente autista que luta para se conectar com os colegas.
 
@@ -79,9 +67,9 @@ A representação do autismo **ainda é um desafio na cultura pop**, mas séries
 
 ---
 
-### 4. Community (seis temporadas e um filme!) {#community}
+### Community (seis temporadas e um filme!) {#community-seis-temporadas-e-um-filme}
 
-![Cartaz da série Community](https://itxesco.github.io/assets/figuras/autismo/Community_S1_DVD_capa.jpg)
+![Cartaz da série Community](https://itxesco.github.io/assets/imagens/autismo/Community_S1_DVD_capa.jpg)
 
 O personagem **Abed Nadir**, da série *Community*, é um dos melhores exemplos de representação autista na cultura pop.
 
@@ -95,9 +83,9 @@ Enquanto *Community* trata seu personagem com **empatia**, *TBBT* reforça a ide
 
 ---
 
-### 5. O problema com *The Big Bang Theory*
+### O problema com The Big Bang Theory {#o-problema-com-the-big-bang-theory}
 
-![Cartaz da série The Big Bang Theory](https://itxesco.github.io/assets/figuras/autismo/tbbt_capa.jpg)
+![Cartaz da série The Big Bang Theory](https://itxesco.github.io/assets/imagens/autismo/tbbt_capa.jpg)
 
 Muitos colegas da faculdade se identificavam com Sheldon Cooper, de *TBBT*. Mas eu sempre me incomodei com isso.
 
@@ -129,10 +117,10 @@ A cultura pop **molda a percepção do público sobre o autismo**. Se queremos u
 - [Direitos e Documentação](/pages/autismo/direitos.html)  
 - [Mitos e Estereótipos](/pages/autismo/mitos.html)  
 - [O que é Hiperfoco?](/pages/autismo/index_hiperfoco.html)  
-- [O que é o TEA?](/pages/autismo/autismo.html)  
+- [O que é o TEA?](/pages/autismo/tea.html)  
 - [Por que falamos **Espectro Autista**](/pages/autismo/espectro.html)  
 - [Simbologia e representação do autismo](/pages/autismo/simbolos.html)
 
 ---
 
-📌 [🔼 Voltar ao topo](#tópicos-desta-página)
+📌 [🔼 Voltar ao topo](#🎬-tea-na-cultura-pop)

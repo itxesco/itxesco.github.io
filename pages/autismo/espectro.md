@@ -3,13 +3,24 @@ layout: pagina
 title: O que é o Espectro Autista?
 description: Entenda o conceito de espectro e como ele se aplica à diversidade dentro do autismo.
 permalink: /pages/autismo/espectro
----  
+---
+
+### 📌 Você vai ler nesta página:
+
+- [🔹 O Autismo é um Espectro](#🔹-o-autismo-é-um-espectro)
+- [🟢🟠🔴 Níveis de Suporte](#🟢🟠🔴-níveis-de-suporte)
+- [🔹 Principais Características do TEA](#🔹-principais-características-do-tea)
+- [🔹 Diagnóstico e Intervenção](#🔹-diagnóstico-e-intervenção)
+- [🔹 Alguns mitos recorrentes sobre o TEA ❌✅](#🔹-alguns-mitos-recorrentes-sobre-o-tea-)
+- [💙 Autismo e Inclusão](#💙-autismo-e-inclusão)
+
+---
 
 ## 🔹 O Autismo é um Espectro
 
 É mais fácil entender  o conceito de espectro a partir de uma analogia com a seguinte imagem:
 
-![Espectro Eletromagnético](https://itxesco.github.io/assets/figuras/autismo/espectro_eletromagnetico.png)
+![Espectro Eletromagnético](/assets/imagens/autismo/espectro_eletromagnetico.png)
 
 A figura acima apresenta a estrutura do espectro eletromagnético no Universo, separando suas ondas por comprimento (m) e frequência (Hz). Assim como todas as cores da luz visível estão contidas em apenas uma pequena parte do espectro eletromagnético, o TEA também abrange uma ampla variedade de manifestações, características e sintomas que variam significativamente de pessoa para pessoa.
 
@@ -18,6 +29,8 @@ A figura acima apresenta a estrutura do espectro eletromagnético no Universo, s
 O **Transtorno do Espectro Autista (TEA)** se manifesta de maneira única em cada indivíduo, variando em **habilidades, desafios e necessidade de suporte**. O **DSM-5-TR** (Manual Diagnóstico e Estatístico de Transtornos Mentais, 5ª edição, revisão de texto) classifica o TEA em **três níveis de suporte**, que refletem a intensidade da assistência necessária no dia a dia:
 
 ---
+
+## 🟢🟠🔴 Níveis de Suporte
 
 ### 🟢 **Nível 1 – Requer suporte**
 - Dificuldades na comunicação social, como iniciar e manter conversas.
@@ -34,9 +47,9 @@ O **Transtorno do Espectro Autista (TEA)** se manifesta de maneira única em cad
 - Comportamentos repetitivos e resistência extrema à mudança impactam severamente a rotina.
 - Necessidade de suporte contínuo em diversas áreas da vida, como atividades diárias e interação social.
 
----
-
 Os **níveis de suporte** não determinam a **capacidade intelectual** ou os talentos de uma pessoa autista, mas ajudam a compreender suas necessidades individuais e garantir um suporte adequado para sua inclusão e bem-estar. 💙♾️
+
+---
 
 ## 🔹 Principais Características do TEA
 
@@ -104,4 +117,4 @@ Com suporte adequado e um ambiente compreensivo, adultos com TEA podem levar uma
 
 ---
 
-📌 [🔼 Voltar ao topo](#🔹-o-autismo-é-um-espectro)
+📌 [🔼 Voltar ao topo](#📌-você-vai-ler-nesta-página)

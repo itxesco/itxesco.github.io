@@ -3,45 +3,29 @@ layout: pagina
 title: Mitos e Estereótipos sobre o Autismo
 description: Esclareça os principais mitos sobre o TEA e entenda por que eles são prejudiciais.
 permalink: /pages/autismo/mitos
----  
+---
 
-### Navegação
+## 💬 Mitos e Estereótipos sobre o Autismo
 
-- [O que é o TEA](/pages/autismo/autismo.html)
-- [Diagnóstico Tardio](/pages/autismo/diagnosticotardio.html)
-- [Simbologia e Representação](/pages/autismo/identificadao.html)
-- [~~Asperger~~](/pages/autismo/asperger.html)
-- [Direitos e Documentação](/pages/autismo/direitos.html)
-- [Altas Habilidades e Superdotação](/pages/autismo/habilidades.html)
-- [Mitos](/pages/autismo/mitos.html)
-- [TEA na Cultura Pop](/pages/autismo/namidia.html)
+## 📌 Você vai ler nesta página:
+
+- [Autismo é uma epidemia](#autismo-é-uma-epidemia)  
+- [A maioria dos autistas são "de baixa funcionalidade"](#a-maioria-dos-autistas-são-de-baixa-funcionalidade)  
+- [O autismo pode ser tratado por ________](#o-autismo-pode-ser-tratado-por-________)  
+- [O autismo é causado pelo mercúrio](#o-autismo-é-causado-pelo-mercúrio)  
+- [Autistas não verbais são severamente mentalmente prejudicados](#autistas-não-verbais-são-severamente-mentalmente-prejudicados)  
+- [Autistas não podem ser gênios](#autistas-não-podem-ser-gênios)  
+- [Temos uma boa compreensão do autismo](#temos-uma-boa-compreensão-do-autismo)  
+- [Autistas querem ser curados](#autistas-querem-ser-curados)  
+- [Pessoas com autismo são iguais](#pessoas-com-autismo-são-iguais)  
+- [Autistas são representados por grandes organizações](#autistas-são-representados-por-grandes-organizações)
 
 ---
 
-### Introdução
+A desinformação sobre o autismo continua a ser um grande problema. Organizações lucram com estereótipos e ideias ultrapassadas, enquanto autistas são excluídos de discussões sobre suas próprias vidas. A melhor maneira de combater esses mitos é **amplificar as vozes autistas e buscar informações de fontes confiáveis**.
 
-Muitas concepções errôneas sobre o **Autismo** continuam a circular, resultando em falta de diagnósticos, incompreensão e financiamento de organizações que não representam verdadeiramente os autistas.
 
-A mídia frequentemente dá mais espaço para narrativas contadas por pessoas que **não são autistas**, o que leva à perpetuação de mitos. Abaixo, apresento **dez equívocos comuns sobre o autismo**, derivados da ausência de vozes autistas na mídia.
-
----
-
-### Índice
-
-1. [Autismo é uma epidemia](#autismo-é-uma-epidemia)  
-2. [A maioria dos autistas são "de baixa funcionalidade"](#a-maioria-dos-autistas-são-de-baixa-funcionalidade)  
-3. [O autismo pode ser tratado por ________ (insira aqui um tratamento não aprovado)](#o-autismo-pode-ser-tratado-por-insira-aqui-um-tratamento-não-aprovado)  
-4. [O autismo é causado pelo mercúrio](#o-autismo-é-causado-pelo-mercúrio)  
-5. [Autistas não verbais são severamente mentalmente prejudicados](#autistas-não-verbais-são-severamente-mentalmente-prejudicados)  
-6. [Autistas não podem ser gênios](#autistas-não-podem-ser-gênios)  
-7. [Temos uma boa compreensão do autismo](#temos-uma-boa-compreensão-do-autismo)  
-8. [Autistas querem ser curados](#autistas-querem-ser-curados)  
-9. [Pessoas com autismo são iguais](#pessoas-com-autismo-são-iguais)  
-10. [Autistas são representados por organizações como Autism Speaks e Cure Autism Now](#autistas-são-representados-por-organizações-como-autism-speaks-e-cure-autism-now)  
-
----
-
-### Autismo é uma epidemia
+### 🦠 Autismo é uma epidemia
 
 Organizações como *Autism Speaks* rotulam o autismo como uma "epidemia", embora cientistas tenham demonstrado o contrário.
 
@@ -49,7 +33,7 @@ O **Dr. Roy Grinker**, antropólogo da GWU, financiado ironicamente pela Autism 
 
 ---
 
-### A maioria dos autistas são "de baixa funcionalidade"
+### 🔻 A maioria dos autistas são "de baixa funcionalidade"
 
 Muitas organizações sem fins lucrativos preferem focar em casos de **"baixa funcionalidade"**, pois isso aumenta a arrecadação de doações.
 
@@ -57,7 +41,7 @@ Porém, **pesquisas mostram que menos da metade dos autistas são considerados d
 
 ---
 
-### O autismo pode ser tratado por ________ (insira aqui um tratamento não aprovado)
+### 🧪 O autismo pode ser tratado por ________
 
 Essa é uma das crenças mais perigosas, pois muitos pais desesperados acabam sendo enganados por falsos tratamentos.
 
@@ -65,7 +49,7 @@ Essa é uma das crenças mais perigosas, pois muitos pais desesperados acabam se
 
 ---
 
-### O autismo é causado pelo mercúrio
+### 💉 O autismo é causado pelo mercúrio
 
 Esse mito é popular nos EUA, onde se propagou a ideia de que vacinas contendo mercúrio causariam autismo.
 
@@ -73,15 +57,13 @@ Porém, **estudos demonstram consistentemente que não há qualquer relação en
 
 ---
 
-### Autistas não verbais são severamente mentalmente prejudicados
-
-Muitas pessoas assumem que autistas não verbais têm deficiência intelectual severa, o que **não é verdade**.
+### 🤐 Autistas não verbais são severamente mentalmente prejudicados
 
 Dificuldades de comunicação **não refletem capacidade cognitiva**. Existem autistas não verbais que são extremamente inteligentes e apenas precisam de meios alternativos para se expressar.
 
 ---
 
-### Autistas não podem ser gênios
+### 🧠 Autistas não podem ser gênios
 
 Muitos gênios históricos são suspeitos de ter tido autismo, como **Albert Einstein** e **Thomas Jefferson**.
 
@@ -89,7 +71,7 @@ Hoje, há exemplos vivos, como o economista vencedor do **Prêmio Nobel Vernon S
 
 ---
 
-### Temos uma boa compreensão do autismo
+### 🔬 Temos uma boa compreensão do autismo
 
 A ciência ainda sabe **muito pouco sobre o autismo**.
 
@@ -97,7 +79,7 @@ Pesquisadores fazem novas descobertas constantemente, mas ainda estamos longe de
 
 ---
 
-### Autistas querem ser curados
+### 💊 Autistas querem ser curados
 
 A grande maioria dos autistas **não deseja ser "curada"**, pois aceitam o autismo como parte de sua identidade.
 
@@ -105,7 +87,7 @@ Essa perspectiva pode parecer estranha para quem não é autista, mas o mesmo ac
 
 ---
 
-### Pessoas com autismo são iguais
+### 🧩 Pessoas com autismo são iguais
 
 Autistas diferem entre si **tanto quanto pessoas neurotípicas**.
 
@@ -113,7 +95,7 @@ O autismo é um **espectro**, e cada indivíduo tem experiências únicas, difer
 
 ---
 
-### Autistas são representados por organizações como Autism Speaks e Cure Autism Now
+### ❌ Autistas são representados por grandes organizações
 
 Na verdade, **a maioria dos autistas discorda dessas organizações**.
 
@@ -122,17 +104,8 @@ O *Autism Speaks*, a maior organização sobre autismo do mundo, **não tem auti
 Essas organizações também investem **pesado em pesquisas para triagem pré-natal**, com o objetivo de detectar o autismo antes do nascimento. Isso levanta preocupações éticas sobre a busca pela **eliminação de autistas antes mesmo de nascerem**.
 
 Em contraste, existem organizações **lideradas por autistas**, como a **ASAN (Autistic Self Advocacy Network)**:  
-- [ASAN](https://autisticadvocacy.org/)
+🔗 [ASAN](https://autisticadvocacy.org/)
 
-A **ASAN** recentemente conseguiu pressionar o *New York University Child Study Center* a cancelar a polêmica *Ransom Notes Campaign*, que retratava autistas de maneira desumanizante.
-
----
-
-### Conclusão
-
-A desinformação sobre o autismo continua a ser um grande problema. Organizações lucram com estereótipos e ideias ultrapassadas, enquanto autistas são excluídos de discussões sobre suas próprias vidas.
-
-A melhor maneira de combater esses mitos é **amplificar as vozes autistas e buscar informações de fontes confiáveis**.
 
 ---
 
@@ -142,12 +115,13 @@ A melhor maneira de combater esses mitos é **amplificar as vozes autistas e bus
 - [Autismo em adultos](/pages/autismo/tea_adultos.html)  
 - [Diagnóstico tardio](/pages/autismo/diag_tardio.html)  
 - [Direitos e Documentação](/pages/autismo/direitos.html)  
+- [Mitos e Estereótipos](/pages/autismo/mitos.html)  
 - [O que é Hiperfoco?](/pages/autismo/index_hiperfoco.html)  
-- [O que é o TEA?](/pages/autismo/autismo.html)  
+- [O que é o TEA?](/pages/autismo/tea.html)  
 - [Por que falamos **Espectro Autista**](/pages/autismo/espectro.html)  
 - [Simbologia e representação do autismo](/pages/autismo/simbolos.html)  
 - [TEA na Cultura Pop](/pages/autismo/representacao.html)
 
---- 
+---
 
-📌 [🔼 Voltar ao topo](#navegação)
+📌 [🔼 Voltar ao topo](#💬-mitos-e-estereótipos-sobre-o-autismo)
