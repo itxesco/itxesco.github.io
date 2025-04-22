@@ -84,6 +84,9 @@ Portanto, evite citar o nome daquele ~~nazista~~ safado, está bem? Não existe 
 
 Mais recentemente, em 2022, a Organização Mundial da Saúde adotou o [CID-11 (**Classificação Internacional de Doenças**)](https://icd.who.int/browse11/l-m/en#/http://id.who.int/icd/entity/437815624), onde também é usado o termo "espectro" e reforça essa visão mais ampla e integrada.
 
+---
+
+
 ### 🧠 O que é o CID e para que serve?
 
 A **Classificação Internacional de Doenças (CID)** é o sistema de codificação oficial da **Organização Mundial da Saúde (OMS)** desde 1948, com a publicação do CID-6. Ela é utilizada para padronizar diagnósticos, organizar estatísticas médicas e orientar políticas públicas. Sua versão mais recente, o **[CID-11](https://icd.who.int/pt)**, foi oficialmente adotada a partir de 2022.
@@ -108,6 +111,9 @@ Essa mudança de paradigma fez com que o  **autismo** passasse a ser compreendid
 > 🔎 Fonte: [Genial Care – Códigos F84 no CID-10](https://genialcare.com.br/blog/cid-f84-autismo/)  
 > 🔎 Fonte: [Tismoo – Códigos do CID-11 para TEA](https://tismoo.com.br/saude/diagnostico/cid-11-unifica-transtorno-do-espectro-do-autismo-no-codigo-6a02/)
 
+---
+
+
 ### 🔎 Como é feito o diagnóstico do autismo?
 
 Infelizmente, não é possível diagnosticar o TEA por um exame único e direto, como um exame de sangue ou de imagem. Seu diagnóstico é construído a partir de entrevistas, aplicação de testes padronizados e da análise do histórico de vida da pessoa, com base nos critérios atualmente estabelecidos pelo [DSM-5](https://www.psychiatry.org/psychiatrists/practice/dsm) e o [CID-11](https://icd.who.int/pt).
@@ -125,6 +131,9 @@ Ao final, o processo que também é chamado de **diagnóstico tardio** consiste 
 - Por último, em posse do **relatório neurológico** deve-se procurar **um médico psiquiatra ou neurologista** para obtenção do último documento, que é o **laudo médico** . Este é um documento simples, se comparado ao relatório neurológico, e   que atesta o diagnóstico com base em critérios clínicos e observações. Este é o documento com validade legal que comprova a condição da pessoa com TEA e que será usado na garantia de seus direitos legais.
 
 Você pode encontrar uma explicação mais detalhada sobre a diferença e a função do relatório neurológico e do laudo médico  no site da [Memed](https://blog.memed.com.br/diferenca-entre-laudo-e-relatorio-medico/?utm_source=chatgpt.com). De posse do laudo, é importante que a pessoa proceda com seu cadastro para obtenção da [**Carteira de Identificação da Pessoa com Transtorno do Espectro Autista** (CIPTEA)](https://pt.wikipedia.org/wiki/CIPTEA). Este é um passo importante, tanto para facilitar o aceso aos seus direitos, como para a estatística responsável pelo planejamento de ações de saúde pública direcionadas ao TEA.
+
+---
+
 
 ### Afinal, quantas pessoas com autismo há no Brasil?
 
@@ -164,7 +173,8 @@ Atualmente, nosso país **ainda** não possui dados oficiais precisos sobre o n�
 No total, temos **204.190 CIPTEA**s emitidas no Brasil até o momento, sendo que o **Censo Escolar de 2023** aponta um total de [**636 mil alunos autistas** matriculados ](https://www.gov.br/inep/pt-br/assuntos/noticias/censo-escolar/mec-e-inep-divulgam-resultados-do-censo-escolar-2023). São dados preocupantes, porque não batem: temos mais do triplo de autistas em idade de formação escolar, identificadas pelo Censo, do que portadores da Carteira que os identifica. Entretanto, é preciso notar que  as informações da tabela acima correspondem a emissão da CIPTEA por **somente 7 estados** entre as 26 Unidades Federativas. Sendo assim, temos **19 estados** que ainda **não apresentam dados oficiais acessíveis**.
 Se levarmos em conta a [estimativa da **OMS** de que **1% da população mundial** é autista]((https://www.who.int/news-room/fact-sheets/detail/autism-spectrum-disorders), teremos uma população com cerca de **2 milhões de pessoas no TEA no Brasil**: mesmo se tratando de uma estimativa, são números que reforçam a gravidade da **falta de acesso ao diagnóstico e documentação** adequada em nosso país.
 
----
+---  
+
 
 ### 🔎 Continue lendo sobre o TEA
 
@@ -180,4 +190,5 @@ Se levarmos em conta a [estimativa da **OMS** de que **1% da população mundial
 
 ---  
 
-[↑ Voltar ao topo|#🧠 O que é o Transtorno do Espectro Autista (TEA)?] 
+
+[↑ Voltar ao topo|#🧠 O que é o Transtorno do Espectro Autista (TEA)?]
