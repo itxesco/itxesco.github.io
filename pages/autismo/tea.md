@@ -103,14 +103,14 @@ O **autismo** foi incluído pela primeira vez de forma clara no [**CID-9**](http
 
 Essa mudança de paradigma fez com que o  **autismo** passasse a ser compreendido como **uma condição única e contínua**, reunindo todos aqueles diagnósticos   sob o termo **Transtorno do Espectro do Autismo (TEA)**. Em vez de categorias fechadas, o CID-11 adotou uma abordagem dimensional, que permite descrever com mais precisão as características de cada pessoa autista, oferecendo **especificadores clínicos** que ajudam a indicar, por exemplo, se há presença de deficiência intelectual, se a pessoa possui linguagem funcional ou se outras condições estão associadas. Seus códigos diagnósticos não precisem ser decorados, mas cumprem um papel essencial na documentação,  prontuários e  estatísticas de saúde, de modo mais coerente do que era feito até então, como você pode ver nesta tabela comparativa entre os CIDs 10 e 11 para o autismo:
 
-| **CID-10** | **Descrição**                                        | **CID-11** | **Descrição**                                                           |
-|-----------:|------------------------------------------------------|:----------:|-------------------------------------------------------------------------|
-| F84.0      | Autismo infantil                                     | 6A02.0     | TEA sem deficiência intelectual e com linguagem funcional preservada    |
-| F84.1      | Autismo atípico                                      | 6A02.2     | TEA sem deficiência intelectual e com linguagem funcional prejudicada   |
-| F84.5      | ~~Síndrome de Asperger~~                             | 6A02.0     | (equivalente funcional ao nível 1 de suporte)                           |
-| F84.2      | Transtorno desintegrativo da infância                | 6A02.Y     | Outro transtorno do espectro do autismo especificado                    |
-| F84.8      | Outros transtornos globais do desenvolvimento        | 6A02.Y     | (dependendo das características clínicas específicas)                   |
-| F84.9      | Transtorno global do desenvolvimento não especificado| 6A02.Z     | TEA não especificado                                                |                                                      |
+| **CID-10** | **Descrição**                                        | **CID-11** | **Descrição**                                                                 |
+|-----------|------------------------------------------------------|------------|-------------------------------------------------------------------------------|
+| F84.0     | Autismo infantil                                     | 6A02.0     | TEA sem deficiência intelectual e com linguagem funcional preservada          |
+| F84.1     | Autismo atípico                                      | 6A02.2     | TEA sem deficiência intelectual e com linguagem funcional prejudicada         |
+| F84.5     | ~~Síndrome de Asperger~~                             | 6A02.0     | (equivalente funcional ao nível 1 de suporte)                                 |
+| F84.2     | Transtorno desintegrativo da infância                | 6A02.Y     | Outro transtorno do espectro do autismo especificado                          |
+| F84.8     | Outros transtornos globais do desenvolvimento        | 6A02.Y     | (dependendo das características clínicas específicas)                         |
+| F84.9     | Transtorno global do desenvolvimento não especificado| 6A02.Z     | TEA não especificado                                                           |                                               |
 
 > 🔎 Fonte: [Genial Care – Códigos F84 no CID-10](https://genialcare.com.br/blog/cid-f84-autismo/)  
 > 🔎 Fonte: [Tismoo – Códigos do CID-11 para TEA](https://tismoo.com.br/saude/diagnostico/cid-11-unifica-transtorno-do-espectro-do-autismo-no-codigo-6a02/)
@@ -145,35 +145,37 @@ Atualmente, nosso país **ainda** não possui dados oficiais precisos sobre o n�
 
 ### 📊 Emissão da CIPTEA por Estado (dados até 2025)
 
-| Estado                  | Total de CIPTEAs Emitidas             | Fonte Oficial                                                                                                                                                                     |
-| ----------------------- | ------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Acre**                | Não há estatística oficial            | [Agência de Notícias do Acre](https://agencia.ac.gov.br/governo-do-acre-lanca-carteira-estadual-da-pessoa-com-transtorno-do-espectro-autista/)                                    |
-| **Alagoas**             | +3.800 carteiras (até maio/2023)      | [SECDEF](https://secdef.al.gov.br/noticia/350-governo-de-alagoas-ja-emitiu-mais-de-3-8-mil-carteiras-para-autistas)                                                               |
-| **Amapá**               | Não há estatística oficial            | [Portal do Governo do Amapá](https://www.portal.ap.gov.br/noticia/3003/saiba-onde-solicitar-a-carteira-de-identificacao-para-pessoas-com-autismo-no-amapa)                        |
-| **Amazonas**            | +9.000 carteiras (até abr/2025)       | [Agência Amazonas](https://www.agenciaamazonas.am.gov.br/noticias/autismo-governo-do-amazonas-emitiu-mais-de-9-mil-carteirinhas-para-pessoas-com-transtorno-do-espectro-autista/) |
-| **Bahia**               | Não há estatística oficial            | [CIPTEA Bahia](https://www.ba.gov.br/justica/17649/carteira-ciptea)                                                                                                               |
-| **Ceará**               | Não há estatística oficial            | [Portal do Servidor do Ceará](https://portaldoservidor.al.ce.gov.br/noticias/saiba-como-solicitar-a-carteira-de-identificacao-para-pessoas-autistas)                              |
-| **Distrito Federal**    | +18.500 carteiras (até 2024)          | [Canal Autismo](https://www.canalautismo.com.br/tag/ciptea/)                                                                                                                      |
-| **Espírito Santo**      | Não há estatística oficial            | [Prefeitura de Vitória](https://m.vitoria.es.gov.br/noticia/vitoria-inicia-emissao-das-carteiras-de-identificacao-para-pessoas-com-autismo-48364)                                 |
-| **Goiás**               | Não há estatística oficial            | [Governo de Goiás](https://goias.gov.br/social/carteira-de-identificacao-do-autista/)                                                                                             |
-| **Maranhão**            | Não há estatística oficial            | [Governo do Maranhão](https://www.ma.gov.br/noticias/governo-do-maranhao-lanca-carteira-de-identificacao-para-pessoas-com-transtorno-do-espectro-autista-ciptea)                  |
-| **Mato Grosso**         | Não há estatística oficial            | [SETASC-MT](https://www.setasc.mt.gov.br/carteirinha-do-autista)                                                                                                                  |
-| **Mato Grosso do Sul**  | Não há estatística oficial            | [SEAD-MS](https://www.sead.ms.gov.br/ciptea/)                                                                                                                                     |
-| **Minas Gerais**        | Não há estatística oficial            | [Governo de Minas Gerais](https://www.mg.gov.br/servico/obter-carteira-de-identificacao-da-pessoa-com-transtorno-do-espectro-autista-ciptea)                                      |
-| **Pará**                | Não há estatística oficial            | [SESPA](https://www.saude.pa.gov.br/a-secretaria/autismo/)                                                                                                                        |
-| **Paraíba**             | Não há estatística oficial            | [FUNAD](https://funad.pb.gov.br/passe-livre)                                                                                                                                      |
-| **Paraná**              | 36.081 carteiras (até fev/2025)       | [Agência de Notícias do Paraná](https://www.aen.pr.gov.br/Noticia/Parana-ja-entregou-36081-Carteirinhas-do-Autista-e-faz-mutirao-para-aumentar-adesao)                            |
-| **Pernambuco**          | Não há estatística oficial            | [Governo de Pernambuco](https://www.pe.gov.br/)                                                                                                                                   |
-| **Piauí**               | Não há estatística oficial            | [Governo do Piauí](https://www.pi.gov.br/)                                                                                                                                        |
-| **Rio de Janeiro**      | Não há estatística oficial            | [Governo do Rio de Janeiro](https://www.rj.gov.br/)                                                                                                                               |
-| **Rio Grande do Norte** | Não há estatística oficial            | [Governo do RN](https://www.rn.gov.br/)                                                                                                                                           |
-| **Rio Grande do Sul**   | 33.169 carteiras aprovadas (jan/2025) | [FADERS](https://social.rs.gov.br/pesquisa-ciptea-chega-em-mais-de-30-mil-pessoas-com-autismo-no-rs)                                                                              |
-| **Rondônia**            | Não há estatística oficial            | [Governo de Rondônia](https://www.ro.gov.br/)                                                                                                                                     |
-| **Roraima**             | Não há estatística oficial            | [Governo de Roraima](https://www.rr.gov.br/)                                                                                                                                      |
-| **Santa Catarina**      | 19.040 carteiras (até mar/2024)       | [FCEE](https://www.fcee.sc.gov.br/informacoes/servicos-fcee/carteira-de-identificacao-do-autista-de-santa-catarina)                                                               |
-| **São Paulo**           | +84.600 carteiras (até dez/2024)      | [ABCemOff](https://abcemoff.com.br/estado-emite-846-mil-carteiras-da-pessoa-autista-em-quase-dois-anos/)                                                                          |
-| **Sergipe**             | Não há estatística oficial            | [Governo de Sergipe](https://www.se.gov.br/)                                                                                                                                      |
-| **Tocantins**           | Não há estatística oficial            | [Governo do Tocantins](https://www.to.gov.br/)                                                                                                                                    |
+| Estado               | Total de CIPTEAs Emitidas          | Fonte Oficial |
+|----------------------|-------------------------------------|----------------|
+| **Acre**             | Não há estatística oficial          | [Agência de Notícias do Acre](https://agencia.ac.gov.br/governo-do-acre-lanca-carteira-estadual-da-pessoa-com-transtorno-do-espectro-autista/) |
+| **Alagoas**          | +3.800 carteiras (até maio/2023)    | [SECDEF](https://secdef.al.gov.br/noticia/350-governo-de-alagoas-ja-emitiu-mais-de-3-8-mil-carteiras-para-autistas) |
+| **Amapá**            | Não há estatística oficial          | [Portal do Governo do Amapá](https://www.portal.ap.gov.br/noticia/3003/saiba-onde-solicitar-a-carteira-de-identificacao-para-pessoas-com-autismo-no-amapa) |
+| **Amazonas**         | +9.000 carteiras (até abr/2025)     | [Agência Amazonas](https://www.agenciaamazonas.am.gov.br/noticias/autismo-governo-do-amazonas-emitiu-mais-de-9-mil-carteirinhas-para-pessoas-com-transtorno-do-espectro-autista/) |
+| **Bahia**            | Não há estatística oficial          | [CIPTEA Bahia](https://www.ba.gov.br/justica/17649/carteira-ciptea) |
+| **Ceará**            | Não há estatística oficial          | [Portal do Servidor do Ceará](https://portaldoservidor.al.ce.gov.br/noticias/saiba-como-solicitar-a-carteira-de-identificacao-para-pessoas-autistas) |
+| **Distrito Federal** | +18.500 carteiras (até 2024)        | [Canal Autismo](https://www.canalautismo.com.br/tag/ciptea/) |
+| **Espírito Santo**   | Não há estatística oficial          | [Prefeitura de Vitória](https://m.vitoria.es.gov.br/noticia/vitoria-inicia-emissao-das-carteiras-de-identificacao-para-pessoas-com-autismo-48364) |
+| **Goiás**            | Não há estatística oficial          | [Governo de Goiás](https://goias.gov.br/social/carteira-de-identificacao-do-autista/) |
+| **Maranhão**         | Não há estatística oficial          | [Governo do Maranhão](https://www.ma.gov.br/noticias/governo-do-maranhao-lanca-carteira-de-identificacao-para-pessoas-com-transtorno-do-espectro-autista-ciptea) |
+| **Mato Grosso**      | Não há estatística oficial          | [SETASC-MT](https://www.setasc.mt.gov.br/carteirinha-do-autista) |
+| **Mato Grosso do Sul** | Não há estatística oficial        | [SEAD-MS](https://www.sead.ms.gov.br/ciptea/) |
+| **Minas Gerais**     | Não há estatística oficial          | [Governo de Minas Gerais](https://www.mg.gov.br/servico/obter-carteira-de-identificacao-da-pessoa-com-transtorno-do-espectro-autista-ciptea) |
+| **Pará**             | Não há estatística oficial          | [SESPA](https://www.saude.pa.gov.br/a-secretaria/autismo/) |
+| **Paraíba**          | Não há estatística oficial          | [FUNAD](https://funad.pb.gov.br/passe-livre) |
+| **Paraná**           | 36.081 carteiras (até fev/2025)     | [Agência de Notícias do Paraná](https://www.aen.pr.gov.br/Noticia/Parana-ja-entregou-36081-Carteirinhas-do-Autista-e-faz-mutirao-para-aumentar-adesao) |
+| **Pernambuco**       | Não há estatística oficial          | [Governo de Pernambuco](https://www.pe.gov.br/) |
+| **Piauí**            | Não há estatística oficial          | [Governo do Piauí](https://www.pi.gov.br/) |
+| **Rio de Janeiro**   | Não há estatística oficial          | [Governo do Rio de Janeiro](https://www.rj.gov.br/) |
+| **Rio Grande do Norte** | Não há estatística oficial       | [Governo do RN](https://www.rn.gov.br/) |
+| **Rio Grande do Sul**| 33.169 carteiras aprovadas (jan/2025) | [FADERS](https://social.rs.gov.br/pesquisa-ciptea-chega-em-mais-de-30-mil-pessoas-com-autismo-no-rs) |
+| **Rondônia**         | Não há estatística oficial          | [Governo de Rondônia](https://www.ro.gov.br/) |
+| **Roraima**          | Não há estatística oficial          | [Governo de Roraima](https://www.rr.gov.br/) |
+| **Santa Catarina**   | 19.040 carteiras (até mar/2024)     | [FCEE](https://www.fcee.sc.gov.br/informacoes/servicos-fcee/carteira-de-identificacao-do-autista-de-santa-catarina) |
+| **São Paulo**        | +84.600 carteiras (até dez/2024)    | [ABCemOff](https://abcemoff.com.br/estado-emite-846-mil-carteiras-da-pessoa-autista-em-quase-dois-anos/) |
+| **Sergipe**          | Não há estatística oficial          | [Governo de Sergipe](https://www.se.gov.br/) |
+| **Tocantins**        | Não há estatística oficial          | [Governo do Tocantins](https://www.to.gov.br/) |  
+
+
 No total, temos **204.190 CIPTEA**s emitidas no Brasil até o momento, sendo que o **Censo Escolar de 2023** aponta um total de [**636 mil alunos autistas** matriculados ](https://www.gov.br/inep/pt-br/assuntos/noticias/censo-escolar/mec-e-inep-divulgam-resultados-do-censo-escolar-2023). São dados preocupantes, porque não batem: temos mais do triplo de autistas em idade de formação escolar, identificadas pelo Censo, do que portadores da Carteira que os identifica. Entretanto, é preciso notar que  as informações da tabela acima correspondem a emissão da CIPTEA por **somente 7 estados** entre as 26 Unidades Federativas. Sendo assim, temos **19 estados** que ainda **não apresentam dados oficiais acessíveis**.
 Se levarmos em conta a [estimativa da **OMS** de que **1% da população mundial** é autista]((https://www.who.int/news-room/fact-sheets/detail/autism-spectrum-disorders), teremos uma população com cerca de **2 milhões de pessoas no TEA no Brasil**: mesmo se tratando de uma estimativa, são números que reforçam a gravidade da **falta de acesso ao diagnóstico e documentação** adequada em nosso país.
 
