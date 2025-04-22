@@ -112,7 +112,6 @@ Essa mudança de paradigma fez com que o  **autismo** passasse a ser compreendid
 
 ---
 
-
 ### 🔎 Como é feito o diagnóstico do autismo?
 
 Infelizmente, não é possível diagnosticar o TEA por um exame único e direto, como um exame de sangue ou de imagem. Seu diagnóstico é construído a partir de entrevistas, aplicação de testes padronizados e da análise do histórico de vida da pessoa, com base nos critérios atualmente estabelecidos pelo [DSM-5](https://www.psychiatry.org/psychiatrists/practice/dsm) e o [CID-11](https://icd.who.int/pt).
@@ -129,14 +128,13 @@ Ao final, o processo que também é chamado de **diagnóstico tardio** consiste 
 - O segundo passo é a obtenção do **relatório neurológico**, um documento  descritivo que vai ser elaborado por neurologistas ou [neuropsicólogas](https://pt.wikipedia.org/wiki/Neuropsicologia). Ele é bem detalhado e   chega a ter mais de 20 páginas ( o meu, tem 26) apresentando o histórico clínico do paciente, os sintomas observados, a análise das suas respostas aos testes aplicados e a evolução de seu caso. Você pode encontrar um  modelo no site da [ATO Diagnósticos](https://www.atodiagnosticos.com.br/exame-detalhe/139-Relatorio-ou-Laudo--Medico-Neurologico--?utm_source=chatgpt.com), que esta disponível como exemplo.
 - Por último, em posse do **relatório neurológico** deve-se procurar **um médico psiquiatra ou neurologista** para obtenção do último documento, que é o **laudo médico** . Este é um documento simples, se comparado ao relatório neurológico, e   que atesta o diagnóstico com base em critérios clínicos e observações. Este é o documento com validade legal que comprova a condição da pessoa com TEA e que será usado na garantia de seus direitos legais.
 
-Você pode encontrar uma explicação mais detalhada sobre a diferença e a função do relatório neurológico e do laudo médico  no site da [Memed](https://blog.memed.com.br/diferenca-entre-laudo-e-relatorio-medico/?utm_source=chatgpt.com). De posse do laudo, é importante que a pessoa proceda com seu cadastro para obtenção da [**Carteira de Identificação da Pessoa com Transtorno do Espectro Autista** (CIPTEA)](https://pt.wikipedia.org/wiki/CIPTEA). Este é um passo importante, tanto para facilitar o aceso aos seus direitos, como para a estatística responsável pelo planejamento de ações de saúde pública direcionadas ao TEA.
+VVocê pode encontrar uma explicação mais detalhada sobre a diferença e a função do relatório neurológico e do laudo médico no site da [Memed](https://blog.memed.com.br/diferenca-entre-laudo-e-relatorio-medico/?utm_source=chatgpt.com). De posse do laudo, é importante que a pessoa proceda com seu cadastro para obtenção da [**Carteira de Identificação da Pessoa com Transtorno do Espectro Autista** (CIPTEA)](https://pt.wikipedia.org/wiki/CIPTEA). Este é um passo importante, tanto para facilitar o acesso aos seus direitos, como para a estatística responsável pelo planejamento de ações de saúde pública direcionadas ao TEA.
 
 ---
 
-
 ### Afinal, quantas pessoas com autismo há no Brasil?
 
-Atualmente, nosso país **ainda** não possui dados oficiais precisos sobre o número de seus habitantes com TEA, o que dificulta a construção de uma política de inclusão efetiva e de ações de planejamento para a saúde pública, além da garantia do acesso a terapias pelos convênios particulares. Ainda assim, é possível fazer uma estimativa a partir de fontes oficiais, como por exemplo, o número de  **CIPTEA** s emitidas por cada unidade da Federação ( a CIPTEA é emitida por Estados e municípios), já que não há uma estatística única federal:
+Atualmente, nosso país **ainda** não possui dados oficiais precisos sobre o número de seus habitantes com TEA, o que dificulta a construção de uma política de inclusão efetiva e de ações de planejamento para a saúde pública, além da garantia do acesso a terapias pelos convênios particulares. Ainda assim, é possível fazer uma estimativa a partir de fontes oficiais, como por exemplo, o número de **CIPTEA**s emitidas por cada unidade da Federação (a CIPTEA é emitida por Estados e municípios), já que não há uma estatística única federal:
 
 ### 📊 Emissão da CIPTEA por Estado (dados até 2025)
 
@@ -171,11 +169,12 @@ Atualmente, nosso país **ainda** não possui dados oficiais precisos sobre o n�
 | **Tocantins**        | Não há estatística oficial          | [Governo do Tocantins](https://www.to.gov.br/) |  
 
 
-No total, temos **204.190 CIPTEA**s emitidas no Brasil até o momento, sendo que o **Censo Escolar de 2023** aponta um total de [**636 mil alunos autistas** matriculados ](https://www.gov.br/inep/pt-br/assuntos/noticias/censo-escolar/mec-e-inep-divulgam-resultados-do-censo-escolar-2023). São dados preocupantes, porque não batem: temos mais do triplo de autistas em idade de formação escolar, identificadas pelo Censo, do que portadores da Carteira que os identifica. Entretanto, é preciso notar que  as informações da tabela acima correspondem a emissão da CIPTEA por **somente 7 estados** entre as 26 Unidades Federativas. Sendo assim, temos **19 estados** que ainda **não apresentam dados oficiais acessíveis**.
-Se levarmos em conta a [estimativa da **OMS** de que **1% da população mundial** é autista]((https://www.who.int/news-room/fact-sheets/detail/autism-spectrum-disorders), teremos uma população com cerca de **2 milhões de pessoas no TEA no Brasil**: mesmo se tratando de uma estimativa, são números que reforçam a gravidade da **falta de acesso ao diagnóstico e documentação** adequada em nosso país.
+No total, temos **204.190 CIPTEA**s emitidas no Brasil até o momento, sendo que o **Censo Escolar de 2023** aponta um total de [**636 mil alunos autistas** matriculados ](https://www.gov.br/inep/pt-br/assuntos/noticias/censo-escolar/mec-e-inep-divulgam-resultados-do-censo-escolar-2023). São dados preocupantes, porque não batem: temos mais do triplo de autistas em idade de formação escolar, identificadas pelo Censo, do que portadores da Carteira que os identifica. Entretanto, é preciso notar que  as informações da tabela acima correspondem a emissão da CIPTEA por **somente 7 estados** entre as 26 Unidades Federativas. Sendo assim, temos **19 estados** que ainda **não apresentam dados oficiais acessíveis**.  
 
----  
 
+Se levarmos em conta a [estimativa da **OMS** de que **1% da população mundial** é autista](https://www.who.int/news-room/fact-sheets/detail/autism-spectrum-disorders), teremos uma população com cerca de **2 milhões de pessoas no TEA no Brasil**: mesmo se tratando de uma estimativa, são números que reforçam a gravidade da **falta de acesso ao diagnóstico e documentação** adequada em nosso país.
+
+---
 
 ### 🔎 Continue lendo sobre o TEA
 
