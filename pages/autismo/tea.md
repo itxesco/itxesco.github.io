@@ -8,14 +8,14 @@ permalink: /pages/autismo/tea
 <br>
 ## 📌 **Você vai ler nesta página:**
 <br>
-- [🧩 Uma resposta muito resumida](#🧩-uma-resposta-muito-resumida)  
-- [🌍 Por que há tantos autistas atualmente?](#🌍-por-que-há-tantos-autistas-atualmente)  
-- [📘 Mas o que é o DSM ?](#📘-mas-o-que-é-o-dsm-)  
-- [🧠 O que é o CID e para que serve?](#🧠-o-que-é-o-cid-e-para-que-serve)  
-- [🔎 Como é feito o diagnóstico do autismo?](#🔎-como-é-feito-o-diagnóstico-do-autismo)  
-- [Afinal, quantas pessoas com autismo há no Brasil?](#afinal-quantas-pessoas-com-autismo-há-no-brasil)  
-- [📊 Emissão da CIPTEA por Estado (dados até 2025)](#📊-emissão-da-ciptea-por-estado-dados-até-2025)  
-- [🔎 Continue lendo sobre o TEA](#🔎-continue-lendo-sobre-o-tea)
+&nbsp;&nbsp;&nbsp;- [🧩 Uma resposta muito resumida](#🧩-uma-resposta-muito-resumida)  
+&nbsp;&nbsp;&nbsp;- [🌍 Por que há tantos autistas atualmente?](#🌍-por-que-há-tantos-autistas-atualmente)  
+&nbsp;&nbsp;&nbsp;- [📘 Mas o que é o DSM ?](#📘-mas-o-que-é-o-dsm-)  
+&nbsp;&nbsp;&nbsp;- [🧠 O que é o CID e para que serve?](#🧠-o-que-é-o-cid-e-para-que-serve)  
+&nbsp;&nbsp;&nbsp;- [🔎 Como é feito o diagnóstico do autismo?](#🔎-como-é-feito-o-diagnóstico-do-autismo)  
+&nbsp;&nbsp;&nbsp;- [Afinal, quantas pessoas com autismo há no Brasil?](#afinal-quantas-pessoas-com-autismo-há-no-brasil)  
+&nbsp;&nbsp;&nbsp;- [📊 Emissão da CIPTEA por Estado (dados até 2025)](#📊-emissão-da-ciptea-por-estado-dados-até-2025)  
+&nbsp;&nbsp;&nbsp;- [🔎 Continue lendo sobre o TEA](#🔎-continue-lendo-sobre-o-tea)
 <br>
 ---
 <br>
@@ -24,13 +24,13 @@ permalink: /pages/autismo/tea
 <br>
 O **TEA** é um transtorno do neurodesenvolvimento que afeta a organização de pensamentos, sentimentos e emoções. Caracteriza-se por déficits na comunicação e interação social, comportamentos repetitivos e interesses restritos, além de sensibilidade a estímulos sensoriais. Ele **não é uma doença**, mas sim uma condição — uma forma diversa de funcionamento neurológico. Cada pessoa autista é única e pode apresentar diferentes níveis de suporte. Algumas das características comuns a todas as pessoas com TEA, incluem:
 <br>
-- ✔️ Diferenças na comunicação social  
-- ✔️ Sensibilidades sensoriais  
-- ✔️ Interesses intensos e focados  
+&nbsp;&nbsp;&nbsp;- ✔️ Diferenças na comunicação social  
+&nbsp;&nbsp;&nbsp;- ✔️ Sensibilidades sensoriais  
+&nbsp;&nbsp;&nbsp;- ✔️ Interesses intensos e focados  
 <br>
 O termo **espectro** indica a variedade de manifestações do TEA. Perceba que estamos falando de **espectro** e não de **gradiente**, porque não existe um autismo *leve* e outro *severo*, mas características diferentes de um mesmo transtorno.  
 <br>
-→ saiba mais aqui: [O que é o Espectro Autista](/pages/autismo/espectro.html)  
+&nbsp;&nbsp;&nbsp;→ saiba mais aqui: [O que é o Espectro Autista](/pages/autismo/espectro.html)  
 <br>
 ---
 <br>
@@ -62,11 +62,11 @@ O DSM-III estabeleceu, ainda, critérios objetivos e clínicos para seu diagnós
 <br>
 Em **maio de 1994** foi publicado o [DSM-IV](https://www.scribd.com/document/401228138/DSM-IV-TR-em-portugues-pdf),  que trouxe uma ampliação da categoria dos **Transtornos Invasivos do Desenvolvimento (Pervasive Developmental Disorders – PDD)**. Enquanto que na versão anterior do manual,  o autismo era reconhecido como um **transtorno distinto único**,  o DSM-IV introduziu uma classificação em subtipos:
 <br>
-- **Transtorno Autista**  
-- **Síndrome de Rett**  
-- **Transtorno Desintegrativo da Infância**  
-- **Síndrome de ~~Asperger**~~  
-- **Transtorno Invasivo do Desenvolvimento Sem Outra Especificação (PDD-NOS)**
+&nbsp;&nbsp;&nbsp;- **Transtorno Autista**  
+&nbsp;&nbsp;&nbsp;- **Síndrome de Rett**  
+&nbsp;&nbsp;&nbsp;- **Transtorno Desintegrativo da Infância**  
+&nbsp;&nbsp;&nbsp;- **Síndrome de ~~Asperger**~~  
+&nbsp;&nbsp;&nbsp;- **Transtorno Invasivo do Desenvolvimento Sem Outra Especificação (PDD-NOS)**
 <br>
 Essa expansão permitiu o início de diagnósticos mais específicos e personalizados, adaptados às características de cada pessoa, reconhecendo a diversidade das manifestações clínicas mas sem usar ainda a classificação como **espectro**.
 <br>
@@ -74,8 +74,8 @@ A publicação do [DSM-5](https://www.cruzvermelha.pt/images/pdf/DSM-5.pdf) em 2
 <br>
 O **DSM-5** trouxe uma nova abordagem,  que parte do princípio de que o **autismo** não pode ser entendido como uma *coleção* de condições separadas, mas somente como um **espectro contínuo**, com diferentes níveis de suporte e apresentações clínicas. Em vez daquelas categorias fixas, agora o diagnóstico passa a considerar **dois domínios principais**:  
 <br>
-1. Déficits persistentes na comunicação e na interação social  
-2. Padrões restritos e repetitivos de comportamento, interesses ou atividades
+&nbsp;&nbsp;&nbsp;1. Déficits persistentes na comunicação e na interação social  
+&nbsp;&nbsp;&nbsp;2. Padrões restritos e repetitivos de comportamento, interesses ou atividades
 <br>
 Essa versão do manual também introduziu o conceito de  **níveis de suporte**, classificados de 1 a 3, para indicar a quantidade de suporte necessário para cada pessoa dentro do espectro autista, e também incluiu especificadores clínicos que permitem descrever melhor o perfil de cada pessoa (por exemplo, se há ou não deficiência intelectual ou comprometimento na linguagem).
 <br>
