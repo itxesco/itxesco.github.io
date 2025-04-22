@@ -5,20 +5,25 @@ description: Entenda de forma clara o que é o Transtorno do Espectro Autista (T
 permalink: /pages/autismo/tea
 ---
 
-## 📌 Você vai ler nesta página:
 
-- [🧩 Uma resposta muito resumida](#🧩-uma-resposta-muito-resumida)
-- [🌍 Por que há tantos autistas atualmente?](#🌍-por-que-há-tantos-autistas-atualmente)
-- [📘 Mas o que é o DSM ?](#📘-mas-o-que-é-o-dsm-)
-- [🧠 O que é o CID e para que serve?](#🧠-o-que-é-o-cid-e-para-que-serve)
-- [🔎 Como é feito o diagnóstico do autismo?](#🔎-como-é-feito-o-diagnóstico-do-autismo)
-- [Afinal, quantas pessoas com autismo há no Brasil?](#afinal-quantas-pessoas-com-autismo-há-no-brasil)
-- [📊 Emissão da CIPTEA por Estado (dados até 2025)](#📊-emissão-da-ciptea-por-estado-dados-até-2025)
-- [🔎 Continue lendo sobre o TEA](#🔎-continue-lendo-sobre-o-tea)
+## 📌 **Você vai ler nesta página:**
+&nbsp;
+
+&nbsp;&nbsp;&nbsp;&nbsp;- [🧩 Uma resposta muito resumida](#🧩-uma-resposta-muito-resumida)  
+&nbsp;&nbsp;&nbsp;&nbsp;- [🌍 Por que há tantos autistas atualmente?](#🌍-por-que-há-tantos-autistas-atualmente)  
+&nbsp;&nbsp;&nbsp;&nbsp;- [📘 Mas o que é o DSM ?](#📘-mas-o-que-é-o-dsm-)  
+&nbsp;&nbsp;&nbsp;&nbsp;- [🧠 O que é o CID e para que serve?](#🧠-o-que-é-o-cid-e-para-que-serve)  
+&nbsp;&nbsp;&nbsp;&nbsp;- [🔎 Como é feito o diagnóstico do autismo?](#🔎-como-é-feito-o-diagnóstico-do-autismo)  
+&nbsp;&nbsp;&nbsp;&nbsp;- [Afinal, quantas pessoas com autismo há no Brasil?](#afinal-quantas-pessoas-com-autismo-há-no-brasil)  
+&nbsp;&nbsp;&nbsp;&nbsp;- [📊 Emissão da CIPTEA por Estado (dados até 2025)](#📊-emissão-da-ciptea-por-estado-dados-até-2025)  
+&nbsp;&nbsp;&nbsp;&nbsp;- [🔎 Continue lendo sobre o TEA](#🔎-continue-lendo-sobre-o-tea)
+
 
 ---  
 
+
 ### 🧩 Uma resposta muito resumida
+
 
 O **TEA** é um transtorno do neurodesenvolvimento que afeta a organização de pensamentos, sentimentos e emoções. Caracteriza-se por déficits na comunicação e interação social, comportamentos repetitivos e interesses restritos, além de sensibilidade a estímulos sensoriais. Ele **não é uma doença**, mas sim uma condição — uma forma diversa de funcionamento neurológico. Cada pessoa autista é única e pode apresentar diferentes níveis de suporte. Algumas das características comuns a todas as pessoas com TEA, incluem:
 
@@ -98,14 +103,14 @@ O **autismo** foi incluído pela primeira vez de forma clara no [**CID-9**](http
 
 Essa mudança de paradigma fez com que o  **autismo** passasse a ser compreendido como **uma condição única e contínua**, reunindo todos aqueles diagnósticos   sob o termo **Transtorno do Espectro do Autismo (TEA)**. Em vez de categorias fechadas, o CID-11 adotou uma abordagem dimensional, que permite descrever com mais precisão as características de cada pessoa autista, oferecendo **especificadores clínicos** que ajudam a indicar, por exemplo, se há presença de deficiência intelectual, se a pessoa possui linguagem funcional ou se outras condições estão associadas. Seus códigos diagnósticos não precisem ser decorados, mas cumprem um papel essencial na documentação,  prontuários e  estatísticas de saúde, de modo mais coerente do que era feito até então, como você pode ver nesta tabela comparativa entre os CIDs 10 e 11 para o autismo:
 
-| CID-10 | Descrição                                               | CID-11  | Descrição                                                                 |
-|--------|-----------------------------------------------------------|---------|---------------------------------------------------------------------------|
-| F84.0  | Autismo infantil                                          | 6A02.0  | TEA sem deficiência intelectual e com linguagem funcional preservada      |
-| F84.1  | Autismo atípico                                           | 6A02.2  | TEA sem deficiência intelectual e com linguagem funcional prejudicada     |
-| F84.5  | ~~Síndrome de Asperger~~                                  | 6A02.0  | (equivalente funcional ao nível 1 de suporte)                             |
-| F84.2  | Transtorno desintegrativo da infância                     | 6A02.Y  | Outro transtorno do espectro do autismo especificado                      |
-| F84.8  | Outros transtornos globais do desenvolvimento             | 6A02.Y  | (dependendo das características clínicas específicas)                     |
-| F84.9  | Transtorno global do desenvolvimento não especificado     | 6A02.Z  | TEA não especificado                                                      |
+| **CID-10** | **Descrição**                                        | **CID-11** | **Descrição**                                                           |
+|-----------:|------------------------------------------------------|:----------:|-------------------------------------------------------------------------|
+| F84.0      | Autismo infantil                                     | 6A02.0     | TEA sem deficiência intelectual e com linguagem funcional preservada    |
+| F84.1      | Autismo atípico                                      | 6A02.2     | TEA sem deficiência intelectual e com linguagem funcional prejudicada   |
+| F84.5      | ~~Síndrome de Asperger~~                             | 6A02.0     | (equivalente funcional ao nível 1 de suporte)                           |
+| F84.2      | Transtorno desintegrativo da infância                | 6A02.Y     | Outro transtorno do espectro do autismo especificado                    |
+| F84.8      | Outros transtornos globais do desenvolvimento        | 6A02.Y     | (dependendo das características clínicas específicas)                   |
+| F84.9      | Transtorno global do desenvolvimento não especificado| 6A02.Z     | TEA não especificado                                                |                                                      |
 
 > 🔎 Fonte: [Genial Care – Códigos F84 no CID-10](https://genialcare.com.br/blog/cid-f84-autismo/)  
 > 🔎 Fonte: [Tismoo – Códigos do CID-11 para TEA](https://tismoo.com.br/saude/diagnostico/cid-11-unifica-transtorno-do-espectro-do-autismo-no-codigo-6a02/)
