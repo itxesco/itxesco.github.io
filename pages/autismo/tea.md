@@ -7,23 +7,19 @@ permalink: /pages/autismo/tea
 
 
 ## 📌 **Você vai ler nesta página:**
-&nbsp;
 
-&nbsp;&nbsp;&nbsp;&nbsp;- [🧩 Uma resposta muito resumida](#🧩-uma-resposta-muito-resumida)  
-&nbsp;&nbsp;&nbsp;&nbsp;- [🌍 Por que há tantos autistas atualmente?](#🌍-por-que-há-tantos-autistas-atualmente)  
-&nbsp;&nbsp;&nbsp;&nbsp;- [📘 Mas o que é o DSM ?](#📘-mas-o-que-é-o-dsm-)  
-&nbsp;&nbsp;&nbsp;&nbsp;- [🧠 O que é o CID e para que serve?](#🧠-o-que-é-o-cid-e-para-que-serve)  
-&nbsp;&nbsp;&nbsp;&nbsp;- [🔎 Como é feito o diagnóstico do autismo?](#🔎-como-é-feito-o-diagnóstico-do-autismo)  
-&nbsp;&nbsp;&nbsp;&nbsp;- [Afinal, quantas pessoas com autismo há no Brasil?](#afinal-quantas-pessoas-com-autismo-há-no-brasil)  
-&nbsp;&nbsp;&nbsp;&nbsp;- [📊 Emissão da CIPTEA por Estado (dados até 2025)](#📊-emissão-da-ciptea-por-estado-dados-até-2025)  
-&nbsp;&nbsp;&nbsp;&nbsp;- [🔎 Continue lendo sobre o TEA](#🔎-continue-lendo-sobre-o-tea)
+- [🧩 Uma resposta muito resumida](#🧩-uma-resposta-muito-resumida)  
+- [🌍 Por que há tantos autistas atualmente?](#🌍-por-que-há-tantos-autistas-atualmente)  
+- [📘 Mas o que é o DSM ?](#📘-mas-o-que-é-o-dsm-)  
+- [🧠 O que é o CID e para que serve?](#🧠-o-que-é-o-cid-e-para-que-serve)  
+- [🔎 Como é feito o diagnóstico do autismo?](#🔎-como-é-feito-o-diagnóstico-do-autismo)  
+- [Afinal, quantas pessoas com autismo há no Brasil?](#afinal-quantas-pessoas-com-autismo-há-no-brasil)  
+- [📊 Emissão da CIPTEA por Estado (dados até 2025)](#📊-emissão-da-ciptea-por-estado-dados-até-2025)  
+- [🔎 Continue lendo sobre o TEA](#🔎-continue-lendo-sobre-o-tea)
 
-
----  
-
+---
 
 ### 🧩 Uma resposta muito resumida
-
 
 O **TEA** é um transtorno do neurodesenvolvimento que afeta a organização de pensamentos, sentimentos e emoções. Caracteriza-se por déficits na comunicação e interação social, comportamentos repetitivos e interesses restritos, além de sensibilidade a estímulos sensoriais. Ele **não é uma doença**, mas sim uma condição — uma forma diversa de funcionamento neurológico. Cada pessoa autista é única e pode apresentar diferentes níveis de suporte. Algumas das características comuns a todas as pessoas com TEA, incluem:
 
@@ -32,10 +28,10 @@ O **TEA** é um transtorno do neurodesenvolvimento que afeta a organização de 
 - ✔️ Interesses intensos e focados  
 
 O termo **espectro** indica a variedade de manifestações do TEA. Perceba que estamos falando de **espectro** e não de **gradiente**, porque não existe um autismo *leve* e outro *severo*, mas características diferentes de um mesmo transtorno.  
+
 → saiba mais aqui: [O que é o Espectro Autista](/pages/autismo/espectro.html)  
 
 ---
-
 
 ### 🌍 Por que há tantos autistas atualmente?
 
@@ -48,7 +44,6 @@ Inicialmente, o conceito era bem restrito e associado a comportamentos considera
 Se você nunca ouviu falar em [DSM](https://www.psychiatry.org/psychiatrists/practice/dsm), saiba que é o principal manual usado pela psiquiatria.  
 
 ---
-
 
 ### 📘 Mas o que é o DSM ?
 
