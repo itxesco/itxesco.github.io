@@ -86,7 +86,6 @@ Mais recentemente, em 2022, a Organização Mundial da Saúde adotou o [CID-11 (
 
 ---
 
-
 ### 🧠 O que é o CID e para que serve?
 
 A **Classificação Internacional de Doenças (CID)** é o sistema de codificação oficial da **Organização Mundial da Saúde (OMS)** desde 1948, com a publicação do CID-6. Ela é utilizada para padronizar diagnósticos, organizar estatísticas médicas e orientar políticas públicas. Sua versão mais recente, o **[CID-11](https://icd.who.int/pt)**, foi oficialmente adotada a partir de 2022.
