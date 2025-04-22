@@ -7,16 +7,16 @@ permalink: /pages/autismo/tea
 
 ## 📌 Você vai ler nesta página:
 
-- [🧩 Uma resposta muito resumida](#🧩-uma-resposta-muito-resumida)
-- [🌍 Por que há tantos autistas atualmente?](#🌍-por-que-há-tantos-autistas-atualmente)
-- [📘 Mas o que é o DSM ?](#📘-mas-o-que-é-o-dsm-)
-- [🧠 O que é o CID e para que serve?](#🧠-o-que-é-o-cid-e-para-que-serve)
-- [🔎 Como é feito o diagnóstico do autismo?](#🔎-como-é-feito-o-diagnóstico-do-autismo)
-- [Afinal, quantas pessoas com autismo há no Brasil?](#afinal-quantas-pessoas-com-autismo-há-no-brasil)
-- [📊 Emissão da CIPTEA por Estado (dados até 2025)](#📊-emissão-da-ciptea-por-estado-dados-até-2025)
-- [🔎 Continue lendo sobre o TEA](#🔎-continue-lendo-sobre-o-tea)
+-  [[#🧩 Uma resposta muito resumida]]
+- [[#🌍 Por que há tantos autistas atualmente?]]
+- [[#📘 Mas o que é o DSM ?]]
+-  [[#🧠 O que é o CID e para que serve?]]
+- [[#🔎 Como é feito o diagnóstico do autismo?]]
+-  [[#Afinal, quantas pessoas com autismo há no Brasil?]]
+- [[#📊 Emissão da CIPTEA por Estado (dados até 2025)]]
+- 🔎 [[#🔎 Continue lendo sobre o TEA|Continue lendo sobre o TEA]]
 
----  
+---
 
 ### 🧩 Uma resposta muito resumida
 
@@ -27,31 +27,25 @@ O **TEA** é um transtorno do neurodesenvolvimento que afeta a organização de 
 - ✔️ Interesses intensos e focados  
 
 O termo **espectro** indica a variedade de manifestações do TEA. Perceba que estamos falando de **espectro** e não de **gradiente**, porque não existe um autismo *leve* e outro *severo*, mas características diferentes de um mesmo transtorno.  
-→ saiba mais aqui: [O que é o Espectro Autista](/pages/autismo/espectro.html)  
+→ saiba mais aqui: [[O que é o Espectro Autista]]
 
 ---
-
 
 ### 🌍 Por que há tantos autistas atualmente?
 
-Não, o número de pessoas autistas no Brasil não está aumentando e não está havendo nenhuma *epidemia* de autismo no mundo. O que está ocorrendo é um processo de conscientização sobre o TEA, seus sintomas e comorbidades, em paralelo a um aumento do acesso a diagnóstico.
+Não, o número de pessoas autistas no Brasil não está aumentando e não está havendo nenhuma *epidemia* de autismo no mundo. O que está ocorrendo é um processo de conscientização sobre o TEA, seus sintomas e comorbidades, em paralelo a um aumento do acesso a diagnostico.
 
-As pesquisas sobre autismo são relativamente recentes, no campo da medicina, e a forma como se entende o TEA mudou muito nos últimos 100 anos, desde sua identificação nos anos 1940, quando foi descrito quase ao mesmo tempo por dois médicos: [Leo Kanner](https://institutopriorit.com.br/saude-mental-na-escola/mas-quem-foi-dr-leo-kanner/), nos Estados Unidos, e [Hans Asperger](https://revistapesquisa.fapesp.br/o-pediatra-colaborador-dos-nazistas/), na Áustria.
+As pesquisas sobre autismo são relativamente recentes, no campo da medicina e a forma como se entende o TEA mudou muito nos últimos 100 anos, desde sua identificação nos anos 1940, quando foi descrito quase ao mesmo tempo por dois médicos: [Leo Kanner](https://institutopriorit.com.br/saude-mental-na-escola/mas-quem-foi-dr-leo-kanner/), nos Estados Unidos, e [Hans Asperger](https://revistapesquisa.fapesp.br/o-pediatra-colaborador-dos-nazistas/), na Áustria. Inicialmente, o conceito era bem restrito e associado a comportamentos considerados "incomuns" na infância. Por muito tempo, o autismo foi confundido com esquizofrenia infantil — como aparece, por exemplo, no [DSM-I de 1952](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6092398/) .
 
-Inicialmente, o conceito era bem restrito e associado a comportamentos considerados "incomuns" na infância. Por muito tempo, o autismo foi confundido com esquizofrenia infantil — como aparece, por exemplo, no [DSM-I de 1952](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6092398/).
-
-Se você nunca ouviu falar em [DSM](https://www.psychiatry.org/psychiatrists/practice/dsm), saiba que é o principal manual usado pela psiquiatria.  
-
----
-
+Se você nunca ouviu falar em [DSM](https://www.psychiatry.org/psychiatrists/practice/dsm), saiba que é o principal manual usado pela psiquiatria.
 
 ### 📘 Mas o que é o DSM ?
 
-Trata-se da publicação oficial da [Associação Americana de Psiquiatria (APA)](https://www.psychiatry.org) e é uma das principais ferramentas utilizadas por profissionais da saúde mental para o diagnóstico e classificação de transtornos mentais e do neurodesenvolvimento. O manual é atualizado periodicamente para incorporar os avanços científicos e as mudanças na compreensão clínica e social sobre saúde mental, por isso você encontra referências ao número após a sigla. Atualmente, estamos no DSM-5.
+Trata-se da publicação oficial da [Associação Americana de Psiquiatria (APA)](https://www.psychiatry.org) e é uma das principais ferramentas utilizadas por profissionais da saúde mental para o diagnóstico e classificação de transtornos mentais e do neurodesenvolvimento. O manual é atualizado periodicamente para incorporar os avanços científicos e as mudanças na compreensão clínica e social sobre  saúde mental, por isso você encontra referências ao número após a sigla. Atualmente, estamos no DSM-5.
 
-Em sua primeira edição, o [**DSM-I**](https://www.neurodiversity.com/library_dsm1_1952.pdf), foi publicado em 1952 e classificava o autismo como uma forma de esquizofrenia infantil, dentro do capítulo de “Distúrbios Reacionais” e embora o termo “autismo”, em si, **não tenha sido usado**, há descrições de sintomas compatíveis com o que hoje entendemos como o TEA, especialmente nos casos de crianças com retraimento social, comunicação afetada e comportamentos repetitivos, apontando o caso como **uma forma de esquizofrenia precoce**.
+Em sua primeira edição, o [**DSM-I**](https://www.neurodiversity.com/library_dsm1_1952.pdf), foi publicada em 1952 e classificava o autismo como uma forma de esquizofrenia infantil, dentro do capítulo de “Distúrbios Reacionais” e embora o termo “autismo”, em si, **não tenha sido usado**, há descrições de sintomas compatíveis com o que hoje entendemos como o TEA, especialmente nos casos de crianças com retraimento social, comunicação afetada e comportamentos repetitivos, apontando o caso como **uma forma de esquizofrenia precoce**.
 
-A segunda edição do manual, o [DSM-II](https://www.madinamerica.com/wp-content/uploads/2015/08/DSM-II.pdf), foi publicado em 1968, sem que o autismo seja **mencionado diretamente como diagnóstico por nome**, entretanto, usa o termo *"autístico"* pela primeira vez na descrição da **esquizofrenia infantil**, ainda que já reconhecesse a existência de certos padrões de comportamento — como o afastamento social precoce, a linguagem idiossincrática e fixação por objetos.  
+A segunda edição o manual, o [DSM-II](https://www.madinamerica.com/wp-content/uploads/2015/08/DSM-II.pdf) foi publicado em 1968, sem que o autismo seja  **mencionado diretamente como diagnóstico por nome**, entretanto, usa o termo *"autístico"*  pela primeira vez na descrição da **esquizofrenia infantil**, ainda que  já  reconhecesse a existência de certos padrões de comportamento — como o afastamento social precoce, a linguagem idiossincrática e fixação por objetos.  
 
 Foi somente em **1980** com a publicação do  [**DSM-III**]([DSM-III (1980) – PDF em inglês](https://aditpsiquiatriaypsicologia.es/images/CLASIFICACION%20DE%20ENFERMEDADES/DSM-III.pdf)) que o autismo passou a ser reconhecido como um **transtorno distinto**, com critérios diagnósticos próprios, separados da esquizofrenia infantil. Essa mudança foi fundamental para o desenvolvimento de uma compreensão mais precisa e ética sobre o espectro autista. Essa versão do manual traz uma **mudança significativa** na forma como o autismo era  compreendido pela medicina: ele passou a ser classificado dentro de uma nova categoria chamada **Transtornos Pervasivos do Desenvolvimento (TPD)**, que reunia condições marcadas por prejuízos generalizados na comunicação, na socialização e no comportamento.
 
@@ -180,4 +174,4 @@ Se levarmos em conta a [estimativa da **OMS** de que **1% da população mundial
 
 ---  
 
-[↑ Voltar ao topo|#🧠 O que é o Transtorno do Espectro Autista (TEA)?] 
+[[↑ Voltar ao topo|#🧠 O que é o Transtorno do Espectro Autista (TEA)?]]
