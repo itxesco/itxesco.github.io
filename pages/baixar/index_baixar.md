@@ -2,7 +2,7 @@
 layout: pagina
 title: "links interessantes"
 description: Links para materiais de aula, artigos e recursos sobre autismo e ensino.
-permalink: /pages/index/index_baixar
+permalink: /pages/baixar/index_baixar
 ---
 
 ## 📁 Arquivos para Baixar
