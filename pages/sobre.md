@@ -1,12 +1,12 @@
 ---
 title: "Sobre mim"
-layout: default
-permalink: /pages/sobre.html
+layout: pagina
+permalink: /pages/sobre
 description: Página pessoal do professor Francisco Nascimento com informações acadêmicas, pesquisa, formação e redes sociais.
 ---
 
 <div class="text-center">
-  <img src="https://itxesco.github.io/imagens/perfil/perfil_3.jpeg" alt="Imagem de perfil" class="mx-auto w-[281px] h-[375px] rounded shadow-md mb-6">
+  <img src="https://itxesco.github.io/assets/imagens/perfil/perfil_3.jpeg" alt="Imagem de perfil" class="mx-auto w-[281px] h-[375px] rounded shadow-md mb-6">
 </div>
 
 ---
@@ -27,12 +27,12 @@ Sou entusiasta do **diálogo entre ciência e cultura pop**, especialmente **HQs
   <div>
     <h4 class="text-lg font-semibold mb-4">Perfis Acadêmicos</h4>
     <div class="flex flex-wrap justify-center gap-4">
-      <a href="http://lattes.cnpq.br/1942359141745184"><img src="/imagens/icones/icons16/lattes-icon.png" alt="Lattes" class="p-2 border rounded hover:scale-110 transition-transform"></a>
-      <a href="https://sig.ufsb.edu.br/sigaa/public/docente/portal.jsf?siape=1085938"><img src="/imagens/icones/icons16/ufsb-icon.jpg" alt="SIGAA" class="p-2 border rounded hover:scale-110 transition-transform"></a>
-      <a href="https://www.researchgate.net/profile/Francisco_Nascimento24"><img src="/imagens/icones/icons16/researchgate-icon.png" alt="ResearchGate" class="p-2 border rounded hover:scale-110 transition-transform"></a>
-      <a href="https://ufsb.academia.edu/FranciscoNascimento"><img src="/imagens/icones/icons16/academia-edu-icon.png" alt="Academia.edu" class="p-2 border rounded hover:scale-110 transition-transform"></a>
-      <a href="https://scholar.google.com.br/citations?user=H8peemwAAAAJ&hl=en"><img src="/imagens/icones/icons16/google-scholar-icon.png" alt="Google Acadêmico" class="p-2 border rounded hover:scale-110 transition-transform"></a>
-      <a href="https://orcid.org/0000-0003-0587-8392"><img src="/imagens/icones/icons16/orcid-icon.png" alt="ORCID" class="p-2 border rounded hover:scale-110 transition-transform"></a>
+      <a href="http://lattes.cnpq.br/1942359141745184"><img src="/assets/icones/icons16/lattes-icon.png" alt="Lattes" class="p-2 border rounded hover:scale-110 transition-transform"></a>
+      <a href="https://sig.ufsb.edu.br/sigaa/public/docente/portal.jsf?siape=1085938"><img src="/assets/icones/icons16/ufsb-icon.jpg" alt="SIGAA" class="p-2 border rounded hover:scale-110 transition-transform"></a>
+      <a href="https://www.researchgate.net/profile/Francisco_Nascimento24"><img src="/assets/icones/icons16/researchgate-icon.png" alt="ResearchGate" class="p-2 border rounded hover:scale-110 transition-transform"></a>
+      <a href="https://ufsb.academia.edu/FranciscoNascimento"><img src="/assets/icones/icons16/academia-edu-icon.png" alt="Academia.edu" class="p-2 border rounded hover:scale-110 transition-transform"></a>
+      <a href="https://scholar.google.com.br/citations?user=H8peemwAAAAJ&hl=en"><img src="/assets/icones/icons16/google-scholar-icon.png" alt="Google Acadêmico" class="p-2 border rounded hover:scale-110 transition-transform"></a>
+      <a href="https://orcid.org/0000-0003-0587-8392"><img src="/assets/icones/icons16/orcid-icon.png" alt="ORCID" class="p-2 border rounded hover:scale-110 transition-transform"></a>
     </div>
   </div>
 
@@ -40,11 +40,11 @@ Sou entusiasta do **diálogo entre ciência e cultura pop**, especialmente **HQs
   <div>
     <h4 class="text-lg font-semibold mb-4">Redes Sociais</h4>
     <div class="flex flex-wrap justify-center gap-4">
-      <a href="https://www.instagram.com/gtf.nascimento"><img src="/imagens/icones/icons16/instagram-icon.png" alt="Instagram" class="p-2 border rounded hover:scale-110 transition-transform"></a>
-      <a href="https://www.goodreads.com/user/show/51497119-francisco-nascimento"><img src="/imagens/icones/icons16/goodreads-icon.png" alt="Goodreads" class="p-2 border rounded hover:scale-110 transition-transform"></a>
-      <a href="https://www.youtube.com/channel/UCqWEN6uuwiohJY8qv9e7Ddg"><img src="/imagens/icones/icons16/youtube-icon.png" alt="YouTube" class="p-2 border rounded hover:scale-110 transition-transform"></a>
-      <a href="https://web-cdn.bsky.app/profile/itxesco.bsky.social"><img src="/imagens/icones/icons16/twitter-icon.png" alt="BlueSky" class="p-2 border rounded hover:scale-110 transition-transform"></a>
-      <a href="https://twitch.tv/itxesco"><img src="/imagens/icones/icons16/twitch-icon.png" alt="Twitch" class="p-2 border rounded hover:scale-110 transition-transform"></a>
+      <a href="https://www.instagram.com/gtf.nascimento"><img src="/assets/icones/icons16/instagram-icon.png" alt="Instagram" class="p-2 border rounded hover:scale-110 transition-transform"></a>
+      <a href="https://www.goodreads.com/user/show/51497119-francisco-nascimento"><img src="/assets/icones/icons16/goodreads-icon.png" alt="Goodreads" class="p-2 border rounded hover:scale-110 transition-transform"></a>
+      <a href="https://www.youtube.com/channel/UCqWEN6uuwiohJY8qv9e7Ddg"><img src="/assets/icones/icons16/youtube-icon.png" alt="YouTube" class="p-2 border rounded hover:scale-110 transition-transform"></a>
+      <a href="https://web-cdn.bsky.app/profile/itxesco.bsky.social"><img src="/assets/icones/icons16/twitter-icon.png" alt="BlueSky" class="p-2 border rounded hover:scale-110 transition-transform"></a>
+      <a href="https://twitch.tv/itxesco"><img src="/assets/icones/icons16/twitch-icon.png" alt="Twitch" class="p-2 border rounded hover:scale-110 transition-transform"></a>
     </div>
   </div>
 
