@@ -5,8 +5,7 @@ description: Entenda de forma clara o que é o Transtorno do Espectro Autista (T
 permalink: /pages/autismo/tea
 ---
 <br>
-<br>
-## 📌 **Você vai ler nesta página:**
+### 📌 **Você vai ler nesta página:**
 <br>
 &nbsp;&nbsp;&nbsp;- [🧩 Uma resposta muito resumida](#🧩-uma-resposta-muito-resumida)  
 &nbsp;&nbsp;&nbsp;- [🌍 Por que há tantos autistas atualmente?](#🌍-por-que-há-tantos-autistas-atualmente)  
@@ -19,8 +18,7 @@ permalink: /pages/autismo/tea
 <br>
 ---
 <br>
-<br>
-### 🧩 Uma resposta muito resumida
+### 🧩 **Uma resposta muito resumida**
 <br>
 O **TEA** é um transtorno do neurodesenvolvimento que afeta a organização de pensamentos, sentimentos e emoções. Caracteriza-se por déficits na comunicação e interação social, comportamentos repetitivos e interesses restritos, além de sensibilidade a estímulos sensoriais. Ele **não é uma doença**, mas sim uma condição — uma forma diversa de funcionamento neurológico. Cada pessoa autista é única e pode apresentar diferentes níveis de suporte. Algumas das características comuns a todas as pessoas com TEA, incluem:<br>
 <br>
@@ -29,11 +27,10 @@ O **TEA** é um transtorno do neurodesenvolvimento que afeta a organização de 
 &nbsp;&nbsp;&nbsp;- ✔️ Interesses intensos e focados  
 <br>
 O termo **espectro** indica a variedade de manifestações do TEA. Perceba que estamos falando de **espectro** e não de **gradiente**, porque não existe um autismo *leve* e outro *severo*, mas características diferentes de um mesmo transtorno.  
-<br>
 &nbsp;&nbsp;&nbsp;→ saiba mais aqui: [O que é o Espectro Autista](/pages/autismo/espectro.html)  
 ---
 <br>
-### 🌍 Por que há tantos autistas atualmente?
+### 🌍 **Por que há tantos autistas atualmente?**
 <br>
 Não, o número de pessoas autistas no Brasil não está aumentando e não está havendo nenhuma *epidemia* de autismo no mundo. O que está ocorrendo é um processo de conscientização sobre o TEA, seus sintomas e comorbidades, em paralelo a um aumento do acesso a diagnóstico.<br>
 <br>
@@ -45,7 +42,7 @@ Não há problemas se você nunca ouviu falar em [DSM](https://www.psychiatry.or
 <br>
 ---
 <br>
-### 📘 Mas o que é o DSM ?
+### 📘 **Mas o que é o DSM ?**
 <br>
 Trata-se da publicação oficial da [Associação Americana de Psiquiatria (APA)](https://www.psychiatry.org) e é uma das principais ferramentas utilizadas por profissionais da saúde mental para o diagnóstico e classificação de transtornos mentais e do neurodesenvolvimento. O manual é atualizado periodicamente para incorporar os avanços científicos e as mudanças na compreensão clínica e social sobre saúde mental, por isso você encontra referências ao número após a sigla. Atualmente, estamos no DSM-5.<br>
 <br>
@@ -59,31 +56,29 @@ O DSM-III estabeleceu, ainda, critérios objetivos e clínicos para seu diagnós
 <br>
 Em **maio de 1994** foi publicado o [DSM-IV](https://www.scribd.com/document/401228138/DSM-IV-TR-em-portugues-pdf),  que trouxe uma ampliação da categoria dos **Transtornos Invasivos do Desenvolvimento (Pervasive Developmental Disorders – PDD)**. Enquanto que na versão anterior do manual,  o autismo era reconhecido como um **transtorno distinto único**,  o DSM-IV introduziu uma classificação em subtipos:<br>
 <br>
-&nbsp;&nbsp;&nbsp;- **Transtorno Autista**  
-&nbsp;&nbsp;&nbsp;- **Síndrome de Rett**  
-&nbsp;&nbsp;&nbsp;- **Transtorno Desintegrativo da Infância**  
-&nbsp;&nbsp;&nbsp;- **Síndrome de ~~Asperger**~~  
-&nbsp;&nbsp;&nbsp;- **Transtorno Invasivo do Desenvolvimento Sem Outra Especificação (PDD-NOS)**
+&nbsp;&nbsp;&nbsp;- **Transtorno Autista**<br>  
+&nbsp;&nbsp;&nbsp;- **Síndrome de Rett**<br>  
+&nbsp;&nbsp;&nbsp;- **Transtorno Desintegrativo da Infância**<br>  
+&nbsp;&nbsp;&nbsp;- **Síndrome de ~~Asperger**~~ <br>  
+&nbsp;&nbsp;&nbsp;- **Transtorno Invasivo do Desenvolvimento Sem Outra Especificação (PDD-NOS)**<br>
 <br>
 Essa expansão permitiu o início de diagnósticos mais específicos e personalizados, adaptados às características de cada pessoa, reconhecendo a diversidade das manifestações clínicas mas sem usar ainda a classificação como **espectro**.<br>
 <br>
 A publicação do [DSM-5](https://www.cruzvermelha.pt/images/pdf/DSM-5.pdf) em 2013, uniu essas categorias em um único termo, o **Transtorno do Espectro Autista (TEA)** e reconheceu que não há divisões clínicas claras entre os subtipos elencados no DSM-4, causando uma  mudança profunda na forma como o autismo é diagnosticado e compreendido pela medicina. Isso porque cada um daqueles subtipos tinha seus próprios critérios diagnósticos e isso  frequentemente causava confusão clínica e falta de consistência no diagnóstico, afinal, possibilitava que duas pessoas com sintomas muito semelhantes pudessem receber diagnósticos diferentes, a depender do médico ou da instituição. Além disso, a divisão em subcategorias não refletia  a complexidade e a variabilidade das manifestações do autismo.<br>
 <br>
 O **DSM-5** trouxe uma nova abordagem,  que parte do princípio de que o **autismo** não pode ser entendido como uma *coleção* de condições separadas, mas somente como um **espectro contínuo**, com diferentes níveis de suporte e apresentações clínicas. Em vez daquelas categorias fixas, agora o diagnóstico passa a considerar **dois domínios principais**:<br>  
-<br>
+
 &nbsp;&nbsp;&nbsp;1. Déficits persistentes na comunicação e na interação social  
-&nbsp;&nbsp;&nbsp;2. Padrões restritos e repetitivos de comportamento, interesses ou atividades
-<br>
+&nbsp;&nbsp;&nbsp;2. Padrões restritos e repetitivos de comportamento, interesses ou atividades<br>
+
 Essa versão do manual também introduziu o conceito de  **níveis de suporte**, classificados de 1 a 3, para indicar a quantidade de suporte necessário para cada pessoa dentro do espectro autista, e também incluiu especificadores clínicos que permitem descrever melhor o perfil de cada pessoa (por exemplo, se há ou não deficiência intelectual ou comprometimento na linguagem).<br>
 <br>
 Ao abandonar os rótulos fixos como ~~Asperger~~ ou PDD, o DSM-5 refletiu os avanços na pesquisa científica até a primeira década do Século XXI e  tornou o diagnóstico mais claro, consistente e inclusivo, promovendo uma compreensão mais flexível e respeitosa da neurodiversidade ao reconhecer que **cada pessoa autista é única, com suas próprias formas de se comunicar, aprender e interagir com o mundo**.<br>
 <br>
 Para além das mudanças técnicas, precisamos destacar que o uso do termo ~~Asperger~~ é desincentivado  por questões éticas, devido às descobertas históricas sobre o envolvimento de Hans Asperger com o regime nazista. Assim, a comunidade científica e médica tem adotado o termo **TEA** como uma forma mais inclusiva e ética de se referir à condição: o perfil que antes seria diagnosticado como ~~Asperger~~ passou a ser apresentado no **TEA com nível 1 de suporte**.<br>
 <br>
-Portanto, evite citar o nome daquele ~~nazista~~ safado, está bem? Não existe *Síndrome de ~~Asperger~~*, existe o **autismo com nível 1 de suporte**.<br>
-<br>
-Mais recentemente, em 2022, a Organização Mundial da Saúde adotou o [CID-11 (**Classificação Internacional de Doenças**)](https://icd.who.int/browse11/l-m/en#/http://id.who.int/icd/entity/437815624), onde também é usado o termo "espectro" e reforça essa visão mais ampla e integrada.<br>
-<br>
+Portanto, evite citar o nome daquele ~~nazista~~ safado, está bem? Não existe *Síndrome de ~~Asperger~~*, existe o **autismo com nível 1 de suporte**.Mais recentemente, em 2022, a Organização Mundial da Saúde adotou o [CID-11 (**Classificação Internacional de Doenças**)](https://icd.who.int/browse11/l-m/en#/http://id.who.int/icd/entity/437815624), onde também é usado o termo "espectro" e reforça essa visão mais ampla e integrada.<br>
+
 ---
 <br>
 ### 🧠 O que é o CID e para que serve?
@@ -146,8 +141,6 @@ Essa mudança de paradigma fez com que o  **autismo** passasse a ser compreendid
     </tr>
   </tbody>
 </table>
-<br>
-<br>
 > 🔎 Fonte: [Genial Care – Códigos F84 no CID-10](https://genialcare.com.br/blog/cid-f84-autismo/)  
 > 🔎 Fonte: [Tismoo – Códigos do CID-11 para TEA](https://tismoo.com.br/saude/diagnostico/cid-11-unifica-transtorno-do-espectro-do-autismo-no-codigo-6a02/)
 
@@ -156,16 +149,16 @@ Essa mudança de paradigma fez com que o  **autismo** passasse a ser compreendid
 <br>
 ### 🔎 Como é feito o diagnóstico do autismo?
 <br>
-Infelizmente, não é possível diagnosticar o TEA por um exame único e direto, como um exame de sangue ou de imagem. Seu diagnóstico é construído a partir de entrevistas, aplicação de testes padronizados e da análise do histórico de vida da pessoa, com base nos critérios atualmente estabelecidos pelo [DSM-5](https://www.psychiatry.org/psychiatrists/practice/dsm) e o [CID-11](https://icd.who.int/pt).
-<br>
-No caso de **crianças**, o diagnóstico deve envolver uma equipe multidisciplinar — composta por psicólogos, psiquiatras, neurologistas, fonoaudiólogos e terapeutas ocupacionais — que irá avaliar seu desenvolvimento social, emocional e da linguagem, aplicando instrumentos clínicos padronizados como a **[ADI-R – Autism Diagnostic Interview-Revised](https://www.wpspublish.com/adi-r-autism-diagnostic-interview-revised)**,uma entrevista detalhada com os pais ou cuidadores sobre a infância da criança, e a **[ADOS-2 – Autism Diagnostic Observation Schedule](https://www.wpspublish.com/ados-2-autism-diagnostic-observation-schedule-second-edition)**, uma observação direta do comportamento da criança em situações estruturadas e semi-estruturadas.
-<br>
-Quando se trata de **adultos**, como ocorreu comigo, o diagnóstico é  mais desafiador, já que assim como eu, muitos autistas aprendem ao longo da vida como mascarar seus sinais do espectro, para se adaptar socialmente. Mas não se engane, o diagnóstico é  libertador pra adultos.
-<br>
-Neste caso, a avaliação  envolve entrevistas clínicas, a análise de  documentos como registros escolares, a coleta de relatos familiares, e a aplicação de instrumentos  padronizados, como o **[RAADS-R – Ritvo Autism Asperger Diagnostic Scale-Revised](https://www.aspietests.org/raads/)** e o **[AQ – Autism Spectrum Quotient](https://www.aspietests.org/aq/)**. São testes que ajudam a identificar traços consistentes com o espectro autista, mesmo em pessoas que não receberam diagnóstico na infância.
-<br>
-Ao final, o processo que também é chamado de **diagnóstico tardio** consiste em três passos simples para a obtenção de dois documentos  que o formalizam:
-<br>
+Infelizmente, não é possível diagnosticar o TEA por um exame único e direto, como um exame de sangue ou de imagem. Seu diagnóstico é construído a partir de entrevistas, aplicação de testes padronizados e da análise do histórico de vida da pessoa, com base nos critérios atualmente estabelecidos pelo [DSM-5](https://www.psychiatry.org/psychiatrists/practice/dsm) e o [CID-11](https://icd.who.int/pt).<br>
+
+No caso de **crianças**, o diagnóstico deve envolver uma equipe multidisciplinar — composta por psicólogos, psiquiatras, neurologistas, fonoaudiólogos e terapeutas ocupacionais — que irá avaliar seu desenvolvimento social, emocional e da linguagem, aplicando instrumentos clínicos padronizados como a **[ADI-R – Autism Diagnostic Interview-Revised](https://www.wpspublish.com/adi-r-autism-diagnostic-interview-revised)**,uma entrevista detalhada com os pais ou cuidadores sobre a infância da criança, e a **[ADOS-2 – Autism Diagnostic Observation Schedule](https://www.wpspublish.com/ados-2-autism-diagnostic-observation-schedule-second-edition)**, uma observação direta do comportamento da criança em situações estruturadas e semi-estruturadas.<br>
+
+Quando se trata de **adultos**, como ocorreu comigo, o diagnóstico é  mais desafiador, já que assim como eu, muitos autistas aprendem ao longo da vida como mascarar seus sinais do espectro, para se adaptar socialmente. Mas não se engane, o diagnóstico é  libertador pra adultos.<br>
+
+Neste caso, a avaliação  envolve entrevistas clínicas, a análise de  documentos como registros escolares, a coleta de relatos familiares, e a aplicação de instrumentos  padronizados, como o **[RAADS-R – Ritvo Autism Asperger Diagnostic Scale-Revised](https://www.aspietests.org/raads/)** e o **[AQ – Autism Spectrum Quotient](https://www.aspietests.org/aq/)**. São testes que ajudam a identificar traços consistentes com o espectro autista, mesmo em pessoas que não receberam diagnóstico na infância.<br>
+
+Ao final, o processo que também é chamado de **diagnóstico tardio** consiste em três passos simples para a obtenção de dois documentos  que o formalizam:<br>
+
 - Primeiro vem o **encaminhamento**,  que pode ser  realizado por uma psicóloga ou até pelo pedagogo escolar, se for o caso. No entanto, **estes profissionais não fazem o diagnóstico, nem solicitam diretamente os testes clínicos**. O que  pode fazer é elaborar um **relatório pedagógico ou psicológico detalhado**, requisitando a avaliação com profissionais da área da saúde<br>
 - O segundo passo é a obtenção do **relatório neurológico**, um documento  descritivo que vai ser elaborado por neurologistas ou [neuropsicólogas](https://pt.wikipedia.org/wiki/Neuropsicologia). Ele é bem detalhado e   chega a ter mais de 20 páginas ( o meu, tem 26) apresentando o histórico clínico do paciente, os sintomas observados, a análise das suas respostas aos testes aplicados e a evolução de seu caso. Você pode encontrar um  modelo no site da [ATO Diagnósticos](https://www.atodiagnosticos.com.br/exame-detalhe/139-Relatorio-ou-Laudo--Medico-Neurologico--?utm_source=chatgpt.com), que esta disponível como exemplo.<br>
 - Por último, em posse do **relatório neurológico** deve-se procurar **um médico psiquiatra ou neurologista** para obtenção do último documento, que é o **laudo médico** . Este é um documento simples, se comparado ao relatório neurológico, e   que atesta o diagnóstico com base em critérios clínicos e observações. Este é o documento com validade legal que comprova a condição da pessoa com TEA e que será usado na garantia de seus direitos legais.
@@ -174,13 +167,12 @@ Você pode encontrar uma explicação mais detalhada sobre a diferença e a fun�
 <br>
 ---
 <br>
-### Afinal, quantas pessoas com autismo há no Brasil?
+### **Afinal, quantas pessoas com autismo há no Brasil?**
 <br>
 Atualmente, nosso país **ainda** não possui dados oficiais precisos sobre o número de seus habitantes com TEA, o que dificulta a construção de uma política de inclusão efetiva e de ações de planejamento para a saúde pública, além da garantia do acesso a terapias pelos convênios particulares. Ainda assim, é possível fazer uma estimativa a partir de fontes oficiais, como por exemplo, o número de **CIPTEA**s emitidas por cada unidade da Federação (a CIPTEA é emitida por Estados e municípios), já que não há uma estatística única federal:
 <br>
 <br>
-### 📊 Emissão da CIPTEA por Estado (dados até 2025)
-<br>
+<div class="text-center">📊 Emissão da CIPTEA por Estado (dados até 2025)</div>
 <div class="overflow-x-auto">
   <table class="table-auto w-full text-sm border border-[#003865] border-collapse">
     <thead class="bg-[#003865] text-white">
@@ -213,7 +205,6 @@ Atualmente, nosso país **ainda** não possui dados oficiais precisos sobre o n�
   </table>
 </div>
 <br>
-<br>
 No total, temos **204.190 CIPTEA**s emitidas no Brasil até o momento, sendo que o **Censo Escolar de 2023** aponta um total de [**636 mil alunos autistas** matriculados ](https://www.gov.br/inep/pt-br/assuntos/noticias/censo-escolar/mec-e-inep-divulgam-resultados-do-censo-escolar-2023). São dados preocupantes, porque não batem: temos mais do triplo de autistas em idade de formação escolar, identificadas pelo Censo, do que portadores da Carteira que os identifica. Entretanto, é preciso notar que  as informações da tabela acima correspondem a emissão da CIPTEA por **somente 7 estados** entre as 26 Unidades Federativas. Sendo assim, temos **19 estados** que ainda **não apresentam dados oficiais acessíveis**.  
 <br>
 Se levarmos em conta a [estimativa da **OMS** de que **1% da população mundial** é autista](https://www.who.int/news-room/fact-sheets/detail/autism-spectrum-disorders), teremos uma população com cerca de **2 milhões de pessoas no TEA no Brasil**: mesmo se tratando de uma estimativa, são números que reforçam a gravidade da **falta de acesso ao diagnóstico e documentação** adequada em nosso país.
@@ -221,7 +212,7 @@ Se levarmos em conta a [estimativa da **OMS** de que **1% da população mundial
 ---
 <br>
 ### 🔎 Continue lendo sobre o TEA
-<br>
+
 - [Altas habilidades e superdotação](/pages/autismo/habilidades.html)  
 - [Autismo em adultos](/pages/autismo/tea_adultos.html)  
 - [Diagnóstico tardio](/pages/autismo/diag_tardio.html)  
@@ -235,4 +226,4 @@ Se levarmos em conta a [estimativa da **OMS** de que **1% da população mundial
 ---  
 <br>
 <br>
-[↑ Voltar ao topo|#🧠 O que é o Transtorno do Espectro Autista (TEA)?]
+[↑ Voltar ao topo](#topo)
