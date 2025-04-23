@@ -1,21 +1,10 @@
 ---
 layout: default
 title: Início
-description: Página inicial do site de Itxesco - Ensino, Pesquisa, Extensão e mais.
+description: Página inicial do site de itxesco - Ensino, Pesquisa, Extensão e mais.
 ---
 
-<!-- Barra de navegação -->
-<nav class="bg-[#003865] text-white p-4 shadow-md">
-  <div class="container mx-auto flex flex-col sm:flex-row justify-between items-center gap-2">
-    <span class="text-lg font-semibold">Prof. Dr. Francisco Nascimento</span>
-    <div class="space-x-4 text-sm">
-      <a href="/" class="hover:underline">Início</a>
-      <a href="/pages/sobre" class="hover:underline">Sobre</a>
-      <a href="/pages/index_publica" class="hover:underline">Publicações</a>
-      <a href="/pages/index_baixar" class="hover:underline">Downloads</a>
-    </div>
-  </div>
-</nav>
+
 
 <!-- Conteúdo principal com grid de cards -->
 <main class="flex-grow">
@@ -77,8 +66,3 @@ description: Página inicial do site de Itxesco - Ensino, Pesquisa, Extensão e 
 
   </div>
 </main>
-
-<!-- Rodapé fixo -->
-<footer class="bg-[#003865] text-white text-sm text-center py-4">
-  <p>2018 Francisco de Assis Nascimento Jr. — Site Pessoal construído com tailwind, markdown & ritalina</p>
-</footer>
