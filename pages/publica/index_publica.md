@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: pagina
 title: "📝 Trabalhos Publicados"
 description: Acesse artigos, dissertações, teses e orientações acadêmicas organizadas por ano.
-permalink: /pages/index/index_publica.html
+permalink: /pages/index/index_publica
 ---
 
 ## 📚 Trabalhos Publicados
