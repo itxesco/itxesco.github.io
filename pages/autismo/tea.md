@@ -16,7 +16,7 @@ permalink: /pages/autismo/tea
 &nbsp;&nbsp;&nbsp;- [📊 Emissão da CIPTEA por Estado (dados até 2025)](#📊-emissão-da-ciptea-por-estado-dados-até-2025)  
 &nbsp;&nbsp;&nbsp;- [🔎 Continue lendo sobre o TEA](#🔎-continue-lendo-sobre-o-tea)
 <br>
----
+<hr>
 <br>
 ### 🧩 **Uma resposta muito resumida**
 <br>
@@ -28,7 +28,7 @@ O **TEA** é um transtorno do neurodesenvolvimento que afeta a organização de 
 <br>
 O termo **espectro** indica a variedade de manifestações do TEA. Perceba que estamos falando de **espectro** e não de **gradiente**, porque não existe um autismo *leve* e outro *severo*, mas características diferentes de um mesmo transtorno.  
 &nbsp;&nbsp;&nbsp;→ saiba mais aqui: [O que é o Espectro Autista](/pages/autismo/espectro.html)  
----
+<hr>
 <br>
 ### 🌍 **Por que há tantos autistas atualmente?**
 <br>
@@ -40,7 +40,7 @@ Inicialmente, o conceito era bem restrito e associado a comportamentos considera
 <br>
 Não há problemas se você nunca ouviu falar em [DSM](https://www.psychiatry.org/psychiatrists/practice/dsm). Saiba que ele é o principal manual usado pela psiquiatria?<br>
 <br>
----
+<hr>
 <br>
 ### 📘 **Mas o que é o DSM ?**
 <br>
@@ -78,8 +78,7 @@ Ao abandonar os rótulos fixos como ~~Asperger~~ ou PDD, o DSM-5 refletiu os ava
 Para além das mudanças técnicas, precisamos destacar que o uso do termo ~~Asperger~~ é desincentivado  por questões éticas, devido às descobertas históricas sobre o envolvimento de Hans Asperger com o regime nazista. Assim, a comunidade científica e médica tem adotado o termo **TEA** como uma forma mais inclusiva e ética de se referir à condição: o perfil que antes seria diagnosticado como ~~Asperger~~ passou a ser apresentado no **TEA com nível 1 de suporte**.<br>
 <br>
 Portanto, evite citar o nome daquele ~~nazista~~ safado, está bem? Não existe *Síndrome de ~~Asperger~~*, existe o **autismo com nível 1 de suporte**.Mais recentemente, em 2022, a Organização Mundial da Saúde adotou o [CID-11 (**Classificação Internacional de Doenças**)](https://icd.who.int/browse11/l-m/en#/http://id.who.int/icd/entity/437815624), onde também é usado o termo "espectro" e reforça essa visão mais ampla e integrada.<br>
-
----
+<hr>
 <br>
 ### 🧠 O que é o CID e para que serve?
 <br>
@@ -145,7 +144,7 @@ Essa mudança de paradigma fez com que o  **autismo** passasse a ser compreendid
 > 🔎 Fonte: [Tismoo – Códigos do CID-11 para TEA](https://tismoo.com.br/saude/diagnostico/cid-11-unifica-transtorno-do-espectro-do-autismo-no-codigo-6a02/)
 
 <br>
----
+<hr>
 <br>
 ### 🔎 Como é feito o diagnóstico do autismo?
 <br>
@@ -165,7 +164,7 @@ Ao final, o processo que também é chamado de **diagnóstico tardio** consiste 
 <br>
 Você pode encontrar uma explicação mais detalhada sobre a diferença e a função do relatório neurológico e do laudo médico no site da [Memed](https://blog.memed.com.br/diferenca-entre-laudo-e-relatorio-medico/?utm_source=chatgpt.com). De posse do laudo, é importante que a pessoa proceda com seu cadastro para obtenção da [**Carteira de Identificação da Pessoa com Transtorno do Espectro Autista** (CIPTEA)](https://pt.wikipedia.org/wiki/CIPTEA). Este é um passo importante, tanto para facilitar o acesso aos seus direitos, como para a estatística responsável pelo planejamento de ações de saúde pública direcionadas ao TEA.
 <br>
----
+<hr>
 <br>
 ### **Afinal, quantas pessoas com autismo há no Brasil?**
 <br>
@@ -209,7 +208,7 @@ No total, temos **204.190 CIPTEA**s emitidas no Brasil até o momento, sendo que
 <br>
 Se levarmos em conta a [estimativa da **OMS** de que **1% da população mundial** é autista](https://www.who.int/news-room/fact-sheets/detail/autism-spectrum-disorders), teremos uma população com cerca de **2 milhões de pessoas no TEA no Brasil**: mesmo se tratando de uma estimativa, são números que reforçam a gravidade da **falta de acesso ao diagnóstico e documentação** adequada em nosso país.
 <br>
----
+<hr>
 <br>
 ### 🔎 Continue lendo sobre o TEA
 
@@ -223,7 +222,7 @@ Se levarmos em conta a [estimativa da **OMS** de que **1% da população mundial
 - [Simbologia e representação do autismo](/pages/autismo/simbolos.html)  
 - [TEA na Cultura Pop](/pages/autismo/representacao.html)
 <br>
----  
+<hr>  
 <br>
 <br>
 [↑ Voltar ao topo](#topo)
