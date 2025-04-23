@@ -39,7 +39,7 @@ description: Página inicial do site de itxesco - Ensino, Pesquisa, Extensão e 
 
     <!-- Card: Hiperfocos -->
     <div class="text-center">
-      <a href="/pages/index_hiperfoco">
+      <a href="/pages/index_hiperfoco.html">
         <img src="/assets/imagens/index_pics/hiperfocos.png" alt="Hiperfocos em autistas" title="Hiperfocos"
           class="w-full max-w-xs h-[300px] object-cover rounded shadow-md hover:scale-105 transition-transform duration-300">
       </a><br>
@@ -48,11 +48,11 @@ description: Página inicial do site de itxesco - Ensino, Pesquisa, Extensão e 
 
     <!-- Card: Autismo em Adultos -->
     <div class="text-center">
-      <a href="/pages/index_tea_adultos">
+      <a href="/pages/autismo/tea">
         <img src="/assets/imagens/index_pics/cyclope_tea.png" alt="Autismo em Adultos" title="Autismo em Adultos"
           class="w-full max-w-xs h-[300px] object-cover rounded shadow-md hover:scale-105 transition-transform duration-300">
       </a><br>
-      <strong><a href="/pages/autismo/tea.html" class="text-blue-700 hover:underline">TEA</a></strong>
+      <strong><a href="/pages/autismo/tea" class="text-blue-700 hover:underline">TEA</a></strong>
     </div>
 
     <!-- Card: RPG -->
