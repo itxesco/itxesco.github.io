@@ -4,8 +4,6 @@ title: Início
 description: Página inicial do site de itxesco - Ensino, Pesquisa, Extensão e mais.
 ---
 
-
-
 <!-- Conteúdo principal com grid de cards -->
 <main class="flex-grow">
   <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 justify-items-center px-4 py-8">
@@ -39,11 +37,11 @@ description: Página inicial do site de itxesco - Ensino, Pesquisa, Extensão e 
 
     <!-- Card: Hiperfocos -->
     <div class="text-center">
-      <a href="/pages/index_hiperfoco.html">
+      <a href="/pages/autismo/index_hiperfoco">
         <img src="/assets/imagens/index_pics/hiperfocos.png" alt="Hiperfocos em autistas" title="Hiperfocos"
           class="w-full max-w-xs h-[300px] object-cover rounded shadow-md hover:scale-105 transition-transform duration-300">
       </a><br>
-      <strong><a href="/pages/index_hiperfoco.html" class="text-blue-700 hover:underline">Hiperfocos</a></strong>
+      <strong><a href="/pages/autismo/index_hiperfoco" class="text-blue-700 hover:underline">Hiperfocos</a></strong>
     </div>
 
     <!-- Card: Autismo em Adultos -->
