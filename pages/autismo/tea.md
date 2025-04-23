@@ -4,7 +4,7 @@ title: O que é o Transtorno do Espectro Autista (TEA)?
 description: Entenda de forma clara o que é o Transtorno do Espectro Autista (TEA), suas manifestações e como ele é diagnosticado.
 permalink: /pages/autismo/tea
 ---
-<br>
+
 ### 📌 **Você vai ler nesta página:**
 <br>
 &nbsp;&nbsp;&nbsp;- [🧩 Uma resposta muito resumida](#🧩-uma-resposta-muito-resumida)  
@@ -17,9 +17,8 @@ permalink: /pages/autismo/tea
 &nbsp;&nbsp;&nbsp;- [🔎 Continue lendo sobre o TEA](#🔎-continue-lendo-sobre-o-tea)
 <br>
 <hr>
-<br>
 ### 🧩 **Uma resposta muito resumida**
-<br>
+
 O **TEA** é um transtorno do neurodesenvolvimento que afeta a organização de pensamentos, sentimentos e emoções. Caracteriza-se por déficits na comunicação e interação social, comportamentos repetitivos e interesses restritos, além de sensibilidade a estímulos sensoriais. Ele **não é uma doença**, mas sim uma condição — uma forma diversa de funcionamento neurológico. Cada pessoa autista é única e pode apresentar diferentes níveis de suporte. Algumas das características comuns a todas as pessoas com TEA, incluem:<br>
 <br>
 &nbsp;&nbsp;&nbsp;- ✔️ Diferenças na comunicação social  
@@ -29,7 +28,6 @@ O **TEA** é um transtorno do neurodesenvolvimento que afeta a organização de 
 O termo **espectro** indica a variedade de manifestações do TEA. Perceba que estamos falando de **espectro** e não de **gradiente**, porque não existe um autismo *leve* e outro *severo*, mas características diferentes de um mesmo transtorno.  
 &nbsp;&nbsp;&nbsp;→ saiba mais aqui: [O que é o Espectro Autista](/pages/autismo/espectro.html)  
 <hr>
-<br>
 ### 🌍 **Por que há tantos autistas atualmente?**
 <br>
 Não, o número de pessoas autistas no Brasil não está aumentando e não está havendo nenhuma *epidemia* de autismo no mundo. O que está ocorrendo é um processo de conscientização sobre o TEA, seus sintomas e comorbidades, em paralelo a um aumento do acesso a diagnóstico.<br>
