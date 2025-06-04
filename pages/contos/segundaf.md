@@ -2,10 +2,8 @@
 layout: pagina
 title: Segunda-Feira
 description: Uma cirurgia leva a uma aposta entre o casal, que  elabora uma agenda especial
-permalink: /pages/contos/segunda_feira
+permalink: /pages/contos/segundaf
 ---
-
-
 
 Era um relacionamento de tirar qualquer um do sério. Desde o primeiro beijo, que só aconteceu após a primeira chupada de ambos, passando pelo primeiro ménage com uma amiga, com duas, depois com um amigo, com dois, as brincadeiras com casais e em locais que os fizessem sentir a pressão de estarem fazendo algo errado.
 Simplesmente, não conseguiam tirar as mãos um do outro. Já morando juntos há três anos em meio ao esquema de pobreza que todo estudante de graduação em uma universidade pública conhece bem, saíram da república para o apartamento compartilhado, para finalmente conseguirem bancar um cantinho só para os dois. E por onde passaram, deixaram histórias, porque não faziam muita questão de esconder a tara que sentiam pela vida. O que faziam e com quem, não era algo secreto.

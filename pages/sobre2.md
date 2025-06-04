@@ -4,49 +4,18 @@ layout: pagina
 permalink: /pages/sobre
 description: Página pessoal do professor Francisco Nascimento com informações acadêmicas, pesquisa, formação e redes sociais.
 ---
-<!-- Conteúdo do grid de cards -->
-<main class="flex-grow">
-  <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 justify-items-center px-4 py-8">
 
-    <!-- Card: metrô -->
-    <div class="text-center">
-      <a href="/pages/index_ensino">
-        <img src="https://itxesco.github.io/assets/imagens/perfil/perfil_3.jpeg" alt="Atividades de Ensino" title="Ensino"
-          class="w-full max-w-xs h-[300px] object-cover rounded shadow-md hover:scale-105 transition-transform duration-300">
-      </a><br>
-      <strong><a href="/pages/index_ensino" class="text-blue-700 hover:underline">Ensino</a></strong>
-    </div>
-
-    <!-- Card: Decano -->
-    <div class="text-center">
-      <a href="/pages/index_pesquisa">
-        <img src="https://itxesco.github.io/assets/imagens/perfil/perfil.jpeg" alt="Atividades de Pesquisa" title="Pesquisa"
-          class="w-full max-w-xs h-[300px] object-cover rounded shadow-md hover:scale-105 transition-transform duration-300">
-      </a><br>
-      <strong><a href="/pages/index_pesquisa" class="text-blue-700 hover:underline">Pesquisa</a></strong>
-    </div>
-
-    <!-- Card: Extensão -->
-    <div class="text-center">
-      <a href="/pages/index_extensao">
-        <img src="https://itxesco.github.io/assets/imagens/perfil/perfil_4.jpeg" alt="nerd" title="parque"
-          class="w-full max-w-xs h-[300px] object-cover rounded shadow-md hover:scale-105 transition-transform duration-300">
-      </a><br>
-      <strong><a href="/pages/index_extensao" class="text-blue-700 hover:underline">Extensão</a></strong>
-    </div>
-
-
-
-  </div>
-</main>
-
-
+<div class="text-center">
+  <img src="https://itxesco.github.io/assets/imagens/perfil/perfil_3.jpeg" alt="Imagem de perfil" class="mx-auto w-[281px] h-[375px] rounded shadow-md mb-6">
+</div>
 
 ---
 
-Olá, sou o professor **Francisco de Assis Nascimento Junior**, ([TEA](https://bvsms.saude.gov.br/transtorno-do-espectro-autista-tea-autismo/)/[AH/SD](https://evoluirdesenvolvimento.com.br/superdotacao-e-autismo/)/[TDAH](https://www.msdmanuals.com/pt-br/casa/problemas-de-sa%C3%BAde-infantil/dist%C3%BArbios-de-aprendizagem-e-do-desenvolvimento/transtorno-do-d%C3%A9ficit-de-aten%C3%A7%C3%A3o-com-hiperatividade-tdah)), atual Decano (Diretor) do [Instituto de Humanidades, Artes e Ciências](https://www.ufsb.edu.br/ihac/) no Campus Sosígenes Costa da [UFSB](https://ufsb.edu.br/), onde sou **Professor Adjunto**. Meu campo de atuação é a formação inicial e continuada de professores, a pesquisa sobre questões que envolvem o **ensino de ciências, relações étnico-raciais, gênero e cultura**.
+Olá, sou o professor **Francisco de Assis Nascimento Junior**, ([TEA](https://bvsms.saude.gov.br/transtorno-do-espectro-autista-tea-autismo/)/[AH/SD](https://evoluirdesenvolvimento.com.br/superdotacao-e-autismo/)/[TDAH](https://www.msdmanuals.com/pt-br/casa/problemas-de-sa%C3%BAde-infantil/dist%C3%BArbios-de-aprendizagem-e-do-desenvolvimento/transtorno-do-d%C3%A9ficit-de-aten%C3%A7%C3%A3o-com-hiperatividade-tdah)), [autista nível 2 de suporte](https://autismoerealidade.org.br/2024/02/08/o-que-sao-niveis-de-suporte-no-tea-e-como-eles-podem-auxiliar-no-diagnostico/), Decano (Diretor) do [Instituto de Humanidades, Artes e Ciências](https://www.ufsb.edu.br/ihac/) no Campus Sosígenes Costa da [UFSB](https://ufsb.edu.br/), onde sou **Professor Adjunto** e atuo na formação inicial e continuada de professores.
 
-Minha trajetória acadêmica inclui o doutorado em Educação pela [FEUSP](https://www4.fe.usp.br/),o mestrado em Ensino de Ciências e a licenciatura em Física pelo [IFUSP](https://portal.if.usp.br/ifusp/).
+Atuo na formação de professores e pesquiso questões envolvendo **ensino de ciências, relações étnico-raciais, gênero e cultura pop**.
+
+Minha trajetória acadêmica inclui doutorado em Educação pela [FEUSP](https://www4.fe.usp.br/), mestrado em Ensino de Ciências e licenciatura em Física pelo [IFUSP](https://portal.if.usp.br/ifusp/).
 
 Sou entusiasta do **diálogo entre ciência e cultura pop**, especialmente **HQs, RPGs, filmes, séries e videogames**, com foco em **raça, gênero e educação**.
 
