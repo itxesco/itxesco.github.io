@@ -23,63 +23,63 @@ De cara, Diego percebeu que a melhor logística seria fazer com que o ajudante p
 
 Na segunda leva de caixas, enquanto os trabalhadores carregavam o carro, o casal trocou mensagens pelo celular.
 
-- Você viu o tamanho desse cara?
-- Não pensa nisso, ele veio a trabalho.
-- Quer jogar?
-- Sim, mas e se ele não quiser? E tem o ajudante, é complicado.
+-Você viu o tamanho desse cara?
+-Não pensa nisso, ele veio aqui a trabalho.
+-Sim, mas quer jogar?
+-Sim, mas e se ele não quiser? E tem o ajudante, é feio. Fica complicado.
 
 Diego era criativo  para pensar nos esquemas eróticos de cada abordagem, e ela gostava assim, de seguir suas ideias.  
 
-- Estou mandando a caixa de costura com a fita métrica em cima da caixa azul, daí você tira e pede pra medir o braço dele.
-- Isso é bizarro, não vai colar
-- Vai! Quando ele chegar, elogie a força dele com as caixas. Pergunte se puxa ferro ou se é do trabalho. E  quantos cm ele tem de braço, daí mostre dúvida e pede pra medir com a fita.
-- Isso eu faço!
-- Depois, diga que um homem desse tamanho gera expectativas na mulherada e pede pra medir mais
-- Ele vai achar que eu sou uma vagabunda.
-- É também por isso que eu te amo. E tire o seu top.  
+-Estou mandando a caixa de costura com a fita métrica em cima da caixa azul, daí você tira e pede pra medir o braço dele.
+-Isso é bizarro, não vai colar
+-Vai! Quando ele chegar, elogie a força dele com as caixas. Pergunte se puxa ferro ou se é do trabalho. E  quantos cm ele tem de braço, daí mostre dúvida e pede pra medir com a fita.
+-Isso eu faço!
+-Depois, diga que um homem desse tamanho gera expectativas na mulherada e pede pra medir mais
+-Ele vai achar que eu sou uma vagabunda.
+-É também por isso que eu te amo. E tire o seu top.  
 
 
 Ela obedeceu, ficando com os seios soltos por baixo da camiseta regata. Ele colocou a sacola de costura sobre uma das caixas e a despachou. Quando o motorista entrou com a caixa pela porta da sala do apartamento, ela estava de costas para ele,  em pé sobre uma cadeira enquanto guardava louças em um dos armários da cozinha.
 
-- Posso deixar essa aqui, mesmo?
+-Posso deixar essa aqui, mesmo?
 Ele colocou a caixa no chão, chegando perto dela, que se virou de frente para ele
-- Sim, preciso ver o que tem nela, ainda. Ah, me ajuda a descer?  
+-Sim, preciso ver o que tem nela, ainda. Ah, me ajuda a descer?  
 
 Pensou que ele fosse estender uma mão, um gesto como um galanteio, mas o motorista esticou os dois braços e a pegou ela cintura, erguendo como se não pesasse nada antes de desce-la até o chão, os olhos focados nos lábios da buceta  que estava marcada pelo tecido justo. Como ele não havia visto aquilo antes?
 
 Ela deu uma leve dobrada nos joelhos e soltou um risinho ao por os pés no chão.  
 
-- Nada como puxar ferro todo dia hein? Ou é só do trabalho?
+-Nada como puxar ferro todo dia hein? Ou é só do trabalho?
 Ele estufou o peito, forçando o bíceps e sorriu  
 
-- Quem me dera, isso daqui é todo dia, mesmo, senão não crescia assim.
-- E cresceu muito ou você já era grande antes?
-- Não, eu era magrelo igual sem marido aí. Mas esforço, foco e alimentação dão resultado.
-- Ele é meu namorado - ela respondeu enquanto abria a caixa de costura, fingindo estar vendo o que tinha dentro. Tirou de lá uma fita métrica e perguntou, como se fosse uma coincidencia:
-- E quanto você tem de braço, já mediu? Parece mais grosso que meu joelho!
+-Quem me dera, isso daqui é todo dia, mesmo, senão não crescia assim.
+-E cresceu muito ou você já era grande antes?
+-Não, eu era magrelo igual sem marido aí. Mas esforço, foco e alimentação dão resultado.
+-Ele é meu namorado - ela respondeu enquanto abria a caixa de costura, fingindo estar vendo o que tinha dentro. Tirou de lá uma fita métrica e perguntou, como se fosse uma coincidência:
+-E quanto você tem de braço, já mediu? Parece mais grosso que meu joelho!
 
 Ele retesou o braço, forçando o bíceps enquanto olhava para ela.
-- Quando medi, deu 47 cm.
-- Ah vá! Posso medir pra confirmar, então?  
+-Quando medi, deu 47 cm.
+-Ah vá! Posso medir pra confirmar, então?  
 
 Ele riu, como se estivesse sem jeito e contraiu novamente o bíceps, oferecendo para ela
-- Pode
-- Assim, não. Deixe o braço relaxado para que eu passe a fita  e depois que der a volta, você faz a força e eu meço a diferença.  
+-Pode
+-Assim, não. Deixe o braço relaxado para que eu passe a fita  e depois que der a volta, você faz a força e eu meço a diferença.  
 
 Ele fez assim, e enquanto ela passava a fita métrica pelo  braço do motorista, o ele notou os seios que esvoaçavam por baixo do tecido, tentando escapar pelas frestas da camiseta regata.  
 
-- Acho que o único ponto ruim de ser grande assim é ficar criando expectativas nas meninas, né?
-- Nada, não é ruim não. Chama a atenção.
-- Sim, mas eu quis dizer que elas devem ficar se preocupando se você é todo na mesma proporção, se é que você me entende? - ela disse balançando a cabeça de um lado para o outro, levemente, e sorrindo.  
+-Acho que o único ponto ruim de ser grande assim é ficar criando expectativas nas meninas, né?
+-Nada, não é ruim não. Chama a atenção.
+-Sim, mas eu quis dizer que elas devem ficar se preocupando se você é todo na mesma proporção, se é que você me entende? - ela disse balançando a cabeça de um lado para o outro, levemente, e sorrindo.  
 
-- Opa, tudo proporcional graças a deus, ninguém tem do que reclamar!  
+-Opa, tudo proporcional graças a deus, ninguém tem do que reclamar!  
 
 Ela se sentou na cadeira e riu alto, segurando a fita métrica com uma das mãos, os dedos fechados sobre o valor da circunferência daquele bíceps:quase 50 cm. Os mamilos de seus seios se excitaram sob a camiseta, o olhar o motorista fixo em cada movimento seu, tentando capturar qualquer pele dos seios que surgisse quando ela se mexesse.  
 
-- Olha, eu vou fingir que acredito, porque só acredito se eu mesma medir. Você tem 50 centímetros só de braço, tem que faltar em algum lugar pra estar sobrando tanto aí...  
+-Olha, eu vou fingir que acredito, porque só acredito se eu mesma medir. Você tem 50 centímetros só de braço, tem que faltar em algum lugar pra estar sobrando tanto aí...  
 
-- Pode medir onde quiser, não falta em nada, não.
-- traz sua perna mais para cá, então!  
+-Pode medir onde quiser, não falta em nada, não.
+-Traz sua perna mais para cá, então!  
 
 Ele deu um passo e se aproximou da cadeia, ainda meio sem jeito, deixando os braços caírem ao lado do corpo, respirando fundo ao colocar suas mãos  próximas aos bolsos de sua calça jeans. Flavia  fechou os lábios num sorriso e não perdeu tempo: primeiro, havia pensado em medir uma das coxas dele e continuar com a brincadeira, mas a essa altura o laço estava fechado e Anderson estava preso. Ela propositalmente havia mexido os ombros mais do que deveria, para que o corte da camiseta exibisse completamente seus seios se vistos de cima, e ele seguia cada movimento com os olhos, hipnotizado, enquanto tentava disfarçar.  
 
@@ -87,7 +87,7 @@ Ela levou uma das mãos até a cintura dele e segurou no botão de sua calça, e
 
 Com a mão esquerda, Anderson fez uma carícia no seu cabelo dela, colocando uma mexa atrás de sua orelha e pousando suavemente a mão sobre o ombro de Flavia,  que puxou o elástico da cueca pra baixo com uma mão, enquanto a outra libertava o pau que endurecia.  
 
-Não era pequeno, mas ainda despertando, não parecia ser grande. Era grosso e macio, depilado como ela gostava e não era circuncisado. Ela segurou com a mão esquerda, fazendo pequenos movimentos de vai-vém até ele crescer mais , expondo a glande.
+Não era pequeno, mas ainda despertando, não parecia ser grande. Era grosso e macio, depilado como ela gostava e não era circuncidado. Ela segurou com a mão esquerda, fazendo pequenos movimentos de vai-e-vem até ele crescer mais , expondo a glande.
 
 
 ---
