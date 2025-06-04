@@ -13,10 +13,10 @@ Clique sobre o [link] para acessar diretamente cada página.
 
 
 
-**Dia de mudança** [link](https://itxesco.github.io/pages/contos/dia_de_mudanca.md)
+**Dia de mudança** [link](https://itxesco.github.io/pages/contos/dia_de_mudanca.html)
 Uma surpresa aguarda o casal no dia da mudança para o novo apartamento.
 
-**Segunda-Feira** [link](https://itxesco.github.io/pages/contos/segunda_feira.md)
+**Segunda-Feira** [link](https://itxesco.github.io/pages/contos/segunda_feira.html)
 Uma cirurgia leva a uma aposta entre o casal, que  elabora uma agenda especial
 
 ---
@@ -24,7 +24,7 @@ Uma cirurgia leva a uma aposta entre o casal, que  elabora uma agenda especial
 ### Terror
 
 
-**Lucrecia** [link](https://itxesco.github.io/pages/contos/lucrecia.md)
+**Lucrecia** [link](https://itxesco.github.io/pages/contos/lucrecia.html)
 Onde uma aventura durante a viagem de formatura pode levar um jovem a acreditar em bruxas, mas elas não existem.  
 
 
