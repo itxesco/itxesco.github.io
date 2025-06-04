@@ -19,7 +19,7 @@ Era um ótimo plano para uma tarde de sábado de verão e estavam compenetrados 
 
 Foi impossível deter os pensamentos que invadiram a cabeça de Diego, que viu na situação a oportunidade perfeita para realizar mais uma das fantasias do casal: desde que passaram a se aventurar na exploração de sua sexualidade, Flavia havia demonstrado um fetiche especial em homens com aquele físico. Além disso, a temperatura da tarde ajudava: ela vestia  um shortinho de lycra justo, azul claro, que se não era comprido, também não chegava a ser cavado ou propositalmente indiscreto e acentuava bem o delineado dos  quadris arrebitados. Por cima, uma camiseta regata amarela e um top cinza de academia.
 
-	De cara, Diego percebeu que a melhor logística seria fazer com que o ajudante permanecesse com ele ali, para desmontar os móveis e descer as caixas aos poucos para o térreo do prédio; dali, ajudaria o motorista  a coloca-los na caçamba de sua caminhonete e subiria para iniciar uma nova leva, deixando Anderson encarregado de levar a carga até a casa nova. Lá, ele deveria descarregar o carro e levar cada caixa para dentro, onde Flavia o esperaria.  
+De cara, Diego percebeu que a melhor logística seria fazer com que o ajudante permanecesse com ele ali, para desmontar os móveis e descer as caixas aos poucos para o térreo do prédio; dali, ajudaria o motorista  a coloca-los na caçamba de sua caminhonete e subiria para iniciar uma nova leva, deixando Anderson encarregado de levar a carga até a casa nova. Lá, ele deveria descarregar o carro e levar cada caixa para dentro, onde Flavia o esperaria.  
 
 Na segunda leva de caixas, enquanto os trabalhadores carregavam o carro, o casal trocou mensagens pelo celular.
 
