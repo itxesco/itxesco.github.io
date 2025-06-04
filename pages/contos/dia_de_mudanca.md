@@ -64,22 +64,30 @@ Ele retesou o braço, forçando o bíceps enquanto olhava para ela.
 
 Ele riu, como se estivesse sem jeito e contraiu novamente o bíceps, oferecendo para ela
 - Pode
-- Assim, não. Deixe o braço relaxado para eu passar a fita  e depois faça a força, pra eu medir a diferença.  
+- Assim, não. Deixe o braço relaxado para que eu passe a fita  e depois que der a volta, você faz a força e eu meço a diferença.  
 
 Ele fez assim, e enquanto ela passava a fita métrica pelo  braço do motorista, o ele notou os seios que esvoaçavam por baixo do tecido, tentando escapar pelas frestas da camiseta regata.  
 
-- o ruim de ser grande desse jeito é que cria expectativas né? Haha
-- Nada, não é ruim não
-- Por que, é tudo proporcional? - ela disse, balançando a cabeça de um lado para o outro, levemente e sorrindo
-- Opa, tudo proporcional graças a deus
-Ela se sentou na cadeira e riu alto, segurando a fita métrica com uma das mãos. Seus mamilos excitados sob a camiseta, o olhar o motorista fixo em seus movimentos, tentando capturar qualquer pele dos seios que surgisse quando ela se movia
-- vou fingir que eu acredito, porque só acredito se eu medir
-- Pode medir
-- Chega mais aqui, então
-Ele se aproximou, ainda sem jeito, as mãos na cintura próximas aos bolsos da calça jeans, enquanto ela fechou os lábios num sorriso e com uma das mãos, segurou no botão da calça e quanto que com a outra, desceu seu ziper. Antes de terminar o movimento, o botão já estava solto e ela, com as duas mãos na cintura do homem, puxava sua calça pelas coxas, enquanto olhava para o volume que acordava dentro da cueca branca.
-Com a mão esquerda, ele fez uma carícia em seu cabelo e pousou a mão sobre seu ombro. Ela, puxou o elástico da cueca pra baixo com uma mão, enquanto a outra libertava o pau que endurecia.
-Não era pequeno, mas ainda despertando, não parecia ser grande. Era pesado e depilado e ela olhou para a cabeça enquanto segurava e fazia pequenos movimentos de vai-vem
+- Acho que o único ponto ruim de ser grande assim é ficar criando expectativas nas meninas, né?
+- Nada, não é ruim não. Chama a atenção.
+- Sim, mas eu quis dizer que elas devem ficar se preocupando se você é todo na mesma proporção, se é que você me entende? - ela disse balançando a cabeça de um lado para o outro, levemente, e sorrindo.  
 
+- Opa, tudo proporcional graças a deus, ninguém tem do que reclamar!  
+
+Ela se sentou na cadeira e riu alto, segurando a fita métrica com uma das mãos, os dedos fechados sobre o valor da circunferência daquele bíceps:quase 50 cm. Os mamilos de seus seios se excitaram sob a camiseta, o olhar o motorista fixo em cada movimento seu, tentando capturar qualquer pele dos seios que surgisse quando ela se mexesse.  
+
+- Olha, eu vou fingir que acredito, porque só acredito se eu mesma medir. Você tem 50 centímetros só de braço, tem que faltar em algum lugar pra estar sobrando tanto aí...  
+
+- Pode medir onde quiser, não falta em nada, não.
+- traz sua perna mais para cá, então!  
+
+Ele deu um passo e se aproximou da cadeia, ainda meio sem jeito, deixando os braços caírem ao lado do corpo, respirando fundo ao colocar suas mãos  próximas aos bolsos de sua calça jeans. Flavia  fechou os lábios num sorriso e não perdeu tempo: primeiro, havia pensado em medir uma das coxas dele e continuar com a brincadeira, mas a essa altura o laço estava fechado e Anderson estava preso. Ela propositalmente havia mexido os ombros mais do que deveria, para que o corte da camiseta exibisse completamente seus seios se vistos de cima, e ele seguia cada movimento com os olhos, hipnotizado, enquanto tentava disfarçar.  
+
+Ela levou uma das mãos até a cintura dele e segurou no botão de sua calça, enquanto que a outra alcançou a braguilha, unindo indicador e polegar para pressionar o zíper, que abriu em um movimento rápido, enquanto soltava aquele botão. A calça se soltou, deixando ver a cueca branca e ela levou suas duas mãos àquela cintura que se aproximou mais de seu rosto, puxando a calça pelas coxas grossas, enquanto o olhar seguia o delineado do contorno do volume que acordava dentro do tecido branco de algodão.  
+
+Com a mão esquerda, Anderson fez uma carícia no seu cabelo dela, colocando uma mexa atrás de sua orelha e pousando suavemente a mão sobre o ombro de Flavia,  que puxou o elástico da cueca pra baixo com uma mão, enquanto a outra libertava o pau que endurecia.  
+
+Não era pequeno, mas ainda despertando, não parecia ser grande. Era grosso e macio, depilado como ela gostava e não era circuncisado. Ela segurou com a mão esquerda, fazendo pequenos movimentos de vai-vém até ele crescer mais , expondo a glande.
 
 
 ---
