@@ -13,11 +13,13 @@ Clique sobre o [link] para acessar diretamente cada página.
 
 
 
-**Dia de mudança** [link](https://itxesco.github.io/pages/contos/dia_de_mudanca.html)
+**Dia de mudança** [link](https://itxesco.github.io/pages/contos/dia_de_mudanca.html)  
+
 Uma surpresa aguarda o casal no dia da mudança para o novo apartamento.
 
-**Segunda-Feira** [link](https://itxesco.github.io/pages/contos/segunda_feira.html)
-Uma cirurgia leva a uma aposta entre o casal, que  elabora uma agenda especial
+**Segunda-Feira** [link](https://itxesco.github.io/pages/contos/segundaf.html)  
+
+Uma cirurgia leva o casal a uma aposta, e a criação de uma agenda especial
 
 ---
 
