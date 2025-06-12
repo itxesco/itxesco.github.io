@@ -5,14 +5,14 @@ description: Contos e ensaios separados por categoria.
 permalink: /pages/contos/index_contos
 ---
 
-Clique em [abrir] para acessar diretamente cada página.
+Clique em [abrir] para acessar diretamente cada página, aqueles marcados como [falta] ainda não foram atualizados.
 
 
 
-### Eróticos
+###Eróticos
 
 
-####O Casal
+##**O Casal**
 
 **o quarto** [falta](https://itxesco.github.io/pages/contos/quarto.html)
 
@@ -70,12 +70,12 @@ Uma cirurgia leva o casal a uma aposta, e a criação de uma agenda especial
 
 Prestes a passar um feriado na praia com amigos, ela tem dificuldade em escolher seu biquini.   
 
-####O Cafageste  
+##**O Cafageste**  
 
 
 ---
 
-### Terror
+##**Terror**
 
 
 **Lucrecia** [falta](https://itxesco.github.io/pages/contos/lucrecia.html)
@@ -88,7 +88,7 @@ A mudança para um vilarejo no sul da bahia pode não ter sido a melhor escolha 
 Na madrudaga, a neblina na estrada mostra que todos os caminhos levam a algum lugar, mas nem sempre é aquele em que você gostaria de estar.
 
 ---
-###O Voo da Coruja  
+##**O Voo da Coruja**  
 
   [falta] Quando inimigos de infância se reencontram na meia idade, o desenrolar dos acontecimentos traz a tona seus traumas, as mágoas, o ódio e o amor. Transtornos e frustrações dão origem a um super-herói que não consegue deixar de se envolver em uma série de eventos que irão trazer  a revelação de segredos guardados pelo tempo de uma vida por um amor se se pensava esquecido, a redenção de uma policial e a uma metrópole sitiada para o que parece ser o apocalipse daquela sociedade. Minha contribuição para o universo das historias em quadrinhos.
 
