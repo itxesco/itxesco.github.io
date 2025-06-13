@@ -22,7 +22,7 @@ O Casal passa a dividir o quarto com um casal de amigas
 
 a visita de uma amiga e uma gripe iniciam uma nova fase de vida
 
-**Alôca**  [falta](https://itxesco.github.io/pages/contos/adultos/aloca.html)  
+**Alôca**  [abrir](https://itxesco.github.io/pages/contos/adultos/aloca.html)  
 
 O Casal visita o darkroom de uma famosa casa noturna  
 
