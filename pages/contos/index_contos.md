@@ -12,7 +12,7 @@ permalink: /pages/contos/index_contos
 ### 🧩 **Adultos**
 
 
-## Um Casal
+### 💘 Um Casal
 
 **o quarto** [falta](https://itxesco.github.io/pages/contos/quarto.html)
 
@@ -75,7 +75,7 @@ Prestes a passar um feriado na praia com amigos, ela tem dificuldade em escolher
 
 ---
 
-### 🔎 **Terror**
+### 💀 **Terror**
 
 
 **Lucrecia** [falta](https://itxesco.github.io/pages/contos/lucrecia.html)
@@ -88,9 +88,36 @@ A mudança para um vilarejo no sul da bahia pode não ter sido a melhor escolha 
 Na madrudaga, a neblina na estrada mostra que todos os caminhos levam a algum lugar, mas nem sempre é aquele em que você gostaria de estar.
 
 ---
-### 🌍 **O Voo da Coruja**  
+### 🦉 **O Voo da Coruja**  
 
   [falta] Quando inimigos de infância se reencontram na meia idade, o desenrolar dos acontecimentos traz a tona seus traumas, as mágoas, o ódio e o amor. Transtornos e frustrações dão origem a um super-herói que não consegue deixar de se envolver em uma série de eventos que irão trazer  a revelação de segredos guardados pelo tempo de uma vida por um amor se se pensava esquecido, a redenção de uma policial e a uma metrópole sitiada para o que parece ser o apocalipse daquela sociedade. Minha contribuição para o universo das historias em quadrinhos.
+
+  **1. Os bons companheiros**[falta](https://itxesco.github.io/pages/contos/coruja/1_companheiros.html)
+  Tentando se resolver na terapia durante a crise de meia-idade, um médico traumatologista visita pela primeira vez uma convenção de histórias em quadrinhos, vestido como seu herói de infância, o coruja dourada, e acaba envolvido na solução de um crime
+
+  **2. Não durma antes do Brooklyn**[falta](https://itxesco.github.io/pages/contos/coruja/2_dontsleeptillbrooklyn.html)
+  Ainda se recuperando dos eventos do final de semana anterior e com as redes sociais obcecadas pela sua imagem mascarada,  o doutor considera uma boa ideia vestir novamente a fantasia do Coruja e atravessar a cidade a noite para investigar uma pista... usando o transporte publico.
+
+  **3. Dogão é Mau**[falta](https://itxesco.github.io/pages/contos/coruja/3_dogaoehmau.html)
+  Quando as coisas saem do controle, o Doutor é salvo por um atirador vestindo uma máscara de cachorro e as redes sociais encontram seu novo herói, o Dogão (seria ele realmente mau?)
+
+  **4. Boulevard Detonação** [falta](https://itxesco.github.io/pages/contos/coruja/4_detonationbouleavard.html)
+  Coruja e Dogão, a dupla-sensação da mídia digital, precisa interrogar um suspeito que está preso em uma penitenciaria de segurança máxima. A solução é sequestra-lo de dentro do fórum João Mendes, durante uma audiência.  
+
+  **5. Domínio** [falta](https://itxesco.github.io/pages/contos/coruja/5_dominio.html)
+  Os crimes se encaixam e a dupla descobre um esquema capaz de acabar com o país. E o nome por trás de tudo é um velho conhecido do Doutor.
+
+  **6. Todos para a Torre de vigilancia** [falta](https://itxesco.github.io/pages/contos/coruja/6_allalongthewatchtower.html)  
+  Dogão e o Coruja invadem o antigo edificio Banespa para um resgate impossivel
+
+  **Circo Psicótico** [falta](https://itxesco.github.io/pages/contos/coruja/6_psychocircus.html)  
+  O Coruja está fora de controle e invade a cidade do rock para resgatar a filha de seu grande amor. Será?
+
+  **7. Esperando pelo Super-homem** [falta](https://itxesco.github.io/pages/contos/coruja/7_weareone.html)
+  O cerco se fecha sobre a dupla Coruja e Dogão, e o doutor cobra um antigo favor que mergulha São Paulo no caos.  
+
+  **8. Nós somos um** [falta](https://itxesco.github.io/pages/contos/coruja/7_weareone.html)
+  Com a cidade sitiada e a avenida paulista tomada por manifestantes, Dogão e Coruja encontram seu destino.
 
 ---
 
