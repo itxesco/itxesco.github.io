@@ -9,10 +9,10 @@ Clique em [abrir] para acessar diretamente cada página, aqueles marcados como [
 
 
 
-###Eróticos
+### Adultos
 
 
-##**O Casal**
+## Um Casal
 
 **o quarto** [falta](https://itxesco.github.io/pages/contos/quarto.html)
 
@@ -22,7 +22,7 @@ O Casal passa a dividir o quarto com um casal de amigas
 
 a visita de uma amiga e uma gripe iniciam uma nova fase de vida
 
-**Alôca**  [falta](https://itxesco.github.io/pages/contos/aloca.html)  
+**Alôca**  [falta](https://itxesco.github.io/pages/contos/adultos/aloca.html)  
 
 O Casal visita o darkroom de uma famosa casa noturna  
 
@@ -58,11 +58,11 @@ O casal comparece ao churrasco de um amigo dela.
 
 Uma tempestade mantem os moradores do apê isolados.
 
-**Dia de mudança** [abrir](https://itxesco.github.io/pages/contos/dia_de_mudanca.html)  
+**Dia de mudança** [abrir](https://itxesco.github.io/pages/contos/adultos/dia_de_mudanca.html)  
 
 Uma surpresa aguarda o casal no dia da mudança para o novo apartamento.
 
-**Segunda-Feira** [abrir](https://itxesco.github.io/pages/contos/segundaf.html)  
+**Segunda-Feira** [abrir](https://itxesco.github.io/pages/contos/adultos/segundaf.html)  
 
 Uma cirurgia leva o casal a uma aposta, e a criação de uma agenda especial
 
@@ -70,12 +70,12 @@ Uma cirurgia leva o casal a uma aposta, e a criação de uma agenda especial
 
 Prestes a passar um feriado na praia com amigos, ela tem dificuldade em escolher seu biquini.   
 
-##**O Cafageste**  
+## O Cafageste  
 
 
 ---
 
-##**Terror**
+## Terror
 
 
 **Lucrecia** [falta](https://itxesco.github.io/pages/contos/lucrecia.html)
@@ -88,7 +88,7 @@ A mudança para um vilarejo no sul da bahia pode não ter sido a melhor escolha 
 Na madrudaga, a neblina na estrada mostra que todos os caminhos levam a algum lugar, mas nem sempre é aquele em que você gostaria de estar.
 
 ---
-##**O Voo da Coruja**  
+##O Voo da Coruja  
 
   [falta] Quando inimigos de infância se reencontram na meia idade, o desenrolar dos acontecimentos traz a tona seus traumas, as mágoas, o ódio e o amor. Transtornos e frustrações dão origem a um super-herói que não consegue deixar de se envolver em uma série de eventos que irão trazer  a revelação de segredos guardados pelo tempo de uma vida por um amor se se pensava esquecido, a redenção de uma policial e a uma metrópole sitiada para o que parece ser o apocalipse daquela sociedade. Minha contribuição para o universo das historias em quadrinhos.
 

@@ -2,7 +2,7 @@
 layout: pagina
 title: Segunda-Feira
 description: Uma cirurgia leva a uma aposta entre o casal, que  elabora uma agenda especial
-permalink: /pages/contos/segundaf
+permalink: /pages/contos/adultos/segundaf
 ---
 
 Finalmente moravam sozinhos e seu relacionamento se fortaleceu pela intimidade. Pareciam mesmo ter nascido um para o outro, desde aquele primeiro beijo que só aconteceu após a primeira sessão de sexo oral, passando pelo primeiro ménage com uma amiga, depois com duas, então com um amigo, com outros dois, suas brincadeiras com casais e locais que os fizessem sentir a plenitude de estarem vivos e junto.
