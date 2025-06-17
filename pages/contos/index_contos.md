@@ -226,7 +226,7 @@ permalink: /pages/contos/index_contos
 </ul>
 
 ---
-### 🦉 **O Voo da Coruja**
+### 🦉 **O Cavaleiro das Penas Retorna**
 
 <p>Quando inimigos de infância se reencontram na meia idade, o desenrolar dos acontecimentos traz à tona seus traumas, as mágoas, o ódio e o amor. Transtornos e frustrações dão origem a um super-herói que não consegue deixar de se envolver em uma série de eventos que irão trazer a revelação de segredos guardados pelo tempo de uma vida por um amor que se pensava esquecido, a redenção de uma policial e a uma metrópole sitiada para o que parece ser o apocalipse daquela sociedade. Minha contribuição para o universo das histórias em quadrinhos.</p>
 

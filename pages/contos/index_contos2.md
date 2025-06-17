@@ -12,29 +12,30 @@ permalink: /pages/contos/index_contos
 ### 🧩 **Adultos**
 
 
-### 💘 Um Casal
+### 💘 Primeiro Amor
 
-**o quarto** [falta](https://itxesco.github.io/pages/contos/quarto.html)
 
-O Casal passa a dividir o quarto com um casal de amigas
+**o primeiro apartamento** [falta](https://itxesco.github.io/pages/contos/primeiroape.html)
+
+O Casal passa a dividir o apartamento de um único quarto com um casal de amigas dela.
 
 **a amiga**  [falta](https://itxesco.github.io/pages/contos/depila.html)
 
-a visita de uma amiga e uma gripe iniciam uma nova fase de vida
+a visita de uma amiga (e uma gripe) iniciam uma nova fase de vida para os dois
 
 **Alôca**  [abrir](https://itxesco.github.io/pages/contos/adultos/aloca.html)  
 
-O Casal visita o darkroom de uma famosa casa noturna  
+O Casal visita o darkroom de uma famosa casa noturna, e ela redescobre uma fantasia
 
-**Primeira Troca** [falta](https://itxesco.github.io/pages/contos/enigma1.html)
+**Um Enigma na quinta-feira** [falta](https://itxesco.github.io/pages/contos/enigma1.html)
 
 A visita a uma casa de swing termina na primeira experiência em troca de casais
 
-**troca sob encomenda**  [falta](https://itxesco.github.io/pages/contos/encomenda.html)
+**troca por encomenda**  [falta](https://itxesco.github.io/pages/contos/encomenda.html)
 
 Quando uma fantasia dela é finalmente descoberta
 
-**A descoberta da DP**  [falta](https://itxesco.github.io/pages/contos/depe.html)
+**A inauguração da Vogue**  [falta](https://itxesco.github.io/pages/contos/depe.html)
 
 O casal descobre uma nova fonte de prazer, com consequencias inimagináveis  
 
@@ -49,6 +50,10 @@ Após uma semana de intercambio, uma fantasia dela vem à tona.
 **o novo apê** [falta](https://itxesco.github.io/pages/contos/ape.html)
 
 O casal se muda e passa a dividir o apartamento com um amigo  
+
+**Adult Party** [falta](https://itxesco.github.io/pages/contos/adultparty.html)
+
+O casal é convidado para uma festa fechada.  
 
 **o churrasco** [falta](https://itxesco.github.io/pages/contos/churras.html)
 
@@ -101,13 +106,13 @@ Na madrudaga, a neblina na estrada mostra que todos os caminhos levam a algum lu
   **3. Dogão é Mau**[falta](https://itxesco.github.io/pages/contos/coruja/3_dogaoehmau.html)
   Quando as coisas saem do controle, o Doutor é salvo por um atirador vestindo uma máscara de cachorro e as redes sociais encontram seu novo herói, o Dogão (seria ele realmente mau?)
 
-  **4. Boulevard Detonação** [falta](https://itxesco.github.io/pages/contos/coruja/4_detonationbouleavard.html)
+  **4. Corram para as montanhas** [falta](https://itxesco.github.io/pages/contos/coruja/4_detonationbouleavard.html)
   Coruja e Dogão, a dupla-sensação da mídia digital, precisa interrogar um suspeito que está preso em uma penitenciaria de segurança máxima. A solução é sequestra-lo de dentro do fórum João Mendes, durante uma audiência.  
 
   **5. Domínio** [falta](https://itxesco.github.io/pages/contos/coruja/5_dominio.html)
   Os crimes se encaixam e a dupla descobre um esquema capaz de acabar com o país. E o nome por trás de tudo é um velho conhecido do Doutor.
 
-  **6. Todos para a Torre de vigilancia** [falta](https://itxesco.github.io/pages/contos/coruja/6_allalongthewatchtower.html)  
+  **6. Todos para a Torre de vigilância** [falta](https://itxesco.github.io/pages/contos/coruja/6_allalongthewatchtower.html)  
   Dogão e o Coruja invadem o antigo edificio Banespa para um resgate impossivel
 
   **Circo Psicótico** [falta](https://itxesco.github.io/pages/contos/coruja/6_psychocircus.html)  
