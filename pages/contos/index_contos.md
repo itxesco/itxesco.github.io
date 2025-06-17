@@ -53,7 +53,7 @@ permalink: /pages/contos/index_contos
   Tempestade: todos presos dentro de casa.
 
 - **Dia de mudança** – [abrir](https://itxesco.github.io/pages/contos/adultos/dia_de_mudanca.html)  
-  Uma surpresa no dia da mudança.
+  Uma surpresa no dia da mudança para o novo apartamento.
 
 - **Segunda-Feira** – [abrir](https://itxesco.github.io/pages/contos/adultos/segundaf.html)  
   Uma cirurgia, uma aposta... e uma agenda especial.
