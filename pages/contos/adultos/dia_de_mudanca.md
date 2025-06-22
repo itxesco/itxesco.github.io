@@ -87,8 +87,48 @@ Ela levou uma das mãos até a cintura dele e segurou no botão de sua calça, e
 
 Com a mão esquerda, Anderson fez uma carícia no seu cabelo dela, colocando uma mexa atrás de sua orelha e pousando suavemente a mão sobre o ombro de Kátia,  que puxou o elástico da cueca pra baixo com uma mão, enquanto a outra libertava o pau que endurecia.  
 
-Não era pequeno, mas ainda despertando, não parecia ser grande. Era grosso e macio, depilado como ela gostava e não era circuncidado. Ela segurou com a mão esquerda, fazendo pequenos movimentos de vai-e-vem até ele crescer mais , expondo a glande.
+O membro não era pequeno, mas ainda despertando já mostrava não ser exagerado. Era grosso e macio, depilado como ela gostava e não era circuncidado. Ela segurou com a mão esquerda, fazendo pequenos movimentos de vai-e-vem até ele crescer mais, expondo a glande, onde deu um selinho, seguido de outros dois: um em cada testículo, para então tocá-lo com a ponta da língua e percorrer todo o seu contorno até tocar a glande. Só entou olhou para cima, para os olhos de quem a encarava já ofegando. Rijo, agora o pênis que parecia feito de pedra pulsava em sua mão que subia e descia em um ritmo sensual e lento.  
 
+-Você tem camisinha?
+-Não.  
+
+A resposta dele saiu como o  lamento de quem vislumbrava o fim de uma brincadeira que mal havia começado. Kátia riu, se levantou e seguiu devagar para o quarto, deixando o motorista em pé parado na cozinha, as calças abaixadas até o joelho e o pau em riste para o teto, que ele sem saber o que fazer, segurou institivamente e começou a se masturbar com pressa, seguindo-a com o olhar, sem conseguir esboçar palavra.
+
+Kátia voltou sorrindo e já abrindo o pacote de preservativos que trazia na mãoo. Entregou uma ao motorista, que sem soltar o proóprio pau, rasgou a embalagem com os dentes e começou a vestir, enquanto ela se desvestia.  Agora estava quase nua, vestindo somente as meias e o tênis em frente àquele homem, a porta do apartamento totalmente aberta, ainda que um alguém que passasse pelo corredor não conseguisse ver o que acontecia na cozinha.  
+
+Ela não sabia disso quando colou no corpo de Anderson, beijando sua boca e levantando sua camiseta, expondo o peitoral que lambeu até o mamilo, onde brincou com a ponta da lingua enquanto acariciava suas bolas com a mão. E antes que pudesse fazer menção de terminar de tirar aquela calça jeans, ele a pegou pela cintura e ergueu até a pia, sentando-a na única superficie onde havia espaço naquela bagunça. Kátia afastou suas coxase se apoiou  com as duas mãos na pia, empinando a pélvis e se oferecendo ao homem que, segurando-a pelos quadris, direcionou a cabeça do pau na abertura de sua vagina, pendetrando totalmente de uma única vez.  
+
+
+Kátia soltou um gemido seco, soltou o peso nas mãos de Anderson que passou a bombar com firmeza enquanto sustentava seu peso com as mãos. Enlaçou o pescoço do parceiro que passou a beijar, enquanto ele arfavae a puxava para junto de si, penetrando ao máximo enquanto enchia a camisinha com seu gozo. Ela sentiu o membro estufando e o preservativo se encher dentro dela, lhe dando ainda mais prazer.
+
+Adorava aquela sensação. Ele saiu de dentro dela, respirando forte e olhando para o teto, o suor escorrendo pela testa, o coração acelerado como o de quem tivesse acabado de correr os 100 metros rasos em uma olimpíada. Sorriu para ela, que voltou a se apoiar com as mãos na pia e subiu também os calcanhares, oferecendo-se com a voz sedutora:  
+
+-E eu?  
+
+Anderson entendeu o recado e se abaixou, colocando um dedo médio dentro dela e lambendo os grandes lábios até chegar ao clitóris, que achou facil. Passou a fazer movimentos rápidos e circulares com a língua, levando sua cliente ao orgasmo que sua cliente marcou com um gemido alto, sem se importar com a casa aberta ou o eco da casa vazia, que fez com que seu prazer fosse ouvido pelos vizinhos.
+
+Ele selou o ato com um beijo em sua boca, e ela segurou seu punho e trouxe a mão até a boca, chupando os dedos que haviam estado dentro dela.  
+
+-Delícia!
+-Também achei.
+
+Ela respondeu e riram. Anderson se vestiu, retirando a camisinha e dando um nó na ponta. Kátia nunca havia entendido aquela mania dos homens, afinal, o será que eles pensavam? Que seus espermatozoides tinham asas? Sorriu e vestiu sua roupa. O preservativo foi dispensado no lixo e Anderson deu um tapa sonoro em sua bunda ao beijá-la antes de sair para buscar a nova leva de caixas.
+
+-Não vai perder a força e derrubar minhas coisas no chão, viu?
+
+Ele gargalhou alto, enquanto saia. Não sabia como justificar a demora ao ajudante ou ao namorado dela, mas não se importava. Felizmente, Diego já havia fingido a justificativa, fingindo ter recebido uma mensagem de Kátia, avisando que o armário da cozinha havia cedido e o motorista estava refazendo a montagem, o que permitiu que a mudança seguisse em seu ritmo normal. No entanto, talvez por desconfiar, talvez por já saber, o ajudante não deixou que o motorista fosse novamente sozinho até o novo apartamento. Felizmente, a mudança não demorou a terminar.  
+
+Sozinhos na nova casa, Diego fechou a porta e passou a chave, olhando para a namorada que sorria com ar de levada.
+
+-Acabou. Agora, o desafio é a gente transar uma vez em cada canto para comemorar.
+
+Abraçou a namorada, que antes de beijá-lo, respondeu:
+
+-Está atrasado pra inauguração da pia...
+
+Diego sorriu, pela resposta que veio antes de sua pergunta. O beijo que se seguiu foi o convite para se amarem ali mesmo, no chão, antes que ela apontasse para o ponto onde havia sido possuída e o puxasse para que repitissem o ato.  
+
+Ou o mais perto disso, afinal, Diego não tinha o físico de Anderson.
 
 ---
 

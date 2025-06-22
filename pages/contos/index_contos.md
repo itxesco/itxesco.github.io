@@ -5,13 +5,6 @@ description: Contos e ensaios separados por categoria.
 permalink: /pages/contos/index_contos
 ---
 
-# 📝 Contos
-
-> Contos e ensaios separados por categoria.  
-> Clique em **[abrir]** para ler. Os marcados como **[falta]** ainda não foram publicados.
-
----
-
 <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 justify-items-center px-4 py-8">
 
   <!-- Adultos -->
