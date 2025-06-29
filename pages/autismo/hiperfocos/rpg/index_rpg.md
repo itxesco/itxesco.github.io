@@ -31,7 +31,7 @@ O jogo não tem tabuleiro fixo nem objetivo final. Tudo é determinado pela imag
 É como uma peça de teatro improvisada, mas onde as pessoas não se movem ou fantasiam. Todas as características do personagem que a pessoa irá interpretar estão descritas em uma folha de papel e os jogadores se sentam em uma mesa durante a sessão do jogo.  
 
 
-🔙 [Voltar ao topo](#rpg-imaginar-para-existir)
+🔙 [Voltar ao topo](#topo)
 
 ---
 
