@@ -44,20 +44,20 @@ Desenvolvo meu trabalho no [PPGER](https://ufsb.edu.br/ppger/) do [IHAC-CSC](htt
 
 ### 📌 Em andamento
 
-- [![Lattes](https://itxesco.github.io/assets/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/3929221160338872) Priscila Bono Pagliuca Rodrigues  
-- [![Lattes](https://itxesco.github.io/assets/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/) Reinan Mota Costa  
-- [![Lattes](https://itxesco.github.io/assets/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/) Anna Carolina Souza  
-- [![Lattes](https://itxesco.github.io/assets/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/) Flavio Souza dos Santos  
+- [![Lattes](https://itxesco.github.io/assets/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/3929221160338872)Priscila Bono Pagliuca Rodrigues  
+- [![Lattes](https://itxesco.github.io/assets/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/)Reinan Mota Costa  
+- [![Lattes](https://itxesco.github.io/assets/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/)Anna Carolina Souza  
+- [![Lattes](https://itxesco.github.io/assets/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/)Flavio Souza dos Santos  
 
 ### ✅ Concluídas
 
-- [![Lattes](https://itxesco.github.io/assets/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/8317287394228958) Sheila Katrini Ferrari Visconde  
-- [![Lattes](https://itxesco.github.io/assets/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/0265292324050570) Valtiângeli Rodrigues da Silva Moitinho  
-- [![Lattes](https://itxesco.github.io/assets/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/9137805008331639) Martha Matos Lucas Teixeira  
-- [![Lattes](https://itxesco.github.io/assets/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/8121344743580077) Ubiratam Gomes dos Santos Junior  
-- [![Lattes](https://itxesco.github.io/assets/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/7545687911475904) Ericka Cristian Santana Carneiro  
-- [![Lattes](https://itxesco.github.io/assets/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/0937458579414776) Marideise Silva Presende  
-- [![Lattes](https://itxesco.github.io/assets/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/3523225974376488) Lenilson de Oliveira Silva   
+- [![Lattes](https://itxesco.github.io/assets/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/8317287394228958)Sheila Katrini Ferrari Visconde  
+- [![Lattes](https://itxesco.github.io/assets/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/0265292324050570)Valtiângeli Rodrigues da Silva Moitinho  
+- [![Lattes](https://itxesco.github.io/assets/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/9137805008331639)Martha Matos Lucas Teixeira  
+- [![Lattes](https://itxesco.github.io/assets/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/8121344743580077)Ubiratam Gomes dos Santos Junior  
+- [![Lattes](https://itxesco.github.io/assets/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/7545687911475904)Ericka Cristian Santana Carneiro  
+- [![Lattes](https://itxesco.github.io/assets/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/0937458579414776)Marideise Silva Presende  
+- [![Lattes](https://itxesco.github.io/assets/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/3523225974376488)Lenilson de Oliveira Silva   
 
 ---
 [↑ Voltar ao topo](#topo)
