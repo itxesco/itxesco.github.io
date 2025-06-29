@@ -11,7 +11,7 @@ O quadrimestre letivo 2023.3 foi o último da Universidade. Mais informações e
 Na [graduação](https://ufsb.edu.br/ensino/graduacao) leciono Componentes Curriculares (CCs)  pertencentes ao chamado "Eixo da Educação" (obrigatórias para todas as Licenciaturas Interdisciplinares) e  nas CCs específicas de Física/Ensino de Física  e estágio supervisionado para a  [Licenciatura Interdisciplinar em Ciências da Natureza e suas tecnologias](https://ufsb.edu.br/component/content/article/1907-licenciatura-interdisciplinar-em-ciencias-da-natureza-csc). Também integro o NDE e o Colegiado desse Curso.
 
 ---
-#### <a name="current"></a> ![UFSB](https://itxesco.github.io/imagens/icones/icons16/ufsb-icon.jpg)  Componentes Curriculares  ministradas durante o regime quadrimestral:
+#### <a name="current"></a> ![UFSB](https://itxesco.github.io/assets/icones/icons16/ufsb-icon.jpg)  Componentes Curriculares  ministradas durante o regime quadrimestral:
 
 ---
 
@@ -29,7 +29,7 @@ Na [graduação](https://ufsb.edu.br/ensino/graduacao) leciono Componentes Curri
 
 ---
 
-##### <a name="shortcourses"></a> ![UFSB](https://itxesco.github.io/imagens/icones/icons16/ufsb-icon.jpg)[ Componentes Curriculares  ministradas para a pós graduação (PPGER)](https://ufsb.edu.br/ppger)  
+##### <a name="shortcourses"></a> ![UFSB](https://itxesco.github.io/assets/icones/icons16/ufsb-icon.jpg)[ Componentes Curriculares  ministradas para a pós graduação (PPGER)](https://ufsb.edu.br/ppger)  
 ---
 
  **PPGER0034** - [Educação Científica, Cultura e Sociedade: Implicações para o Ensino de Ciências e Humanidades](https://itxesco.github.io/pages/aulas/ppger0034.html)
@@ -48,7 +48,7 @@ Na [graduação](https://ufsb.edu.br/ensino/graduacao) leciono Componentes Curri
 
 ---
 
-##### ![UAM](https://itxesco.github.io/imagens/icones/icons16/uam-icon.ico)[ Universidade Anhembi-Morumbi](https://portal.anhembi.br/escolas/engenharia-e-tecnologia/) (2016 - 2018)
+##### ![UAM](https://itxesco.github.io/assets/icones/icons16/uam-icon.ico)[ Universidade Anhembi-Morumbi](https://portal.anhembi.br/escolas/engenharia-e-tecnologia/) (2016 - 2018)
 
 | Disciplinas| Disciplinas|  
 |--- |--- |  
@@ -61,7 +61,7 @@ Na [graduação](https://ufsb.edu.br/ensino/graduacao) leciono Componentes Curri
 
 ---  
 
-##### ![IFSP](https://itxesco.github.io/imagens/icones/icons16/ifsp-icon.ico)[ Instituto Federal de São Paulo (IFSP)](https://spo.ifsp.edu.br) (2014 - 2016)  
+##### ![IFSP](https://itxesco.github.io/assets/icones/icons16/ifsp-icon.ico)[ Instituto Federal de São Paulo (IFSP)](https://spo.ifsp.edu.br) (2014 - 2016)  
 
 | Disciplinas| Disciplinas|  
 |--- |--- |  
@@ -74,7 +74,7 @@ Na [graduação](https://ufsb.edu.br/ensino/graduacao) leciono Componentes Curri
 ---  
 
 
-##### ![FAC-FITO](https://itxesco.github.io/imagens/icones/icons16/fac_fito-icon.ico)[ Faculdade de Ciências da FITO (FAC-FITO)](http://fito.edu.br) (2012-2014)
+##### ![FAC-FITO](https://itxesco.github.io/assets/icones/icons16/fac_fito-icon.ico)[ Faculdade de Ciências da FITO (FAC-FITO)](http://fito.edu.br) (2012-2014)
 
 | | |  
 |--- |--- |  
@@ -103,3 +103,6 @@ Para escolas das redes pública e particular de São Paulo (SP):
 
 - Laboratório de Ciências
 - Ciências  
+
+---
+[↑ Voltar ao topo](#topo)
