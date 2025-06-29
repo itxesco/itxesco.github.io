@@ -42,12 +42,13 @@ O casal se beijava e ela gemia em seu ouvido, o que ele entendeu como sinal verd
 Ela sabia que estava pisando em gelo fino, mas a fantasia se realizava sem que houvesse planejado. Iriam apenas transar no darkroom, praticar um exibicionismo que já realizavam quase todas as noites no quarto, com suas amigas. Quando combinaram o ato, ela pensou imediatamente na possibilidade de brincarem com uma terceira pessoa, mas como dizer isso ao seu namorado? Estavam juntos há pouco mais de seis meses e ela aina se sentia insegura em relação a suas reações. Mil pensamentos passavam pela sua cabeça quando Diego respondeu
 
 -E você está gostando?  
--Sim, mas estou com medo.
+-Sim, mas estou com medo.  
 -Eu cuido de você, só  fala o que ele está fazendo, bem baixinho,  e diz se não gostar de algo.
 
-Naquele momento, com o pau do namorado todo duro em sua mão, Kátia o apertou pela base e comecou  o movimento de vai e vém, bem devagar, enquanto o acariciava. Ela mantinha o peito colado com o dele, empinando sua bundinha para trás, já tinha mexido as pernas para que a calcinha descesse até os pés e elas agora estavam abertas. Atrás dela, alguém passava a mão por entre as suas pernas, o dedão  roçando na entradinha do cu enquanto os outros dedilharam uma vulva muito, muito molhada.
--Amor, ele esta me dedando...
--Está gostoso?
+Naquele momento, com o pau do namorado todo duro em sua mão, Kátia o apertou pela base e comecou  o movimento de vai e vém, bem devagar, enquanto o acariciava. Ela mantinha o peito colado com o dele, empinando sua bundinha para trás, já tinha mexido as pernas para que a calcinha descesse até os pés e elas agora estavam abertas. Atrás dela, alguém passava a mão por entre as suas pernas, o dedão  roçando na entradinha do cu enquanto os outros dedilharam uma vulva muito, muito molhada.  
+
+-Amor, ele esta me dedando...  
+-Está gostoso?  
 -Muito!
 
 Ela gemeu enquanto respondia e acelerava a punheta que batia para Diego,  oferecendo a bunda para quem estava atrás. De algum modo, ela sabia que era o rapaz dos olhares no bar e sem se comunicar, ele  entendeu o movimento como um recado e escorregou sua mão para trás, usando a lubrificação para  enfir um dedo inteiro.
