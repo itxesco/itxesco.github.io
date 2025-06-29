@@ -17,7 +17,7 @@ Os contos marcados com um * no início do nome ainda não estão disponíveis.
 | [*O primeiro apartamento](https://itxesco.github.io/pages/contos/primeiroape.html) | Quando ele se muda para o apartamento que ela divide com mais duas amigas.|
 | [*A amiga](https://itxesco.github.io/pages/contos/depila.html)| Uma visita inesperada (e uma gripe) inicia uma nova fase.|
 | [Alôca](https://itxesco.github.io/pages/contos/adultos/aloca.html)| Uma noite no darkroom de uma famosa casa noturna.|
-|[*Um Enigma na quinta-feira](https://itxesco.github.io/pages/contos/enigma1.html) | Primeira experiência em troca de casais.|
+|[Um Enigma na quinta-feira](https://itxesco.github.io/pages/contos/adultos/enigma.html) | Primeira experiência em troca de casais.|
 |[*Troca por encomenda](https://itxesco.github.io/pages/contos/encomenda.html) | Primeira fantasia é revelada.|
 |[*A inauguração da Vogue](https://itxesco.github.io/pages/contos/depe.html) | Uma nova descoberta com consequências inesperadas.|
 |[*Elena](https://itxesco.github.io/pages/contos/elena.html) | Uma amiga manipula a perda da própria virgindade.|
