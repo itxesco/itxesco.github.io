@@ -41,7 +41,7 @@ description: Página inicial do site de itxesco - Ensino, Pesquisa, Extensão e 
         <img src="/assets/imagens/index_pics/hiperfocos.png" alt="Hiperfocos em autistas" title="Hiperfocos"
           class="w-full max-w-xs h-[300px] object-cover rounded shadow-md hover:scale-105 transition-transform duration-300">
       </a><br>
-      <strong><a href="/pages/autismo/index_hiperfoco" class="text-blue-700 hover:underline">Hiperfocos</a></strong>
+      <strong><a href="/pages/autismo/hiperfocos/index_hiperfoco" class="text-blue-700 hover:underline">Hiperfocos</a></strong>
     </div>
 
     <!-- Card: Autismo em Adultos -->
