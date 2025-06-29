@@ -1,8 +1,10 @@
 ---
-layout: page
-title: extensão universitária
-description: Projetos de extensão Universitária - Prof. Dr. Francisco Nascimento
+layout: pagina
+title: Atividades de Extensao universitaria
+description: Atividades de extensao desempenhadas em minha carreira
+permalink: /pages/extensao/index_extensao
 ---
+
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">

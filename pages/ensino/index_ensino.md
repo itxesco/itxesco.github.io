@@ -1,9 +1,9 @@
 ---
-layout: page
-title: aulas
-description: aulas de Francisco de Assis Nascimento Junior
+layout: pagina
+title: Atividades de Ensino
+description: Atividades de ensino desempenhadas em minha carreira
+permalink: /pages/ensino/index_ensino
 ---
-
 
 A Universidade Federal do Sul da Bahia adotou o regime quadrimestral [multiciclos](https://ufsb.edu.br/ensino/graduacao) desde seu início, mas passou para o sistema semestral a partir de janeiro de 2024.
 O quadrimestre letivo 2023.3 foi o último da Universidade. Mais informações estão disponíveis no [calendário acadêmico de 2024](https://ufsb.edu.br/images/Calendário_Acadêmico/Calendário_2024.pdf).
