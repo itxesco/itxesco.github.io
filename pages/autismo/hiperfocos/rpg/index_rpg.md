@@ -99,15 +99,15 @@ Eu fiz parte da última diretoria da Ludus, junto com o Jaime e a MC Zanini.
 
 ## 🔗 Continue lendo sobre:
 
-- [📖 História do RPG e seus criadores](/pages/autismo/hiperfocos/rpg/historia_criadores/)
-- [🗡️ Dungeons & Dragons: o RPG original](/pages/autismo/hiperfocos/rpg/dungeons_dragons/)
-- [🎯 Rolemaster: o realismo como objetivo](/pages/autismo/hiperfocos/rpg/rolemaster/)
-- [📕 Livros-jogo de Steve Jackson: RPG de bolso](/pages/autismo/hiperfocos/rpg/livros_jogo/)
-- [🎲 Sistema D20 e estatística](/pages/autismo/hiperfocos/rpg/sistema_d20/)
-- [📜 Open Game License e impacto no Brasil](/pages/autismo/hiperfocos/rpg/ogl/)
-- [🧠 GURPS: o sistema genérico](/pages/autismo/hiperfocos/rpg/gurps/)
-- [🇧🇷 História do RPG no Brasil](/pages/autismo/hiperfocos/rpg/historia_brasil/)
-- [♿ RPG e inclusão autista](/pages/autismo/hiperfocos/rpg/inclusao_autista/)
+- [📖 História do RPG e seus criadores](/pages/autismo/hiperfocos/rpg/historia_rpg)
+- [🗡️ Dungeons & Dragons: o RPG original](/pages/autismo/hiperfocos/rpg/index_ded)
+- [🧠 GURPS: o sistema genérico](/pages/autismo/hiperfocos/rpg/index_gurps/)
+- [🇧🇷 A Revista Dragão Brasil](/pages/autismo/hiperfocos/rpg/index_dragaobrasil)
+- *[🎯 Rolemaster: o realismo como objetivo](/pages/autismo/hiperfocos/rpg/rolemaster/)
+- *[📕 Livros-jogo de Steve Jackson: RPG de bolso](/pages/autismo/hiperfocos/rpg/livros_jogo/)
+- *[🎲 Sistema D20 e estatística](/pages/autismo/hiperfocos/rpg/sistema_d20/)
+- *[📜 Open Game License e impacto no Brasil](/pages/autismo/hiperfocos/rpg/ogl/)
+- *[♿ RPG e inclusão autista](/pages/autismo/hiperfocos/rpg/inclusao_autista/)
 
 ---
 
