@@ -18,43 +18,13 @@ permalink: /pages/extensao/index_extensao
 
 ## Sobre a Extensão Universitária
 
-A extensão universitária é uma das três funções essenciais das universidades, ao lado do ensino e da pesquisa. Ela se refere a atividades que promovem a interação entre a universidade e a sociedade, proporcionando benefícios mútuos, buscando aplicar o conhecimento acadêmico em práticas que possam contribuir para o desenvolvimento social, cultural, econômico e tecnológico da comunidade externa à universidade.
+A extensão universitária é um dos pilares que sustentam o compromisso social da universidade pública, ao lado da gestão acadêmica, do ensino e da pesquisa. Por meio dela, o conhecimento construído *dentro* do ambiente acadêmico ultrapassa os muros da instituição e encontra eco na realidade concreta da sociedade, promovendo um diálogo vivo entre saberes científicos, populares e tradicionais.
 
----
+Nesta página, você encontra as ações de extensão que desenvolvi com o objetivo de contribuir para a transformação social, cultural, econômica e educacional do território com que me relaciono. São projetos, cursos, oficinas e eventos culturais, todos construídos de forma colaborativa, com escuta ativa e respeito à diversidade.
 
-### Exemplos de Atividades de Extensão
+A universidade deve estar enraizada nas necessidades e nos sonhos do povo. Por isso, cada atividade aqui apresentada busca não apenas aplicar o conhecimento, mas aprender com a prática, com o outro e com o mundo. A extensão é um exercício permanente de escuta, diálogo e compromisso com a transformação da realidade.
 
-**1. Projetos Comunitários**  
-Programas que visam resolver problemas sociais locais, como ações de saúde pública, educação, assistência social, entre outros.
-
-**2. Cursos e Oficinas**  
-Cursos de curta duração, oficinas, palestras e seminários abertos ao público sobre diversos temas.
-
-**3. Consultoria e Assessoria**  
-Serviços prestados por professores e estudantes para empresas, organizações não governamentais e órgãos públicos.
-
-**4. Eventos Culturais**  
-Exposições, mostras de arte, apresentações teatrais e musicais, entre outros eventos culturais que envolvem a comunidade.
-
-**5. Iniciativas de Empreendedorismo e Inovação**  
-Programas que incentivam o empreendedorismo e a inovação tecnológica, muitas vezes em parceria com o setor empresarial.
-
----
-
-### Objetivos da Extensão Universitária
-
-- **Disseminar o conhecimento produzido na universidade:**  
-  Tornando-o acessível e aplicável à sociedade.
-
-- **Promover a formação integral dos estudantes:**  
-  Complementando a formação acadêmica com experiências práticas e comunitárias.
-
-- **Contribuir para o desenvolvimento social:**  
-  Aplicando o conhecimento universitário para resolver problemas concretos e melhorar a qualidade de vida da comunidade.
-
----
-
-Essas atividades são importantes para estreitar os laços entre a universidade e a sociedade, garantindo que a produção acadêmica tenha um impacto direto e positivo no mundo real.
+Não tem muito o que falar sobre o que é extensão universitária, mas há muito o que se fazer com/por ela. Estas são as minhas experiências na construção de uma universidade mais viva, justa e conectada com o povo.
 
 ---  
 [↑ Voltar ao topo](#topo)
