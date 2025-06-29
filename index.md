@@ -10,34 +10,34 @@ description: Página inicial do site de itxesco - Ensino, Pesquisa, Extensão e 
 
     <!-- Card: Ensino -->
     <div class="text-center">
-      <a href="/pages/index_ensino">
+      <a href="/pages/ensino/index_ensino">
         <img src="/assets/imagens/index_pics/ensino.jpeg" alt="Atividades de Ensino" title="Ensino"
           class="w-full max-w-xs h-[300px] object-cover rounded shadow-md hover:scale-105 transition-transform duration-300">
       </a><br>
-      <strong><a href="/pages/index_ensino" class="text-blue-700 hover:underline">Ensino</a></strong>
+      <strong><a href="/pages/ensino/index_ensino" class="text-blue-700 hover:underline">Ensino</a></strong>
     </div>
 
     <!-- Card: Pesquisa -->
     <div class="text-center">
-      <a href="/pages/index_pesquisa">
+      <a href="/pages/pesquisa/index_pesquisa">
         <img src="/assets/imagens/index_pics/pesquisa.jpeg" alt="Atividades de Pesquisa" title="Pesquisa"
           class="w-full max-w-xs h-[300px] object-cover rounded shadow-md hover:scale-105 transition-transform duration-300">
       </a><br>
-      <strong><a href="/pages/index_pesquisa" class="text-blue-700 hover:underline">Pesquisa</a></strong>
+      <strong><a href="/pages/pesquisa/index_pesquisa" class="text-blue-700 hover:underline">Pesquisa</a></strong>
     </div>
 
     <!-- Card: Extensão -->
     <div class="text-center">
-      <a href="/pages/index_extensao">
+      <a href="/pages/extensao/index_extensao">
         <img src="/assets/imagens/index_pics/extensao.jpeg" alt="Atividades de Extensão" title="Extensão"
           class="w-full max-w-xs h-[300px] object-cover rounded shadow-md hover:scale-105 transition-transform duration-300">
       </a><br>
-      <strong><a href="/pages/index_extensao" class="text-blue-700 hover:underline">Extensão</a></strong>
+      <strong><a href="/pages/extensao/index_extensao" class="text-blue-700 hover:underline">Extensão</a></strong>
     </div>
 
     <!-- Card: Hiperfocos -->
     <div class="text-center">
-      <a href="/pages/autismo/index_hiperfoco">
+      <a href="/pages/autismo/hiperfocos/index_hiperfoco">
         <img src="/assets/imagens/index_pics/hiperfocos.png" alt="Hiperfocos em autistas" title="Hiperfocos"
           class="w-full max-w-xs h-[300px] object-cover rounded shadow-md hover:scale-105 transition-transform duration-300">
       </a><br>
@@ -55,11 +55,11 @@ description: Página inicial do site de itxesco - Ensino, Pesquisa, Extensão e 
 
     <!-- Card: RPG -->
     <div class="text-center">
-      <a href="/pages/autismo/hiperfocos/index_rpg">
+      <a href="/pages/autismo/hiperfocos/rpg/index_rpg">
         <img src="/assets/imagens/index_pics/dragaod20.jpeg" alt="Jogos de RPG e Educação" title="Jogos de RPG"
           class="w-full max-w-xs h-[300px] object-cover rounded shadow-md hover:scale-105 transition-transform duration-300">
       </a><br>
-      <strong><a href="/pages/index_rpg" class="text-blue-700 hover:underline">RPG</a></strong>
+      <strong><a href="/pages/autismo/hiperfocos/rpg/index_rpg" class="text-blue-700 hover:underline">RPG</a></strong>
     </div>
 
   </div>
