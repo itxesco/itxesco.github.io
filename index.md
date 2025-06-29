@@ -55,7 +55,7 @@ description: Página inicial do site de itxesco - Ensino, Pesquisa, Extensão e 
 
     <!-- Card: RPG -->
     <div class="text-center">
-      <a href="/pages/index_rpg">
+      <a href="/pages/autismo/hiperfocos/index_rpg">
         <img src="/assets/imagens/index_pics/dragaod20.jpeg" alt="Jogos de RPG e Educação" title="Jogos de RPG"
           class="w-full max-w-xs h-[300px] object-cover rounded shadow-md hover:scale-105 transition-transform duration-300">
       </a><br>
