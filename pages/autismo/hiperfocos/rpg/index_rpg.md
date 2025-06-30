@@ -16,8 +16,10 @@ permalink: /pages/autismo/hiperfocos/index_rpg
 
 #### 🧙 RPG de Mesa (Tabletop)  
 
-  
-É a forma mais tradicional. Os jogadores se reúnem em torno de uma mesa, usam fichas de personagem, dados, livros de regras, um conjunto de dados e muita imaginação. A presença de pizza (ou salgadinhos) e refrigerantes é desejável, mas não obrigatória.
+
+É a forma mais **tradicional**. Os jogadores se reúnem em torno de uma mesa, usam fichas de personagem, dados, livros de regras, um conjunto de dados e muita imaginação. A presença de pizza (ou salgadinhos) e refrigerantes é desejável, mas não obrigatória.
+
+
 
 **Exemplos famosos:**
 - *Dungeons & Dragons* (EUA, 1974)
