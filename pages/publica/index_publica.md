@@ -9,7 +9,7 @@ permalink: /pages/publica/index_publica
 
 Nesta página, você pode acessar facilmente minhas publicações e colaborações, organizadas em ordem cronológica decrescente, sejam de minha autoria ou realizadas sob minha orientação.
 
-🔗 Para acessar cada arquivo em .pdf ou ir diretamente para o site da revista, basta clicar nos ícones ![PDF](https://itxesco.github.io/assets/icones/icons16/pdf-icon.png) ou ![DOI](https://itxesco.github.io/assets/icones/icons16/doi-icon.png)
+🔗 Para acessar cada arquivo no formato .pdf ou ir diretamente para o site da revista, basta clicar nos ícones ![PDF](https://itxesco.github.io/assets/icones/icons16/pdf-icon.png) ou ![DOI](https://itxesco.github.io/assets/icones/icons16/doi-icon.png)
 
 ---
 
