@@ -9,16 +9,16 @@ permalink: /pages/publica/index_publica
 
 Nesta página, você pode acessar facilmente minhas publicações e colaborações, organizadas em ordem cronológica decrescente, sejam de minha autoria ou realizadas sob minha orientação.
 
-🔗 Clique no ícone ![PDF](https://itxesco.github.io/assets/icones/icons16/pdf-icon.png) para acessar diretamente os arquivos.
+🔗 Para acessar diretamente cada arquivo, basta clicar no ícone ![PDF](https://itxesco.github.io/assets/icones/icons16/pdf-icon.png) .
 
 ---
 
 ### 📅 2023
 
 #### 🔗 Literatura Negro-Brasileira  
-**JUNIOR, Francisco...**  
+**JUNIOR, Francisco.**  
 *CONHECIMENTO & DIVERSIDADE, v. 15, p. 556–575, 2023.*  
-[DOI](https://dx.doi.org/10.18316/rcd.v15i37.9719) • [![pdf](https://itxesco.github.io/assets/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/literatura_negro_brasileira.pdf)
+![DOI](https://dx.doi.org/10.18316/rcd.v15i37.9719) [![pdf](https://itxesco.github.io/assets/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/literatura_negro_brasileira.pdf)
 
 #### 🔗 Tecendo Pontos  
 **VISCONDE, S. K. F.; NASCIMENTO, F.**  
