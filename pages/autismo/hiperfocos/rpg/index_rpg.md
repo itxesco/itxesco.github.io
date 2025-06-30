@@ -5,14 +5,18 @@ description: Página inicial da seção de RPG, com apresentação e links para 
 permalink: /pages/autismo/hiperfocos/index_rpg
 ---
 
-## O que é RPG?
+## O que é RPG?  
 
-**RPG** (Role-Playing Game, ou *Jogo de Interpretação de Papéis*) é uma forma de jogo colaborativo em que os participantes assumem papéis de personagens fictícios, dentro de um universo imaginado coletivamente. A narrativa se desenvolve a partir das ações dos jogadores, conduzidas por regras e pela mediação de um narrador (ou Mestre de Jogo).
 
-### Tipos de RPG
+**RPG** (Role-Playing Game, ou *Jogo de Interpretação de Papéis*) é uma forma de jogo colaborativo em que os participantes assumem papéis de personagens fictícios, dentro de um universo imaginado coletivamente. A narrativa se desenvolve a partir das ações dos jogadores, conduzidas por regras e pela mediação de um narrador (ou Mestre de Jogo).  
 
-#### 🧙 RPG de Mesa (Tabletop)
 
+### Tipos de RPG  
+
+
+#### 🧙 RPG de Mesa (Tabletop)  
+
+  
 É a forma mais tradicional. Os jogadores se reúnem em torno de uma mesa, usam fichas de personagem, dados, livros de regras, um conjunto de dados e muita imaginação. A presença de pizza (ou salgadinhos) e refrigerantes é desejável, mas não obrigatória.
 
 **Exemplos famosos:**

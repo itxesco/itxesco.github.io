@@ -11,7 +11,7 @@ O quadrimestre letivo 2023.3 foi o último da Universidade. Mais informações e
 Na [graduação](https://ufsb.edu.br/ensino/graduacao) leciono Componentes Curriculares (CCs)  pertencentes ao chamado "Eixo da Educação" (obrigatórias para todas as Licenciaturas Interdisciplinares) e  nas CCs específicas de Física/Ensino de Física  e estágio supervisionado para a  [Licenciatura Interdisciplinar em Ciências da Natureza e suas tecnologias](https://ufsb.edu.br/component/content/article/1907-licenciatura-interdisciplinar-em-ciencias-da-natureza-csc). Também integro o NDE e o Colegiado desse Curso.
 
 ---
-#### <a name="current"></a> ![UFSB](https://itxesco.github.io/assets/icones/icons16/ufsb-icon.jpg)  Componentes Curriculares  ministradas durante o regime quadrimestral:
+#### <a name="current"></a> ![UFSB](https://itxesco.github.io/assets/icones/icons16/ufsb-icon.jpg) Componentes Curriculares  ministradas durante o regime quadrimestral:
 
 ---
 
