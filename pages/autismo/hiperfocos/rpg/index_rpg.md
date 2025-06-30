@@ -11,11 +11,12 @@ permalink: /pages/autismo/hiperfocos/index_rpg
 **RPG** (Role-Playing Game, ou *Jogo de Interpretação de Papéis*) é uma forma de jogo colaborativo em que os participantes assumem papéis de personagens fictícios, dentro de um universo imaginado coletivamente. A narrativa se desenvolve a partir das ações dos jogadores, conduzidas por regras e pela mediação de um narrador (ou Mestre de Jogo).  
 <br>
 <br>
-### Tipos de RPG  
+### **Tipos de RPG**  
 <br>
 #### 🧙 RPG de Mesa (Tabletop)  
 <br>
 É a forma mais **tradicional**. Os jogadores se reúnem em torno de uma mesa, usam fichas de personagem, dados, livros de regras, um conjunto de dados e muita imaginação. A presença de pizza (ou salgadinhos) e refrigerantes é desejável, mas não obrigatória.
+<br>
 <br>
 **Exemplos famosos:**
 - *Dungeons & Dragons* (EUA, 1974)
@@ -27,6 +28,7 @@ permalink: /pages/autismo/hiperfocos/index_rpg
 <br>
 Os jogadores interpretam fisicamente seus personagens, com figurinos, gestos e ambientações reais. É como um teatro improvisado com regras e mediadores das ações.
 <br>
+<br>
 **Exemplos famosos:**
 - *Vampire: The Masquerade – LARP* (EUA)
 - *Medieval LARP – Bicolline* (Canadá)
@@ -36,6 +38,7 @@ Os jogadores interpretam fisicamente seus personagens, com figurinos, gestos e a
 <br>
 Jogos online massivos com milhares de jogadores, que assumem papéis dentro de mundos virtuais - é o velho videogame *multiplayer* que você joga online com outras pessoas de maneira colaborativa.
 <br>
+<br>
 **Exemplos famosos:**
 - *World of Warcraft* (Blizzard, 2004)
 - *Final Fantasy XIV* (Square Enix, 2013)
@@ -44,7 +47,7 @@ Jogos online massivos com milhares de jogadores, que assumem papéis dentro de m
 ---
 <br>
 <br>
-## 📜 História do RPG no mundo
+## 📜 **História do RPG no mundo**
 <br>
 O RPG nasceu nos Estados Unidos, como uma derivação dos **wargames** de miniaturas. Os precursores foram [Gary Gygax](https://pt.wikipedia.org/wiki/Gary_Gygax) e [Dave Arneson](https://pt.wikipedia.org/wiki/Dave_Arneson), criadores do primeiro sistema comercializado:
 <br>
@@ -58,12 +61,12 @@ O RPG nasceu nos Estados Unidos, como uma derivação dos **wargames** de miniat
 <br>
 ---
 <br>
-## 🇧🇷 RPG no Brasil
+## 🇧🇷 **O RPG no Brasil**
 <br>
 O RPG chegou ao Brasil na década de **1980**, via comunidades de fãs com suas traduções não oficiais. Sua popularização aconteceu nos anos 1990 quando surgiram as primeiras editoras especializadas.
 <br>
 <br>
-### 🏢 Editoras brasileiras
+### 🏢 **Editoras brasileiras**
 <br>
 - **1991** – *GSA* lança a primeira tradução oficial de D&D.
 - **1994** – *Editora Trama* publica *Dragão Brasil*, maior revista de RPG do país.
@@ -72,7 +75,7 @@ O RPG chegou ao Brasil na década de **1980**, via comunidades de fãs com suas 
 - **2003** – *Jambô Editora* assume Tormenta e outras publicações nacionais.
 <br>
 <br>
-### 📅 Cronologia dos sistemas publicados no Brasil
+### 📅 **Cronologia Resumida dos sistemas publicados no Brasil**
 <br>
 - **1991** – *D&D (GSA)*
 - **1994** – *Vampiro: A Máscara (Devir)*
@@ -83,7 +86,7 @@ O RPG chegou ao Brasil na década de **1980**, via comunidades de fãs com suas 
 - **2020** – *Tormenta20*, sistema moderno financiado coletivamente
 <br>
 <br>
-### 🧩 Encontros de RPG no Brasil
+### 🧩 **Encontros de RPG**
 <br>
 O principal foi o **Encontro Internacional de RPG**, um evento anual que marcou profundamente a cultura geek no Brasil. Realizado entre os anos de 1999 e 2005, chegou a reunir milhares de pessoas e era  uma referência para jogadores, mestres e editoras do cenário nacional.
 <br>
@@ -92,7 +95,7 @@ A **primeira edição** aconteceu em **1999**, na cidade de **São Paulo** — e
 Durante esses encontros, era possível vivenciar uma grande celebração da cultura nerd: editoras apresentavam lançamentos, jogadores participavam de mesas épicas, ocorriam palestras, concursos de cosplay e diversas atividades que fomentavam o universo dos jogos de interpretação de papéis. Foi um verdadeiro marco para quem viveu aquela época.
 <br>
 <br>
-### 🧙 Ong Ludus Culturalis
+### 🧙 **A Ong Ludus Culturalis**
 <br>
 A **Ludus Culturais** foi uma organização sem fins lucrativos dedicada à valorização do **RPG como linguagem educativa, cultural e inclusiva**. Atuou desde meados dos anos 1990 e esteve à frente de uma série de iniciativas que colocaram o RPG a serviço da Educação.
 <br>
