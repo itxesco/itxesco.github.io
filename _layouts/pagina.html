@@ -3,14 +3,28 @@
   {% include head.html %}
   <body class="bg-background text-text-base font-sans leading-relaxed min-h-screen flex flex-col">
 
-    <!-- Estilo global para links -->
+    <!-- Estilos Globais -->
     <style>
+      /* Estilo global para links */
       a {
         color: #003865;
         text-decoration: underline;
       }
       a:hover {
         color: #007A33;
+      }
+
+      /* Estilo para ícones com links */
+      .pdf-link {
+        display: inline-flex;
+        align-items: center;
+        gap: 4px;
+        white-space: nowrap;
+      }
+
+      .pdf-link img {
+        display: inline-block;
+        vertical-align: middle;
       }
     </style>
 
