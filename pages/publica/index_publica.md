@@ -27,7 +27,8 @@ Nesta página, você pode acessar facilmente minhas publicações e colaboraçõ
 
 #### 🔗 Satisfação Cultural e Ciência  
 **GOMES, Emerson F.; ...**  
-*XXV Simpósio Nacional de Ensino de Física. Caruaru (PE), 2023.* <span class="pdf-link">[![pdf](https://itxesco.github.io/assets/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/satisfacao_cultural_ciencias.pdf)</span>
+*XXV Simpósio Nacional de Ensino de Física. Caruaru (PE), 2023.*  
+<span class="pdf-link">[![pdf](https://itxesco.github.io/assets/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/satisfacao_cultural_ciencias.pdf)</span>
 
 ---
 
@@ -40,11 +41,13 @@ Nesta página, você pode acessar facilmente minhas publicações e colaboraçõ
 
 #### 🔗 Pele Negra, Máscara Cromada  
 **SANTOS JUNIOR, U. G.; NASCIMENTO, Francisco.**  
-*XVIII Enecult, 2022.* <span class="pdf-link">[![pdf](https://itxesco.github.io/assets/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/pele_negra_mascara_cromada.pdf)</span>
+*XVIII Enecult, 2022.*  
+<span class="pdf-link">[![pdf](https://itxesco.github.io/assets/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/pele_negra_mascara_cromada.pdf)</span>
 
 #### 🔗 Cultura Gamer e Ensino  
 **NASCIMENTO, F.**  
-*XVIII Enecult, 2022.* <span class="pdf-link">[![pdf](https://itxesco.github.io/assets/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/jogos_educacao_warcraft.pdf)</span>
+*XVIII Enecult, 2022.*  
+<span class="pdf-link">[![pdf](https://itxesco.github.io/assets/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/jogos_educacao_warcraft.pdf)</span>
 
 ---
 
@@ -52,7 +55,8 @@ Nesta página, você pode acessar facilmente minhas publicações e colaboraçõ
 
 #### 📘 Crise de Identidade  
 **NASCIMENTO JUNIOR, F. A.**  
-*Faculdade de Educação da USP, 2017.* <span class="pdf-link">[![DOI](https://itxesco.github.io/assets/icones/icons16/doi-icon.png)](https://doi.org/10.11606/T.48.2017.tde-07082017-155126)</span> | <span class="pdf-link">[![pdf](https://itxesco.github.io/assets/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/teses/crise_de_identidade.pdf)</span> | [Repositório USP](https://teses.usp.br/teses/disponiveis/48/48134/tde-07082017-155126/pt-br.php)
+*Faculdade de Educação da USP, 2017.*  
+<span class="pdf-link">[![DOI](https://itxesco.github.io/assets/icones/icons16/doi-icon.png)](https://doi.org/10.11606/T.48.2017.tde-07082017-155126)</span> | <span class="pdf-link">[![pdf](https://itxesco.github.io/assets/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/teses/crise_de_identidade.pdf)</span> | [Repositório USP](https://teses.usp.br/teses/disponiveis/48/48134/tde-07082017-155126/pt-br.php)
 
 ---
 
@@ -68,25 +72,32 @@ Nesta página, você pode acessar facilmente minhas publicações e colaboraçõ
 ### 🧑‍🏫 Dissertações de Mestrado orientadas por mim {#orientacoes}
 
 #### 📗 Ensino de Matemática Decolonial  
-**Valtiângeli Rodrigues da Silva Moitinho (2021)** <span class="pdf-link">[![pdf](https://itxesco.github.io/assets/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/dissertacoes/ensino_matematica_decolonial.pdf)</span>
+**Valtiângeli Rodrigues da Silva Moitinho (2021)**  
+<span class="pdf-link">[![pdf](https://itxesco.github.io/assets/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/dissertacoes/ensino_matematica_decolonial.pdf)</span>
 
 #### 📗 Povos de Terreiro e Matemática  
-**Sheila Katrini Ferrari Visconde (2021)** <span class="pdf-link">[![pdf](https://itxesco.github.io/assets/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/dissertacoes/matematica_povos_terreiro.pdf)</span>
+**Sheila Katrini Ferrari Visconde (2021)**  
+<span class="pdf-link">[![pdf](https://itxesco.github.io/assets/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/dissertacoes/matematica_povos_terreiro.pdf)</span>
 
 #### 📗 Afrofuturismo e RPG no Ensino  
-**Martha Matos Lucas Teixeira (2024)** <span class="pdf-link">[![pdf](https://itxesco.github.io/assets/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/dissertacoes/aventuras_escrita_ensino.pdf)</span>
+**Martha Matos Lucas Teixeira (2024)**  
+<span class="pdf-link">[![pdf](https://itxesco.github.io/assets/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/dissertacoes/aventuras_escrita_ensino.pdf)</span>
 
 ### 📗 SONHOS NA AREIA: O Silenciamento das Religiões de Matriz Africana na Cultura Pop – Um Estudo do Caso Sandman  
-**Ubiratam Gomes dos Santos Junior** <span class="pdf-link">[![pdf](https://itxesco.github.io/assets/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/dissertacoes/SONHOS_NA_AREIA.pdf)</span>
+**Ubiratam Gomes dos Santos Junior**  
+<span class="pdf-link">[![pdf](https://itxesco.github.io/assets/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/dissertacoes/SONHOS_NA_AREIA.pdf)</span>
 
 ### 📗 LITERATURA DE MULHERES NEGRAS NO ENSINO DE CIÊNCIAS  
-**Ericka Cristian Santana Carneiro** <span class="pdf-link">[![pdf](https://itxesco.github.io/assets/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/dissertacoes/literatura_mulheres_negras.pdf)</span>
+**Ericka Cristian Santana Carneiro**  
+<span class="pdf-link">[![pdf](https://itxesco.github.io/assets/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/dissertacoes/literatura_mulheres_negras.pdf)</span>
 
 ### 📗 KIUÁ: Raízes da Ancestralidade Africana  
-**Marideise Silva Presende** <span class="pdf-link">[![pdf](https://itxesco.github.io/assets/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/dissertacoes/kiua.pdf)</span>
+**Marideise Silva Presende**  
+<span class="pdf-link">[![pdf](https://itxesco.github.io/assets/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/dissertacoes/kiua.pdf)</span>
 
 ### 📗 Estereótipos de Cientistas na Imaginação de Estudantes de Escolas Indígenas Pataxó de Porto Seguro e seu Impacto no Ensino e Aprendizagem de Ciências da Natureza  
-**Lenilson de Oliveira Silva** <span class="pdf-link">[![pdf](https://itxesco.github.io/assets/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/dissertacoes/estereotipos_cientistas_indigenas.pdf)</span>
+**Lenilson de Oliveira Silva**  
+<span class="pdf-link">[![pdf](https://itxesco.github.io/assets/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/dissertacoes/estereotipos_cientistas_indigenas.pdf)</span>
 
 ---
 
