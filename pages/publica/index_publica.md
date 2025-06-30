@@ -18,16 +18,16 @@ Nesta página, você pode acessar facilmente minhas publicações e colaboraçõ
 #### 🔗 Literatura Negro-Brasileira  
 **JUNIOR, Francisco...**  
 *CONHECIMENTO & DIVERSIDADE, v. 15, p. 556–575, 2023.*  
-[DOI](https://dx.doi.org/10.18316/rcd.v15i37.9719) •[[pdf](https://itxesco.github.io/assets/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/literatura_negro_brasileira.pdf)
+[DOI](https://dx.doi.org/10.18316/rcd.v15i37.9719) • ![![pdf](https://itxesco.github.io/assets/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/literatura_negro_brasileira.pdf)
 
 #### 🔗 Tecendo Pontos  
 **VISCONDE, S. K. F.; NASCIMENTO, F.**  
 *OBSERVATÓRIO DA ECONOMIA LATINO-AMERICANA, v. 21, p. 4581–4595, 2023.*  
-[DOI](https://dx.doi.org/10.55905/oelv21n6-077) •[[pdf](https://itxesco.github.io/assets/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/tecendo_pontos.pdf)
+[DOI](https://dx.doi.org/10.55905/oelv21n6-077) • ![[pdf](https://itxesco.github.io/assets/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/tecendo_pontos.pdf)
 
 #### 🔗 Satisfação Cultural e Ciência  
 **GOMES, Emerson F.; ...**  
-*XXV Simpósio Nacional de Ensino de Física. Caruaru (PE), 2023.*[[pdf](https://itxesco.github.io/assets/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/satisfacao_cultural_ciencias.pdf)
+*XXV Simpósio Nacional de Ensino de Física. Caruaru (PE), 2023.* ![[pdf](https://itxesco.github.io/assets/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/satisfacao_cultural_ciencias.pdf)
 
 ---
 
@@ -36,7 +36,7 @@ Nesta página, você pode acessar facilmente minhas publicações e colaboraçõ
 #### 🔗 Representações de Gênero nas HQs  
 **NASCIMENTO, Francisco.**  
 *OPEN SCIENCE RESEARCH III, v. 3, p. 2401–2411, 2022.*  
-[DOI](https://dx.doi.org/10.37885/220308328) •[[pdf](https://itxesco.github.io/assets/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/implicacoes_genero_sh.pdf)
+[DOI](https://dx.doi.org/10.37885/220308328) • ![[pdf](https://itxesco.github.io/assets/icones/icons16/pdf-icon.png)](https://itxesco.github.io/biblioteca/artigos/implicacoes_genero_sh.pdf)
 
 #### 🔗 Pele Negra, Máscara Cromada  
 **SANTOS JUNIOR, U. G.; NASCIMENTO, Francisco.**  
