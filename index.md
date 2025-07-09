@@ -35,13 +35,13 @@ description: Página inicial do site de itxesco - Ensino, Pesquisa, Extensão e 
       <strong><a href="/pages/extensao/index_extensao" class="text-blue-700 hover:underline">Extensão</a></strong>
     </div>
 
-    <!-- Card: Hiperfocos -->
+    <!-- Card: Substack -->
     <div class="text-center">
-      <a href="/pages/autismo/hiperfocos/index_hiperfoco">
-        <img src="/assets/imagens/index_pics/hiperfocos.png" alt="Hiperfocos em autistas" title="Hiperfocos"
+      <a href="https://itxesco.substack.com">
+        <img src="/assets/imagens/index_pics/hiperfocos.png" alt="meus textos e podcasts  no Substack" title="Substack"
           class="w-full max-w-xs h-[300px] object-cover rounded shadow-md hover:scale-105 transition-transform duration-300">
       </a><br>
-      <strong><a href="/pages/autismo/hiperfocos/index_hiperfoco" class="text-blue-700 hover:underline">Hiperfocos</a></strong>
+      <strong><a href="https://itxesco.substack.com" class="text-blue-700 hover:underline">Substack</a></strong>
     </div>
 
     <!-- Card: Autismo em Adultos -->
