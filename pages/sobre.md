@@ -44,7 +44,7 @@ Sou entusiasta do **diálogo entre ciência e cultura pop**, especialmente **HQs
       <a href="https://www.instagram.com/gtf.nascimento"><img src="/assets/icones/icons16/instagram-icon.png" alt="Instagram" class="p-2 border rounded hover:scale-110 transition-transform"></a>
       <a href="https://www.goodreads.com/user/show/51497119-francisco-nascimento"><img src="/assets/icones/icons16/goodreads-icon.png" alt="Goodreads" class="p-2 border rounded hover:scale-110 transition-transform"></a>
       <a href="https://www.youtube.com/channel/UCqWEN6uuwiohJY8qv9e7Ddg"><img src="/assets/icones/icons16/youtube-icon.png" alt="YouTube" class="p-2 border rounded hover:scale-110 transition-transform"></a>
-      <a href="https://web-cdn.bsky.app/profile/itxesco.bsky.social"><img src="/assets/icones/icons16/twitter-icon.png" alt="BlueSky" class="p-2 border rounded hover:scale-110 transition-transform"></a>
+      <a href="https://web-cdn.bsky.app/profile/itxesco.bsky.social"><img src="/assets/icones/icons16/bsky-icon.png" alt="BlueSky" class="p-2 border rounded hover:scale-110 transition-transform"></a>
       <a href="https://twitch.tv/itxesco"><img src="/assets/icones/icons16/twitch-icon.png" alt="Twitch" class="p-2 border rounded hover:scale-110 transition-transform"></a>
     </div>
   </div>
