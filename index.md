@@ -35,13 +35,13 @@ description: Página inicial do site de itxesco - Ensino, Pesquisa, Extensão e 
       <strong><a href="/pages/extensao/index_extensao" class="text-blue-700 hover:underline">Extensão</a></strong>
     </div>
 
-    <!-- Card: Substack -->
+    <!-- Card: Quadrinhos -->
     <div class="text-center">
-      <a href="https://itxesco.substack.com">
-        <img src="/assets/imagens/index_pics/hiperfocos.png" alt="meus textos e podcasts  no Substack" title="Substack"
+      <a href="/pages/hq/index_hq">
+        <img src="/assets/imagens/index_pics/hiperfocos.png" alt="Histórias em Quadrinhos" title="Substack"
           class="w-full max-w-xs h-[300px] object-cover rounded shadow-md hover:scale-105 transition-transform duration-300">
       </a><br>
-      <strong><a href="https://itxesco.substack.com" class="text-blue-700 hover:underline">Substack</a></strong>
+      <strong><a href="/pages/hq/index_hq" class="text-blue-700 hover:underline">Histórias em Quadrinhos</a></strong>
     </div>
 
     <!-- Card: Autismo em Adultos -->
