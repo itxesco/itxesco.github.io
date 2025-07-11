@@ -2,7 +2,7 @@
 layout: pagina
 title: Histórias em Quadrinhos
 description: Pesquisa em HQ
-permalink: /pages/hq/index_hq
+permalink: /pages/hq/index_hq/
 ---
 
 ### 📌 **Você vai ler nesta página:**
