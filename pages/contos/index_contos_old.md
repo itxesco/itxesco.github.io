@@ -5,10 +5,8 @@ description: Contos e ensaios separados por categoria.
 permalink: /pages/contos/index_contos
 ---
 
-# 📝 Contos
-
 > Contos e ensaios separados por categoria.  
-> Clique em **[abrir]** para ler. Os marcados como **[falta]** ainda não foram publicados.
+> Clique em **[abrir]** para ler os contos que estão identificados por um 📝 . Os marcados como **[falta]** ainda não estão disponíveis.
 
 ---
 
@@ -16,49 +14,52 @@ permalink: /pages/contos/index_contos
 
 ### 💘 Primeiro Amor
 
-- **O primeiro apartamento** – [falta](https://itxesco.github.io/pages/contos/primeiroape.html)  
+- **1. A primeira vez** – [falta](https://itxesco.github.io/pages/contos/primeiroape.html)  
+  Um casal de amigos virtuais finalmente se conhece.
+
+- **2. Morando Juntos** – [falta](https://itxesco.github.io/pages/contos/primeiroape.html)  
   O casal divide um pequeno apartamento com duas amigas dela.
 
-- **A amiga** – [falta](https://itxesco.github.io/pages/contos/depila.html)  
+- **3. A amiga** – [falta](https://itxesco.github.io/pages/contos/depila.html)  
   Uma visita inesperada (e uma gripe) inicia uma nova fase.
 
-- **Alôca** – [abrir](https://itxesco.github.io/pages/contos/adultos/aloca.html)  
+- 📝 **4. Alôca** – [abrir](https://itxesco.github.io/pages/contos/adultos/aloca.html)  
   Uma noite no darkroom de uma famosa casa noturna.
 
-- **Um Enigma na quinta-feira** – [falta](https://itxesco.github.io/pages/contos/enigma1.html)  
+- **5. Um Enigma na quinta-feira** – [falta](https://itxesco.github.io/pages/contos/enigma1.html)  
   Primeira experiência em troca de casais.
 
-- **Troca por encomenda** – [falta](https://itxesco.github.io/pages/contos/encomenda.html)  
-  Uma fantasia revelada.
+- **6. Troca por encomenda** – [falta](https://itxesco.github.io/pages/contos/encomenda.html)  
+  Uma fantasia dela é revelada.
 
-- **A inauguração da Vogue** – [falta](https://itxesco.github.io/pages/contos/depe.html)  
+- **7. A inauguração da Vogue Club** – [falta](https://itxesco.github.io/pages/contos/depe.html)  
   Uma nova descoberta com consequências inesperadas.
 
-- **Elena** – [falta](https://itxesco.github.io/pages/contos/elena.html)  
-  Uma amiga manipula a perda da própria virgindade.
+- **8. Elena** – [falta](https://itxesco.github.io/pages/contos/elena.html)  
+  Uma amiga manipula a perda da própria virgindade e põe em risco o relacionamento do casal.
 
-- **Intercâmbio** – [falta](https://itxesco.github.io/pages/contos/intercambio.html)  
+- **9. Intercâmbio** – [falta](https://itxesco.github.io/pages/contos/intercambio.html)  
   Uma semana de novas experiências.
 
-- **O novo apê** – [falta](https://itxesco.github.io/pages/contos/ape.html)  
-  Mudança para um novo apartamento... com um novo amigo.
+- **10. O novo apê** – [falta](https://itxesco.github.io/pages/contos/ape.html)  
+  A mudança para um novo apartamento... com um novo amigo.
 
-- **Adult Party** – [falta](https://itxesco.github.io/pages/contos/adultparty.html)  
+- **11. Adult Party** – [falta](https://itxesco.github.io/pages/contos/adultparty.html)  
   Um convite para uma festa... bem exclusiva.
 
-- **O churrasco** – [falta](https://itxesco.github.io/pages/contos/churras.html)  
+- **12. O churrasco** – [falta](https://itxesco.github.io/pages/contos/churras.html)  
   Um encontro diferente na casa de um amigo.
 
-- **Ilhados pela chuva** – [falta](https://itxesco.github.io/pages/contos/chuva.html)  
+- **13. Ilhados pela chuva** – [falta](https://itxesco.github.io/pages/contos/chuva.html)  
   Tempestade: todos presos dentro de casa.
 
-- **Dia de mudança** – [abrir](https://itxesco.github.io/pages/contos/adultos/dia_de_mudanca.html)  
+- 📝 **14. Dia de mudança** – [abrir](https://itxesco.github.io/pages/contos/adultos/dia_de_mudanca.html)  
   Uma surpresa no dia da mudança para o novo apartamento.
 
-- **Segunda-Feira** – [abrir](https://itxesco.github.io/pages/contos/adultos/segundaf.html)  
+- 📝 **15. Segunda-Feira** – [abrir](https://itxesco.github.io/pages/contos/adultos/segundaf.html)  
   Uma cirurgia, uma aposta... e uma agenda especial.
 
-- **Desfile de biquíni** – [falta](https://itxesco.github.io/pages/contos/desfile.html)  
+- **16. Desfile de biquíni** – [falta](https://itxesco.github.io/pages/contos/desfile.html)  
   Escolher o biquíni perfeito nunca foi tão complicado.
 
 ---
@@ -72,7 +73,7 @@ permalink: /pages/contos/index_contos
 ## 💀 Terror
 
 - **Lucrécia** – [falta](https://itxesco.github.io/pages/contos/lucrecia.html)  
-  Bruxas não existem... será?
+  Bruxas não existem... mesmo?
 
 - **Um Lobisomem em Caraíva** – [falta](https://itxesco.github.io/pages/contos/lobisomem.html)  
   Nova vida, novos medos, no sul da Bahia.
@@ -84,36 +85,36 @@ permalink: /pages/contos/index_contos
 
 ## 🦉 O Retorno do Cavaleiro das Penas
 
-> Minha contribuição ao universo das HQs. Uma trama de traumas, redenção e caos urbano.
+> Minha contribuição ao universo das HQs. Uma história de traumas, redenção e caos urbano.
 
 ### 📚 Capítulos:
 
 1. **Os bons companheiros** – [falta](https://itxesco.github.io/pages/contos/coruja/1_companheiros.html)  
-   Um médico, um trauma... e a primeira convenção de quadrinhos.
+   Um médico de meia-idade resolve lidar com seus traumas de infancia e comparece fantasiado em uma convenção de quadrinhos.
 
 2. **Não durma antes do Brooklyn** – [falta](https://itxesco.github.io/pages/contos/coruja/2_dontsleeptillbrooklyn.html)  
-   Investigação, metrô e uma nova identidade.
+   Impressionado com a repercussão do caso da convenção e intrigado com os acontecimentos, o doutor inicia sua própria investigação, o que o leva novamente a vestir sua fantasia do Coruja e atravessar a cidade de  metrô.
 
 3. **Dogão é Mau** – [falta](https://itxesco.github.io/pages/contos/coruja/3_dogaoehmau.html)  
-   Surge um novo (e inusitado) herói.
+   Em meio a loucura da internet com o primeiro super-herói da vida real, a frustração com a violência policial e uma festa a fantasial levam ao surgimento um novo (e inusitado) herói.
 
 4. **Corram para as montanhas** – [falta](https://itxesco.github.io/pages/contos/coruja/4_detonationbouleavard.html)  
-   Um sequestro audacioso... no meio da cidade.
+   Coruja e Dogão precisam interrogar o líder da facção secreta, mas ele está incomunicável. Somente se fossem capazes de invadir o fórum João Mendes durante seu interrogatório, o que seria impossível, ou não.
 
 5. **Domínio** – [falta](https://itxesco.github.io/pages/contos/coruja/5_dominio.html)  
-   Um antigo inimigo por trás de tudo.
+   O doutor descobre que um antigo inimigo por trás da conspiração que ameaça a cidade.
 
 6. **Todos para a Torre de Vigilância** – [falta](https://itxesco.github.io/pages/contos/coruja/6_allalongthewatchtower.html)  
-   Invasão ao Edifício Banespa.
+   O destino da cidade é julgado no topo do Edifício Banespa, no duelo que irá mostrar o quanto o Dogão é mesmo MAU com seus inimigos. Para o doutor, uma revelação  pessoal o coloca em rota de colisão com uma ameaça ainda maior, mas no caminho a dupla precisa evitar que um genocídio aconteça.
 
 7. **Circo Psicótico** – [falta](https://itxesco.github.io/pages/contos/coruja/6_psychocircus.html)  
-   Um resgate... ou um ataque?
+   Enquanto o Dogão vai com tudo para impedir que a plateia do show do Poison Heart se torne um grande cemitério,  o doutor aprende que se vestir como um pássaro não lhe dá a capacidade de voar, mas ele irá tentar assim mesmo. Lutando sozinhos em frentes separadas, será o tudo ou nada para a dupla, e pode ser que o destino da humanidade esteja em jogo.
 
 8. **Esperando pelo Super-Homem** – [falta](https://itxesco.github.io/pages/contos/coruja/7_weareone.html)  
-   São Paulo entra em colapso.
+   É a hora da verdade: na batalha decisiva, São Paulo entra em colapso quando o "salve geral" do doutor é acionado.
 
 9. **Nós somos um** – [falta](https://itxesco.github.io/pages/contos/coruja/7_weareone.html)  
-   O destino final de Dogão e Coruja.
+   Após a leva de derrotas, está tudo pronto para o grande golpe do Senador e sua Facção Secreta será na avenida Paulista, onde o destino final de Dogão e Coruja será decidido na frente de milhões de manifestantes.
 
 ---
 

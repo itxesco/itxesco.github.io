@@ -146,11 +146,13 @@ Enquanto ele a puxava para junto de si com um braço, passou o outro por trás d
 
 Ele enfiou a ponta  do seu dedo médio e o esticou. Entrou fácil. Ela soltou um gemido baixo e demorado, para perguntar:
 
--Quer me comer?
--Quero!
+-Quer me comer?  
+<br>
+-Quero!  
+<br>
 -Então, vem.
 
-Kátia se levantou, pegando Julio  pela mão e o puxando para o quarto. Diego colocou duas pedra de gelo dentro da cueca, para evitar que seus pontos explodissem pela força da ereção que estava sentindo, quando ela virou para ele falando, na voz mais sensual que conseguiu fazer:
+Kátia se levantou, pegando Julio  pela mão e o puxou para o quarto. Diego colocou duas pedra de gelo dentro da cueca, para evitar que seus pontos explodissem pela força da ereção que estava sentindo, quando ela passou pela porta do quarto e se virou para ele, na voz mais sensual que conseguiu fazer:
 
 -Tchau.
 
