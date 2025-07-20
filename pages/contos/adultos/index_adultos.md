@@ -2,7 +2,7 @@
 layout: pagina
 title: 💘 Contos Adultos
 description: Contos e ensaios eróticos.
-permalink: /pages/contos/adultos/index_adultos
+permalink: /pages/contos/adultos/index_adultos/
 ---
 
 
