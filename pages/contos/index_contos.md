@@ -6,27 +6,27 @@ permalink: /pages/contos/index_contos
 ---
 
 > Contos e ensaios separados por categoria.  
-> Clique em **[abrir]** para ler os contos que estão identificados por um 📝 . Os marcados como **[falta]** ainda não estão disponíveis.
+> Clique sobre o nome do conto identificado com um 📝 para ler. Os demais estão identificados como **[falta]** porque ainda não estão disponíveis.
 
 ---
 
 ## 🧩 Adultos
 
-### 💘 Primeiro Amor
+### 💘 Jogos Secretos
 
 - **1. A primeira vez** – [falta](https://itxesco.github.io/pages/contos/primeiroape.html)  
   Um casal de amigos virtuais finalmente se conhece.
 
 - **2. Morando Juntos** – [falta](https://itxesco.github.io/pages/contos/primeiroape.html)  
-  O casal divide um pequeno apartamento com duas amigas dela.
+  Já como namorados, ela decide que irão morar juntos e o traz para dividir o pequeno apartamento com suas duas amigas.
 
 - **3. A amiga** – [falta](https://itxesco.github.io/pages/contos/depila.html)  
   Uma visita inesperada (e uma gripe) inicia uma nova fase.
 
-- 📝 **4. Alôca** – [abrir](https://itxesco.github.io/pages/contos/adultos/aloca.html)  
+- 📝 [**4. Alôca**](https://itxesco.github.io/pages/contos/adultos/aloca.html)  
   Uma noite no darkroom de uma famosa casa noturna.
 
-- **5. Um Enigma na quinta-feira** – [falta](https://itxesco.github.io/pages/contos/enigma1.html)  
+- 📝 [**5. Um Enigma na quinta-feira**](https://itxesco.github.io/pages/contos/adultos/enigma.html)  
   Primeira experiência em troca de casais.
 
 - **6. Troca por encomenda** – [falta](https://itxesco.github.io/pages/contos/encomenda.html)  
@@ -44,8 +44,8 @@ permalink: /pages/contos/index_contos
 - **10. O novo apê** – [falta](https://itxesco.github.io/pages/contos/ape.html)  
   A mudança para um novo apartamento... com um novo amigo.
 
-- **11. Adult Party** – [falta](https://itxesco.github.io/pages/contos/adultparty.html)  
-  Um convite para uma festa... bem exclusiva.
+- **11. Adult Party**– [falta](https://itxesco.github.io/pages/contos/adultos/adult_party.html)  
+  O casal recebe um convite para uma festa... muito exclusiva.
 
 - **12. O churrasco** – [falta](https://itxesco.github.io/pages/contos/churras.html)  
   Um encontro diferente na casa de um amigo.
@@ -53,10 +53,10 @@ permalink: /pages/contos/index_contos
 - **13. Ilhados pela chuva** – [falta](https://itxesco.github.io/pages/contos/chuva.html)  
   Tempestade: todos presos dentro de casa.
 
-- 📝 **14. Dia de mudança** – [abrir](https://itxesco.github.io/pages/contos/adultos/dia_de_mudanca.html)  
+- 📝 [**14. Dia de mudança**](https://itxesco.github.io/pages/contos/adultos/dia_de_mudanca.html)  
   Uma surpresa no dia da mudança para o novo apartamento.
 
-- 📝 **15. Segunda-Feira** – [abrir](https://itxesco.github.io/pages/contos/adultos/segundaf.html)  
+- 📝 [**15. Segunda-Feira**](https://itxesco.github.io/pages/contos/adultos/segundaf.html)  
   Uma cirurgia, uma aposta... e uma agenda especial.
 
 - **16. Desfile de biquíni** – [falta](https://itxesco.github.io/pages/contos/desfile.html)  
@@ -66,7 +66,7 @@ permalink: /pages/contos/index_contos
 
 ## 😈 O Cafajeste
 
-*(Em breve...)*
+*(Em breve.)*
 
 ---
 
