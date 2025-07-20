@@ -2,12 +2,10 @@
 layout: pagina
 title: Adult Party
 description: Uma cirurgia leva a uma aposta entre o casal, que  elabora uma agenda especial
-permalink: /pages/contos/adultos/enigma
+permalink: /pages/contos/adultos/adult_party
 ---
 
 
- Diego e Kátia dividiam o apartamento de um único quarto com o casal de amigas, e já estavam  experientes no ménage feminino. Na hora do sexo, muitas vezes fantasiaram a  troca com outro casal, mas nunca haviam realizado a fantasia. Procurando na internet, Diego descobriu que havia várias *casas* ou *clubes* de swing na cidade de São Paulo, todas localizadas no mesmo bairro: Moema.  
- O que parecia ser o *point* para casais jovens era o Enigma Club. Tinha a panelinha de sexta-feira e a de sábado, nós íamos aos sábados. Vários casais muito bonitos e que a troca era ainda o limite que nem todos alcançavam. Era comum o ménage feminino e o "mesmo ambiente com carícias" entre os casais. Tinha o Casal Cats, o Nagoya, o Casal Oriental. E eu virei corno por causa do Casal Oriental do Casal Lu&Lu.
 
 Houve uma festa muito famosa, a Adult Party, num puteiro de luxo chamado Solid Gold. Nós fomos e curtimos como sempre. Uma hora fomos dar aquela voltinha e em uma sala ao lado da pista, vi a Sra. Lu sentada em uma poltrona, na penumbra, pelada e com as pernas abertas. Havia um cara ajoelhado lambendo a buceta dela. Tinha um cara de cada lado da poltrona, ela com os dois paus na mão, se revezando na chupeta. Tinha mais dois caras batendo punheta e olhando, tipo esperando a fila andar. Ficamos poucos segundos ali. A Sra. Lu olhou nos meus olhos enquanto lambia a cabeça dos paus. Ali eu gozei pela primeira vez na noite, não encostei no meu pau, só senti os joelhos fracos e bambos e um negócio nas bolas.
 
@@ -25,9 +23,6 @@ Virou uma obsessão pra mim encontrar machos pra comerem minha namorada, perdi a
 
 Mas ela passou a querer inversão de papéis e acabamos comprando uma cinta-pica pra ela me enrabar em casa.."
 
-Querido, amei sua confissão. Alguns lugares e nomes que você cita, também conheci. Inclusive, ao editar seu texto para poder publicá-lo, tomei a liberdade de incluir o nome da festa que teve duas edições e era organizada por um grupo de casais. Inclusive, estive presente nas duas ocasiões :)
-
-Quanto ao seu relato, tive uma experiência parecidíssima com meu ex de justamente essa época e a quem me refiro como Corninho Encantando nos meus relatos. Infelizmente, como disse por e-mail, no meu caso acabei abandonada por ele, que se descobriu gay enrustido e terminou por sair do armário.
 
 ---
 
