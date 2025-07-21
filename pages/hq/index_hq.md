@@ -32,12 +32,12 @@ E nunca mais parei de ler.
 As Histórias em Quadrinhos apresentam um retrato do mundo e da sociedade em que foram geradas, pertencendo ao contexto histórico-Cultural de sua produção. Não são, portanto, geradas de forma isolada de influência por seus autores (VERGUEIRO, 2006). MAs, o que é uma História em Quadrinhos?
 <br>
 Trata-se de uma forma de contar histórias a partir de uma ideia simples: posicionar uma imagem ao lado da outra, ilustrando a passagem do tempo.<br>
-![[calvin.jpg]]
+![calvin.jpg](https://itxesco.github.io/assets/imagens/hq/calvin.jpg)
 <br>
 
 #### A lenda do menino amarelo  
 
-![[yellow_kid.jpg]]
+![yellow_kid.jpg](https://itxesco.github.io/assets/imagens/hq/yellow_kid.jpg)
 <br>
 Em 17 de fevereiro de 1895, o jornal “New York World”  publicou aquela que é considerada por muitos pesquisadores como a primeira tirinha em quadrinhos, de autoria de Richard F. Outcault, _The Cirucus Down Hogan’s Alley_. Não havia ainda os balões de fala ou pensamento, mas a tirinha contava com um protagonista, _the yellow kid_  ou "o menino amarelo", que vestia uma camisola onde sua "fala" aparecia escrita.
 <br>
@@ -52,16 +52,16 @@ Por outro lado, essa disputa pela _primeira história em quadrinhos_ deve levar 
 <br>
 Além disso, temos a questão dos vitrais que contam a via-sacra nas igrejas católicas, uma forma de arte sequencial sem balões ou texto narrativo  
 
-![[vitrais.jpg]]
+![vitrais.jpg](https://itxesco.github.io/assets/imagens/hq/vitrais.jpg)
 A tapeçaria Baieux (c. 1070-1080), com seus 70 metros de comprimento e 50 cm de altura, é um dos maiores documentos imagéticos da Idade Média. Trata-se de um bordado em linho feito para comemorar a vitória e a conquista normanda da Inglaterra em 1066, com cenas repletas de realismo, proporcionando uma excelente noção não só de como se fazia a guerra no século XI, mas também sobre qual o tipo de vida dos nobres e guerreiros, suas roupas e armas, sua comida e castelos, por exemplo. Não se trata de uma narrativa gráfica, como uma História em Quadrinhos?
 <br>
-![[tapecaria.jpg]]
+![tapecaria.jpg](https://itxesco.github.io/assets/imagens/hq/tapecaria.jpg)
 <br>
 
 Podemos regredir no tempo à vontade: dos vasos gregos às pinturas egípcias, até alcançarmos a pré-história, encontraremos exemplos de uso do desenho como forma de contar histórias.
 
 
-![[caverna.jpg]]
+![caverna.jpg](https://itxesco.github.io/assets/imagens/hq/caverna.jpg)
 <br>
 Não faz muito sentido, portanto, discutir a origem das Histórias em Quadrinhos em estudos que analisam sua influência como mídia de comunicação em massa. Aqui, o _boom_ industrial dos anos 1830 na Inglaterra e as mudanças sociais que levaram ao aumento da literacia de uma classe operária, que passa a ter disponibilidade financeira para entretenimento, juntamente com as melhoria das técnicas de impressão com a prensa móvel, deram origem ao _Penny Dreadful_ (ou _penny horrible, penny awful , penny number_, e _penny blood_).   
 Trata-se de um tipo de revista de ficção que se tornou bastante popular na Grã-Bretanha do século XIX, uma opção acessível às novelas seriadas como as de Charles Dickens, que custavam cerca de 1 _shilling_ cada. Eram impressos em papel de polpa de madeira com  histórias seriadas de ficção sensacionalista e horror, eram dirigidas ao público masculino da classe trabalhadora. Entre 1830 e 1850 existiram mais de 100 editoras de _pennies_
