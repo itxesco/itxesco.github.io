@@ -16,7 +16,7 @@ permalink: /pages/autismo/espectro
 
 ---
 
-## 🔹 O Autismo é um Espectro
+### 🔹 O Autismo é um Espectro
 
 É mais fácil entender  o conceito de espectro a partir de uma analogia com a seguinte imagem:
 
@@ -30,19 +30,19 @@ O **Transtorno do Espectro Autista (TEA)** se manifesta de maneira única em cad
 
 ---
 
-## 🟢🟠🔴 Níveis de Suporte
+### 🟢🟠🔴 Níveis de Suporte
 
-### 🟢 **Nível 1 – Requer suporte**
+#### 🟢 **Nível 1 – Requer suporte**
 - Dificuldades na comunicação social, como iniciar e manter conversas.
 - Maior rigidez no comportamento, com dificuldades para lidar com mudanças.
 - Precisa de algum suporte para adaptação ao ambiente social e acadêmico/profissional.
 
-### 🟠 **Nível 2 – Requer suporte substancial**
+#### 🟠 **Nível 2 – Requer suporte substancial**
 - Déficits mais evidentes na interação social, mesmo com suporte.
 - Comportamentos repetitivos e restritivos afetam significativamente o dia a dia.
 - Dificuldade considerável para lidar com mudanças e adaptar-se a situações novas.
 
-### 🔴 **Nível 3 – Requer suporte muito substancial**
+#### 🔴 **Nível 3 – Requer suporte muito substancial**
 - Déficits graves na comunicação verbal e não verbal, podendo ser **não verbal ou ter fala limitada**.
 - Comportamentos repetitivos e resistência extrema à mudança impactam severamente a rotina.
 - Necessidade de suporte contínuo em diversas áreas da vida, como atividades diárias e interação social.
@@ -51,25 +51,25 @@ Os **níveis de suporte** não determinam a **capacidade intelectual** ou os tal
 
 ---
 
-## 🔹 Principais Características do TEA
+### 🔹 Principais Características do TEA
 
-### 1️⃣ **Dificuldades na Comunicação e Interação Social**
+#### 1️⃣ **Dificuldades na Comunicação e Interação Social**
 - Dificuldade em compreender e usar expressões faciais, gestos e tom de voz.
 - Interesse reduzido em interações sociais ou dificuldades em manter conversas.
 - Dificuldade em interpretar emoções e intenções dos outros.
 
-### 2️⃣ **Padrões de Comportamento e Interesses Restritos e Repetitivos**
+#### 2️⃣ **Padrões de Comportamento e Interesses Restritos e Repetitivos**
 - Movimentos repetitivos (balançar as mãos, alinhar objetos, girar).
 - Rotinas rígidas e resistência a mudanças.
 - Interesses intensos em temas específicos (por exemplo, dinossauros, astronomia, números).
 
-### 3️⃣ **Hipersensibilidade ou Hipossensibilidade Sensorial**
+#### 3️⃣ **Hipersensibilidade ou Hipossensibilidade Sensorial**
 - Maior ou menor resposta a estímulos sensoriais, como luzes, sons, texturas ou cheiros.
 - Desconforto com etiquetas de roupas ou aversão a certos alimentos.
 
 ---
 
-## 🔹 Diagnóstico e Intervenção
+### 🔹 Diagnóstico e Intervenção
 
 - O diagnóstico é feito por **neurologistas, psiquiatras ou psicólogos especializados**, com base em avaliações comportamentais.
 - O TEA **não é uma doença e não tem cura**, mas **intervenções precoces** ajudam no desenvolvimento e qualidade de vida.
@@ -80,7 +80,7 @@ Os **níveis de suporte** não determinam a **capacidade intelectual** ou os tal
 
 ---
 
-## 🔹 Alguns mitos recorrentes sobre o TEA ❌✅
+### 🔹 Alguns mitos recorrentes sobre o TEA ❌✅
 
 🚫 **"Pessoas com autismo não sentem emoções."**  
 ✅ Sentem emoções, mas podem expressá-las de formas diferentes.
@@ -93,7 +93,7 @@ Os **níveis de suporte** não determinam a **capacidade intelectual** ou os tal
 
 ---
 
-## 💙 Autismo e Inclusão
+### 💙 Autismo e Inclusão
 
 O **TEA não é uma doença**, é uma **diferença neurológica** que faz parte da diversidade humana. O respeito, a inclusão e o suporte adequado são fundamentais para garantir a qualidade de vida e o bem-estar das pessoas autistas.
 
