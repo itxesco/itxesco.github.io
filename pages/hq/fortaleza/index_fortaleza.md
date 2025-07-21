@@ -1,18 +1,18 @@
 ---
 layout: pagina
-title: Histórias em Quadrinhos
-description: Pesquisa em HQ
-permalink: /pages/hq/index_hq/
+title: Fortaleza da Solidão
+description: um lugar para o maior super-herói de todos os tempos
+permalink: /pages/hq/fortaleza/index_fortaleza/
 ---
 
 ### 📌 **Você vai ler nesta página:**
 
-- [🧩 Uma resposta breve](#🧩-uma-resposta-breve)  
+- [🧩 O que é aquilo lá no céu?](#🌍-O que é aquilo lá no céu?)   
 - [🌍 A lenda do menino amarelo](#🌍-A-lenda-do-menino-amarelo)  
 - [📘 Referências para o estudo sobre HQs?](#📘-Referências-para-o-estudo-sobre-HQs?)  
 <br>
 <hr>
-#### 🧩 **Uma resposta breve
+#### 🧩 O que é aquilo lá no céu?
 
 Meu principal interesse de pesquisa está nos reflexos do consumo de produtos midiáticos relativos a Cultura de Super-Heróis (histórias em quadrinhos, filmes, livros, animações, jogos) nas práticas de ensino/aprendizagem de Física / Ciências, e a influência de seu discurso na formação da identidade do sujeito.
 <br>
@@ -32,12 +32,12 @@ E nunca mais parei de ler.
 As Histórias em Quadrinhos apresentam um retrato do mundo e da sociedade em que foram geradas, pertencendo ao contexto histórico-Cultural de sua produção. Não são, portanto, geradas de forma isolada de influência por seus autores (VERGUEIRO, 2006). MAs, o que é uma História em Quadrinhos?
 <br>
 Trata-se de uma forma de contar histórias a partir de uma ideia simples: posicionar uma imagem ao lado da outra, ilustrando a passagem do tempo.<br>
-![[calvin.jpg]]
 <br>
-
+![Quadrinhos][calvin_1]
+<br>
 #### A lenda do menino amarelo  
 
-![[yellow_kid.jpg]]
+[![o_menino_amarelo][yellow]][link_trailer_bp]  
 <br>
 Em 17 de fevereiro de 1895, o jornal “New York World”  publicou aquela que é considerada por muitos pesquisadores como a primeira tirinha em quadrinhos, de autoria de Richard F. Outcault, _The Cirucus Down Hogan’s Alley_. Não havia ainda os balões de fala ou pensamento, mas a tirinha contava com um protagonista, _the yellow kid_  ou "o menino amarelo", que vestia uma camisola onde sua "fala" aparecia escrita.
 <br>
@@ -52,16 +52,16 @@ Por outro lado, essa disputa pela _primeira história em quadrinhos_ deve levar 
 <br>
 Além disso, temos a questão dos vitrais que contam a via-sacra nas igrejas católicas, uma forma de arte sequencial sem balões ou texto narrativo  
 
-![[vitrais.jpg]]
+![Quadrinhos?][via_sacra]  
+
 A tapeçaria Baieux (c. 1070-1080), com seus 70 metros de comprimento e 50 cm de altura, é um dos maiores documentos imagéticos da Idade Média. Trata-se de um bordado em linho feito para comemorar a vitória e a conquista normanda da Inglaterra em 1066, com cenas repletas de realismo, proporcionando uma excelente noção não só de como se fazia a guerra no século XI, mas também sobre qual o tipo de vida dos nobres e guerreiros, suas roupas e armas, sua comida e castelos, por exemplo. Não se trata de uma narrativa gráfica, como uma História em Quadrinhos?
 <br>
-![[tapecaria.jpg]]
+[![tapeçaria_baieux][baieux]][link_trailer_bp]
 <br>
 
 Podemos regredir no tempo à vontade: dos vasos gregos às pinturas egípcias, até alcançarmos a pré-história, encontraremos exemplos de uso do desenho como forma de contar histórias.
 
-
-![[caverna.jpg]]
+[![pintura_rupestre][rupestre]][link_sh_milestone]
 <br>
 Não faz muito sentido, portanto, discutir a origem das Histórias em Quadrinhos em estudos que analisam sua influência como mídia de comunicação em massa. Aqui, o _boom_ industrial dos anos 1830 na Inglaterra e as mudanças sociais que levaram ao aumento da literacia de uma classe operária, que passa a ter disponibilidade financeira para entretenimento, juntamente com as melhoria das técnicas de impressão com a prensa móvel, deram origem ao _Penny Dreadful_ (ou _penny horrible, penny awful , penny number_, e _penny blood_).   
 Trata-se de um tipo de revista de ficção que se tornou bastante popular na Grã-Bretanha do século XIX, uma opção acessível às novelas seriadas como as de Charles Dickens, que custavam cerca de 1 _shilling_ cada. Eram impressos em papel de polpa de madeira com  histórias seriadas de ficção sensacionalista e horror, eram dirigidas ao público masculino da classe trabalhadora. Entre 1830 e 1850 existiram mais de 100 editoras de _pennies_
@@ -84,9 +84,9 @@ Em 1956, as editoras sobreviventes viram o surgimento da "Era de Prata" com a pu
 <br>
 Não há uma data comumente aceita para o fim da "Era de Prata" e existem diversas possibilidades tanto para seu término:
 <br>
-- ✔️ O ano de 1969, quando foram publicadas as últimas revistas com preço de capa de 12 _cents_  
-- ✔️ Abril de 1970, quando Julius Schwartz, responsável por iniciar a "Era de Prata", abandonou o cargo de editor da revista _Green Lantern_ em favor de Denny O'Neil e Neal Adams  
-- ✔️ Junho-julho de 1973, quando foi publicada a história _The Night Gwen Stacy Died_. Nela, Gwen Stacy, a então namorada do super-herói Homem-Aranha, é morta. A morte de Stacy representaria o fim da inocência dos leitores e das histórias mais leves que haviam marcado o período  
+&nbsp;&nbsp;&nbsp;- ✔️ O ano de 1969, quando foram publicadas as últimas revistas com preço de capa de 12 _cents_  
+&nbsp;&nbsp;&nbsp;- ✔️ Abril de 1970, quando Julius Schwartz, responsável por iniciar a "Era de Prata", abandonou o cargo de editor da revista _Green Lantern_ em favor de Denny O'Neil e Neal Adams  
+&nbsp;&nbsp;&nbsp;- ✔️ Junho-julho de 1973, quando foi publicada a história _The Night Gwen Stacy Died_. Nela, Gwen Stacy, a então namorada do super-herói Homem-Aranha, é morta. A morte de Stacy representaria o fim da inocência dos leitores e das histórias mais leves que haviam marcado o período  
 <br>
 
 A "Era de Bronze" compreende as publicações lançadas entre o fim da "Era de Prata" (década de 1970) e o início da década de 1980, estendendo-se até aproximadamente o ano de 1985, quando foi substituída pela "Era do Ferro", até o fim da década de 1980 e a chamada "Era Moderna", em vigor até hoje.  
@@ -107,6 +107,19 @@ Cada vez mais, os estudos sobre Histórias em Quadrinhos vem conquistando espaç
 - ✔️ DANTON, Gian. **A divulgação científica nos quadrinhos: análise do caso Watchmen**. 1997. Tese de Doutorado. Tese de Mestrado. Curso de Pós-graduação da Universidade Metodista de São Paulo. Em http://watchmencaos.blogspot.com/2014/.
 - ✔️ DANTON, Gian. **Ciência e quadrinhos**. João Pessoa: Marca de Fantasia, 2005.
 <br>
+
+[calvin_1]: https://itxesco.github.io/assets/figuras/hq/calvin.jpg
+[link_trailer_bp]: https://www.youtube.com/watch?v=wL4a4MafSjQ "trailer do filme Pantera Negra"
+[rupestre]: https://itxesco.github.io/assets/figuras/hq/caverna.jpg "conheça os super-heróis da milestone"  
+[via_sacra]: https://itxesco.github.io/assets/figuras/hq/vitrais.jpg "conheça os super-heróis da milestone"    
+[link_sh_milestone]:https://www.ladonegrodaforca.com.br/os-herois-da-milestone-media/ "heróis da milestone"  
+[yellow]: https://itxesco.github.io/assets/figuras/hq/yellow_kid.jpg
+[link_afro_revolt]:https://www.revolt.tv/2018/2/27/20824357/from-octavia-butler-to-black-panther-afrofuturism-now-then-and-tomorrow "From Octavia Butler to 'Black Panther:' Afrofuturism Now, Then and Tomorrow"  
+[baieux]: https://itxesco.github.io/assets/figuras/hq/tapecaria.jpg "o que é Afrofuturismo?"
+<p>
+![Hq](https://itxesco.github.io/imagens/icones/icons16/comics-icon.png)[ Histórias em Quadrinhos de Super-Heróis]
+<p> ![rpg](https://itxesco.github.io/imagens/icones/icons16/rpg-icon.png)[ Jogos RPG e Educação]
+<p> ![gênero](https://itxesco.github.io/imagens/icones/icons16/gender-icon.png)[ Relações de Gênero]
+<p> ![afrofuturismo](https://itxesco.github.io/imagens/icones/icons16/afrofuturismo-icon.png)[ Afrofuturismo]
+<p> ![étnico-raciais](https://itxesco.github.io/imagens/icones/icons16/etnicoraciais-icon.png)[ Relações Étnico-Raciais]  
 <br>
-<hr>  
-[↑ Voltar ao topo](#topo)
