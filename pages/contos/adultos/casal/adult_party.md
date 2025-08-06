@@ -2,7 +2,7 @@
 layout: pagina
 title: Adult Party
 description: Uma cirurgia leva a uma aposta entre o casal, que  elabora uma agenda especial
-permalink: /pages/contos/adultos/adult_party
+permalink: /pages/contos/adultos/casal/adult_party
 ---
 
 A cena liberal sempre teve duas faces na capital: as baladas e as festas de swing. Enquanto qualquer pessoa disposta a pagar o preço conseguiria passar a noite em uma balada liberal, poucas são convidadas para as festas fechadas e exclusivas, promovidas por algum grupo .

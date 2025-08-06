@@ -2,7 +2,7 @@
 layout: pagina
 title: Dia de Mudança
 description: Uma surpresa aguarda o casal no dia de sua mudança para o novo apartamento.
-permalink: /pages/contos/adultos/dia_de_mudanca
+permalink: /pages/contos/adultos/casal/dia_de_mudanca
 ---
 
 Depois de passarem por 3 apartamentos divididos com amigos, finalmente Diego e Kátia foram morar a sós.

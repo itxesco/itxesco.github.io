@@ -2,7 +2,7 @@
 layout: pagina
 title: A Primeira vez no Swing
 description: Uma cirurgia leva a uma aposta entre o casal, que  elabora uma agenda especial
-permalink: /pages/contos/adultos/enigma
+permalink: /pages/contos/adultos/casal/enigma
 ---
 
 Diego e Kátia já se consideravam  experientes no ménage feminino e sua afinidade sexual era palpável. A cada dia, mais apaixonados e na hora do sexo, fosse de dia ou de noite, passaram a confessar suas fantasias um ao outro. Falavam sobre experiencias que ele teve e que ela gostaria de ter tido, filmes eróticos que há os haviam deixado excitados e a assistiam também  a  novos filmes juntos. Foi assim que surgiu a ideia de trocarem de parceiros com outro casal, mas não sabaim como realizar a fantasia. A ideia agradava muito a Diego, que conhecia todo o universo liberal de São Paulo pelo nome e já havia conseguido ter algumas experiências com casais. Bonito e bem dotado, ele sabia que fazia sucesso com as mulheres, mas o mundo do swing era bastante fechado para quem estava de fora.

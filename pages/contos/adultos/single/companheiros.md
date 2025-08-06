@@ -1,3 +1,10 @@
+---
+layout: pagina
+title: Os Bons Companheiros
+description: a punheta coletiva de um grupo de amigos tem um final inesperado
+permalink: /pages/contos/adultos/single/companheiros
+---
+
 
 Aos 20 anos de idade, desempregado e sem ter conseguido ainda concluir o Ensino Médio, André era feliz. Estava prestes a completar seu segundo ano de relacionamento com a primeira namorada, Fabiana, pouco mais de um ano mais nova que ele.
 
@@ -34,3 +41,7 @@ Os outros três nunca ficavam com ninguém nas festas e bares, e dificilmente fa
 Eram um grupo de fracassados que se mordia de inveja e ciúmes de André: bonito, educado, gentil e descolado.
 
 Ela sabia que estava com o mais imponente da turma e sorria ao pens
+
+---
+
+📌 [🔼 Voltar ao topo](#segunda_feira)

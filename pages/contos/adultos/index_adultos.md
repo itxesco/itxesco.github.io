@@ -38,6 +38,7 @@ Os contos marcados com um * no início do nome ainda não estão disponíveis.
 
 | 🟢 **Título**                                                                                     | 🔴 **Resumo**                                                                                 |
 | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| [*Os bons companheiros](https://itxesco.github.io/pages/contos/adultos/single/companheiros.html)  | Um encontro de amigos para masturbaçao coletiva tem um final diferente                        |
 | [*Pelado na Janela*](https://itxesco.github.io/pages/contos/adultos/single/janela.html)           | André se envolve (de novo) com uma mulher comprometida e precisa fugir pela janela do 6 andar |
 | [*O céu da noite carioca](https://itxesco.github.io/pages/contos/adultos/single/continental.html) | o encontro com uma amiga virtual termina na lage do hotel continental, no Rio de Janeiro.     |
 

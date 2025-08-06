@@ -2,7 +2,7 @@
 layout: pagina
 title: alôca
 description: O Casal visita o darkroom de uma famosa casa noturna
-permalink: /pages/contos/adultos/aloca
+permalink: /pages/contos/adultos/casal/aloca
 ---
 
 
