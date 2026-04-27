@@ -45,7 +45,7 @@ Com estratégias adequadas, é possível equilibrar o hiperfoco para aproveitar 
 
 ---
 
-### 🎯 Meus hiperfocos
+### 🎯 Alguns dos meus 
 
 <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 justify-items-center px-4 py-8">
 

@@ -152,7 +152,7 @@ Garantir seus **direitos como pessoa autista** pode ser burocrático, mas com as
 - [Autismo em adultos](/pages/autismo/tea_adultos.html)  
 - [Diagnóstico tardio](/pages/autismo/diag_tardio.html)  
 - [Mitos e Estereótipos](/pages/autismo/mitos.html)  
-- [O que é Hiperfoco?](/pages/autismo/index_hiperfoco.html)  
+- [O que é Hiperfoco?](/pages/autismo/hiperfocos/index_hiperfoco.html)  
 - [O que é o TEA?](/pages/autismo/autismo.html)  
 - [Por que falamos **Espectro Autista**](/pages/autismo/espectro.html)  
 - [Simbologia e representação do autismo](/pages/autismo/simbolos.html)  

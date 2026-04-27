@@ -116,7 +116,7 @@ A cultura pop **molda a percepção do público sobre o autismo**. Se queremos u
 - [Diagnóstico tardio](/pages/autismo/diag_tardio.html)  
 - [Direitos e Documentação](/pages/autismo/direitos.html)  
 - [Mitos e Estereótipos](/pages/autismo/mitos.html)  
-- [O que é Hiperfoco?](/pages/autismo/index_hiperfoco.html)  
+- [O que é Hiperfoco?](/pages/autismo/hiperfocos/index_hiperfoco.html)  
 - [O que é o TEA?](/pages/autismo/tea.html)  
 - [Por que falamos **Espectro Autista**](/pages/autismo/espectro.html)  
 - [Simbologia e representação do autismo](/pages/autismo/simbolos.html)

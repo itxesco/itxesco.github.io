@@ -27,7 +27,7 @@ No decorrer do século XX, seus personagens e narrativas evoluíram e convergira
 
 A cada nova plataforma, fortaleceu sua audiência e cativou uma nova geração, que passou a consumir o mesmo discurso — carregado de ideologias e valores — baseado na leitura do mundo através da indústria cultural.
 
-### ❓ Questões norteadoras
+### ❓ Questões Direcionadoras
 
 - Quais os efeitos do consumo da cultura de super-heróis na construção da **identidade racial e de gênero** de seus leitores?
 - Qual o impacto gerado na relação desenvolvida com a escola, o aprender e fazer Física / Ciências?
@@ -40,24 +40,21 @@ Desenvolvo meu trabalho no [PPGER](https://ufsb.edu.br/ppger/) do [IHAC-CSC](htt
 
 ---
 
-## 👨🏽‍🏫 Orientações de Mestrado
+## 👨🏽‍🏫 Orientações de Mestrado Concluídas ✅
 
-### 📌 Em andamento
 
-- [![Lattes](https://itxesco.github.io/assets/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/3929221160338872)Priscila Bono Pagliuca Rodrigues  
-- [![Lattes](https://itxesco.github.io/assets/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/)Reinan Mota Costa  
-- [![Lattes](https://itxesco.github.io/assets/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/)Anna Carolina Souza  
-- [![Lattes](https://itxesco.github.io/assets/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/)Flavio Souza dos Santos  
+- Anna Carolina Souza[![Lattes](https://itxesco.github.io/assets/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/)  
+- Ericka Cristina Santana Carneiro[![Lattes](https://itxesco.github.io/assets/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/7545687911475904)  
+- Flavio Souza dos Santos[![Lattes](https://itxesco.github.io/assets/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/)  
+- Lenilson de Oliveira Silva[![Lattes](https://itxesco.github.io/assets/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/3523225974376488)   
+- Marideise Silva Presende[![Lattes](https://itxesco.github.io/assets/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/0937458579414776)  
+- Martha Matos Lucas Teixeira[![Lattes](https://itxesco.github.io/assets/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/9137805008331639)  
+- Priscila Bono Pagliuca Rodrigues[![Lattes](https://itxesco.github.io/assets/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/3929221160338872)  
+- Reinan Mota Costa[![Lattes](https://itxesco.github.io/assets/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/)  
+- Sheila Katrini Ferrari Visconde[![Lattes](https://itxesco.github.io/assets/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/8317287394228958)   
+- Ubiratam Gomes dos Santos Junior[![Lattes](https://itxesco.github.io/assets/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/8121344743580077)  
+- Valtiângeli Rodrigues da Silva Moitinho[![Lattes](https://itxesco.github.io/assets/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/0265292324050570)   
 
-### ✅ Concluídas
-
-- [![Lattes](https://itxesco.github.io/assets/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/8317287394228958)Sheila Katrini Ferrari Visconde  
-- [![Lattes](https://itxesco.github.io/assets/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/0265292324050570)Valtiângeli Rodrigues da Silva Moitinho  
-- [![Lattes](https://itxesco.github.io/assets/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/9137805008331639)Martha Matos Lucas Teixeira  
-- [![Lattes](https://itxesco.github.io/assets/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/8121344743580077)Ubiratam Gomes dos Santos Junior  
-- [![Lattes](https://itxesco.github.io/assets/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/7545687911475904)Ericka Cristian Santana Carneiro  
-- [![Lattes](https://itxesco.github.io/assets/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/0937458579414776)Marideise Silva Presende  
-- [![Lattes](https://itxesco.github.io/assets/icones/icons16/lattes-icon.png)](http://lattes.cnpq.br/3523225974376488)Lenilson de Oliveira Silva   
 
 ---
 [↑ Voltar ao topo](#topo)

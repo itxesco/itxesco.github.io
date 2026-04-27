@@ -11,7 +11,7 @@ permalink: /pages/autismo/mitos
 
 - [Autismo é uma epidemia](#autismo-é-uma-epidemia)  
 - [A maioria dos autistas são "de baixa funcionalidade"](#a-maioria-dos-autistas-são-de-baixa-funcionalidade)  
-- [O autismo pode ser tratado por ________](#o-autismo-pode-ser-tratado-por-________)  
+- [O autismo pode ser tratado por ________](#o-autismo-pode-ser-tratado-por)  
 - [O autismo é causado pelo mercúrio](#o-autismo-é-causado-pelo-mercúrio)  
 - [Autistas não verbais são severamente mentalmente prejudicados](#autistas-não-verbais-são-severamente-mentalmente-prejudicados)  
 - [Autistas não podem ser gênios](#autistas-não-podem-ser-gênios)  
@@ -116,7 +116,7 @@ Em contraste, existem organizações **lideradas por autistas**, como a **ASAN (
 - [Diagnóstico tardio](/pages/autismo/diag_tardio.html)  
 - [Direitos e Documentação](/pages/autismo/direitos.html)  
 - [Mitos e Estereótipos](/pages/autismo/mitos.html)  
-- [O que é Hiperfoco?](/pages/autismo/index_hiperfoco.html)  
+- [O que é Hiperfoco?](/pages/autismo/hiperfocos/index_hiperfoco.html)  
 - [O que é o TEA?](/pages/autismo/tea.html)  
 - [Por que falamos **Espectro Autista**](/pages/autismo/espectro.html)  
 - [Simbologia e representação do autismo](/pages/autismo/simbolos.html)  

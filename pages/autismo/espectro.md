@@ -110,7 +110,7 @@ Com suporte adequado e um ambiente compreensivo, adultos com TEA podem levar uma
 - [Diagnóstico tardio](/pages/autismo/diag_tardio.html)  
 - [Direitos e Documentação](/pages/autismo/direitos.html)  
 - [Mitos e Estereótipos](/pages/autismo/mitos.html)  
-- [O que é Hiperfoco?](/pages/autismo/index_hiperfoco.html)  
+- [O que é Hiperfoco?](/pages/autismo/hiperfocos/index_hiperfoco.html)  
 - [O que é o TEA?](/pages/autismo/autismo.html)  
 - [Simbologia e representação do autismo](/pages/autismo/simbolos.html)  
 - [TEA na Cultura Pop](/pages/autismo/representacao.html)
